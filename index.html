@@ -236,6 +236,28 @@
                   <li>
                     <a href="#chou" class="toc-h2 toc-link" data-title="chou">chou</a>
                   </li>
+                  <li>
+                    <a href="#sbol-droplet" class="toc-h2 toc-link" data-title="SBOL Droplet">SBOL Droplet</a>
+                  </li>
+              </ul>
+          </li>
+          <li>
+            <a href="#services" class="toc-h1 toc-link" data-title="Services">Services</a>
+              <ul class="toc-list-h2">
+                  <li>
+                    <a href="#synbiohub" class="toc-h2 toc-link" data-title="SynBioHub">SynBioHub</a>
+                  </li>
+                  <li>
+                    <a href="#sbol-validator-and-converter" class="toc-h2 toc-link" data-title="SBOL Validator and Converter">SBOL Validator and Converter</a>
+                  </li>
+              </ul>
+          </li>
+          <li>
+            <a href="#synbiohub" class="toc-h1 toc-link" data-title="SynBioHub">SynBioHub</a>
+              <ul class="toc-list-h2">
+                  <li>
+                    <a href="#releaser" class="toc-h2 toc-link" data-title="Releaser">Releaser</a>
+                  </li>
               </ul>
           </li>
           <li>
@@ -272,7 +294,100 @@ It hosts three important services: SynBioHub, SnapGene, and backups.</p>
 It runs on Wordpress and <code>nginx</code> is used as the web server.</p>
 <h2 id='chou'>chou</h2>
 <p>Chou hosts Chris&#39; mailserver.</p>
+<h2 id='sbol-droplet'>SBOL Droplet</h2>
+<p>This is not a physical server in the lab, but it runs the <a href="https://sbolstandard.org">SBOL Standard</a> website.
+It also hosts the reference instance of the <a href="https://validator.sbolstandard.org">SBOL Validator</a> and <a href="https://converter.sbolstandard.org">SBOL Converter</a></p>
 <h1 id='services'>Services</h1>
+<p>The lab computers host a number of valuable services.
+Instructions for their care and feeding are shown below.</p>
+<h2 id='synbiohub'>SynBioHub</h2>
+<p>SynBioHub on this machine runs using docker-compose. 
+It does <strong>not</strong> require the SynBioHub container to be rebuilt locally before running
+SynBioHub is managed using <code>systemd</code>, with the service name <code>synbiohub.service</code> and unit file located at <code>/etc/systemd/system/synbiohub.service</code>.</p>
+
+<p>To update SynBioHub, follow these steps: </p>
+
+<ol>
+<li>Stop the SynBioHub service with <code>systemctl stop synbiohub</code>. </li>
+<li>Remove the Docker images you&#39;d like to update with <code>docker rmi &lt;image id(s)&gt;</code>. 
+The image id you want can be found using <code>docker images</code>.
+You can enter the first 4 characters of the hash instead of the whole thing.</li>
+<li>(Optional) If the docker-compose configuration has changed, pull the latest changes by navigating to <code>/root/synbiohub-docker</code> and running <code>git pull</code>. </li>
+<li>Start SynBioHub with <code>systemctl start synbiohub</code>. </li>
+</ol>
+
+<p>SynBioHub runs on port 7777. 
+This port is blocked from external access.
+In order to serve SynBioHub, <code>httpd</code> is used.
+It listens for HTTPS connections at <code>synbiohub.utah.edu:443</code> and forwards them to the SynBioHub process.
+HTTP connections are escalated to HTTPS. 
+HTTPS is managed by LetsEncrypt. 
+There is a cron job in root&#39;s crontab (<code>crontab -e</code> when root) which should automatically renew the certificate when it expires.</p>
+
+<p>If there is an issue with the cron job, security errors will begin to manifest when users try and access SynBioHub Utah. 
+In this case, please do the following:</p>
+
+<ol>
+<li>Check that <code>certbot renew</code> can run. 
+This command should automatically renew the certificates when the get close to expiration.
+If the certificates are not close to expiration, it does nothing.</li>
+<li>If the renewal command indicates there is nothing to do, make sure that httpd is restarted with <code>apachectl restart</code>. </li>
+<li>If both steps succeed and SynBioHub still cannot be accessed without seeing security errors, please examine the logs at <code>/var/log/httpd/{access,error}_log</code>.</li>
+</ol>
+<h2 id='sbol-validator-and-converter'>SBOL Validator and Converter</h2>
+<p>The validator and converter are really the same application, running twice with a very slightly modified frontend.
+Both run on the SBOL droplet in docker containers. 
+The container images are automatically built by Travis CI and pushed to Docker Hub on commits to master in the <a href="https://github.com/synbiodex/SBOL-Validator">SBOL Validator</a> repository. 
+On the droplet, both applications are run in containers managed by Docker Compose (yes, this is overkill, because they are one container each. Sorry.)
+The docker compose files are stored in <code>/opt/validator</code> and <code>/opt/converter</code>, respectively.
+Each docker container contains a web server, and compose configuration connects the machine port 9090 to port 80 on the converter and machine port 9000 to port 80 on the validator. 
+Systemd is used to make sure the containers are started when the droplet comes back online. 
+The systemd service configurations are stored in <code>/etc/systemd/system/validator.service</code> and <code>/etc/systemd/system/converter.service</code>.
+You probably won&#39;t need to mess around with those or the docker-compose configurations. 
+The requests coming into the droplet for the SBOL standard website and both applications are handled by Caddy. 
+Caddy serves the role that nginx does in other projects, but automatically handles HTTPS certificates. 
+Caddy&#39;s configuration is stored at <code>/etc/caddy/Caddyfile</code>, and it is also managed by systemd at <code>/etc/systemd/system/caddy.service</code>. 
+You might need to touch the Caddyfile, but it is unlikely. 
+The Caddyfile contains directives to route all requests from <code>validator.sbolstandard.org</code> to machine port 9000, and for <code>converter.sbolstandard.org</code> to machine port 9090. </p>
+<h3 id='updating-anything'>Updating anything</h3>
+<p>The systemd configuration files (unitfiles) are set up to automatically pull the latest image on restart, so you can update them with systemctl.</p>
+<pre class="highlight plaintext"><code># To update the converter
+sudo systemctl restart converter
+
+# To update the validator
+sudo systemctl restart validator
+</code></pre>
+<p>Once the command completes, you can check the status with systemctl as well.</p>
+<pre class="highlight plaintext"><code># Check up on the converter
+sudo systemctl status converter
+
+# Check on the validator
+sudo systemctl status validator
+</code></pre><h3 id='debugging-issues'>Debugging issues</h3>
+<p>I would start inside the containers (using our friends <code>docker ps</code>, <code>docker exec -it $CONTAINER_NAME /bin/bash</code>), then work out from there.</p>
+<h1 id='synbiohub'>SynBioHub</h1>
+<p><a href="https://github.com/synbiohub/synbiohub">SynBioHub</a> (called SBH frequently) is a data repository using SBOL.</p>
+
+<p>SynBioHub is packaged into Docker images, which user run alongside images for Virtuoso, ElasticSearch, SBOLExplorer, plugins, and others using Docker Compose. 
+Files related to the SynBioHub image are in the <code>docker/</code> directory in the <a href="https://github.com/synbiohub/synbiohub">synbiohub/synbiohub</a> repository. 
+The docker-compose configurations are hosted in the <a href="https://github.com/synbiohub/synbiohub-docker">synbiohub/synbiohub-docker</a> repository. They are <strong>layered</strong>, meaning that in order to get the functionality you need you will have to provide multiple files to docker-compose when it starts. This is not well documented, and needs to be. </p>
+<h2 id='releaser'>Releaser</h2><h3 id='overview'>Overview</h3>
+<p>Keeping the SynBioHub repositories in sync is no small task.
+The releaser is a small tool that does some of this.
+It is a small Python web application which receives a webhook from the <a href="https://github.com/synbiohub/synbiohub">synbiohub/synbiohub</a> repository when a new release is published.
+The releaser creates a pull request in the <a href="https://github.com/synbiohub/synbiohub-docker">synbiohub/synbiohub-docker</a> repository which amends the version specification for the <code>master</code> branch to match the release.
+The author of the release is tagged as the reviewer for this PR, and they can then merge it into master, completing the release.
+The Docker images should be built and automatically tagged using Travis CI, but this is currently broken for unknown reasons. 
+The latest snapshot image can be pulled, tagged with the release version, and pushed to <a href="https://cloud.docker.com/u/synbiohub/repository/docker/synbiohub/synbiohub">Docker Hub</a>.</p>
+<pre class="highlight shell tab-shell"><code><span class="c"># Pull the latest snapshot (make sure Travis has pushed it to Docker Hub!)</span>
+<span class="gp">$ </span>docker pull synbiohub/synbiohub:snapshot-standalone 
+
+<span class="c"># Tag the snapshot as a release</span>
+<span class="gp">$ </span>docker tag synbiohub/synbiohub:snapshot-standalone synbiohub/synbiohub:&lt;version number&gt;-standalone
+
+<span class="c"># Push the tagged version to docker hub</span>
+<span class="gp">$ </span>docker push synbiohub/synbiohub:&lt;version number&gt;-standalone
+</code></pre><h1 id='services'>Services</h1>
 <p>The lab computers host a number of valuable services.
 Instructions for their care and feeding are shown below.</p>
 <h2 id='synbiohub'>SynBioHub</h2>
