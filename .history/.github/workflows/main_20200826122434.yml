@@ -26,7 +26,7 @@ jobs:
     - name: Hugo Actions
       uses: srt32/hugo-action@v0.0.3
       with: 
-        args: "-d public -t academic --cleanDestinationDir"
+        args: "-s hugo_themes -d public -t academic --cleanDestinationDir"
         
     - name: Deploy  
       uses: peaceiris/actions-gh-pages@v3
