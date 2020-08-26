@@ -3,39 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://MyersResearchGroup/authors/</loc>
+    <loc>/authors/</loc>
   </url>
   
   <url>
-    <loc>https://MyersResearchGroup/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>https://MyersResearchGroup/</loc>
+    <loc>/</loc>
   </url>
   
   <url>
-    <loc>https://MyersResearchGroup/author/nelson-bighetti/</loc>
+    <loc>/author/nelson-bighetti/</loc>
   </url>
   
   <url>
-    <loc>https://MyersResearchGroup/post/</loc>
+    <loc>/post/</loc>
   </url>
   
   <url>
-    <loc>https://MyersResearchGroup/publication_types/</loc>
+    <loc>/publication_types/</loc>
   </url>
   
   <url>
-    <loc>https://MyersResearchGroup/publication/</loc>
+    <loc>/publication/</loc>
   </url>
   
   <url>
-    <loc>https://MyersResearchGroup/talk/</loc>
+    <loc>/talk/</loc>
   </url>
   
   <url>
-    <loc>https://MyersResearchGroup/tags/</loc>
+    <loc>/tags/</loc>
   </url>
   
 </urlset>
