@@ -58,54 +58,6 @@
   weight = 20
   parent = "research-id"
 
-  [[main]]
-  name = "Tools"
-  url = "/tools"
-  weight = 80
-  identifier = "tools-id"
-
-[[main]]
-  name = "iBioSim"
-  url = "/tools/iBioSim"
-  weight = 5
-  parent = "tools-id"
-
-[[main]]
-  name = "SynBioHub"
-  url = "/tools/SynBioHub"
-  weight = 10
-  parent = "tools-id"
-
-[[main]]
-  name = "SBOLDesigner"
-  url = "/tools/SBOLDesigner"
-  weight = 15
-  parent = "tools-id"
-
-[[main]]
-  name = "SBOL Libraries"
-  url = "/tools/SBOL-Libraries"
-  weight = 20
-  parent = "tools-id"
-
-[[main]]
-  name = "SBOL Validator"
-  url = "/tools/SBOL-Validator"
-  weight = 30
-  parent = "tools-id"
-
-[[main]]
-  name = "LEMA"
-  url = "/tools/LEMA"
-  weight = 40
-  parent = "tools-id" 
-
-[[main]]
-  name = "ATACS"
-  url = "/tools/ATACS"
-  weight = 50
-  parent = "tools-id" 
-
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # [[main]]
