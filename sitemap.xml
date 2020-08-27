@@ -3,11 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/research/analog-circuit-design-verification/</loc>
+  </url>
+  
+  <url>
+    <loc>/research/asynchronous-circuit-design-verification/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/atacs/</loc>
+  </url>
+  
+  <url>
     <loc>/authors/</loc>
   </url>
   
   <url>
     <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/research/formal-verification-cyber-physical-systems/</loc>
+  </url>
+  
+  <url>
+    <loc>/research/genetic-design-automation/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/ibiosim/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/lema/</loc>
   </url>
   
   <url>
@@ -31,11 +59,39 @@
   </url>
   
   <url>
+    <loc>/publications/</loc>
+  </url>
+  
+  <url>
     <loc>/talk/</loc>
   </url>
   
   <url>
+    <loc>/research/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/sbol-libraries/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/sbol-validator/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/sboldesigner/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/synbiohub/</loc>
+  </url>
+  
+  <url>
     <loc>/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/</loc>
   </url>
   
 </urlset>
