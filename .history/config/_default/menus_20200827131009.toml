@@ -1,0 +1,120 @@
+# Navigation Links
+#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
+#     desired widget in your `content/home/` folder.
+#   The weight parameter defines the order that the links will appear in.
+
+[[main]]
+  name = "Home"
+  url = "#about"
+  weight = 10
+
+[[main]]
+  name = "Posts"
+  url = "#posts"
+  weight = 20
+
+[[main]]
+  name = "Projects"
+  url = "#projects"
+  weight = 30
+
+[[main]]
+  name = "Publications"
+  url = "#featured"
+  weight = 40
+
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 60
+
+  [[main]]
+  name = "Research"
+  url = "/research"
+  weight = 70
+  identifier = "research-id"
+
+[[main]]
+  name = "Genetic Design Automation"
+  url = "/research/genetic-design-automation"
+  weight = 5
+  parent = "research-id"
+
+[[main]]
+  name = "Formal Verification of Cyber-Physical Systems"
+  url = "/research/formal-verification-cyber-physical-systems"
+  weight = 10
+  parent = "research-id"
+
+[[main]]
+  name = "Analog Circuit Design and Verification"
+  url = "/research/analog-circuit-design-verification"
+  weight = 15
+  parent = "research-id"
+
+[[main]]
+  name = "Asynchronous Circuit Design and Verification"
+  url = "/research/asynchronous-circuit-design-verification"
+  weight = 20
+  parent = "research-id"
+
+  [[main]]
+  name = "Tools"
+  url = "/tools"
+  weight = 80
+  identifier = "tools-id"
+
+[[main]]
+  name = "iBioSim"
+  url = "/tools/iBioSim"
+  weight = 5
+  parent = "tools-id"
+
+[[main]]
+  name = "SynBioHub"
+  url = "/tools/SynBioHub"
+  weight = 10
+  parent = "tools-id"
+
+[[main]]
+  name = "SBOLDesigner"
+  url = "/tools/SBOLDesigner"
+  weight = 15
+  parent = "tools-id"
+
+[[main]]
+  name = "SBOL Libraries"
+  url = "/tools/SBOL-Libraries"
+  weight = 20
+  parent = "tools-id"
+
+[[main]]
+  name = "SBOL Validator"
+  url = "/tools/SBOL-Validator"
+  weight = 30
+  parent = "tools-id"
+
+[[main]]
+  name = "LEMA"
+  url = "/tools/LEMA"
+  weight = 40
+  parent = "tools-id" 
+
+[[main]]
+  name = "ATACS"
+  url = "/tools/ATACS"
+  weight = 50
+  parent = "tools-id" 
+  
+  [[main]]
+  name = "Test"
+  url = "/Test-Page"
+  weight = 110
+  identifier = "test-id"
+
+# Link to a PDF of your resume/CV from the menu.
+# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# [[main]]
+#    name = "CV"
+#    url = "files/cv.pdf"
+#    weight = 70
