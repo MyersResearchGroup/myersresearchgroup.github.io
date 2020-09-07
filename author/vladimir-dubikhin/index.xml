@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vladimir Dubikhin | Myers Research Group</title>
+    <link>/author/vladimir-dubikhin/</link>
+      <atom:link href="/author/vladimir-dubikhin/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vladimir Dubikhin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>Vladimir Dubikhin</title>
+      <link>/author/vladimir-dubikhin/</link>
+    </image>
+    
+    <item>
+      <title>Design of Mixed-Signal Systems With Asynchronous Control</title>
+      <link>/publication/dubikhin-design-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/dubikhin-design-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

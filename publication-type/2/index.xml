@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Myers Research Group</title>
+    <link>/publication-type/2/</link>
+      <atom:link href="/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Toward Reproducible Disease Models Using the Systems Biology Markup Language</title>
+      <link>/publication/watanabe-toward-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/watanabe-toward-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Computational Workflow for the Automated Generation of Models of Genetic Designs</title>
+      <link>/publication/misirli-computational-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/misirli-computational-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iBioSim 3: A Tool for Model-Based Genetic Circuit Design</title>
+      <link>/publication/watanabe-ibiosim-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/watanabe-ibiosim-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specifications of Standards in Systems and Synthetic Biology: Status and Developments in 2017</title>
+      <link>/publication/schreiber-specifications-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/schreiber-specifications-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SynBioHub: A Standards-Enabled Design Repository for Synthetic Biology</title>
+      <link>/publication/mclaughlin-synbiohub-2018/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mclaughlin-synbiohub-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Biology Open Language (SBOL) Version 2.2.0</title>
+      <link>/publication/cox-synthetic-2018-1/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cox-synthetic-2018-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Biology Open Language Visual (SBOL Visual) Version 2.0</title>
+      <link>/publication/cox-synthetic-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cox-synthetic-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Validator and Converter for the Synthetic Biology Open Language</title>
+      <link>/publication/zundel-validator-2017-1/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zundel-validator-2017-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SBOLDesigner 2: An Intuitive Tool for Structural Genetic Design</title>
+      <link>/publication/zhang-sboldesigner-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-sboldesigner-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Standard-Enabled Workflow for Synthetic Biology</title>
+      <link>/publication/myers-standard-enabled-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/myers-standard-enabled-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SBOLme: A Repository of SBOL Parts for Metabolic Engineering</title>
+      <link>/publication/kuwahara-sbolme-2017/</link>
+      <pubDate>Sat, 01 Apr 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/kuwahara-sbolme-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specifications of Standards in Systems and Synthetic Biology: Status and Developments in 2016</title>
+      <link>/publication/schreiber-specifications-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/schreiber-specifications-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Biology Open Language (SBOL) Version 2.1.0</title>
+      <link>/publication/beal-synthetic-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/beal-synthetic-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of Mixed-Signal Systems With Asynchronous Control</title>
+      <link>/publication/dubikhin-design-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/dubikhin-design-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Guest Editors&#39; Introduction Challenges and Opportunities in Analog/Mixed-Signal CAD</title>
+      <link>/publication/li-guest-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/li-guest-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Community Standards and Software for Whole-Cell Modeling</title>
+      <link>/publication/waltemath-toward-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/waltemath-toward-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Analysis of Systems Biology Markup Language Models of Cellular Populations Using Arrays</title>
+      <link>/publication/watanabe-efficient-2016-1/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/watanabe-efficient-2016-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Converter from the Systems Biology Markup Language to the Synthetic Biology Open Language</title>
+      <link>/publication/nguyen-converter-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/nguyen-converter-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharing Structure and Function in Biological Design with SBOL 2.0</title>
+      <link>/publication/roehner-sharing-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/roehner-sharing-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Improved Fault-Tolerant Routing Algorithm for a Network-on-Chip Derived with Formal Analysis</title>
+      <link>/publication/zhang-improved-2016-1/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-improved-2016-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>libSBOLj 2.0: A Java Library to Support SBOL 2.0</title>
+      <link>/publication/zhang-libsbolj-2015/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-libsbolj-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

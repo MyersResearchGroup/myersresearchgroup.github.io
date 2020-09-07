@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leandro Watanabe | Myers Research Group</title>
+    <link>/author/leandro-watanabe/</link>
+      <atom:link href="/author/leandro-watanabe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Leandro Watanabe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>Leandro Watanabe</title>
+      <link>/author/leandro-watanabe/</link>
+    </image>
+    
+    <item>
+      <title>Toward Reproducible Disease Models Using the Systems Biology Markup Language</title>
+      <link>/publication/watanabe-toward-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/watanabe-toward-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iBioSim 3: A Tool for Model-Based Genetic Circuit Design</title>
+      <link>/publication/watanabe-ibiosim-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/watanabe-ibiosim-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Analysis of Systems Biology Markup Language Models of Cellular Populations Using Arrays</title>
+      <link>/publication/watanabe-efficient-2016-1/</link>
+      <pubDate>Mon, 01 Aug 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/watanabe-efficient-2016-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

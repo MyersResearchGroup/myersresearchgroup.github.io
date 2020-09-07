@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Douglas Densmore | Myers Research Group</title>
+    <link>/author/douglas-densmore/</link>
+      <atom:link href="/author/douglas-densmore/index.xml" rel="self" type="application/rss+xml" />
+    <description>Douglas Densmore</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>Douglas Densmore</title>
+      <link>/author/douglas-densmore/</link>
+    </image>
+    
+    <item>
+      <title>A Computational Workflow for the Automated Generation of Models of Genetic Designs</title>
+      <link>/publication/misirli-computational-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/misirli-computational-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sharing Structure and Function in Biological Design with SBOL 2.0</title>
+      <link>/publication/roehner-sharing-2016/</link>
+      <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/roehner-sharing-2016/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

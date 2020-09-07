@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Irina Dana Ofiteru | Myers Research Group</title>
+    <link>/author/irina-dana-ofiteru/</link>
+      <atom:link href="/author/irina-dana-ofiteru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Irina Dana Ofiteru</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>Irina Dana Ofiteru</title>
+      <link>/author/irina-dana-ofiteru/</link>
+    </image>
+    
+    <item>
+      <title>SynBioHub: A Standards-Enabled Design Repository for Synthetic Biology</title>
+      <link>/publication/mclaughlin-synbiohub-2018/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mclaughlin-synbiohub-2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

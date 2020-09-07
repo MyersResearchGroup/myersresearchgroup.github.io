@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James Alastair McLaughlin | Myers Research Group</title>
+    <link>/author/james-alastair-mclaughlin/</link>
+      <atom:link href="/author/james-alastair-mclaughlin/index.xml" rel="self" type="application/rss+xml" />
+    <description>James Alastair McLaughlin</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>James Alastair McLaughlin</title>
+      <link>/author/james-alastair-mclaughlin/</link>
+    </image>
+    
+    <item>
+      <title>A Computational Workflow for the Automated Generation of Models of Genetic Designs</title>
+      <link>/publication/misirli-computational-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/misirli-computational-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SynBioHub: A Standards-Enabled Design Repository for Synthetic Biology</title>
+      <link>/publication/mclaughlin-synbiohub-2018/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/mclaughlin-synbiohub-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Biology Open Language (SBOL) Version 2.2.0</title>
+      <link>/publication/cox-synthetic-2018-1/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cox-synthetic-2018-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SBOLDesigner 2: An Intuitive Tool for Structural Genetic Design</title>
+      <link>/publication/zhang-sboldesigner-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-sboldesigner-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Standard-Enabled Workflow for Synthetic Biology</title>
+      <link>/publication/myers-standard-enabled-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/myers-standard-enabled-2017/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

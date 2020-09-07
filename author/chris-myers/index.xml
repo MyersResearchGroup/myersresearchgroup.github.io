@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chris Myers | Myers Research Group</title>
+    <link>/author/chris-myers/</link>
+      <atom:link href="/author/chris-myers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Chris Myers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 07 Sep 2020 10:03:07 -0300</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>Chris Myers</title>
+      <link>/author/chris-myers/</link>
+    </image>
+    
+    <item>
+      <title>SBOL</title>
+      <link>/project/sbol/</link>
+      <pubDate>Mon, 07 Sep 2020 10:03:07 -0300</pubDate>
+      <guid>/project/sbol/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Toward Reproducible Disease Models Using the Systems Biology Markup Language</title>
+      <link>/publication/watanabe-toward-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/watanabe-toward-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Computational Workflow for the Automated Generation of Models of Genetic Designs</title>
+      <link>/publication/misirli-computational-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/misirli-computational-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iBioSim 3: A Tool for Model-Based Genetic Circuit Design</title>
+      <link>/publication/watanabe-ibiosim-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/watanabe-ibiosim-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specifications of Standards in Systems and Synthetic Biology: Status and Developments in 2017</title>
+      <link>/publication/schreiber-specifications-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/schreiber-specifications-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Biology Open Language (SBOL) Version 2.2.0</title>
+      <link>/publication/cox-synthetic-2018-1/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cox-synthetic-2018-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Biology Open Language Visual (SBOL Visual) Version 2.0</title>
+      <link>/publication/cox-synthetic-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cox-synthetic-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specifications of Standards in Systems and Synthetic Biology: Status and Developments in 2016</title>
+      <link>/publication/schreiber-specifications-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/schreiber-specifications-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Biology Open Language (SBOL) Version 2.1.0</title>
+      <link>/publication/beal-synthetic-2016/</link>
+      <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/beal-synthetic-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Improved Fault-Tolerant Routing Algorithm for a Network-on-Chip Derived with Formal Analysis</title>
+      <link>/publication/zhang-improved-2016-1/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-improved-2016-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

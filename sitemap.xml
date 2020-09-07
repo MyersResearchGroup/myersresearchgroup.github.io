@@ -3,6 +3,1019 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/people/people/</loc>
+  </url>
+  
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2020-09-07T10:03:07-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/chris-myers/</loc>
+    <lastmod>2020-09-07T10:03:07-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2020-09-07T10:03:07-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/</loc>
+    <lastmod>2020-09-07T10:03:07-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/project/sbol/</loc>
+    <lastmod>2020-09-07T10:03:07-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/standards/</loc>
+    <lastmod>2020-09-07T10:03:07-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2020-09-07T10:03:07-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication-type/2/</loc>
+    <lastmod>2020-09-07T09:19:10-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jacob-barhak/</loc>
+    <lastmod>2020-09-07T09:19:08-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/leandro-watanabe/</loc>
+    <lastmod>2020-09-07T09:19:08-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-09-07T09:19:10-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-09-07T09:19:10-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/watanabe-toward-2019/</loc>
+    <lastmod>2020-09-07T09:19:08-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/misirli-computational-2019/</loc>
+    <lastmod>2020-09-07T09:19:03-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/anil-wipat/</loc>
+    <lastmod>2020-09-07T09:19:10-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/curtis-madsen/</loc>
+    <lastmod>2020-09-07T09:19:07-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/douglas-densmore/</loc>
+    <lastmod>2020-09-07T09:19:05-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/goksel-misirli/</loc>
+    <lastmod>2020-09-07T09:19:09-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/watanabe-ibiosim-2019/</loc>
+    <lastmod>2020-09-07T09:19:07-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/james-alastair-mclaughlin/</loc>
+    <lastmod>2020-09-07T09:19:10-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/michael-zhang/</loc>
+    <lastmod>2020-09-07T09:19:10-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nicholas-roehner/</loc>
+    <lastmod>2020-09-07T09:19:09-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/prashant-vaidyanathan/</loc>
+    <lastmod>2020-09-07T09:19:03-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/timothy-s.-jones/</loc>
+    <lastmod>2020-09-07T09:19:03-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tramy-nguyen/</loc>
+    <lastmod>2020-09-07T09:19:09-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/zach-zundel/</loc>
+    <lastmod>2020-09-07T09:19:10-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/zhen-zhang/</loc>
+    <lastmod>2020-09-07T09:19:10-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/animals/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/combine/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/computational-biology/</loc>
+    <lastmod>2020-09-07T09:19:09-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/documentation/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/humans/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/synthetic-biology/</loc>
+    <lastmod>2020-09-07T09:19:09-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/systems-biology/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/bjorn-sommer/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/dagmar-waltemath/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/david-nickerson/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/falk-schreiber/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/gary-d.-bader/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/martin-golebiewski/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/michael-hucka/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nicolas-le-novere/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/padraig-gleeson/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sarah-m.-keating/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/schreiber-specifications-2018/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/angel-goni-moreno/</loc>
+    <lastmod>2020-09-07T09:19:03-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/chris-j.-myers/</loc>
+    <lastmod>2020-09-07T09:19:10-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/goksel-m%C4%B1s%C4%B1rl%C4%B1/</loc>
+    <lastmod>2020-09-07T09:19:03-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/irina-dana-ofiteru/</loc>
+    <lastmod>2020-09-07T09:19:03-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/mclaughlin-synbiohub-2018/</loc>
+    <lastmod>2020-09-07T09:19:03-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/diagrams/</loc>
+    <lastmod>2020-09-07T09:19:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/sbol-visual/</loc>
+    <lastmod>2020-09-07T09:19:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/synthetic-biology-open-language/</loc>
+    <lastmod>2020-09-07T09:19:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/augustin-luna/</loc>
+    <lastmod>2020-09-07T09:19:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/bryan-bartley/</loc>
+    <lastmod>2020-09-07T09:19:05-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/chris-macklin/</loc>
+    <lastmod>2020-09-07T09:19:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/christopher-a.-voigt/</loc>
+    <lastmod>2020-09-07T09:19:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ernst-oberortner/</loc>
+    <lastmod>2020-09-07T09:19:09-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/guy-bart-stan/</loc>
+    <lastmod>2020-09-07T09:19:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/herbert-sauro/</loc>
+    <lastmod>2020-09-07T09:19:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jacob-beal/</loc>
+    <lastmod>2020-09-07T09:19:09-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/james-mclaughlin/</loc>
+    <lastmod>2020-09-07T09:19:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jeffrey-j.-tabor/</loc>
+    <lastmod>2020-09-07T09:19:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/john-h.-gennari/</loc>
+    <lastmod>2020-09-07T09:19:05-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/john-t.-sexton/</loc>
+    <lastmod>2020-09-07T09:19:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kevin-clancy/</loc>
+    <lastmod>2020-09-07T09:19:09-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kiri-choi/</loc>
+    <lastmod>2020-09-07T09:19:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/matthew-pocock/</loc>
+    <lastmod>2020-09-07T09:19:09-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/meher-samineni/</loc>
+    <lastmod>2020-09-07T09:19:10-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/michael-bissell/</loc>
+    <lastmod>2020-09-07T09:19:05-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mike-bissell/</loc>
+    <lastmod>2020-09-07T09:19:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/novere-nicolas-le/</loc>
+    <lastmod>2020-09-07T09:19:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/raik-grunberg/</loc>
+    <lastmod>2020-09-07T09:19:05-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/robert-sidney-cox/</loc>
+    <lastmod>2020-09-07T09:19:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/swapnil-bhatia/</loc>
+    <lastmod>2020-09-07T09:19:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cox-synthetic-2018-1/</loc>
+    <lastmod>2020-09-07T09:19:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/cox-synthetic-2018/</loc>
+    <lastmod>2020-09-07T09:19:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/thomas-gorochowski/</loc>
+    <lastmod>2020-09-07T09:19:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/zundel-validator-2017-1/</loc>
+    <lastmod>2020-09-07T09:19:10-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/zhang-sboldesigner-2017/</loc>
+    <lastmod>2020-09-07T09:19:10-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/models-biological/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/software/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/synthetic-biological-circuits/</loc>
+    <lastmod>2020-09-07T09:19:03-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/workflow/</loc>
+    <lastmod>2020-09-07T09:19:03-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/myers-standard-enabled-2017/</loc>
+    <lastmod>2020-09-07T09:19:03-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/hiroyuki-kuwahara/</loc>
+    <lastmod>2020-09-07T09:19:03-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/thomas-e.-gorochowski/</loc>
+    <lastmod>2020-09-07T09:19:03-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ramzan-umarov/</loc>
+    <lastmod>2020-09-07T09:19:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/kuwahara-sbolme-2017/</loc>
+    <lastmod>2020-09-07T09:19:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xin-gao/</loc>
+    <lastmod>2020-09-07T09:19:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xuefeng-cui/</loc>
+    <lastmod>2020-09-07T09:19:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/programming-languages/</loc>
+    <lastmod>2020-09-07T09:19:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/dagmar-walthemath/</loc>
+    <lastmod>2020-09-07T09:19:05-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/john-gennari/</loc>
+    <lastmod>2020-09-07T09:19:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/schreiber-specifications-2016/</loc>
+    <lastmod>2020-09-07T09:19:05-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/beal-synthetic-2016/</loc>
+    <lastmod>2020-09-07T09:19:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/analog-circuits/</loc>
+    <lastmod>2020-09-07T09:19:02-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/biological-system-modeling/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/biology-computing/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cellular-biophysics/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/comprehensive-models/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/computational-modeling/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/computer-simulation/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/computer-software/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/current-standards/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/cytological-techniques/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/design-automation/</loc>
+    <lastmod>2020-09-07T09:19:02-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/education/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/female/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/integrated-circuit-interconnections/</loc>
+    <lastmod>2020-09-07T09:19:02-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/male/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/mathematical-model/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/mixed-analog-digital-integrated-circuits/</loc>
+    <lastmod>2020-09-07T09:19:02-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/optical-wavelength-conversion/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/simulation/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/solid-modeling/</loc>
+    <lastmod>2020-09-07T09:19:02-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/special-issues-and-sections/</loc>
+    <lastmod>2020-09-07T09:19:02-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/systems-biology-markup-language/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/wc-modeling-standards/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/whole-cell-wc-modeling/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/whole-cell-modeling/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/alex-yakovlev/</loc>
+    <lastmod>2020-09-07T09:19:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/anna-zhukova/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/argyris-zardilis/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/arne-t.-bittig/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/arthur-p.-goldberg/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/audald-lloret-villas/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/begum-alaybeyoglu/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/bertrand-moreau/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/chandramouli-kashyap/</loc>
+    <lastmod>2020-09-07T09:19:02-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/christian-knupfer/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/daewon-lee/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/daniel-f.-hernandez-gardiol/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/daniel-priego-espinosa/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/danil-sokolov/</loc>
+    <lastmod>2020-09-07T09:19:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/denis-kazakiewicz/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/dubikhin-design-2016/</loc>
+    <lastmod>2020-09-07T09:19:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/florian-wendland/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/frank-t.-bergmann/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/li-guest-2016/</loc>
+    <lastmod>2020-09-07T09:19:02-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/harold-f.-gomez/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/hojjat-naderi-meshkin/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/ilya-kiselev/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/j.-kyle-medley/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/james-t.-yurkovich/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jannis-uhlendorf/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/je-hoon-song/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jens-hahn/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jonathan-r.-karr/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/joseph-cursons/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kambiz-baghalian/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/kieran-smallbone/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/leandro-h.-watanabe/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/mahesh-sharma/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/marcus-krantz/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/markus-wolfien/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/martin-scharm/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/matteo-cantarelli/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/matthias-konig/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/milenko-tokic/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/namrata-tomar/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/natalie-j.-stanford/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/naveen-k-aranganathan/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/nikita-mandrik/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/paulo-e.-pinto-burke/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/pedro-mendes/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/pinar-pir/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/rafael-s.-costa/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/sucheendra-k.-palaniappan/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/thawfeek-m-varusai/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tobias-czauderna/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tom-theile/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/waltemath-toward-2016/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tuure-hameri/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/vasundra-toure/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/vijayalakshmi-chelliah/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/vincent-knight-schrijver/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/vladimir-dubikhin/</loc>
+    <lastmod>2020-09-07T09:19:01-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/wolfram-liebermeister/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/xin-li/</loc>
+    <lastmod>2020-09-07T09:19:02-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yan-zhu/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yin-hoon-chew/</loc>
+    <lastmod>2020-09-07T09:19:06-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/watanabe-efficient-2016-1/</loc>
+    <lastmod>2020-09-07T09:19:07-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/nguyen-converter-2016/</loc>
+    <lastmod>2020-09-07T09:19:04-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/herbert-m.-sauro/</loc>
+    <lastmod>2020-09-07T09:19:05-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/roehner-sharing-2016/</loc>
+    <lastmod>2020-09-07T09:19:05-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/fault-tolerant-routing/</loc>
+    <lastmod>2020-09-07T09:19:08-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/formal-methods/</loc>
+    <lastmod>2020-09-07T09:19:08-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/model-checking/</loc>
+    <lastmod>2020-09-07T09:19:08-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/network-on-chip/</loc>
+    <lastmod>2020-09-07T09:19:08-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/process-calculus/</loc>
+    <lastmod>2020-09-07T09:19:08-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/zhang-improved-2016-1/</loc>
+    <lastmod>2020-09-07T09:19:08-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/hao-zheng/</loc>
+    <lastmod>2020-09-07T09:19:08-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jian-wu/</loc>
+    <lastmod>2020-09-07T09:19:08-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/tomohiro-yoneda/</loc>
+    <lastmod>2020-09-07T09:19:08-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/wendelin-serwe/</loc>
+    <lastmod>2020-09-07T09:19:08-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/application-programming-interfaces/</loc>
+    <lastmod>2020-09-07T09:19:09-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/java/</loc>
+    <lastmod>2020-09-07T09:19:09-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/software-libraries/</loc>
+    <lastmod>2020-09-07T09:19:09-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tag/software-tools/</loc>
+    <lastmod>2020-09-07T09:19:09-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/zhang-libsbolj-2015/</loc>
+    <lastmod>2020-09-07T09:19:09-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/people/alumni/</loc>
+  </url>
+  
+  <url>
     <loc>/research/analog-circuit-design-verification/</loc>
   </url>
   
@@ -15,11 +1028,11 @@
   </url>
   
   <url>
-    <loc>/authors/</loc>
+    <loc>/categories/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/people/faculty/</loc>
   </url>
   
   <url>
@@ -39,11 +1052,11 @@
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/author/nelson-bighetti/</loc>
   </url>
   
   <url>
-    <loc>/author/nelson-bighetti/</loc>
+    <loc>/people/</loc>
   </url>
   
   <url>
@@ -51,15 +1064,11 @@
   </url>
   
   <url>
-    <loc>/publication_types/</loc>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-  </url>
-  
-  <url>
     <loc>/publications/</loc>
+  </url>
+  
+  <url>
+    <loc>/publications/engineering-genetic-circuits/</loc>
   </url>
   
   <url>
@@ -68,6 +1077,10 @@
   
   <url>
     <loc>/research/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/sbol-canvas/</loc>
   </url>
   
   <url>
@@ -83,11 +1096,11 @@
   </url>
   
   <url>
-    <loc>/tools/synbiohub/</loc>
+    <loc>/people/students/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/tools/synbiohub/</loc>
   </url>
   
   <url>

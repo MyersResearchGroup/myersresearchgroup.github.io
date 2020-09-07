@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jian Wu | Myers Research Group</title>
+    <link>/author/jian-wu/</link>
+      <atom:link href="/author/jian-wu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jian Wu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Mar 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>Jian Wu</title>
+      <link>/author/jian-wu/</link>
+    </image>
+    
+    <item>
+      <title>An Improved Fault-Tolerant Routing Algorithm for a Network-on-Chip Derived with Formal Analysis</title>
+      <link>/publication/zhang-improved-2016-1/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-improved-2016-1/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

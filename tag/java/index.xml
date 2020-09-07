@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Java&#34; | Myers Research Group</title>
+    <link>/tag/java/</link>
+      <atom:link href="/tag/java/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Java&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Java&#34;</title>
+      <link>/tag/java/</link>
+    </image>
+    
+    <item>
+      <title>libSBOLj 2.0: A Java Library to Support SBOL 2.0</title>
+      <link>/publication/zhang-libsbolj-2015/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/zhang-libsbolj-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
