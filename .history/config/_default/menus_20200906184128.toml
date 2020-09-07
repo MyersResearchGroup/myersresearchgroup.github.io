@@ -9,28 +9,9 @@
   weight = 10
 
 [[main]]
-  name = "People"
-  url = "#people"
-  identifier = "people"
+  name = "Posts"
+  url = "#posts"
   weight = 20
-
-[[main]]
-  name = "Faculty"
-  url = "/people/faculty"
-  parent = "people"
-  weight = 1
-
-[[main]]
-  name = "Students"
-  url = "/people/students"
-  parent = "people"
-  weight = 2
-  
-[[main]]
-  name = "Alumni"
-  url = "/people/alumni"
-  parent = "people"
-  weight = 2   
 
   [[main]]
   name = "Research Projects"
@@ -60,30 +41,46 @@
   name = "Asynchronous Circuit Design and Verification"
   url = "/research/asynchronous-circuit-design-verification"
   weight = 20
-  parent = "research-id" 
+  parent = "research-id"
 
 [[main]]
-  name = "Publications"
-  url = "/publication"
-  weight = 50
-  identifier = "Publications"
+  name = "People"
+  url = "#people"
+  identifier = "people"
+  weight = 40
 
 [[main]]
-  name = "Publications"
-  url = "/Publications/Engineering-Genetic-Circuits"
+  name = "Faculty"
+  url = "/people/faculty"
+  parent = "people"
   weight = 1
-  parent = "Publications"
+
+[[main]]
+  name = "Students"
+  url = "/people/students"
+  parent = "people"
+  weight = 2
+  
+[[main]]
+  name = "Alumni"
+  url = "/people/alumni"
+  parent = "people"
+  weight = 2  
 
 [[main]]
   name = "Publications"
-  url = "/Publications/Asynchronous-Circuit-Design"
-  weight = 2
-  parent = "Publications"
+  url = "/Publications"
+  weight = 50
+
+[[main]]
+  name = "Contact"
+  url = "#contact"
+  weight = 60
 
   [[main]]
   name = "Tools"
   url = "/tools"
-  weight = 60
+  weight = 80
   identifier = "tools-id"
 
 [[main]]
@@ -127,11 +124,6 @@
   url = "/tools/ATACS"
   weight = 50
   parent = "tools-id" 
-
-[[main]]
-  name = "Contact"
-  url = "#contact"
-  weight = 80  
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
