@@ -64,21 +64,8 @@
 
 [[main]]
   name = "Publications"
-  url = "/publication"
+  url = "/Publications"
   weight = 50
-  identifier = "Publications"
-
-[[main]]
-  name = "Publications"
-  url = "/Publications/Engineering-Genetic-Circuits"
-  weight = 1
-  parent = "Publications"
-
-[[main]]
-  name = "Publications"
-  url = "/Publications/Asynchronous-Circuit-Design"
-  weight = 2
-  parent = "Publications"
 
   [[main]]
   name = "Tools"
@@ -103,12 +90,6 @@
   url = "/tools/SBOLDesigner"
   weight = 15
   parent = "tools-id"
-
-[[main]]
-  name = "SBOL Canvas"
-  url = "/tools/SBOL Canvas"
-  weight = 17
-  parent = "tools-id"  
 
 [[main]]
   name = "SBOL Libraries"

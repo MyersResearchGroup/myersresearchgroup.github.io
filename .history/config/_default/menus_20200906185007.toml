@@ -105,12 +105,6 @@
   parent = "tools-id"
 
 [[main]]
-  name = "SBOL Canvas"
-  url = "/tools/SBOL Canvas"
-  weight = 17
-  parent = "tools-id"  
-
-[[main]]
   name = "SBOL Libraries"
   url = "/tools/SBOL-Libraries"
   weight = 20
