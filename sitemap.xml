@@ -23,7 +23,7 @@
   
   <url>
     <loc>/authors/</loc>
-    <lastmod>2020-09-07T10:03:07-03:00</lastmod>
+    <lastmod>2020-09-08T16:50:56-03:00</lastmod>
   </url>
   
   <url>
@@ -33,7 +33,7 @@
   
   <url>
     <loc>/</loc>
-    <lastmod>2020-09-07T10:03:07-03:00</lastmod>
+    <lastmod>2020-09-08T16:50:56-03:00</lastmod>
   </url>
   
   <url>
@@ -58,7 +58,52 @@
   
   <url>
     <loc>/publication-type/2/</loc>
-    <lastmod>2020-09-07T09:19:10-03:00</lastmod>
+    <lastmod>2020-09-08T16:50:56-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/amin-espah-borujeni/</loc>
+    <lastmod>2020-09-08T16:50:56-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/chris-j.-myers/</loc>
+    <lastmod>2020-09-08T16:50:56-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/christopher-a.-voigt/</loc>
+    <lastmod>2020-09-08T16:50:56-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/genetic-circuit-dynamics-fontanarrosa-2020/</loc>
+    <lastmod>2020-09-08T16:50:56-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/hamid-doosthosseini/</loc>
+    <lastmod>2020-09-08T16:50:56-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/pedro-fontanarrosa/</loc>
+    <lastmod>2020-09-08T16:50:56-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2020-09-08T16:50:56-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2020-09-08T16:50:56-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/yuval-dorfan/</loc>
+    <lastmod>2020-09-08T16:50:56-03:00</lastmod>
   </url>
   
   <url>
@@ -69,16 +114,6 @@
   <url>
     <loc>/author/leandro-watanabe/</loc>
     <lastmod>2020-09-07T09:19:08-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication_types/</loc>
-    <lastmod>2020-09-07T09:19:10-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/publication/</loc>
-    <lastmod>2020-09-07T09:19:10-03:00</lastmod>
   </url>
   
   <url>
@@ -257,11 +292,6 @@
   </url>
   
   <url>
-    <loc>/author/chris-j.-myers/</loc>
-    <lastmod>2020-09-07T09:19:10-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/goksel-m%C4%B1s%C4%B1rl%C4%B1/</loc>
     <lastmod>2020-09-07T09:19:03-03:00</lastmod>
   </url>
@@ -304,11 +334,6 @@
   <url>
     <loc>/author/chris-macklin/</loc>
     <lastmod>2020-09-07T09:19:01-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/christopher-a.-voigt/</loc>
-    <lastmod>2020-09-07T09:19:00-03:00</lastmod>
   </url>
   
   <url>
@@ -1064,6 +1089,10 @@
   </url>
   
   <url>
+    <loc>/author/genetic-logic-lab/</loc>
+  </url>
+  
+  <url>
     <loc>/tools/ibiosim/</loc>
   </url>
   
@@ -1072,7 +1101,7 @@
   </url>
   
   <url>
-    <loc>/author/nelson-bighetti/</loc>
+    <loc>/author/pedro-fontanarrosa/</loc>
   </url>
   
   <url>

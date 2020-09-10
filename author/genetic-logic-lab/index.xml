@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genetic Logic Lab</title>
+    <link>/author/genetic-logic-lab/</link>
+      <atom:link href="/author/genetic-logic-lab/index.xml" rel="self" type="application/rss+xml" />
+    <description>Genetic Logic Lab</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/author/genetic-logic-lab/avatar_hu1b1c523520f980650aa462e13526d4d6_1006859_270x270_fill_lanczos_center_2.png</url>
+      <title>Genetic Logic Lab</title>
+      <link>/author/genetic-logic-lab/</link>
+    </image>
+    
+  </channel>
+</rss>

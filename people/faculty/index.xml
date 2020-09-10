@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Faculty | Myers Research Group</title>
+    <title>Faculty | Genetic Logic Lab</title>
     <link>/people/faculty/</link>
       <atom:link href="/people/faculty/index.xml" rel="self" type="application/rss+xml" />
     <description>Faculty</description>
