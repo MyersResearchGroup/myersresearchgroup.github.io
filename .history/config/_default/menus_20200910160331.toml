@@ -10,7 +10,7 @@
 
 [[main]]
   name = "People"
-  url = "/People-Genetic-Logic-Lab"
+  url = "/PeoplePage"
   identifier = "people"
   weight = 20
 
