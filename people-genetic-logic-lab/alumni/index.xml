@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Alumni | Genetic Logic Lab</title>
-    <link>/people/alumni/</link>
-      <atom:link href="/people/alumni/index.xml" rel="self" type="application/rss+xml" />
+    <link>/people-genetic-logic-lab/alumni/</link>
+      <atom:link href="/people-genetic-logic-lab/alumni/index.xml" rel="self" type="application/rss+xml" />
     <description>Alumni</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
       <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
       <title>Alumni</title>
-      <link>/people/alumni/</link>
+      <link>/people-genetic-logic-lab/alumni/</link>
     </image>
     
   </channel>
