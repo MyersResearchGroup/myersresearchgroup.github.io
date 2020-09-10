@@ -10,15 +10,57 @@
 
 [[main]]
   name = "People"
-  url = "/people"
+  url = "#people"
   identifier = "people"
   weight = 20
+
+[[main]]
+  name = "Faculty"
+  url = "/people/faculty"
+  parent = "people"
+  weight = 1
+
+[[main]]
+  name = "Students"
+  url = "/people/students"
+  parent = "people"
+  weight = 2
+  
+[[main]]
+  name = "Alumni"
+  url = "/people/alumni"
+  parent = "people"
+  weight = 2   
 
   [[main]]
   name = "Research"
   url = "/research"
   weight = 30
   identifier = "research-id"
+
+[[main]]
+  name = "Genetic Design Automation"
+  url = "/research/genetic-design-automation"
+  weight = 5
+  parent = "research-id"
+
+[[main]]
+  name = "Formal Verification of Cyber-Physical Systems"
+  url = "/research/formal-verification-cyber-physical-systems"
+  weight = 10
+  parent = "research-id"
+
+[[main]]
+  name = "Analog Circuit Design and Verification"
+  url = "/research/analog-circuit-design-verification"
+  weight = 15
+  parent = "research-id"
+
+[[main]]
+  name = "Asynchronous Circuit Design and Verification"
+  url = "/research/asynchronous-circuit-design-verification"
+  weight = 20
+  parent = "research-id" 
 
 [[main]]
   name = "Publications"
