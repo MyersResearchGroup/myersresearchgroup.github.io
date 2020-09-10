@@ -10,9 +10,27 @@
 
 [[main]]
   name = "People"
-  url = "/People-Genetic-Logic-Lab"
+  url = "#people"
   identifier = "people"
   weight = 20
+
+[[main]]
+  name = "Faculty"
+  url = "/people/faculty"
+  parent = "people"
+  weight = 1
+
+[[main]]
+  name = "Students"
+  url = "/people/students"
+  parent = "people"
+  weight = 2
+  
+[[main]]
+  name = "Alumni"
+  url = "/people/alumni"
+  parent = "people"
+  weight = 2   
 
   [[main]]
   name = "Research"

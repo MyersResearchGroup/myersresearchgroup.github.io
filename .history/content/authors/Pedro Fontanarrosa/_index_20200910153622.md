@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Genetic Logic Lab
+title: Pedro Fontanarrosa
 
 # Username (this should match the folder name)
 authors:
-- admin
+- Pedro Fontanarrosa
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
-#role: Professor of Artificial Intelligence
+role: Graduate Researcher, Ph.D.
 
 # Organizations/Affiliations
 organizations:
@@ -67,7 +67,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Visitors
 ---
 
 
