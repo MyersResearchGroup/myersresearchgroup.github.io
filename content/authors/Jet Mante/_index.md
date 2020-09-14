@@ -22,6 +22,11 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Synthetic Biology
+- <a href="https://synbioks.github.io/">SBKS</a>
+- <a href="https://github.com/JMante1">Github</a>
+# - Home Department: Biomedical Engineering
+# - Institute: CU Boulder
+# - Background: Plants and Microbial Sciences
 - Genetic Circuit Design
 - Genetic Circuit Modeling
 
@@ -67,6 +72,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
+- Graduate Students
 ---
 
 

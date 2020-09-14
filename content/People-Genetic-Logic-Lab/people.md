@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 68  # Order that this section will appear.
 
-title = "Meet the Team"
-subtitle = ""
+title = "Students"
+subtitle = "Hi"
 
 [content]
   # Choose which groups/teams of users to display.
