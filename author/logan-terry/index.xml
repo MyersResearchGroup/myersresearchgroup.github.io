@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Logan Terry | Genetic Logic Lab</title>
+    <link>/author/logan-terry/</link>
+      <atom:link href="/author/logan-terry/index.xml" rel="self" type="application/rss+xml" />
+    <description>Logan Terry</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/author/logan-terry/avatar_hu4e92f522a1c21477cd43ca5af8ec7094_448985_270x270_fill_lanczos_center_2.png</url>
+      <title>Logan Terry</title>
+      <link>/author/logan-terry/</link>
+    </image>
+    
+  </channel>
+</rss>

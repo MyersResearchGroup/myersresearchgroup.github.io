@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ben Hatch | Genetic Logic Lab</title>
+    <link>/author/ben-hatch/</link>
+      <atom:link href="/author/ben-hatch/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ben Hatch</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/author/ben-hatch/avatar_hu0ed9c16be4de2f55e0a6f2346714ca68_178543_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Ben Hatch</title>
+      <link>/author/ben-hatch/</link>
+    </image>
+    
+  </channel>
+</rss>

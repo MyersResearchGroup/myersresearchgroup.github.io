@@ -512,12 +512,22 @@
   </url>
   
   <url>
+    <loc>/categories/</loc>
+    <lastmod>2020-09-07T09:19:00-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/author/dagmar-walthemath/</loc>
     <lastmod>2020-09-07T09:19:05-03:00</lastmod>
   </url>
   
   <url>
     <loc>/author/john-gennari/</loc>
+    <lastmod>2020-09-07T09:19:00-03:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/category/sbks/</loc>
     <lastmod>2020-09-07T09:19:00-03:00</lastmod>
   </url>
   
@@ -1057,7 +1067,7 @@
   </url>
   
   <url>
-    <loc>/people-genetic-logic-lab/alumni/</loc>
+    <loc>/people-genetic-logic-lab/</loc>
   </url>
   
   <url>
@@ -1073,11 +1083,15 @@
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/author/ben-hatch/</loc>
   </url>
   
   <url>
-    <loc>/people-genetic-logic-lab/faculty/</loc>
+    <loc>/author/chris-myers/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/eric-yu/</loc>
   </url>
   
   <url>
@@ -1097,15 +1111,31 @@
   </url>
   
   <url>
+    <loc>/author/james-scholz/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/jet-mante/</loc>
+  </url>
+  
+  <url>
     <loc>/tools/lema/</loc>
   </url>
   
   <url>
-    <loc>/author/pedro-fontanarrosa/</loc>
+    <loc>/author/logan-terry/</loc>
   </url>
   
   <url>
-    <loc>/people-genetic-logic-lab/</loc>
+    <loc>/author/lukas-buecherl/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/payton-thomas/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/pedro-fontanarrosa/</loc>
   </url>
   
   <url>
@@ -1146,10 +1176,6 @@
   
   <url>
     <loc>/tools/sboldesigner/</loc>
-  </url>
-  
-  <url>
-    <loc>/people-genetic-logic-lab/students/</loc>
   </url>
   
   <url>
