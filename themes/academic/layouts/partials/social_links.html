@@ -1,4 +1,6 @@
 <ul class="network-icon" aria-hidden="true">
+  {{ $university := .Params.university }}
+
   {{ range .Params.social }}
     {{ $pack := or .icon_pack "fas" }}
     {{ $pack_prefix := $pack }}
@@ -13,10 +15,22 @@
     {{ else if in (slice "http" "https") $scheme }}
       {{ $target = "target=\"_blank\" rel=\"noopener\"" }}
     {{ end }}
+
     <li>
       <a href="{{ $link | safeURL }}" {{ $target | safeHTMLAttr }}>
+      {{ if in (slice "Custom_University") $pack }}
+        {{ if in (slice "CU") $university }}
+        <img src="/media/CU.svg" alt="CU" class="svg-icon svg-baseline">
+        {{ else if in (slice "Utah") $university}}
+        <img src="/media/Utah_U.svg" alt="CU" class="svg-icon svg-baseline">
+        {{ end }}
+      {{ else }}
         <i class="{{ $pack }} {{ $pack_prefix }}-{{ .icon }}"></i>
+      {{ end }}
       </a>
     </li>
-  {{end}}
+  {{ end }}
 </ul>
+
+
+
