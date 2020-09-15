@@ -31,7 +31,7 @@ authors:
 tags:
 - '"Programming Languages"'
 - '"Synthetic Biology"'
-categories: []
+categories: [sbks]
 date: '2016-12-01'
 lastmod: 2020-09-07T09:19:00-03:00
 featured: false
