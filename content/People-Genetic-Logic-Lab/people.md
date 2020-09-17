@@ -13,7 +13,7 @@ subtitle = ""
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Principal Investigator", "Graduate Students", "Undergraduate Students"]
+  user_groups = ["Principal Investigator", "Graduate Students", "Undergraduate Students", "Alumni"]
 
 [design]
   # Show user's social networking links? (true/false)
@@ -25,14 +25,8 @@ subtitle = ""
   # Show user's projects? (true/false)
   show_projects = true
 
-  # Show user's major? (true/false)
-  show_major = true
-
   # Show user's department? (true/false)
   show_department = true
-
-  # Show user's University? (true/false)
-  show_university = true
 
 [design.background]
   # Apply a background color, gradient, or image.
