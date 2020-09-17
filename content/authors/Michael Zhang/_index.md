@@ -1,32 +1,42 @@
 ---
 # Display name
-title: Payton Thomas
+title: Michael Zhang
 
 # Username (this should match the folder name)
 authors:
-- Payton Thomas
+- Michael Zhang
 
 # Is this the primary user of the site?
 superuser: false
 
-#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 810 for alum undergrads
-weight: 400
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
+weight: 820
 
 # Role/position
-role: Graduate Researcher, Ph.D.
+role: Alumni, Masters Student
 
 # Organizations/Affiliations
 organizations:
 - name: University of Boulder, Colorado
   url: ""
 
+#Utah or CU
+university: Utah
+
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Synthetic Biology
-- Genetic Circuit Design
-- Genetic Circuit Modeling
+- Asynchronous Circuits
+
+projects:
+- <a href="https://synbioks.github.io/">SBKS</a>
+- <a href="https://sbolcanvas.org/canvas/">SBOLCanvas</a>
+
+
+department:
+- Electrical and Computer Engineering
 
 education:
   courses:
@@ -54,9 +64,37 @@ social:
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: user-graduate
+  icon_pack: fas
+  link: https://www.colorado.edu/ecee/chris-myers
 - icon: github
   icon_pack: fab
-  link: https://github.com/paytonco
+  link: https://github.com/cjmyers
+# - icon: external-link-alt
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-8762-8444
+- icon: university-logo
+  icon_pack: Custom_University
+  link: https://www.colorado.edu/ecee
+# - icon: university
+#   icon_pack: fas
+#   link: https://www.colorado.edu/ecee
+# - icon: user
+#   icon_pack: fas
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: zotero
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: ieee
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+# - icon: overleaf
+#   icon_pack: ai
+#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -69,10 +107,9 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Undergraduate Students
+- Alumni
+- Masters Alumni
 ---
 
 
-What do the three images above have in common? The answer is that they can all be modeled and analyzed by methods being developed in the Myers Research Group. The first image is a timed asynchronous multiplier designed by Kip Killpack, the second image is a fully analog decoder for digital communication applications designed by several students as part of a joint project with Professors Christian Schlegel and Reid Harrison, and the third image is the Phage Lambda virus. Since 1991, we have been developing methods and tools for the design of timed asynchronous circuits. Since 2002, our research group has been extending our modeling and analysis methods to analyze and reason about both analog/mixed-signal circuits, as well as, biological systems. For more information about the research being conducted in our group, please see our research pages.\
-Over the years, this research has been supported by the National Science Foundation, the Semiconductor Research Corporation, Intel Corporation, and the State of Utah.
+BIO GOES HERE. MUST BE ONE PARAGRAPH
