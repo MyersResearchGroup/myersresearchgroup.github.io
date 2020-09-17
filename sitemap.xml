@@ -13,8 +13,52 @@
   </url>
   
   <url>
+    <loc>/author/chris-myers/</loc>
+  </url>
+  
+  <url>
     <loc>/courses/example/example2/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/author/jet-mante/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/lukas-buecherl/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/pedro-fontanarrosa/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/logan-terry/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/ben-hatch/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/eric-yu/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/james-scholz/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/payton-thomas/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/michael-zhang/</loc>
+  </url>
+  
+  <url>
+    <loc>/author/zach-zundel/</loc>
   </url>
   
   <url>
@@ -1063,31 +1107,11 @@
   </url>
   
   <url>
-    <loc>/people-genetic-logic-lab/</loc>
-  </url>
-  
-  <url>
     <loc>/research/analog-circuit-design-verification/</loc>
   </url>
   
   <url>
     <loc>/research/asynchronous-circuit-design-verification/</loc>
-  </url>
-  
-  <url>
-    <loc>/tools/atacs/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/ben-hatch/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/chris-myers/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/eric-yu/</loc>
   </url>
   
   <url>
@@ -1103,39 +1127,11 @@
   </url>
   
   <url>
-    <loc>/tools/ibiosim/</loc>
+    <loc>/people-genetic-logic-lab/</loc>
   </url>
   
   <url>
-    <loc>/author/james-scholz/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/jet-mante/</loc>
-  </url>
-  
-  <url>
-    <loc>/tools/lema/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/logan-terry/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/lukas-buecherl/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/michael-zhang/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/payton-thomas/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/pedro-fontanarrosa/</loc>
+    <loc>/tools/</loc>
   </url>
   
   <url>
@@ -1159,27 +1155,7 @@
   </url>
   
   <url>
-    <loc>/tools/sbol-canvas/</loc>
-  </url>
-  
-  <url>
-    <loc>/tools/sbol-libraries/</loc>
-  </url>
-  
-  <url>
-    <loc>/tools/sbol-validator/</loc>
-  </url>
-  
-  <url>
-    <loc>/tools/sboldesigner/</loc>
-  </url>
-  
-  <url>
-    <loc>/tools/synbiohub/</loc>
-  </url>
-  
-  <url>
-    <loc>/tools/</loc>
+    <loc>/author/sbol-canvas/</loc>
   </url>
   
 </urlset>

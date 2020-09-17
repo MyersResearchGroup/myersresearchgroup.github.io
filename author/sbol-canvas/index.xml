@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SBOL Canvas | Genetic Logic Lab</title>
-    <link>/tools/sbol-canvas/</link>
-      <atom:link href="/tools/sbol-canvas/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/sbol-canvas/</link>
+      <atom:link href="/author/sbol-canvas/index.xml" rel="self" type="application/rss+xml" />
     <description>SBOL Canvas</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
     <image>
-      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <url>/author/sbol-canvas/avatar_hua4e41d73763dd09dfb971ac843e0bfb0_10275_270x270_fill_q90_lanczos_center.JPG</url>
       <title>SBOL Canvas</title>
-      <link>/tools/sbol-canvas/</link>
+      <link>/author/sbol-canvas/</link>
     </image>
     
   </channel>
