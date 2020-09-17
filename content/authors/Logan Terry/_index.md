@@ -10,14 +10,14 @@ authors:
 superuser: false
 
 # Role/position
-role: Graduate Researcher, Ph.D.
+role: Graduate Researcher, M.S.
 
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 810 for alum undergrads
 weight: 300
 
 # Organizations/Affiliations
 organizations:
-- name: University of Boulder, Colorado
+- name: University of Utah
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,15 +45,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/randoom97
@@ -74,5 +68,4 @@ user_groups:
 ---
 
 
-What do the three images above have in common? The answer is that they can all be modeled and analyzed by methods being developed in the Myers Research Group. The first image is a timed asynchronous multiplier designed by Kip Killpack, the second image is a fully analog decoder for digital communication applications designed by several students as part of a joint project with Professors Christian Schlegel and Reid Harrison, and the third image is the Phage Lambda virus. Since 1991, we have been developing methods and tools for the design of timed asynchronous circuits. Since 2002, our research group has been extending our modeling and analysis methods to analyze and reason about both analog/mixed-signal circuits, as well as, biological systems. For more information about the research being conducted in our group, please see our research pages.\
-Over the years, this research has been supported by the National Science Foundation, the Semiconductor Research Corporation, Intel Corporation, and the State of Utah.
+BIO GOES HERE. MUST BE ONE PARAGRAPH

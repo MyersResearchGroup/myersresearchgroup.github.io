@@ -53,7 +53,7 @@ social:
   link: https://orcid.org/0000-0002-0535-2684
 # - icon: google-scholar
 #   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#   link: 
 - icon: github
   icon_pack: fab
   link: https://github.com/Fontanapink
@@ -74,5 +74,4 @@ user_groups:
 ---
 
 
-What do the three images above have in common? The answer is that they can all be modeled and analyzed by methods being developed in the Myers Research Group. The first image is a timed asynchronous multiplier designed by Kip Killpack, the second image is a fully analog decoder for digital communication applications designed by several students as part of a joint project with Professors Christian Schlegel and Reid Harrison, and the third image is the Phage Lambda virus. Since 1991, we have been developing methods and tools for the design of timed asynchronous circuits. Since 2002, our research group has been extending our modeling and analysis methods to analyze and reason about both analog/mixed-signal circuits, as well as, biological systems. For more information about the research being conducted in our group, please see our research pages.\
-Over the years, this research has been supported by the National Science Foundation, the Semiconductor Research Corporation, Intel Corporation, and the State of Utah.
+BIO GOES HERE. MUST BE ONE PARAGRAPH
