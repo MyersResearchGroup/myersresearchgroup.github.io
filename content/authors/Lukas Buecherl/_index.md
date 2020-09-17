@@ -9,6 +9,15 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+university: CU
+
+department:
+- Electrical and Computer Engineering
+
+projects:
+- <a href="https://synbioks.github.io/">SBKS</a>
+- <a href="https://sbolcanvas.org/canvas/">SBOLCanvas</a>
+
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 810 for alum undergrads
 weight: 200
 
@@ -45,12 +54,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: google-scholar
-  icon_pack: ai
-  link: 
+- icon: user-graduate
+  icon_pack: fas
+  link: https://www.colorado.edu/ecee/
 - icon: github
   icon_pack: fab
   link: https://github.com/lukasbuecherl
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-1450-5638
+- icon: university-logo
+  icon_pack: Custom_University
+  link: https://www.colorado.edu/ecee
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

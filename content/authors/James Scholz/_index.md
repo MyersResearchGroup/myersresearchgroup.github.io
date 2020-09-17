@@ -9,6 +9,12 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+university: Utah
+
+
+department:
+- Electrical and Computer Engineering
+
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 810 for alum undergrads
 weight: 400
 
@@ -28,6 +34,10 @@ interests:
 - Genetic Circuit Design
 - Genetic Circuit Modeling
 
+projects:
+- <a href="https://synbioks.github.io/">SBKS</a>
+- <a href="https://sbolcanvas.org/canvas/">SBOLCanvas</a>
+
 education:
   courses:
   - course: B.S. in Computer Engineering
@@ -39,12 +49,18 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: user-graduate
+- icon: user
   icon_pack: fas
   link: https://jvscholz.com/
 - icon: github
   icon_pack: fab
   link: https://github.com/jvscholz
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-8762-8444
+- icon: university-logo
+  icon_pack: Custom_University
+  link: https://www.colorado.edu/ecee
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
