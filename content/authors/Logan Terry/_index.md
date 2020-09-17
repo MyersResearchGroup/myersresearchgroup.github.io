@@ -4,13 +4,16 @@ title: Logan Terry
 
 # Username (this should match the folder name)
 authors:
-- Pedro Fontanarrosa
+- Logan Terry
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: Graduate Researcher, Ph.D.
+
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 810 for alum undergrads
+weight: 300
 
 # Organizations/Affiliations
 organizations:

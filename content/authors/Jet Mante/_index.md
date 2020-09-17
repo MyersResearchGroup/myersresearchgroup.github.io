@@ -4,7 +4,9 @@ title: Jet Mante
 
 # Username (this should match the folder name)
 authors:
-- Pedro Fontanarrosa
+- Jet Mante
+
+weight: 200
 
 # Is this the primary user of the site?
 superuser: false
