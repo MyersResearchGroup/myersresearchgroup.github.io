@@ -30,7 +30,7 @@ projects:
 
 
 department:
-- Electrical and Computer Engineering
+- School of Computing
 
 interests:
 - Synthetic Biology
@@ -60,7 +60,7 @@ social:
   link: https://orcid.org/0000-0002-8762-8444
 - icon: university-logo
   icon_pack: Custom_University
-  link: https://www.colorado.edu/ecee
+  link: https://www.cs.utah.edu/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -78,4 +78,4 @@ user_groups:
 ---
 
 
-BIO GOES HERE. MUST BE ONE PARAGRAPH
+Eric Yu is a second-year undergraduate currently studing Computer Science the University of Utah. He is interested in synthetic biology and distributed search, with his current focuses being genetic sequence search tools. In his free time, he enjoys hiking, skiing, and playng tennis.
