@@ -36,18 +36,18 @@ interests:
 - Synthetic Biology
 - Genetic Circuit Design
 - Genetic Circuit Modeling
+- Lab Automation
+- DIY Arduino projects
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: PhD in Biomedical Engineering
+    institution: University of Colorado Boulder
+    year: 2025
+
+  - course: BSc in Electrical Engineering with Minor in Computer Science
+    institution: University of Ulm, Germany
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -83,4 +83,4 @@ user_groups:
 ---
 
 
-BIO GOES HERE. MUST BE ONE PARAGRAPH
+Lukas Buecherl's interest lies in synthetic biology and its possible applications in improving human lives. He is currently working in computational synthetic biology and plans to extend his knowledge with wet lab experience. After obtaining a Bachelor of Science in electrical engineering from the University of Ulm Germany in 2019, he started his PhD at the University of Utah before joining the interdisciplinary quantitative (IQ) biology program at CU Boulder. In his free time, Lukas enjoys hiking or playing the guitar.
