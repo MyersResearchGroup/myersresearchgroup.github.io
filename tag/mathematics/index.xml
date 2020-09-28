@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Mathematics&#34; | Genetic Logic Lab</title>
+    <link>/tag/mathematics/</link>
+      <atom:link href="/tag/mathematics/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Mathematics&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Sep 2008 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Mathematics&#34;</title>
+      <link>/tag/mathematics/</link>
+    </image>
+    
+    <item>
+      <title>Production-Passage-Time Approximation: A New Approximation Method to Accelerate the Simulation Process of Enzymatic Reactions</title>
+      <link>/publication/productionpassagetime-approximation-new-kuwahara-2008/</link>
+      <pubDate>Mon, 01 Sep 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/productionpassagetime-approximation-new-kuwahara-2008/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

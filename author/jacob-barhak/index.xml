@@ -5,7 +5,7 @@
     <link>/author/jacob-barhak/</link>
       <atom:link href="/author/jacob-barhak/index.xml" rel="self" type="application/rss+xml" />
     <description>Jacob Barhak</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
       <title>Jacob Barhak</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>Toward Reproducible Disease Models Using the Systems Biology Markup Language</title>
-      <link>/publication/watanabe-toward-2019/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/watanabe-toward-2019/</guid>
+      <title>Toward Reproducible Disease Models Using the Systems Biology Markup Language:</title>
+      <link>/publication/reproducible-disease-models-watanabe-2018/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/reproducible-disease-models-watanabe-2018/</guid>
       <description></description>
     </item>
     

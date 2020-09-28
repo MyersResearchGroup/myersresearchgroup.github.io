@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ion Moraru | Genetic Logic Lab</title>
+    <link>/author/ion-moraru/</link>
+      <atom:link href="/author/ion-moraru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ion Moraru</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>Ion Moraru</title>
+      <link>/author/ion-moraru/</link>
+    </image>
+    
+    <item>
+      <title>SBML Level 3 Package: Hierarchical Model Composition, Version 1 Release 3</title>
+      <link>/publication/sbml-level-package-smith-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/sbml-level-package-smith-2015/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

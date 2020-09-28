@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;equivalent circuits&#34; | Genetic Logic Lab</title>
+    <link>/tag/equivalent-circuits/</link>
+      <atom:link href="/tag/equivalent-circuits/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;equivalent circuits&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 May 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;equivalent circuits&#34;</title>
+      <link>/tag/equivalent-circuits/</link>
+    </image>
+    
+    <item>
+      <title>Utilizing Stochastic Model Checking to Analyze Genetic Circuits</title>
+      <link>/publication/utilizing-stochastic-model-madsen-2012/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/utilizing-stochastic-model-madsen-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

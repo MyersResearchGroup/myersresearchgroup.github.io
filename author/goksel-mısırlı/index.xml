@@ -5,7 +5,7 @@
     <link>/author/goksel-m%C4%B1s%C4%B1rl%C4%B1/</link>
       <atom:link href="/author/goksel-m%C4%B1s%C4%B1rl%C4%B1/index.xml" rel="self" type="application/rss+xml" />
     <description>Göksel Mısırlı</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Feb 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Apr 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
       <title>Göksel Mısırlı</title>
@@ -13,18 +13,50 @@
     </image>
     
     <item>
+      <title>SBOL Visual 2 Ontology</title>
+      <link>/publication/sbol-visual-ontology-misirli-2020/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/sbol-visual-ontology-misirli-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Synthetic Biology Open Language (SBOL) Version 3: Simplified Data Exchange for Bioengineering</title>
+      <link>/publication/synthetic-biology-open-mclaughlin-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/synthetic-biology-open-mclaughlin-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SBOL-OWL: An Ontological Approach for Formal and Semantic Representation of Synthetic Biology Information</title>
+      <link>/publication/sbolowl-ontological-approach-misirli-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/sbolowl-ontological-approach-misirli-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harmonizing Semantic Annotations for Computational Models in Biology</title>
+      <link>/publication/harmonizing-semantic-annotations-neal-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/harmonizing-semantic-annotations-neal-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>SynBioHub: A Standards-Enabled Design Repository for Synthetic Biology</title>
-      <link>/publication/mclaughlin-synbiohub-2018/</link>
+      <link>/publication/syn-bio-hub-standards-enabled-design-mclaughlin-2018/</link>
       <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/mclaughlin-synbiohub-2018/</guid>
+      <guid>/publication/syn-bio-hub-standards-enabled-design-mclaughlin-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Standard-Enabled Workflow for Synthetic Biology</title>
-      <link>/publication/myers-standard-enabled-2017/</link>
+      <link>/publication/standardenabled-workflow-synthetic-myers-2017/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/myers-standard-enabled-2017/</guid>
+      <guid>/publication/standardenabled-workflow-synthetic-myers-2017/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>/author/martin-golebiewski/</link>
       <atom:link href="/author/martin-golebiewski/index.xml" rel="self" type="application/rss+xml" />
     <description>Martin Golebiewski</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
       <title>Martin Golebiewski</title>
@@ -13,18 +13,82 @@
     </image>
     
     <item>
+      <title>Specifications of Standards in Systems and Synthetic Biology: Status and Developments in 2020</title>
+      <link>/publication/specifications-standards-systems-schreiber-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/specifications-standards-systems-schreiber-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The First 10 Years of the International Coordination Network for Standards in Systems and Synthetic Biology (COMBINE)</title>
+      <link>/publication/first-10-years-waltemath-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/first-10-years-waltemath-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specifications of Standards in Systems and Synthetic Biology: Status and Developments in 2019</title>
+      <link>/publication/specifications-standards-systems-schreiber-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/specifications-standards-systems-schreiber-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harmonizing Semantic Annotations for Computational Models in Biology</title>
+      <link>/publication/harmonizing-semantic-annotations-neal-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/harmonizing-semantic-annotations-neal-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Specifications of Standards in Systems and Synthetic Biology: Status and Developments in 2017</title>
-      <link>/publication/schreiber-specifications-2018/</link>
+      <link>/publication/specifications-standards-systems-schreiber-2018/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/schreiber-specifications-2018/</guid>
+      <guid>/publication/specifications-standards-systems-schreiber-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Brief History of COMBINE</title>
+      <link>/publication/brief-history-combine-myers-2017/</link>
+      <pubDate>Fri, 01 Dec 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/brief-history-combine-myers-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Specifications of Standards in Systems and Synthetic Biology: Status and Developments in 2016</title>
-      <link>/publication/schreiber-specifications-2016/</link>
+      <link>/publication/specifications-standards-systems-schreiber-2016/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/schreiber-specifications-2016/</guid>
+      <guid>/publication/specifications-standards-systems-schreiber-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specifications of Standards in Systems and Synthetic Biology</title>
+      <link>/publication/specifications-standards-systems-schreiber-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/specifications-standards-systems-schreiber-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promoting Coordinated Development of Community-Based Information Standards for Modeling in Biology: The COMBINE Initiative</title>
+      <link>/publication/promoting-coordinated-development-hucka-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/promoting-coordinated-development-hucka-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meeting Report from the Fourth Meeting of the Computational Modeling in Biology Network (COMBINE)</title>
+      <link>/publication/meeting-report-fourth-waltemath-2014/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/meeting-report-fourth-waltemath-2014/</guid>
       <description></description>
     </item>
     

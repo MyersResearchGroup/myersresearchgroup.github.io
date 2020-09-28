@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Robert A. Thacker | Genetic Logic Lab</title>
+    <link>/author/robert-a.-thacker/</link>
+      <atom:link href="/author/robert-a.-thacker/index.xml" rel="self" type="application/rss+xml" />
+    <description>Robert A. Thacker</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Apr 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>Robert A. Thacker</title>
+      <link>/author/robert-a.-thacker/</link>
+    </image>
+    
+    <item>
+      <title>Automatic Abstraction for Verification of Cyber-Physical Systems</title>
+      <link>/publication/automatic-abstraction-verification-thacker-2010/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/automatic-abstraction-verification-thacker-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A New Verification Method for Embedded Systems</title>
+      <link>/publication/new-verification-method-thacker-2009-a/</link>
+      <pubDate>Thu, 01 Oct 2009 00:00:00 +0000</pubDate>
+      <guid>/publication/new-verification-method-thacker-2009-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Implicit Methods for Timed Circuit Synthesis</title>
+      <link>/publication/implicit-methods-timed-thacker-1998/</link>
+      <pubDate>Mon, 01 Jun 1998 00:00:00 +0000</pubDate>
+      <guid>/publication/implicit-methods-timed-thacker-1998/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

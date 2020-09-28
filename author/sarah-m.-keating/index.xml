@@ -5,7 +5,7 @@
     <link>/author/sarah-m.-keating/</link>
       <atom:link href="/author/sarah-m.-keating/index.xml" rel="self" type="application/rss+xml" />
     <description>Sarah M. Keating</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Mar 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jul 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
       <title>Sarah M. Keating</title>
@@ -13,10 +13,58 @@
     </image>
     
     <item>
+      <title>Systems Biology Markup Language (SBML) Level 3 Package: Distributions, Version 1, Release 1</title>
+      <link>/publication/systems-biology-markup-smith-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/systems-biology-markup-smith-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specifications of Standards in Systems and Synthetic Biology: Status and Developments in 2020</title>
+      <link>/publication/specifications-standards-systems-schreiber-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/specifications-standards-systems-schreiber-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specifications of Standards in Systems and Synthetic Biology: Status and Developments in 2019</title>
+      <link>/publication/specifications-standards-systems-schreiber-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/specifications-standards-systems-schreiber-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Systems Biology Markup Language (SBML): Language Specification for Level 3 Version 2 Core Release 2</title>
+      <link>/publication/systems-biology-markup-hucka-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/systems-biology-markup-hucka-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Specifications of Standards in Systems and Synthetic Biology: Status and Developments in 2017</title>
-      <link>/publication/schreiber-specifications-2018/</link>
+      <link>/publication/specifications-standards-systems-schreiber-2018/</link>
       <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/schreiber-specifications-2018/</guid>
+      <guid>/publication/specifications-standards-systems-schreiber-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Systems Biology Markup Language (SBML): Language Specification for Level 3 Version 2 Core</title>
+      <link>/publication/systems-biology-markup-hucka-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/systems-biology-markup-hucka-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems Biology Markup Language (SBML) Level 2 Version 5: Structures and Facilities for Model Definitions</title>
+      <link>/publication/systems-biology-markup-hucka-2015/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/systems-biology-markup-hucka-2015/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>/author/meher-samineni/</link>
       <atom:link href="/author/meher-samineni/index.xml" rel="self" type="application/rss+xml" />
     <description>Meher Samineni</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
       <title>Meher Samineni</title>
@@ -13,42 +13,66 @@
     </image>
     
     <item>
+      <title>pySBOL: A Python Package for Genetic Design Automation and Standardization</title>
+      <link>/publication/py-sbol-python-package-bartley-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/py-sbol-python-package-bartley-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Biology Open Language (SBOL) Version 2.3</title>
+      <link>/publication/synthetic-biology-open-madsen-2019-a/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/synthetic-biology-open-madsen-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Software Compliance Testing for Workflows Using the Synthetic Biology Open Language</title>
+      <link>/publication/software-compliance-testing-samineni-2019/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/software-compliance-testing-samineni-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Synthetic Biology Open Language (SBOL) Version 2.2.0</title>
-      <link>/publication/cox-synthetic-2018-1/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/cox-synthetic-2018-1/</guid>
+      <link>/publication/synthetic-biology-open-cox-2018-a/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/synthetic-biology-open-cox-2018-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Validator and Converter for the Synthetic Biology Open Language</title>
-      <link>/publication/zundel-validator-2017-1/</link>
+      <link>/publication/validator-converter-synthetic-zundel-2017/</link>
       <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/zundel-validator-2017-1/</guid>
+      <guid>/publication/validator-converter-synthetic-zundel-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Standard-Enabled Workflow for Synthetic Biology</title>
-      <link>/publication/myers-standard-enabled-2017/</link>
+      <link>/publication/standardenabled-workflow-synthetic-myers-2017/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/myers-standard-enabled-2017/</guid>
+      <guid>/publication/standardenabled-workflow-synthetic-myers-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthetic Biology Open Language (SBOL) Version 2.1.0</title>
-      <link>/publication/beal-synthetic-2016/</link>
+      <link>/publication/synthetic-biology-open-beal-2016/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/beal-synthetic-2016/</guid>
+      <guid>/publication/synthetic-biology-open-beal-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>libSBOLj 2.0: A Java Library to Support SBOL 2.0</title>
-      <link>/publication/zhang-libsbolj-2015/</link>
+      <link>/publication/lib-sbo-lj-java-library-zhang-2015/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/zhang-libsbolj-2015/</guid>
+      <guid>/publication/lib-sbo-lj-java-library-zhang-2015/</guid>
       <description></description>
     </item>
     

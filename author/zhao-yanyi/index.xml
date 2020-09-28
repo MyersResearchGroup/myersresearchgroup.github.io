@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhao Yanyi | Genetic Logic Lab</title>
+    <link>/author/zhao-yanyi/</link>
+      <atom:link href="/author/zhao-yanyi/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhao Yanyi</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Dec 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>Zhao Yanyi</title>
+      <link>/author/zhao-yanyi/</link>
+    </image>
+    
+    <item>
+      <title>Application of Synchronous Synthesis Tools for High-Level Asynchronous Design</title>
+      <link>/publication/application-synchronous-synthesis-yanyi-2004/</link>
+      <pubDate>Wed, 01 Dec 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/application-synchronous-synthesis-yanyi-2004/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

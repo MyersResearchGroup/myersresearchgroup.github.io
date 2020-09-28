@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S. Little | Genetic Logic Lab</title>
+    <link>/author/s.-little/</link>
+      <atom:link href="/author/s.-little/index.xml" rel="self" type="application/rss+xml" />
+    <description>S. Little</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Sep 2020 19:54:54 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>S. Little</title>
+      <link>/author/s.-little/</link>
+    </image>
+    
+    <item>
+      <title>The Case for Analog Circuit Verification</title>
+      <link>/publication/case-analog-circuit-myers-/</link>
+      <pubDate>Sun, 27 Sep 2020 19:54:54 +0000</pubDate>
+      <guid>/publication/case-analog-circuit-myers-/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verification of Timed Circuits with Failure-Directed Abstractions</title>
+      <link>/publication/verification-timed-circuits-haozheng-2006/</link>
+      <pubDate>Wed, 01 Mar 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/verification-timed-circuits-haozheng-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analog MAP Decoder for (8, 4) Hamming Code in Subthreshold CMOS</title>
+      <link>/publication/analog-map-decoder-winstead-2001-a/</link>
+      <pubDate>Fri, 01 Jun 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/analog-map-decoder-winstead-2001-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analog MAP Decoder for (8, 4) Hamming Code in Subthreshold CMOS</title>
+      <link>/publication/analog-map-decoder-winstead-2001/</link>
+      <pubDate>Thu, 01 Mar 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/analog-map-decoder-winstead-2001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

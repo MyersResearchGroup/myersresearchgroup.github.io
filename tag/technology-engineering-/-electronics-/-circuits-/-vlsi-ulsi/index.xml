@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Technology &amp; Engineering / Electronics / Circuits / VLSI &amp; ULSI&#34; | Genetic Logic Lab</title>
+    <link>/tag/technology-engineering-/-electronics-/-circuits-/-vlsi-ulsi/</link>
+      <atom:link href="/tag/technology-engineering-/-electronics-/-circuits-/-vlsi-ulsi/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Technology &amp; Engineering / Electronics / Circuits / VLSI &amp; ULSI&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Technology &amp; Engineering / Electronics / Circuits / VLSI &amp; ULSI&#34;</title>
+      <link>/tag/technology-engineering-/-electronics-/-circuits-/-vlsi-ulsi/</link>
+    </image>
+    
+    <item>
+      <title>Asynchronous Circuit Design</title>
+      <link>/publication/asynchronous-circuit-design-myers-2001/</link>
+      <pubDate>Sun, 01 Jul 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/asynchronous-circuit-design-myers-2001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

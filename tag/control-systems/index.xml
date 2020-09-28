@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Control systems&#34; | Genetic Logic Lab</title>
+    <link>/tag/control-systems/</link>
+      <atom:link href="/tag/control-systems/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Control systems&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Control systems&#34;</title>
+      <link>/tag/control-systems/</link>
+    </image>
+    
+    <item>
+      <title>Design of Mixed-Signal Systems With Asynchronous Control</title>
+      <link>/publication/design-mixed-signal-systems-dubikhin-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/design-mixed-signal-systems-dubikhin-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synchronous Interlocked Pipelines</title>
+      <link>/publication/synchronous-interlocked-pipelines-jacobson-2002/</link>
+      <pubDate>Mon, 01 Apr 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/synchronous-interlocked-pipelines-jacobson-2002/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

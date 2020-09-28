@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric G. Mercer | Genetic Logic Lab</title>
+    <link>/author/eric-g.-mercer/</link>
+      <atom:link href="/author/eric-g.-mercer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eric G. Mercer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2001 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>Eric G. Mercer</title>
+      <link>/author/eric-g.-mercer/</link>
+    </image>
+    
+    <item>
+      <title>Improved POSET Timing Analysis in Timed Petri Nets</title>
+      <link>/publication/improved-poset-timing-mercer-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/improved-poset-timing-mercer-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stochastic Cycle Period Analysis in Timed Circuits</title>
+      <link>/publication/stochastic-cycle-period-mercer-1999/</link>
+      <pubDate>Sat, 01 May 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/stochastic-cycle-period-mercer-1999/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

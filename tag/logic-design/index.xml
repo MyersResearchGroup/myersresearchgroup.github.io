@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;logic design&#34; | Genetic Logic Lab</title>
+    <link>/tag/logic-design/</link>
+      <atom:link href="/tag/logic-design/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;logic design&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;logic design&#34;</title>
+      <link>/tag/logic-design/</link>
+    </image>
+    
+    <item>
+      <title>Design of Asynchronous Genetic Circuits</title>
+      <link>/publication/design-asynchronous-genetic-nguyen-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/design-asynchronous-genetic-nguyen-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited: Advances in Formal Methods for the Design of Analog/Mixed-Signal Systems</title>
+      <link>/publication/invited-advances-formal-dubikhin-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/invited-advances-formal-dubikhin-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Design of Mixed-Signal Systems With Asynchronous Control</title>
+      <link>/publication/design-mixed-signal-systems-dubikhin-2016/</link>
+      <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
+      <guid>/publication/design-mixed-signal-systems-dubikhin-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Computational Synthetic Biology: Progress and the Road Ahead</title>
+      <link>/publication/computational-synthetic-biology-myers-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/computational-synthetic-biology-myers-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of Timed Circuits Based on Decomposition</title>
+      <link>/publication/synthesis-timed-circuits-yoneda-2007/</link>
+      <pubDate>Sun, 01 Jul 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/synthesis-timed-circuits-yoneda-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Design of a Genetic Muller C-Element</title>
+      <link>/publication/design-genetic-muller-nguyen-2007-a/</link>
+      <pubDate>Thu, 01 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/design-genetic-muller-nguyen-2007-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Design of a Genetic Muller C-Element</title>
+      <link>/publication/design-genetic-muller-nguyen-2007/</link>
+      <pubDate>Thu, 01 Mar 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/design-genetic-muller-nguyen-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symbolic Model Checking of Analog/Mixed-Signal Circuits</title>
+      <link>/publication/symbolic-model-checking-walter-2007-a/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/symbolic-model-checking-walter-2007-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symbolic Model Checking of Analog/Mixed-Signal Circuits</title>
+      <link>/publication/symbolic-model-checking-walter-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/symbolic-model-checking-walter-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verification of Analog/Mixed-Signal Circuits Using Labeled Hybrid Petri Nets</title>
+      <link>/publication/verification-analog-mixed-signal-little-2006/</link>
+      <pubDate>Wed, 01 Nov 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/verification-analog-mixed-signal-little-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Asynchronous Instruction Length Decoder</title>
+      <link>/publication/asynchronous-instruction-length-stevens-2001/</link>
+      <pubDate>Thu, 01 Feb 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/asynchronous-instruction-length-stevens-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timed Circuit Verification Using TEL Structures</title>
+      <link>/publication/timed-circuit-verification-belluomini-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/timed-circuit-verification-belluomini-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Average-Case Optimized Technology Mapping of One-Hot Domino Circuits</title>
+      <link>/publication/averagecase-optimized-technology-wei-chunchou-1998/</link>
+      <pubDate>Sun, 01 Mar 1998 00:00:00 +0000</pubDate>
+      <guid>/publication/averagecase-optimized-technology-wei-chunchou-1998/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Timing Analysis Algorithms for Timed State Space Exploration</title>
+      <link>/publication/efficient-timing-analysis-belluomini-1997/</link>
+      <pubDate>Tue, 01 Apr 1997 00:00:00 +0000</pubDate>
+      <guid>/publication/efficient-timing-analysis-belluomini-1997/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Technology Mapping of Timed Circuits</title>
+      <link>/publication/technology-mapping-timed-myers-1995/</link>
+      <pubDate>Mon, 01 May 1995 00:00:00 +0000</pubDate>
+      <guid>/publication/technology-mapping-timed-myers-1995/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of Timed Asynchronous Circuits</title>
+      <link>/publication/synthesis-timed-asynchronous-myers-1993/</link>
+      <pubDate>Tue, 01 Jun 1993 00:00:00 +0000</pubDate>
+      <guid>/publication/synthesis-timed-asynchronous-myers-1993/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthesis of Timed Asynchronous Circuits</title>
+      <link>/publication/synthesis-timed-asynchronous-myers-1992/</link>
+      <pubDate>Thu, 01 Oct 1992 00:00:00 +0000</pubDate>
+      <guid>/publication/synthesis-timed-asynchronous-myers-1992/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

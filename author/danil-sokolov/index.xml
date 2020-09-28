@@ -5,7 +5,7 @@
     <link>/author/danil-sokolov/</link>
       <atom:link href="/author/danil-sokolov/index.xml" rel="self" type="application/rss+xml" />
     <description>Danil Sokolov</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jul 2017 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
       <title>Danil Sokolov</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Model Discovery for Analog/Mixed-Signal Circuits</title>
+      <link>/publication/model-discovery-analog-dubikhin-2017/</link>
+      <pubDate>Sat, 01 Jul 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/model-discovery-analog-dubikhin-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Invited: Advances in Formal Methods for the Design of Analog/Mixed-Signal Systems</title>
+      <link>/publication/invited-advances-formal-dubikhin-2017/</link>
+      <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/invited-advances-formal-dubikhin-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Design of Mixed-Signal Systems With Asynchronous Control</title>
-      <link>/publication/dubikhin-design-2016/</link>
+      <link>/publication/design-mixed-signal-systems-dubikhin-2016/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/dubikhin-design-2016/</guid>
+      <guid>/publication/design-mixed-signal-systems-dubikhin-2016/</guid>
       <description></description>
     </item>
     

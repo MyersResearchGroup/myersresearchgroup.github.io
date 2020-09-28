@@ -5,7 +5,7 @@
     <link>/tag/computational-modeling/</link>
       <atom:link href="/tag/computational-modeling/index.xml" rel="self" type="application/rss+xml" />
     <description>&#34;Computational modeling&#34;</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
       <title>&#34;Computational modeling&#34;</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>SBML Level 3: An Extensible Format for the Exchange and Reuse of Biological Models</title>
+      <link>/publication/sbml-level-extensible-keating-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/sbml-level-extensible-keating-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Toward Community Standards and Software for Whole-Cell Modeling</title>
-      <link>/publication/waltemath-toward-2016/</link>
+      <link>/publication/community-standards-software-waltemath-2016/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/waltemath-toward-2016/</guid>
+      <guid>/publication/community-standards-software-waltemath-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Promoting Coordinated Development of Community-Based Information Standards for Modeling in Biology: The COMBINE Initiative</title>
+      <link>/publication/promoting-coordinated-development-hucka-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/promoting-coordinated-development-hucka-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An Improvement in Partial Order Reduction Using Behavioral Analysis</title>
+      <link>/publication/improvement-partial-order-zhang-2012/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/improvement-partial-order-zhang-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Utilizing Stochastic Model Checking to Analyze Genetic Circuits</title>
+      <link>/publication/utilizing-stochastic-model-madsen-2012/</link>
+      <pubDate>Tue, 01 May 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/utilizing-stochastic-model-madsen-2012/</guid>
       <description></description>
     </item>
     

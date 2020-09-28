@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;timing analysis algorithms&#34; | Genetic Logic Lab</title>
+    <link>/tag/timing-analysis-algorithms/</link>
+      <atom:link href="/tag/timing-analysis-algorithms/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;timing analysis algorithms&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 1997 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;timing analysis algorithms&#34;</title>
+      <link>/tag/timing-analysis-algorithms/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Timing Analysis Algorithms for Timed State Space Exploration</title>
+      <link>/publication/efficient-timing-analysis-belluomini-1997/</link>
+      <pubDate>Tue, 01 Apr 1997 00:00:00 +0000</pubDate>
+      <guid>/publication/efficient-timing-analysis-belluomini-1997/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

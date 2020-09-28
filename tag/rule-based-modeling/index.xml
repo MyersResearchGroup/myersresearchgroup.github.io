@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;rule-based modeling&#34; | Genetic Logic Lab</title>
+    <link>/tag/rule-based-modeling/</link>
+      <atom:link href="/tag/rule-based-modeling/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;rule-based modeling&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;rule-based modeling&#34;</title>
+      <link>/tag/rule-based-modeling/</link>
+    </image>
+    
+    <item>
+      <title>Modeling and Design Automation of Biological Circuits and Systems</title>
+      <link>/publication/modeling-design-automation-miskov-zivanov-2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/modeling-design-automation-miskov-zivanov-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

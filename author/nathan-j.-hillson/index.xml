@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nathan J. Hillson | Genetic Logic Lab</title>
+    <link>/author/nathan-j.-hillson/</link>
+      <atom:link href="/author/nathan-j.-hillson/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nathan J. Hillson</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>Nathan J. Hillson</title>
+      <link>/author/nathan-j.-hillson/</link>
+    </image>
+    
+    <item>
+      <title>SBOL Visual: A Graphical Language for Genetic Designs</title>
+      <link>/publication/sbol-visual-graphical-quinn-2015/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/sbol-visual-graphical-quinn-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Synthetic Biology Open Language (SBOL) Provides a Community Standard for Communicating Designs in Synthetic Biology</title>
+      <link>/publication/synthetic-biology-open-galdzicki-2014/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/synthetic-biology-open-galdzicki-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

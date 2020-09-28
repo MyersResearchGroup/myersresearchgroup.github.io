@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Hierarchical Simulation&#34; | Genetic Logic Lab</title>
+    <link>/tag/hierarchical-simulation/</link>
+      <atom:link href="/tag/hierarchical-simulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Hierarchical Simulation&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Hierarchical Simulation&#34;</title>
+      <link>/tag/hierarchical-simulation/</link>
+    </image>
+    
+    <item>
+      <title>Hierarchical Stochastic Simulation Algorithm for SBML Models of Genetic Circuits</title>
+      <link>/publication/hierarchical-stochastic-simulation-watanabe-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/hierarchical-stochastic-simulation-watanabe-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

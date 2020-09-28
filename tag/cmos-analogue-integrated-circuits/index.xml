@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;CMOS analogue integrated circuits&#34; | Genetic Logic Lab</title>
+    <link>/tag/cmos-analogue-integrated-circuits/</link>
+      <atom:link href="/tag/cmos-analogue-integrated-circuits/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;CMOS analogue integrated circuits&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;CMOS analogue integrated circuits&#34;</title>
+      <link>/tag/cmos-analogue-integrated-circuits/</link>
+    </image>
+    
+    <item>
+      <title>CMOS Analog MAP Decoder for (8,4) Hamming Code</title>
+      <link>/publication/cmos-analog-map-winstead-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/cmos-analog-map-winstead-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analog Decoding of Product Codes</title>
+      <link>/publication/analog-decoding-product-winstead-2002/</link>
+      <pubDate>Sat, 01 Jun 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/analog-decoding-product-winstead-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analog Decoding of Product Codes</title>
+      <link>/publication/analog-decoding-product-winstead-2001/</link>
+      <pubDate>Sat, 01 Sep 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/analog-decoding-product-winstead-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analog MAP Decoder for (8, 4) Hamming Code in Subthreshold CMOS</title>
+      <link>/publication/analog-map-decoder-winstead-2001-a/</link>
+      <pubDate>Fri, 01 Jun 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/analog-map-decoder-winstead-2001-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analog MAP Decoder for (8, 4) Hamming Code in Subthreshold CMOS</title>
+      <link>/publication/analog-map-decoder-winstead-2001/</link>
+      <pubDate>Thu, 01 Mar 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/analog-map-decoder-winstead-2001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

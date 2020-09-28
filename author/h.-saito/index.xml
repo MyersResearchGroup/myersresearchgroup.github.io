@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>H. Saito | Genetic Logic Lab</title>
+    <link>/author/h.-saito/</link>
+      <atom:link href="/author/h.-saito/index.xml" rel="self" type="application/rss+xml" />
+    <description>H. Saito</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Dec 2007 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>H. Saito</title>
+      <link>/author/h.-saito/</link>
+    </image>
+    
+    <item>
+      <title>Scheduling Methods for Asynchronous Circuits with Bundled-Data Implementations Based on the Approximation of Start Times</title>
+      <link>/publication/scheduling-methods-asynchronous-saito-2007/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/scheduling-methods-asynchronous-saito-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Scheduling Method for Asynchronous Bundled-Data Implementations Based on The Completion of Data Operations</title>
+      <link>/publication/scheduling-method-asynchronous-saito-2005/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0000</pubDate>
+      <guid>/publication/scheduling-method-asynchronous-saito-2005/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

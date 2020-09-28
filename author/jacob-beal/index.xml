@@ -5,7 +5,7 @@
     <link>/author/jacob-beal/</link>
       <atom:link href="/author/jacob-beal/index.xml" rel="self" type="application/rss+xml" />
     <description>Jacob Beal</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
       <title>Jacob Beal</title>
@@ -13,50 +13,154 @@
     </image>
     
     <item>
+      <title>Synthetic Biology Open Language (SBOL) Version 3.0.0</title>
+      <link>/publication/synthetic-biology-open-baig-2020-a/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/synthetic-biology-open-baig-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Biology Open Language Visual (SBOL Visual) Version 2.2</title>
+      <link>/publication/synthetic-biology-open-baig-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/synthetic-biology-open-baig-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Long Journey towards Standards for Engineering Biosystems</title>
+      <link>/publication/long-journey-standards-beal-2020/</link>
+      <pubDate>Fri, 01 May 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/long-journey-standards-beal-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SBOL Visual 2 Ontology</title>
+      <link>/publication/sbol-visual-ontology-misirli-2020/</link>
+      <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/sbol-visual-ontology-misirli-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Synthetic Biology Open Language (SBOL) Version 3: Simplified Data Exchange for Bioengineering</title>
+      <link>/publication/synthetic-biology-open-mclaughlin-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/synthetic-biology-open-mclaughlin-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Communicating Structure and Function in Synthetic Biology Diagrams</title>
+      <link>/publication/communicating-structure-function-beal-2019/</link>
+      <pubDate>Thu, 01 Aug 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/communicating-structure-function-beal-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specifying Combinatorial Designs with the Synthetic Biology Open Language (SBOL)</title>
+      <link>/publication/specifying-combinatorial-designs-roehner-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/specifying-combinatorial-designs-roehner-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Biology Open Language (SBOL) Version 2.3</title>
+      <link>/publication/synthetic-biology-open-madsen-2019-a/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/synthetic-biology-open-madsen-2019-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Biology Open Language Visual (SBOL Visual) Version 2.1</title>
+      <link>/publication/synthetic-biology-open-madsen-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/synthetic-biology-open-madsen-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Synthetic Biology Open Language (SBOL) Version 2.2.0</title>
-      <link>/publication/cox-synthetic-2018-1/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/cox-synthetic-2018-1/</guid>
+      <link>/publication/synthetic-biology-open-cox-2018-a/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/synthetic-biology-open-cox-2018-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthetic Biology Open Language Visual (SBOL Visual) Version 2.0</title>
-      <link>/publication/cox-synthetic-2018/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>/publication/cox-synthetic-2018/</guid>
+      <link>/publication/synthetic-biology-open-cox-2018/</link>
+      <pubDate>Thu, 01 Mar 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/synthetic-biology-open-cox-2018/</guid>
       <description></description>
     </item>
     
     <item>
       <title>A Standard-Enabled Workflow for Synthetic Biology</title>
-      <link>/publication/myers-standard-enabled-2017/</link>
+      <link>/publication/standardenabled-workflow-synthetic-myers-2017/</link>
       <pubDate>Thu, 01 Jun 2017 00:00:00 +0000</pubDate>
-      <guid>/publication/myers-standard-enabled-2017/</guid>
+      <guid>/publication/standardenabled-workflow-synthetic-myers-2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Synthetic Biology Open Language (SBOL) Version 2.1.0</title>
-      <link>/publication/beal-synthetic-2016/</link>
+      <link>/publication/synthetic-biology-open-beal-2016/</link>
       <pubDate>Thu, 01 Dec 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/beal-synthetic-2016/</guid>
+      <guid>/publication/synthetic-biology-open-beal-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sharing Structure and Function in Biological Design with SBOL 2.0</title>
-      <link>/publication/roehner-sharing-2016/</link>
+      <link>/publication/sharing-structure-function-roehner-2016/</link>
       <pubDate>Wed, 01 Jun 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/roehner-sharing-2016/</guid>
+      <guid>/publication/sharing-structure-function-roehner-2016/</guid>
       <description></description>
     </item>
     
     <item>
       <title>libSBOLj 2.0: A Java Library to Support SBOL 2.0</title>
-      <link>/publication/zhang-libsbolj-2015/</link>
+      <link>/publication/lib-sbo-lj-java-library-zhang-2015/</link>
       <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
-      <guid>/publication/zhang-libsbolj-2015/</guid>
+      <guid>/publication/lib-sbo-lj-java-library-zhang-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SBOL Visual: A Graphical Language for Genetic Designs</title>
+      <link>/publication/sbol-visual-graphical-quinn-2015/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/sbol-visual-graphical-quinn-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Biology Open Language (SBOL) Version 2.0.0</title>
+      <link>/publication/synthetic-biology-open-bartley-2015/</link>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/synthetic-biology-open-bartley-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Proposed Data Model for the Next Version of the Synthetic Biology Open Language</title>
+      <link>/publication/proposed-data-model-roehner-2015/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/proposed-data-model-roehner-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Synthetic Biology Open Language (SBOL) Provides a Community Standard for Communicating Designs in Synthetic Biology</title>
+      <link>/publication/synthetic-biology-open-galdzicki-2014/</link>
+      <pubDate>Sun, 01 Jun 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/synthetic-biology-open-galdzicki-2014/</guid>
       <description></description>
     </item>
     

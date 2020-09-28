@@ -5,7 +5,7 @@
     <link>/author/tobias-czauderna/</link>
       <atom:link href="/author/tobias-czauderna/index.xml" rel="self" type="application/rss+xml" />
     <description>Tobias Czauderna</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
       <title>Tobias Czauderna</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>Specifications of Standards in Systems and Synthetic Biology: Status and Developments in 2020</title>
+      <link>/publication/specifications-standards-systems-schreiber-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/specifications-standards-systems-schreiber-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Toward Community Standards and Software for Whole-Cell Modeling</title>
-      <link>/publication/waltemath-toward-2016/</link>
+      <link>/publication/community-standards-software-waltemath-2016/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/waltemath-toward-2016/</guid>
+      <guid>/publication/community-standards-software-waltemath-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Meeting Report from the Fourth Meeting of the Computational Modeling in Biology Network (COMBINE)</title>
+      <link>/publication/meeting-report-fourth-waltemath-2014/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/meeting-report-fourth-waltemath-2014/</guid>
       <description></description>
     </item>
     

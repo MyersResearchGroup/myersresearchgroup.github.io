@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Scott Little | Genetic Logic Lab</title>
+    <link>/author/scott-little/</link>
+      <atom:link href="/author/scott-little/index.xml" rel="self" type="application/rss+xml" />
+    <description>Scott Little</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Aug 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>Scott Little</title>
+      <link>/author/scott-little/</link>
+    </image>
+    
+    <item>
+      <title>LEMA: A Tool for the Formal Verification of Digitally-Intensive Analog/Mixed-Signal Circuits</title>
+      <link>/publication/lema-tool-formal-fisher-2014/</link>
+      <pubDate>Fri, 01 Aug 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/lema-tool-formal-fisher-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verification of Analog/Mixed-Signal Circuits Using Labeled Hybrid Petri Nets</title>
+      <link>/publication/verification-analog-mixed-signal-little-2011/</link>
+      <pubDate>Fri, 01 Apr 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/verification-analog-mixed-signal-little-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analog/Mixed-Signal Circuit Verification Using Models Generated from Simulation Traces</title>
+      <link>/publication/analog-mixedsignal-circuit-little-2010/</link>
+      <pubDate>Thu, 01 Apr 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/analog-mixedsignal-circuit-little-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Modeling and Verification of Analog/Mixed-Signal Circuits Using Labeled Hybrid Petri Nets</title>
+      <link>/publication/efficient-modeling-verification-little-2008/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/efficient-modeling-verification-little-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verification of Analog/Mixed-Signal Circuits Using Symbolic Methods</title>
+      <link>/publication/verification-analog-mixed-signal-walter-2008/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/verification-analog-mixed-signal-walter-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Abstract Modeling and Simulation Aided Verification of Analog/Mixed-Signal Circuits</title>
+      <link>/publication/abstract-modeling-simulation-little-2008/</link>
+      <pubDate>Tue, 01 Jan 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/abstract-modeling-simulation-little-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Application of Automated Model Generation Techniques to Analog/Mixed-Signal Circuits</title>
+      <link>/publication/application-automated-model-little-2007/</link>
+      <pubDate>Sat, 01 Dec 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/application-automated-model-little-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analog/Mixed-Signal Circuit Verification Using Models Generated from Simulation Traces</title>
+      <link>/publication/analog-mixed-signal-circuit-little-2007-a/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/analog-mixed-signal-circuit-little-2007-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analog/Mixed-Signal Circuit Verification Using Models Generated from Simulation Traces</title>
+      <link>/publication/analog-mixed-signal-circuit-little-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/analog-mixed-signal-circuit-little-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bounded Model Checking of Analog and Mixed-Signal Circuits Using an SMT Solver</title>
+      <link>/publication/bounded-model-checking-walter-2007-a/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/bounded-model-checking-walter-2007-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bounded Model Checking of Analog and Mixed-Signal Circuits Using an SMT Solver</title>
+      <link>/publication/bounded-model-checking-walter-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/bounded-model-checking-walter-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symbolic Model Checking of Analog/Mixed-Signal Circuits</title>
+      <link>/publication/symbolic-model-checking-walter-2007-a/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/symbolic-model-checking-walter-2007-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Symbolic Model Checking of Analog/Mixed-Signal Circuits</title>
+      <link>/publication/symbolic-model-checking-walter-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      <guid>/publication/symbolic-model-checking-walter-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verification of Analog/Mixed-Signal Circuits Using Labeled Hybrid Petri Nets</title>
+      <link>/publication/verification-analog-mixed-signal-little-2006/</link>
+      <pubDate>Wed, 01 Nov 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/verification-analog-mixed-signal-little-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Case for Analog Circuit Verification</title>
+      <link>/publication/case-analog-circuit-myers-2006/</link>
+      <pubDate>Thu, 01 Jun 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/case-analog-circuit-myers-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verification of Analog and Mixed-Signal Circuits Using Timed Hybrid Petri Nets</title>
+      <link>/publication/verification-analog-mixed-signal-little-2004-a/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/verification-analog-mixed-signal-little-2004-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verification of Analog and Mixed-Signal Circuits Using Timed Hybrid Petri Nets</title>
+      <link>/publication/verification-analog-mixed-signal-little-2004/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>/publication/verification-analog-mixed-signal-little-2004/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verification of Timed Circuits with Failure Directed Abstractions</title>
+      <link>/publication/verification-timed-circuits-zheng-2003/</link>
+      <pubDate>Wed, 01 Oct 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/verification-timed-circuits-zheng-2003/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -5,7 +5,7 @@
     <link>/author/matthias-konig/</link>
       <atom:link href="/author/matthias-konig/index.xml" rel="self" type="application/rss+xml" />
     <description>Matthias König</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
       <title>Matthias König</title>
@@ -13,10 +13,74 @@
     </image>
     
     <item>
+      <title>SBML Level 3: An Extensible Format for the Exchange and Reuse of Biological Models</title>
+      <link>/publication/sbml-level-extensible-keating-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/sbml-level-extensible-keating-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systems Biology Markup Language (SBML) Level 3 Package: Distributions, Version 1, Release 1</title>
+      <link>/publication/systems-biology-markup-smith-2020/</link>
+      <pubDate>Wed, 01 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/systems-biology-markup-smith-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specifications of Standards in Systems and Synthetic Biology: Status and Developments in 2020</title>
+      <link>/publication/specifications-standards-systems-schreiber-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/specifications-standards-systems-schreiber-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The First 10 Years of the International Coordination Network for Standards in Systems and Synthetic Biology (COMBINE)</title>
+      <link>/publication/first-10-years-waltemath-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/first-10-years-waltemath-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Specifications of Standards in Systems and Synthetic Biology: Status and Developments in 2019</title>
+      <link>/publication/specifications-standards-systems-schreiber-2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/specifications-standards-systems-schreiber-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Systems Biology Markup Language (SBML): Language Specification for Level 3 Version 2 Core Release 2</title>
+      <link>/publication/systems-biology-markup-hucka-2019/</link>
+      <pubDate>Sat, 01 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/systems-biology-markup-hucka-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Harmonizing Semantic Annotations for Computational Models in Biology</title>
+      <link>/publication/harmonizing-semantic-annotations-neal-2019/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/harmonizing-semantic-annotations-neal-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dynamic Flux Balance Analysis Models in SBML</title>
+      <link>/publication/dynamic-flux-balance-watanabe-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/dynamic-flux-balance-watanabe-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Toward Community Standards and Software for Whole-Cell Modeling</title>
-      <link>/publication/waltemath-toward-2016/</link>
+      <link>/publication/community-standards-software-waltemath-2016/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/waltemath-toward-2016/</guid>
+      <guid>/publication/community-standards-software-waltemath-2016/</guid>
       <description></description>
     </item>
     

@@ -5,7 +5,7 @@
     <link>/author/leandro-h.-watanabe/</link>
       <atom:link href="/author/leandro-h.-watanabe/index.xml" rel="self" type="application/rss+xml" />
     <description>Leandro H. Watanabe</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
       <title>Leandro H. Watanabe</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Dynamic Flux Balance Analysis Models in SBML</title>
+      <link>/publication/dynamic-flux-balance-watanabe-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/dynamic-flux-balance-watanabe-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Toward Community Standards and Software for Whole-Cell Modeling</title>
-      <link>/publication/waltemath-toward-2016/</link>
+      <link>/publication/community-standards-software-waltemath-2016/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/waltemath-toward-2016/</guid>
+      <guid>/publication/community-standards-software-waltemath-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Stochastic Simulation of Genetic Circuits</title>
+      <link>/publication/hierarchical-stochastic-simulation-watanabe-2014-b/</link>
+      <pubDate>Tue, 01 Apr 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/hierarchical-stochastic-simulation-watanabe-2014-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hierarchical Stochastic Simulation Algorithm for SBML Models of Genetic Circuits</title>
+      <link>/publication/hierarchical-stochastic-simulation-watanabe-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/hierarchical-stochastic-simulation-watanabe-2014/</guid>
       <description></description>
     </item>
     

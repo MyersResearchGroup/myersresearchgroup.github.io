@@ -5,7 +5,7 @@
     <link>/author/wolfram-liebermeister/</link>
       <atom:link href="/author/wolfram-liebermeister/index.xml" rel="self" type="application/rss+xml" />
     <description>Wolfram Liebermeister</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Oct 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Aug 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
       <title>Wolfram Liebermeister</title>
@@ -13,10 +13,26 @@
     </image>
     
     <item>
+      <title>SBML Level 3: An Extensible Format for the Exchange and Reuse of Biological Models</title>
+      <link>/publication/sbml-level-extensible-keating-2020/</link>
+      <pubDate>Sat, 01 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/sbml-level-extensible-keating-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Toward Community Standards and Software for Whole-Cell Modeling</title>
-      <link>/publication/waltemath-toward-2016/</link>
+      <link>/publication/community-standards-software-waltemath-2016/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/waltemath-toward-2016/</guid>
+      <guid>/publication/community-standards-software-waltemath-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SBML Level 3 Package: Hierarchical Model Composition, Version 1 Release 3</title>
+      <link>/publication/sbml-level-package-smith-2015/</link>
+      <pubDate>Mon, 01 Jun 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/sbml-level-package-smith-2015/</guid>
       <description></description>
     </item>
     

@@ -14,9 +14,17 @@
     
     <item>
       <title>Toward Community Standards and Software for Whole-Cell Modeling</title>
-      <link>/publication/waltemath-toward-2016/</link>
+      <link>/publication/community-standards-software-waltemath-2016/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/waltemath-toward-2016/</guid>
+      <guid>/publication/community-standards-software-waltemath-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>JSBML 1.0: Providing a Smorgasbord of Options to Encode Systems Biology Models</title>
+      <link>/publication/jsbml-providing-smorgasbord-rodriguez-2015/</link>
+      <pubDate>Thu, 01 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/jsbml-providing-smorgasbord-rodriguez-2015/</guid>
       <description></description>
     </item>
     

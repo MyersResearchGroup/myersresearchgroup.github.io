@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eric Mercer | Genetic Logic Lab</title>
+    <link>/author/eric-mercer/</link>
+      <atom:link href="/author/eric-mercer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Eric Mercer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Dec 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>Eric Mercer</title>
+      <link>/author/eric-mercer/</link>
+    </image>
+    
+    <item>
+      <title>Partial Order Reduction for Timed Circuit Verification Based on Level Oriented Model</title>
+      <link>/publication/partial-order-reduction-kitai-2003/</link>
+      <pubDate>Mon, 01 Dec 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/partial-order-reduction-kitai-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verifying Synchronization Strategies</title>
+      <link>/publication/verifying-synchronization-strategies-myers-2003/</link>
+      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
+      <guid>/publication/verifying-synchronization-strategies-myers-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Correctness and Reduction in Timed Circuit Analysis</title>
+      <link>/publication/correctness-reduction-timed-mercer-2002/</link>
+      <pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/correctness-reduction-timed-mercer-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular Synthesis of Timed Circuits Using Partial Order Reduction</title>
+      <link>/publication/modular-synthesis-timed-yoneda-2002/</link>
+      <pubDate>Sun, 01 Dec 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/modular-synthesis-timed-yoneda-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular Synthesis of Timed Circuits Using Partial Orders on LPNs</title>
+      <link>/publication/modular-synthesis-timed-mercer-2002/</link>
+      <pubDate>Mon, 01 Apr 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/modular-synthesis-timed-mercer-2002/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved POSET Timing Analysis in Timed Petri Nets</title>
+      <link>/publication/improved-poset-timing-mercer-2001-a/</link>
+      <pubDate>Mon, 01 Oct 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/improved-poset-timing-mercer-2001-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Modular Synthesis of Timed Circuits Using Partial Orders on LPNs</title>
+      <link>/publication/modular-synthesis-timed-mercer-2001/</link>
+      <pubDate>Mon, 01 Oct 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/modular-synthesis-timed-mercer-2001/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Abstraction for Verification of Timed Circuits and Systems?</title>
+      <link>/publication/automatic-abstraction-verification-zheng-2001-a/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/automatic-abstraction-verification-zheng-2001-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automatic Abstraction for Verification of Timed Circuits and Systems?</title>
+      <link>/publication/automatic-abstraction-verification-zheng-2001/</link>
+      <pubDate>Mon, 01 Jan 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/automatic-abstraction-verification-zheng-2001/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&#34;Data structures&#34; | Genetic Logic Lab</title>
+    <link>/tag/data-structures/</link>
+      <atom:link href="/tag/data-structures/index.xml" rel="self" type="application/rss+xml" />
+    <description>&#34;Data structures&#34;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>&#34;Data structures&#34;</title>
+      <link>/tag/data-structures/</link>
+    </image>
+    
+    <item>
+      <title>Using Decision Diagrams to Compactly Represent the State Space for Explicit Model Checking</title>
+      <link>/publication/using-decision-diagrams-zheng-2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/using-decision-diagrams-zheng-2012/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verification of Analog/Mixed-Signal Circuits Using Symbolic Methods</title>
+      <link>/publication/verification-analog-mixed-signal-walter-2008/</link>
+      <pubDate>Mon, 01 Dec 2008 00:00:00 +0000</pubDate>
+      <guid>/publication/verification-analog-mixed-signal-walter-2008/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Verification of Timed Circuits with Failure-Directed Abstractions</title>
+      <link>/publication/verification-timed-circuits-haozheng-2006/</link>
+      <pubDate>Wed, 01 Mar 2006 00:00:00 +0000</pubDate>
+      <guid>/publication/verification-timed-circuits-haozheng-2006/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timed Circuit Synthesis Using Implicit Methods</title>
+      <link>/publication/timed-circuit-synthesis-thacker-1999/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>/publication/timed-circuit-synthesis-thacker-1999/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

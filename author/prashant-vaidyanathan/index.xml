@@ -5,7 +5,7 @@
     <link>/author/prashant-vaidyanathan/</link>
       <atom:link href="/author/prashant-vaidyanathan/index.xml" rel="self" type="application/rss+xml" />
     <description>Prashant Vaidyanathan</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jun 2020 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
       <title>Prashant Vaidyanathan</title>
@@ -13,10 +13,34 @@
     </image>
     
     <item>
+      <title>Synthetic Biology Open Language (SBOL) Version 3.0.0</title>
+      <link>/publication/synthetic-biology-open-baig-2020-a/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/synthetic-biology-open-baig-2020-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Synthetic Biology Open Language Visual (SBOL Visual) Version 2.2</title>
+      <link>/publication/synthetic-biology-open-baig-2020/</link>
+      <pubDate>Mon, 01 Jun 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/synthetic-biology-open-baig-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Synthetic Biology Open Language (SBOL) Version 3: Simplified Data Exchange for Bioengineering</title>
+      <link>/publication/synthetic-biology-open-mclaughlin-2020/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/synthetic-biology-open-mclaughlin-2020/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Computational Workflow for the Automated Generation of Models of Genetic Designs</title>
-      <link>/publication/misirli-computational-2019/</link>
+      <link>/publication/computational-workflow-automated-misirli-2019/</link>
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0000</pubDate>
-      <guid>/publication/misirli-computational-2019/</guid>
+      <guid>/publication/computational-workflow-automated-misirli-2019/</guid>
       <description></description>
     </item>
     

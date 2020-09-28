@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>James R. Faeder | Genetic Logic Lab</title>
+    <link>/author/james-r.-faeder/</link>
+      <atom:link href="/author/james-r.-faeder/index.xml" rel="self" type="application/rss+xml" />
+    <description>James R. Faeder</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Nov 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url>
+      <title>James R. Faeder</title>
+      <link>/author/james-r.-faeder/</link>
+    </image>
+    
+    <item>
+      <title>Modeling and Design Automation of Biological Circuits and Systems</title>
+      <link>/publication/modeling-design-automation-miskov-zivanov-2012/</link>
+      <pubDate>Thu, 01 Nov 2012 00:00:00 +0000</pubDate>
+      <guid>/publication/modeling-design-automation-miskov-zivanov-2012/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

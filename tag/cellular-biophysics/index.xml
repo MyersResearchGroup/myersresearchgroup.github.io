@@ -14,9 +14,25 @@
     
     <item>
       <title>Toward Community Standards and Software for Whole-Cell Modeling</title>
-      <link>/publication/waltemath-toward-2016/</link>
+      <link>/publication/community-standards-software-waltemath-2016/</link>
       <pubDate>Sat, 01 Oct 2016 00:00:00 +0000</pubDate>
-      <guid>/publication/waltemath-toward-2016/</guid>
+      <guid>/publication/community-standards-software-waltemath-2016/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning Genetic Regulatory Network Connectivity from Time Series Data</title>
+      <link>/publication/learning-genetic-regulatory-barker-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>/publication/learning-genetic-regulatory-barker-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iSSA: An Incremental Stochastic Simulation Algorithm for Genetic Circuits</title>
+      <link>/publication/issa-incremental-stochastic-winstead-2010/</link>
+      <pubDate>Sat, 01 May 2010 00:00:00 +0000</pubDate>
+      <guid>/publication/issa-incremental-stochastic-winstead-2010/</guid>
       <description></description>
     </item>
     
