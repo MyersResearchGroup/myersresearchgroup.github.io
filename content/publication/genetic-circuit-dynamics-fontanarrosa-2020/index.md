@@ -10,11 +10,11 @@ authors:
 - Amin Espah Borujeni
 - Yuval Dorfan
 - Christopher A. Voigt
-- Chris J. Myers
+- Chris Myers
 tags: []
 categories: []
 date: '2020-08-01'
-lastmod: 2020-09-08T16:50:56-03:00
+lastmod: 2020-09-27T16:55:14-03:00
 featured: true
 draft: false
 
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-08T19:50:53.612113Z'
+publishDate: '2020-09-27T19:55:14.486643Z'
 publication_types:
 - 2
 abstract: Multiple input changes can cause unwanted switching variations, or glitches,
@@ -44,7 +44,7 @@ abstract: Multiple input changes can cause unwanted switching variations, or gli
   what causes unwanted switching variations in combinational genetic circuits using
   hazard analysis and a new dynamic model generator. The analysis is done in previously
   built and modeled genetic circuits with known glitching behavior. The dynamic models
-  generated not only predict the same steady-states as previous models but can also
+  generated not only predict the same steady states as previous models but can also
   predict the unwanted switching variations that have been observed experimentally.
   Multiple input changes may cause glitches due to propagation delays within the circuit.
   Modifying the circuit's layout to alter these delays may change the likelihood of
