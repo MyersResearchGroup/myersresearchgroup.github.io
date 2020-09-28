@@ -4,13 +4,24 @@ title: Jet Mante
 
 # Username (this should match the folder name)
 authors:
-- Pedro Fontanarrosa
+- Jet Mante
+
+weight: 200
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
 role: Graduate Researcher, Ph.D.
+
+university: CU
+
+department:
+- Electrical and Computer Engineering
+
+projects:
+- <a href="https://synbioks.github.io/">SBKS</a>
+- <a href="https://sbolcanvas.org/canvas/">SBOLCanvas</a>
 
 # Organizations/Affiliations
 organizations:
@@ -22,11 +33,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 interests:
 - Synthetic Biology
-- <a href="https://synbioks.github.io/">SBKS</a>
-- <a href="https://github.com/JMante1">Github</a>
-# - Home Department: Biomedical Engineering
-# - Institute: CU Boulder
-# - Background: Plants and Microbial Sciences
+- Plants and Microbial Sciences
 - Genetic Circuit Design
 - Genetic Circuit Modeling
 
@@ -53,12 +60,19 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-- icon: orcid
-  icon_pack: fab
-  link: https://orcid.org/0000-0002-1450-5638
+- icon: user-graduate
+  icon_pack: fas
+  link: https://www.colorado.edu/ecee/
 - icon: github
   icon_pack: fab
   link: https://github.com/JMante1
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-1450-5638
+- icon: university-logo
+  icon_pack: Custom_University
+  link: https://www.colorado.edu/ecee
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

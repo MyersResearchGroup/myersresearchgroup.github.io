@@ -1,28 +1,27 @@
 ---
 # Display name
-title: Chris Myers
+title: Zach Zundel
+
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
+weight: 830
 
 # Username (this should match the folder name)
 authors:
-- Chris Myers
+- Zach Zundel
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Professor
+role: Alumni, Masters Student
 
 # Organizations/Affiliations
 organizations:
 - name: University of Boulder, Colorado
   url: ""
 
-#Order to show in compared to other authors when using people section
-#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
-weight: 1
-
 #Utah or CU
-university: CU
+university: Utah
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -108,8 +107,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Principal Investigator
+- Alumni
+- Undergraduate Alumni
 ---
 
 
