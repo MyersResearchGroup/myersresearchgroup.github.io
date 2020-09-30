@@ -5,6 +5,9 @@ title: Chris Myers
 # Username (this should match the folder name)
 authors:
 - Chris Myers
+- Chris J. Myers
+- Chris J Myers
+- C Myers
 
 # Is this the primary user of the site?
 superuser: false
