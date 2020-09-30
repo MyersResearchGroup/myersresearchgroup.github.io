@@ -1,10 +1,11 @@
 ---
 # Display name
-title: Lukas Buecherl
+title: Lukas Bücherl
 
 # Username (this should match the folder name)
 authors:
 - Lukas Buecherl
+- Lukas Bücherl
 
 # Is this the primary user of the site?
 superuser: false
