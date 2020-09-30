@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/author/chris-myers/</loc>
+    <lastmod>2020-09-27T16:56:13-03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/courses/example/example1/</loc>
     <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
@@ -13,12 +18,13 @@
   </url>
   
   <url>
-    <loc>/author/chris-myers/</loc>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/courses/example/example2/</loc>
-    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+    <loc>/author/pedro-fontanarrosa/</loc>
+    <lastmod>2020-09-27T16:55:57-03:00</lastmod>
   </url>
   
   <url>
@@ -26,11 +32,7 @@
   </url>
   
   <url>
-    <loc>/author/lukas-buecherl/</loc>
-  </url>
-  
-  <url>
-    <loc>/author/pedro-fontanarrosa/</loc>
+    <loc>/author/lukas-bucherl/</loc>
   </url>
   
   <url>
@@ -55,10 +57,12 @@
   
   <url>
     <loc>/author/michael-zhang/</loc>
+    <lastmod>2020-09-27T16:55:57-03:00</lastmod>
   </url>
   
   <url>
     <loc>/author/zach-zundel/</loc>
+    <lastmod>2020-09-27T16:56:04-03:00</lastmod>
   </url>
   
   <url>
@@ -99,11 +103,6 @@
   <url>
     <loc>/author/lukas-bucherl/</loc>
     <lastmod>2020-09-27T16:55:15-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/pedro-fontanarrosa/</loc>
-    <lastmod>2020-09-27T16:55:57-03:00</lastmod>
   </url>
   
   <url>
@@ -154,11 +153,6 @@
   <url>
     <loc>/publication/case-analog-circuit-myers-/</loc>
     <lastmod>2020-09-27T16:54:54-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/chris-myers/</loc>
-    <lastmod>2020-09-27T16:56:13-03:00</lastmod>
   </url>
   
   <url>
@@ -787,11 +781,6 @@
   </url>
   
   <url>
-    <loc>/author/zach-zundel/</loc>
-    <lastmod>2020-09-27T16:56:04-03:00</lastmod>
-  </url>
-  
-  <url>
     <loc>/author/zachary-palchick/</loc>
     <lastmod>2020-09-27T16:55:57-03:00</lastmod>
   </url>
@@ -949,11 +938,6 @@
   <url>
     <loc>/author/tramy-t-nguyen/</loc>
     <lastmod>2020-09-27T16:54:46-03:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/author/michael-zhang/</loc>
-    <lastmod>2020-09-27T16:55:57-03:00</lastmod>
   </url>
   
   <url>
