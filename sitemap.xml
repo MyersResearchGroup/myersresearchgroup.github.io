@@ -23,6 +23,10 @@
   </url>
   
   <url>
+    <loc>/tools/tools/</loc>
+  </url>
+  
+  <url>
     <loc>/author/pedro-fontanarrosa/</loc>
     <lastmod>2020-09-27T16:55:57-03:00</lastmod>
   </url>
@@ -8278,11 +8282,19 @@
   </url>
   
   <url>
+    <loc>/tag/all/</loc>
+  </url>
+  
+  <url>
     <loc>/research/analog-circuit-design-verification/</loc>
   </url>
   
   <url>
     <loc>/research/asynchronous-circuit-design-verification/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/atacs/</loc>
   </url>
   
   <url>
@@ -8302,11 +8314,15 @@
   </url>
   
   <url>
-    <loc>/people-genetic-logic-lab/</loc>
+    <loc>/tools/ibiosim/</loc>
   </url>
   
   <url>
-    <loc>/tools/</loc>
+    <loc>/tools/lema/</loc>
+  </url>
+  
+  <url>
+    <loc>/people-genetic-logic-lab/</loc>
   </url>
   
   <url>
@@ -8331,6 +8347,30 @@
   
   <url>
     <loc>/author/sbol-canvas/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/sbol-libraries/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/sbol-validator/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/sbol-canvas/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/sboldesigner/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/synbiohub/</loc>
+  </url>
+  
+  <url>
+    <loc>/tools/</loc>
   </url>
   
 </urlset>
