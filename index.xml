@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Genetic Logic Lab</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>Genetic Logic Lab</description><generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 27 Sep 2020 19:55:14 +0000</lastBuildDate><image><url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url><title>Genetic Logic Lab</title><link>/</link></image><item><title>Example Page 1</title><link>/courses/example/example1/</link><pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate><guid>/courses/example/example1/</guid><description>&lt;p>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Genetic Logic Lab</title><link>/</link><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><description>Genetic Logic Lab</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 27 Sep 2020 19:55:14 +0000</lastBuildDate><image><url>/images/icon_hu98f8dd200ffb525419093529eb1e5d7e_937188_512x512_fill_lanczos_center_2.png</url><title>Genetic Logic Lab</title><link>/</link></image><item><title>Example Page 1</title><link>/courses/example/example1/</link><pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate><guid>/courses/example/example1/</guid><description>&lt;p>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p>
 &lt;h2 id="tip-1">Tip 1&lt;/h2>
 &lt;p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p>
 &lt;p>Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p>
@@ -45,69 +45,45 @@
 &lt;/ul>
 &lt;h2 id="phd-students">PhD Students&lt;/h2>
 &lt;ul>
-&lt;li>
-&lt;a href="http://www.suu.edu/faculty/barkern/" target="_blank" rel="noopener">Nathan Barker&lt;/a>, Southern Utah University, Cedar City, UT.&lt;/li>
-&lt;li>
-&lt;a href="https://www.researchgate.net/profile/Wendy_Belluomini" target="_blank" rel="noopener">Wendy Belluomini&lt;/a>, IBM Almaden, San Jose, CA.&lt;/li>
-&lt;li>
-&lt;a href="http://www.async.ece.utah.edu/~jack" target="_blank" rel="noopener">Jie Dai&lt;/a>, Director of IP Dept. in Brite Semiconductor (Shanghai) Corporation.&lt;/li>
-&lt;li>
-&lt;a href="http://www.async.ece.utah.edu/~andrewf" target="_blank" rel="noopener">Andrew Fisher&lt;/a>, Sandia National Laboratories, Albuquerque, NM.&lt;/li>
-&lt;li>
-&lt;a href="http://www.cs.utah.edu/~hans" target="_blank" rel="noopener">Hans Jacobson&lt;/a>, IBM Yorktown, NY.&lt;/li>
-&lt;li>
-&lt;a href="https://sfb.kaust.edu.sa/Pages/Kuwahara.aspx" target="_blank" rel="noopener">Hiroyuki Kuwahara&lt;/a>, KAUST, Thuwal, Saudi Arabia.&lt;/li>
-&lt;li>
-&lt;a href="http://www.async.ece.utah.edu/~little" target="_blank" rel="noopener">Scott Little&lt;/a>, Mentor Graphics, Hillsboro, OR.&lt;/li>
-&lt;li>
-&lt;a href="http://homepages.cs.ncl.ac.uk/curtis.madsen/" target="_blank" rel="noopener">Curtis Madsen&lt;/a>, Sandia National Laboratories, Albuquerque, NM.&lt;/li>
-&lt;li>
-&lt;a href="http://faculty.cs.byu.edu/~egm/" target="_blank" rel="noopener">Eric Mercer&lt;/a>, Associate Professor, Brigham Young University, Provo, UT.&lt;/li>
-&lt;li>
-&lt;a href="http://people.wallawalla.edu/~curt.nelson/" target="_blank" rel="noopener">Curt Nelson&lt;/a>, Professor, Walla Walla University, Walla Walla, WA.&lt;/li>
-&lt;li>
-&lt;a href="https://tramyn.github.io" target="_blank" rel="noopener">Tramy Nguyen&lt;/a>, BBN/Raytheon, Boston, MA.&lt;/li>
-&lt;li>
-&lt;a href="http://www.med.nyu.edu/chibi/about-us/faculty/eric-r-peskin-phd" target="_blank" rel="noopener">Eric Peskin&lt;/a>, Center for Health Informatics and Bioinformatics, New York, NY.&lt;/li>
-&lt;li>
-&lt;a href="http://www.async.ece.utah.edu/~nroehner" target="_blank" rel="noopener">Nicholas Roehner&lt;/a>, BBN/Raytheon, Boston, MA.&lt;/li>
-&lt;li>
-&lt;a href="http://www.cs.utah.edu/~thacker" target="_blank" rel="noopener">Robert Thacker&lt;/a>, AMD Austin, TX.&lt;/li>
-&lt;li>
-&lt;a href="https://www.linkedin.com/in/dwalter" target="_blank" rel="noopener">David Walter&lt;/a>, Capital One, Richmond, VA.&lt;/li>
-&lt;li>
-&lt;a href="https://www.async.ece.utah.edu/~watanabe" target="_blank" rel="noopener">Leandro Watanabe&lt;/a>, Google, Seattle, CA.&lt;/li>
-&lt;li>
-&lt;a href="https://www.researchgate.net/profile/Zhen_Zhang66" target="_blank" rel="noopener">Zhen Zhang&lt;/a>, Assistant Professor, Utah State University, Logan, UT.&lt;/li>
-&lt;li>
-&lt;a href="http://www.csee.usf.edu/~zheng/" target="_blank" rel="noopener">Hao Zheng&lt;/a>, Associate Professor, University of South Florida, Tampa, FL.&lt;/li>
+&lt;li>&lt;a href="http://www.suu.edu/faculty/barkern/" target="_blank" rel="noopener">Nathan Barker&lt;/a>, Southern Utah University, Cedar City, UT.&lt;/li>
+&lt;li>&lt;a href="https://www.researchgate.net/profile/Wendy_Belluomini" target="_blank" rel="noopener">Wendy Belluomini&lt;/a>, IBM Almaden, San Jose, CA.&lt;/li>
+&lt;li>&lt;a href="http://www.async.ece.utah.edu/~jack" target="_blank" rel="noopener">Jie Dai&lt;/a>, Director of IP Dept. in Brite Semiconductor (Shanghai) Corporation.&lt;/li>
+&lt;li>&lt;a href="http://www.async.ece.utah.edu/~andrewf" target="_blank" rel="noopener">Andrew Fisher&lt;/a>, Sandia National Laboratories, Albuquerque, NM.&lt;/li>
+&lt;li>&lt;a href="http://www.cs.utah.edu/~hans" target="_blank" rel="noopener">Hans Jacobson&lt;/a>, IBM Yorktown, NY.&lt;/li>
+&lt;li>&lt;a href="https://sfb.kaust.edu.sa/Pages/Kuwahara.aspx" target="_blank" rel="noopener">Hiroyuki Kuwahara&lt;/a>, KAUST, Thuwal, Saudi Arabia.&lt;/li>
+&lt;li>&lt;a href="http://www.async.ece.utah.edu/~little" target="_blank" rel="noopener">Scott Little&lt;/a>, Mentor Graphics, Hillsboro, OR.&lt;/li>
+&lt;li>&lt;a href="http://homepages.cs.ncl.ac.uk/curtis.madsen/" target="_blank" rel="noopener">Curtis Madsen&lt;/a>, Sandia National Laboratories, Albuquerque, NM.&lt;/li>
+&lt;li>&lt;a href="http://faculty.cs.byu.edu/~egm/" target="_blank" rel="noopener">Eric Mercer&lt;/a>, Associate Professor, Brigham Young University, Provo, UT.&lt;/li>
+&lt;li>&lt;a href="http://people.wallawalla.edu/~curt.nelson/" target="_blank" rel="noopener">Curt Nelson&lt;/a>, Professor, Walla Walla University, Walla Walla, WA.&lt;/li>
+&lt;li>&lt;a href="https://tramyn.github.io" target="_blank" rel="noopener">Tramy Nguyen&lt;/a>, BBN/Raytheon, Boston, MA.&lt;/li>
+&lt;li>&lt;a href="http://www.med.nyu.edu/chibi/about-us/faculty/eric-r-peskin-phd" target="_blank" rel="noopener">Eric Peskin&lt;/a>, Center for Health Informatics and Bioinformatics, New York, NY.&lt;/li>
+&lt;li>&lt;a href="http://www.async.ece.utah.edu/~nroehner" target="_blank" rel="noopener">Nicholas Roehner&lt;/a>, BBN/Raytheon, Boston, MA.&lt;/li>
+&lt;li>&lt;a href="http://www.cs.utah.edu/~thacker" target="_blank" rel="noopener">Robert Thacker&lt;/a>, AMD Austin, TX.&lt;/li>
+&lt;li>&lt;a href="https://www.linkedin.com/in/dwalter" target="_blank" rel="noopener">David Walter&lt;/a>, Capital One, Richmond, VA.&lt;/li>
+&lt;li>&lt;a href="https://www.async.ece.utah.edu/~watanabe" target="_blank" rel="noopener">Leandro Watanabe&lt;/a>, Google, Seattle, CA.&lt;/li>
+&lt;li>&lt;a href="https://www.researchgate.net/profile/Zhen_Zhang66" target="_blank" rel="noopener">Zhen Zhang&lt;/a>, Assistant Professor, Utah State University, Logan, UT.&lt;/li>
+&lt;li>&lt;a href="http://www.csee.usf.edu/~zheng/" target="_blank" rel="noopener">Hao Zheng&lt;/a>, Associate Professor, University of South Florida, Tampa, FL.&lt;/li>
 &lt;/ul>
 &lt;h2 id="ms-students">MS Students&lt;/h2>
 &lt;ul>
 &lt;li>Brandon Bachman, Intel Corporation, Folsom, CA.&lt;/li>
 &lt;li>Satish Batchu, Qualcomm, Raleigh, NC.&lt;/li>
-&lt;li>
-&lt;a href="http://www.async.ece.utah.edu/~killpack" target="_blank" rel="noopener">Kip Killpack&lt;/a>, Intel Corporation, Hillsboro, OR.&lt;/li>
+&lt;li>&lt;a href="http://www.async.ece.utah.edu/~killpack" target="_blank" rel="noopener">Kip Killpack&lt;/a>, Intel Corporation, Hillsboro, OR.&lt;/li>
 &lt;li>Christopher Krieger, Intel Corporation, Fort Collins, CO.&lt;/li>
 &lt;li>Dhanashree Kulkarni, Intel Corporation, Hillsboro, OR.&lt;/li>
 &lt;li>Nam Nguyen, University of Illinois in Urbana-Champaign, IL.&lt;/li>
-&lt;li>
-&lt;a href="https://mehersam.github.io/Meher-Samineni/" target="_blank" rel="noopener">Meher Samineni&lt;/a>, REI, Seattle, CA.&lt;/li>
-&lt;li>
-&lt;a href="https://www.linkedin.com/in/michael13162/" target="_blank" rel="noopener">Michael Zhang&lt;/a>, Google, Sunnyvale, CA.&lt;/li>
-&lt;li>
-&lt;a href="http://www.async.ece.utah.edu/~yzhao" target="_blank" rel="noopener">Yanyi Zhao&lt;/a>, Stryker, San Jose, CA.&lt;/li>
+&lt;li>&lt;a href="https://mehersam.github.io/Meher-Samineni/" target="_blank" rel="noopener">Meher Samineni&lt;/a>, REI, Seattle, CA.&lt;/li>
+&lt;li>&lt;a href="https://www.linkedin.com/in/michael13162/" target="_blank" rel="noopener">Michael Zhang&lt;/a>, Google, Sunnyvale, CA.&lt;/li>
+&lt;li>&lt;a href="http://www.async.ece.utah.edu/~yzhao" target="_blank" rel="noopener">Yanyi Zhao&lt;/a>, Stryker, San Jose, CA.&lt;/li>
 &lt;/ul>
 &lt;h2 id="undergraduate-students-1">Undergraduate Students&lt;/h2>
 &lt;ul>
 &lt;li>Jeff Cuthbert, Raytheon, Dallas, TX.&lt;/li>
 &lt;li>Scott Glass, University of Utah, UT.&lt;/li>
-&lt;li>
-&lt;a href="http://www.async.ece.utah.edu/~kjones" target="_blank" rel="noopener">Kevin Jones&lt;/a>, Aberdeen Proving Ground, Philadelphia, PA.&lt;/li>
+&lt;li>&lt;a href="http://www.async.ece.utah.edu/~kjones" target="_blank" rel="noopener">Kevin Jones&lt;/a>, Aberdeen Proving Ground, Philadelphia, PA.&lt;/li>
 &lt;li>Tyler Patterson, DataStax, Salt Lake City, UT.&lt;/li>
 &lt;li>John Perry, JPMorgan, New York City, NY.&lt;/li>
 &lt;li>Nick Seegmiller, Backcountry.com, Park City, UT.&lt;/li>
 &lt;li>Allen Sjogren, Hart Scientific, Salt Lake City, UT.&lt;/li>
-&lt;li>
-&lt;a href="http://www.async.ece.utah.edu/~jstev" target="_blank" rel="noopener">Jason Stevens&lt;/a>, Expeditors, Seattle, WA.&lt;/li>
+&lt;li>&lt;a href="http://www.async.ece.utah.edu/~jstev" target="_blank" rel="noopener">Jason Stevens&lt;/a>, Expeditors, Seattle, WA.&lt;/li>
 &lt;/ul></description></item><item><title>SBOL Libraries</title><link>/tools/sbol-libraries/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tools/sbol-libraries/</guid><description/></item><item><title>SBOL Validator</title><link>/tools/sbol-validator/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tools/sbol-validator/</guid><description/></item><item><title>SBOLCanvas</title><link>/tools/sbol-canvas/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tools/sbol-canvas/</guid><description/></item><item><title>SBOLDesigner</title><link>/tools/sboldesigner/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tools/sboldesigner/</guid><description/></item><item><title>SynBioHub</title><link>/tools/synbiohub/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/tools/synbiohub/</guid><description/></item></channel></rss>
