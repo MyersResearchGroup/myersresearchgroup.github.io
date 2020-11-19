@@ -15,7 +15,7 @@ role: Graduate Researcher, M.S.
 university: Utah
 
 department:
-- Electrical and Computer Engineering
+- School of Computing
 
 projects:
 - <a href="https://sbolcanvas.org/canvas/">SBOLCanvas</a>
@@ -29,42 +29,33 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Synthetic Biology
-- Genetic Circuit Design
-- Genetic Circuit Modeling
+- Tooling
+- Task automation/lessening of work
+- System architecture
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master's Degree, Computer Science
+    institution: University of Utah
+    year: 2021
+  - course: Bachelor's Degree, Computer Science
+    institution: University of Utah
+    year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: user-graduate
-  icon_pack: fas
-  link: https://www.colorado.edu/ecee/
 - icon: github
   icon_pack: fab
   link: https://github.com/randoom97
-- icon: orcid
-  icon_pack: fab
-  link: https://orcid.org/0000-0002-1450-5638
 - icon: university-logo
   icon_pack: Custom_University
-  link: https://www.colorado.edu/ecee
+  link: https://www.cs.utah.edu/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -81,5 +72,8 @@ user_groups:
 - Graduate Students
 ---
 
+Likes solving puzzles and plays a lot of puzzle games. Got into programming because of video games. Plays a lot of Minecraft. Can solve a Rubik's cube in just over a minute. Interested in operating systems, and compilers.
 
-BIO GOES HERE. MUST BE ONE PARAGRAPH
+Made a dungeon crawler using only the built in java libraries in highschool. Also created a networked version of bomberman in highschool. Currently pursuing a Masters in computer science at the University of Utah. Fluent in Java, C++, C#. Experienced in JavaScript, TypeScript, Python, REST api’s, and SQL.
+
+Developed Canvas Project Manager (CPM), an Eclipse plugin that integrates with Canvas LMS to facilitate easy assignment download and submission. Developed Code Evolution Monitor, an extension of CPM that takes minutely snapshots of code, via git, and submits them to a GitLab server for analysis of developer habits. Primarily worked on the backend of sbolcanvas.org during senior capstone, but did some frontend work such as the SynBioHub download/upload dialogs. Currently maintains and updates SBOL Canvas as part of his graduate studies.
