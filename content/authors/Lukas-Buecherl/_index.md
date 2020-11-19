@@ -63,10 +63,6 @@ social:
   link: https://github.com/lukasbuecherl
 <<<<<<< HEAD
 
-#- icon: orcid
-#  icon_pack: fab
-#  link: https://orcid.org/0000-0002-1450-5638
-
 =======
 - icon: orcid
   icon_pack: fab
