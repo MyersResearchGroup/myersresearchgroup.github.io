@@ -62,9 +62,9 @@ social:
   icon_pack: fab
   link: https://github.com/lukasbuecherl
 
-%- icon: orcid
-%  icon_pack: fab
-%  link: https://orcid.org/0000-0002-1450-5638
+#- icon: orcid
+#  icon_pack: fab
+#  link: https://orcid.org/0000-0002-1450-5638
 
 - icon: university-logo
   icon_pack: Custom_University
@@ -86,7 +86,9 @@ user_groups:
 - Graduate Students
 ---
 
-Lukas Buecherl joined the Genetic Logic Lab as Ph.D. student under the supervision of Dr. Chris Myers. He is also a member of the IQ Biology program. Lukas’ research focuses on synthetic biology and its possible applications in improving human lives. He is currently working in computational synthetic biology and plans to extend his knowledge with wet lab experience.
+Lukas Buecherl joined the Genetic Logic Lab as Ph.D. student under the supervision of Dr. Chris Myers. He is a member of the IQ Biology program and his research focuses on synthetic biology and its possible applications in improving human lives. He is currently working in computational synthetic biology and plans to extend his knowledge with wet lab experience.
+
 He was born and raised in Munich, Germany, and obtained a Bachelor of Science in electrical engineering from the University of Ulm, Germany, in 2019.
 As a member of the International Student Advisory Board, Lukas focuses on improving new international students' transition to the American academic system. Based on personal experience, he also wants to work on the acceptance of foreign letters in the system, since the german umlaut in his last name often causes problems with his visa and identification.
+
 Lukas enjoys what Boulder has to offer by hiking, running at the Creek, and playing the guitar in his free time.
