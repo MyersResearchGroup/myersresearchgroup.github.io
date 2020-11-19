@@ -53,7 +53,7 @@
   
       <div class="portrait-title">
         <h2>{{with $link}}<a href="{{.}}">{{end}}{{ .Title }}{{if $link}}</a>{{end}}</h2>
-        {{ if $show_social }}{{ partial "social_links" . }}{{ end }}
+        {{ if $show_social }}{{ partial "social_links_plus_university" . }}{{ end }}
         {{ with .Params.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
         {{ if and $show_department .Params.department }}<h3>{{ delimit .Params.department ", " | markdownify | emojify }}</h3>{{ end }}
         {{ if and $show_projects .Params.projects }}<p class="people-interests">{{ delimit .Params.projects ", " | markdownify | emojify }}</p>{{ end }}
