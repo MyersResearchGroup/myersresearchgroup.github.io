@@ -6,6 +6,10 @@ title: SBOL Canvas
 authors:
 - SBOL Canvas
 
+#Author Names (alternative spellings etc)
+names:
+- SBOL Canvas
+
 # Is this the primary user of the site?
 superuser: false
 

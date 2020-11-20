@@ -6,6 +6,10 @@ title: Michael Zhang
 authors:
 - Michael Zhang
 
+#Author Names (alternative spellings etc)
+names:
+- Michael Zhang
+
 # Is this the primary user of the site?
 superuser: false
 
