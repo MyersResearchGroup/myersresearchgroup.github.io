@@ -5,6 +5,10 @@ title: Lukas Bücherl
 # Username (this should match the folder name)
 authors:
 - Lukas Buecherl
+
+#Author Names (alternative spellings etc)
+names:
+- Lukas Buecherl
 - Lukas Bücherl
 
 # Is this the primary user of the site?
@@ -30,7 +34,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Synthetic Biology
@@ -82,7 +86,7 @@ user_groups:
 - Graduate Students
 ---
 
-Lukas Buecherl joined the Genetic Logic Lab as Ph.D. student under the supervision of Dr. Chris Myers. He is a member of the IQ Biology program and his research focuses on synthetic biology and its possible applications in improving human lives. He is currently working in computational synthetic biology and plans to extend his knowledge with wet lab experience.
+Lukas Bücherl joined the Genetic Logic Lab as Ph.D. student under the supervision of Dr. Chris Myers. He is a member of the IQ Biology program and his research focuses on synthetic biology and its possible applications in improving human lives. He is currently working in computational synthetic biology and plans to extend his knowledge with wet lab experience.
 
 He was born and raised in Munich, Germany, and obtained a Bachelor of Science in electrical engineering from the University of Ulm, Germany, in 2019.
 As a member of the International Student Advisory Board, Lukas focuses on improving new international students' transition to the American academic system. Based on personal experience, he also wants to work on the acceptance of foreign letters in the system, since the german umlaut in his last name often causes problems with his visa and identification.

@@ -6,6 +6,10 @@ title: Eric Yu
 authors:
 - Eric Yu
 
+#Author Names (alternative spellings etc)
+names:
+- Eric Yu
+
 # Is this the primary user of the site?
 superuser: false
 

@@ -6,6 +6,10 @@ title: Logan Terry
 authors:
 - Logan Terry
 
+#Author Names (alternative spellings etc)
+names:
+- Logan Terry
+
 # Is this the primary user of the site?
 superuser: false
 

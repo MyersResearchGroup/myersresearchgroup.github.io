@@ -6,6 +6,10 @@ title: Genetic Logic Lab
 authors:
 - admin
 
+#Author Names (alternative spellings etc)
+names:
+- admin
+
 # Is this the primary user of the site?
 superuser: true
 
@@ -14,11 +18,11 @@ superuser: true
 
 # Organizations/Affiliations
 organizations:
-- name: University of Boulder, Colorado
+- name: University of Colorado Boulder
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Synthetic Biology

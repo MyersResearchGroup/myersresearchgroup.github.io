@@ -6,6 +6,10 @@ title: Payton Thomas
 authors:
 - Payton Thomas
 
+#Author Names (alternative spellings etc)
+names:
+- Payton Thomas
+
 # Is this the primary user of the site?
 superuser: false
 
@@ -30,7 +34,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Synthetic Biology

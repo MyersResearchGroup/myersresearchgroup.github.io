@@ -6,6 +6,11 @@ title: Jet Mante
 authors:
 - Jet Mante
 
+#Author Names (alternative spellings etc)
+names:
+- Jet Mante
+- Jeanet Mante
+
 weight: 200
 
 # Is this the primary user of the site?
@@ -21,15 +26,15 @@ department:
 
 projects:
 - <a href="https://synbioks.github.io/">SBKS</a>
-- <a href="https://sbolcanvas.org/canvas/">SBOLCanvas</a>
+- <a href="https://synbiohub.github.io/aboutsynbiohub/">SynBioHub</a>
 
 # Organizations/Affiliations
 organizations:
-- name: University of Boulder, Colorado
+- name: University of Colorado Boulder
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+#bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
 - Synthetic Biology
@@ -39,15 +44,12 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: BA in Natural Sciences
+    institution: University of Cambridge
+    year: 2018
+  - course: PhD in Biomedical Engineering
+    institution: University of Colorado Boulder
+    year: 2022
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -62,7 +64,7 @@ social:
 #   link: https://twitter.com/GeorgeCushen
 - icon: user-graduate
   icon_pack: fas
-  link: https://www.colorado.edu/ecee/
+  link: https://www.linkedin.com/in/jeanet-mante-590a24169
 - icon: github
   icon_pack: fab
   link: https://github.com/JMante1
@@ -71,7 +73,7 @@ social:
   link: https://orcid.org/0000-0002-1450-5638
 - icon: university-logo
   icon_pack: Custom_University
-  link: https://www.colorado.edu/ecee
+  link: https://www.colorado.edu/bme/academics/phd-program
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -89,6 +91,6 @@ user_groups:
 - Graduate Students
 ---
 
+Jet Mante joined the Genetic Logic Lab as a Ph.D. student under the Supervision of Professor Chris Myers. She is a plant scientist whose research focuses on the reuse of data and genetic components in Synthetic Biology. She is expanding her computational skills working on search and curation methods in SynBioHub.
 
-What do the three images above have in common? The answer is that they can all be modeled and analyzed by methods being developed in the Myers Research Group. The first image is a timed asynchronous multiplier designed by Kip Killpack, the second image is a fully analog decoder for digital communication applications designed by several students as part of a joint project with Professors Christian Schlegel and Reid Harrison, and the third image is the Phage Lambda virus. Since 1991, we have been developing methods and tools for the design of timed asynchronous circuits. Since 2002, our research group has been extending our modeling and analysis methods to analyze and reason about both analog/mixed-signal circuits, as well as, biological systems. For more information about the research being conducted in our group, please see our research pages.\
-Over the years, this research has been supported by the National Science Foundation, the Semiconductor Research Corporation, Intel Corporation, and the State of Utah.
+She joined the lab in Utah after her undergraduate in England, and moved to CU Boulder with Professor Myers when he accepted a positon as ECE Departmental Chair. Jet is making the most of the move to Boulder by enjoying the bike friendly city and the many hiking trails.

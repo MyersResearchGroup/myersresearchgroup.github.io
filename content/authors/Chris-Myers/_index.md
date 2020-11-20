@@ -5,6 +5,10 @@ title: Chris Myers
 # Username (this should match the folder name)
 authors:
 - Chris Myers
+
+#Author Names (alternative spellings etc)
+names:
+- Chris Myers
 - Chris J. Myers
 - Chris J Myers
 - C Myers
