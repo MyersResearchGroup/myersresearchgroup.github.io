@@ -19,7 +19,7 @@ weight: 200
 university: Utah
 
 department:
-- BioMedical Engineering
+- Biomedical Engineering
 
 projects:
 - <a href="https://github.com/MyersResearchGroup/iBioSim">iBioSim</a>
