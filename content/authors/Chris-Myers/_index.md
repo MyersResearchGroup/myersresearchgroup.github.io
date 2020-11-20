@@ -13,11 +13,11 @@ authors:
 superuser: false
 
 # Role/position
-role: Professor
+role: Department Chair / Professor
 
 # Organizations/Affiliations
 organizations:
-- name: University of Boulder, Colorado
+- name: University of Colorado Boulder
   url: ""
 
 #Order to show in compared to other authors when using people section
@@ -40,19 +40,19 @@ projects:
 
 
 department:
-- Electrical and Computer Engineering
+- Electrical, Computer, and Energy Engineering
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
+  - course: PhD in Electrical Engineering
     institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 1995
+  - course: MS in Electrical Engineering
+    institution: Stanford University
+    year: 1993
+  - course: BS in Electrical Engineering / History
+    institution: California Institute of Technology
+    year: 1991
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -115,5 +115,8 @@ user_groups:
 - Principal Investigator
 ---
 
+Chris J. Myers received the BS degree in electrical engineering and Chinese history in 1991 from the California Institute of Technology in Pasadena, California, and the MSEE and PhD degrees from Stanford University in 1993 and 1995, respectively. Before arriving at CU Boulder, he was a professor and associate chair in the Department of Electrical and Computer Engineering at the University of Utah in Salt Lake City.
 
-BIO GOES HERE. MUST BE ONE PARAGRAPH
+Myers is the author of over 180 technical papers and the textbooks Asynchronous Circuit Design and Engineering Genetic Circuits. He is also a co-inventor on four patents. His research interests include asynchronous circuit design, formal verification of analog/mixed signal circuits and cyber-physical systems, and modeling, analysis and design of genetic circuits.
+
+Myers received an NSF Fellowship in 1991, an NSF CAREER award in 1996, and best paper awards at the 1999 and 2007 Symposiums on Asynchronous Circuits and Systems. He is a fellow of the IEEE and a member of the editorial boards for ACS Synthetic Biology, Engineering Biology and Synthetic Biology, and has served on the editorial boards for the IEEE Transactions on VLSI Systems, IEEE Design & Test Magazine, IEEE Life Sciences Letters and Formal Methods in System Design. Myers served as the director for the State of Utah Center of Excellence in Asynchronous Circuit Design. He is also a leader in the development of standards for systems and synthetic biology. In particular, he has served as an editor for the Systems Biology Markup Language (SBML) standard, is the chair of the steering committee for the Synthetic Biology Open Language (SBOL) standard and is the chair of the coordination board for the Computational Modeling and Biology Network (COMBINE).
