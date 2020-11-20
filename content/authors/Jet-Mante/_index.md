@@ -22,7 +22,7 @@ role: Graduate Researcher, Ph.D.
 university: CU
 
 department:
-- Electrical and Computer Engineering
+- Biomedical Engineering
 
 projects:
 - <a href="https://synbioks.github.io/">SBKS</a>
