@@ -9,6 +9,10 @@ weight: 830
 authors:
 - Zach Zundel
 
+#Author Names (alternative spellings etc)
+names:
+- Zach Zundel
+
 # Is this the primary user of the site?
 superuser: false
 
