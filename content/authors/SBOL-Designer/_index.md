@@ -1,24 +1,23 @@
 ---
 # Display name
-title: SBOL Canvas
+title: SBOL Designer
 
 # Username (this should match the folder name)
 authors:
-- SBOL Canvas
+- SBOL Designer
 
 #Author Names (alternative spellings etc)
 names:
-- SBOL Canvas
+- SBOL Designer
 
 #Link to this when clicking on tool icons
-toolurl: https://sbolcanvas.org/canvas/
-
+toolurl: https://github.com/SynBioDex/SBOLDesigner/releases
 
 # Is this the primary user of the site?
 superuser: false
 
 interests:
-- SBOLCavas is a web application for creation and editing of genetic constructs using the SBOL data and visual standard. SBOLCanvas allows a user to create a genetic design from start to finish, with the option to incorporate existing SBOL data from a SynBioHub repository.
+- SBOLDesigner is a simple, biologist-friendly CAD software tool for creating and manipulating the sequences of genetic constructs using the Synthetic Biology Open Language (SBOL) 2.2 data model.
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -30,16 +29,13 @@ interests:
 social:
 - icon: star
   icon_pack: fas
-  link: https://sbolcanvas.org/canvas/
-- icon: docker
-  icon_pack: fab
-  link: https://hub.docker.com/r/samuelfbridge/sbolcanvas_1.0
+  link: https://github.com/SynBioDex/SBOLDesigner/releases
 - icon: github
   icon_pack: fab
-  link: https://github.com/SynBioDex/SBOLCanvas
+  link: https://github.com/SynBioDex/SBOLDesigner
 - icon: file-alt
   icon_pack: fas
-  link: https://sbolcanvas.org/canvas/tutorial
+  link: https://sboldesigner.github.io/
 
 
 # Organizational groups that you belong to (for People widget)
@@ -47,3 +43,4 @@ social:
 user_groups:
 - Tools
 ---
+

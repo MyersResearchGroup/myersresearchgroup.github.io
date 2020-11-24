@@ -1,24 +1,23 @@
 ---
 # Display name
-title: SBOL Canvas
+title: SBOL Validator
 
 # Username (this should match the folder name)
 authors:
-- SBOL Canvas
+- SBOL Validator
 
 #Author Names (alternative spellings etc)
 names:
-- SBOL Canvas
+- SBOL Validator
 
 #Link to this when clicking on tool icons
-toolurl: https://sbolcanvas.org/canvas/
-
+toolurl: https://validator.sbolstandard.org/
 
 # Is this the primary user of the site?
 superuser: false
 
 interests:
-- SBOLCavas is a web application for creation and editing of genetic constructs using the SBOL data and visual standard. SBOLCanvas allows a user to create a genetic design from start to finish, with the option to incorporate existing SBOL data from a SynBioHub repository.
+- SBOL Validator/Converter is a simple, easy-to-use software tool that allows for conversion between SBOL/GenBank/FASTA files using the Synthetic Biology Open Language (SBOL) 2.0 data model. Some key features of the Validator/Converter include its ability to convert between SBOL, FASTA, and GenBank files and that the tool is web-based which promotes ease of access and allows for central maintenance of validation methods. Additionally, it is accessible through either a web GUI or a RESTful API.
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -30,16 +29,13 @@ interests:
 social:
 - icon: star
   icon_pack: fas
-  link: https://sbolcanvas.org/canvas/
-- icon: docker
-  icon_pack: fab
-  link: https://hub.docker.com/r/samuelfbridge/sbolcanvas_1.0
+  link: https://validator.sbolstandard.org/
 - icon: github
   icon_pack: fab
-  link: https://github.com/SynBioDex/SBOLCanvas
+  link: https://github.com/SynBioDex/SBOL-Validator
 - icon: file-alt
   icon_pack: fas
-  link: https://sbolcanvas.org/canvas/tutorial
+  link: https://www.youtube.com/watch?v=tQ28wj4fmW8&feature=youtu.be
 
 
 # Organizational groups that you belong to (for People widget)

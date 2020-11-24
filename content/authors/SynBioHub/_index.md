@@ -1,24 +1,23 @@
 ---
 # Display name
-title: SBOL Canvas
+title: SynBioHub
 
 # Username (this should match the folder name)
 authors:
-- SBOL Canvas
+- SynBioHub
 
 #Author Names (alternative spellings etc)
 names:
-- SBOL Canvas
+- SynBioHub
 
 #Link to this when clicking on tool icons
-toolurl: https://sbolcanvas.org/canvas/
-
+toolurl: https://synbiohub.org/
 
 # Is this the primary user of the site?
 superuser: false
 
 interests:
-- SBOLCavas is a web application for creation and editing of genetic constructs using the SBOL data and visual standard. SBOLCanvas allows a user to create a genetic design from start to finish, with the option to incorporate existing SBOL data from a SynBioHub repository.
+- SynBioHub is a Web-based repository for synthetic biology, enabling users to browse, upload, and share synthetic biology designs.
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -30,16 +29,16 @@ interests:
 social:
 - icon: star
   icon_pack: fas
-  link: https://sbolcanvas.org/canvas/
+  link: https://synbiohub.org/
 - icon: docker
   icon_pack: fab
-  link: https://hub.docker.com/r/samuelfbridge/sbolcanvas_1.0
+  link: https://hub.docker.com/r/synbiohub/synbiohub
 - icon: github
   icon_pack: fab
-  link: https://github.com/SynBioDex/SBOLCanvas
+  link: https://github.com/SynBioHub/synbiohub
 - icon: file-alt
   icon_pack: fas
-  link: https://sbolcanvas.org/canvas/tutorial
+  link: https://synbiohub.github.io/
 
 
 # Organizational groups that you belong to (for People widget)
