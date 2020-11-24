@@ -1,24 +1,23 @@
 ---
 # Display name
-title: SBOL Canvas
+title: iBioSim
 
 # Username (this should match the folder name)
 authors:
-- SBOL Canvas
+- iBioSim
 
 #Author Names (alternative spellings etc)
 names:
-- SBOL Canvas
+- iBioSim
 
 #Link to this when clicking on tool icons
-toolurl: https://sbolcanvas.org/canvas/
-
+toolurl: https://github.com/MyersResearchGroup/iBioSim/releases
 
 # Is this the primary user of the site?
 superuser: false
 
 interests:
-- SBOLCavas is a web application for creation and editing of genetic constructs using the SBOL data and visual standard. SBOLCanvas allows a user to create a genetic design from start to finish, with the option to incorporate existing SBOL data from a SynBioHub repository.
+- iBioSim has been developed for the modeling, analysis, and design of genetic circuits. It supports modeling and visualization support for multi-cellular and spatial models, importing and exporting models specified using the Systems Biology Markup Language (SBML), and is one of the first tools to also support the Synthetic Biology Open Language (SBOL).
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -30,16 +29,16 @@ interests:
 social:
 - icon: star
   icon_pack: fas
-  link: https://sbolcanvas.org/canvas/
+  link: https://github.com/MyersResearchGroup/iBioSim/releases
 - icon: docker
   icon_pack: fab
-  link: https://hub.docker.com/r/samuelfbridge/sbolcanvas_1.0
+  link: https://hub.docker.com/r/paytonco/ibiosim
 - icon: github
   icon_pack: fab
-  link: https://github.com/SynBioDex/SBOLCanvas
+  link: https://github.com/MyersResearchGroup/Biosimulators_iBioSim
 - icon: file-alt
   icon_pack: fas
-  link: https://sbolcanvas.org/canvas/tutorial
+  link: https://www.youtube.com/watch?v=g4xayzlyC2Q&feature=youtu.be
 
 
 # Organizational groups that you belong to (for People widget)

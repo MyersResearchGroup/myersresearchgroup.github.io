@@ -1,24 +1,23 @@
 ---
 # Display name
-title: SBOL Canvas
+title: ATACS
 
 # Username (this should match the folder name)
 authors:
-- SBOL Canvas
+- ATACS
 
 #Author Names (alternative spellings etc)
 names:
-- SBOL Canvas
+- ATACS
 
 #Link to this when clicking on tool icons
-toolurl: https://sbolcanvas.org/canvas/
-
+toolurl: https://github.com/MyersResearchGroup/ATACS
 
 # Is this the primary user of the site?
 superuser: false
 
 interests:
-- SBOLCavas is a web application for creation and editing of genetic constructs using the SBOL data and visual standard. SBOLCanvas allows a user to create a genetic design from start to finish, with the option to incorporate existing SBOL data from a SynBioHub repository.
+- The ATACS tool is used for the synthesis and verification of timed asynchronous circuits.
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -28,18 +27,10 @@ interests:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: star
-  icon_pack: fas
-  link: https://sbolcanvas.org/canvas/
-- icon: docker
-  icon_pack: fab
-  link: https://hub.docker.com/r/samuelfbridge/sbolcanvas_1.0
 - icon: github
   icon_pack: fab
-  link: https://github.com/SynBioDex/SBOLCanvas
-- icon: file-alt
-  icon_pack: fas
-  link: https://sbolcanvas.org/canvas/tutorial
+  link: https://github.com/MyersResearchGroup/ATACS
+
 
 
 # Organizational groups that you belong to (for People widget)
