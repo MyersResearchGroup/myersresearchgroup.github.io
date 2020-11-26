@@ -24,10 +24,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
-- Synthetic Biology
-- Genetic Circuit Design
-- Genetic Circuit Modeling
 
 # education:
 #   courses:
@@ -73,6 +69,4 @@ user_groups:
 
 ---
 
-
-What do the three images above have in common? The answer is that they can all be modeled and analyzed by methods being developed in the Myers Research Group. The first image is a timed asynchronous multiplier designed by Kip Killpack, the second image is a fully analog decoder for digital communication applications designed by several students as part of a joint project with Professors Christian Schlegel and Reid Harrison, and the third image is the Phage Lambda virus. Since 1991, we have been developing methods and tools for the design of timed asynchronous circuits. Since 2002, our research group has been extending our modeling and analysis methods to analyze and reason about both analog/mixed-signal circuits, as well as, biological systems. For more information about the research being conducted in our group, please see our research pages.\
-Over the years, this research has been supported by the National Science Foundation, the Semiconductor Research Corporation, Intel Corporation, and the State of Utah.
+The Genetic Logic Lab is run by <a href="/author/chris-myers/">Chris Myers</a>. The research in the lab focuses on the interdisciplinary synthetic biology work in the overlap between electrical engineering, mathematical modelling, and genetic biology. Examples of work include: the creation of genetic design automation programs similar to electronic design automation programs for circuit designs, stochastic verification of genetic models, and a repository for storing and sharing genetic constructs.

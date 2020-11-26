@@ -7,30 +7,6 @@ title = "People"
 
 
 
-#### Professor
-
-<img src="/home/j/myersresearchgroup.github.io/content/People-Genetic-Logic-Lab/images/myers.jpg" style="zoom: 25%;" /> Professor Myers
-
-#### Graduate Students 
-
-Pedro Fontanarrosa, Phd Candidate 
-
-Jet Mante, Phd Candidate
-
-Lukas Buecherl, Phd Candidate
-
-Logan Terry, MS
-
-#### Undergraduate Students 
-
-James Scholz
-
-Eric Yu
-
-Ben Hatch
-
-#### Alumni
-
 ## Postdoctoral Fellows
 
 - ##### Sung-Tae Jung, Professor, Wonkwang University, Korea.
