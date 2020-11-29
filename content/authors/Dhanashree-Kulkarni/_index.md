@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Michael Zhang
+title: Dhanashree Kulkarni
 
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
 weight: 820
 
 # Username (this should match the folder name)
 authors:
-- Michael Zhang
+- Dhanashree Kulkarni
 
 #Author Names (alternative spellings etc)
 names:
-- Michael Zhang
+- Dhanashree Kulkarni
 
 # Is this the primary user of the site?
 superuser: false
@@ -31,24 +31,21 @@ university: Utah
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Genetic Circuit Design
+- Circuit Modeling
+- Circuit Design
 
 projects:
-- <a href="https://synbiohub.github.io/">SynBioHub</a>
-- <a href="https://sbolstandard.org/libraries/">SBOL Libraries</a>
-- <a href="https://sboldesigner.github.io/">SBOL Designer</a>
-- <a href="https://github.com/SynBioDex/SBOLExplorer">SBOLExplorer</a>
-
+- <a href="https://github.com/MyersResearchGroup/LEMA">LEMA</a>
 
 
 department:
-- Computer Science
+- Electrical and Computer Engineering
 
 education:
   courses:
-  - course: BS/MS in Computer Science
+  - course: M.S. in Electrical and Computer Engineering
     institution: University of Utah
-    year: 2018
+    year: 2013
 
 
 
@@ -58,18 +55,18 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 
-- icon: user-graduate
-  icon_pack: fas
-  link: https://www.linkedin.com/in/michael13162/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/michael13162
+#- icon: user-graduate
+#  icon_pack: fas
+#  link: www.cse.usf.edu/~haozheng
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/3ach
 #- icon: orcid
 #  icon_pack: fab
 #  link: https://orcid.org/0000-0002-8627-0591
 - icon: university-logo
   icon_pack: Custom_University
-  link: https://www.cs.utah.edu/
+  link: https://www.ece.utah.edu/graduate-programs-in-ece/ms-degree/
 # - icon: university
 #   icon_pack: fas
 #   link: https://www.colorado.edu/ecee
@@ -90,3 +87,5 @@ user_groups:
 - Alumni
 - Masters Alumni
 ---
+
+Dhanashree worked on  creating Labeled Petri Net(LPN) models of mixed signal circuits using LEMA, an in-house formal verification tool developed for analog and mixed-signal circuits. Dhanashree worked on developing a new property specification language and creating a property language translator that translates temporal properties to LPN format. Dhanashree at present works  as an Analog Engineer with a non-volatile memory design group at Intel technologies.

@@ -1,24 +1,23 @@
 ---
 # Display name
-title: Zach Zundel
+title: Satish Batchu
 
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
-weight: 830
+weight: 820
 
 # Username (this should match the folder name)
 authors:
-- Zach Zundel
+- Satish Batchu
 
 #Author Names (alternative spellings etc)
 names:
-- Zach Zundel
-- Zachary Zundel
+- Satish Batchu
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Alumni, Undergraduate
+role: Alumni, Masters
 
 # Organizations/Affiliations
 organizations:
@@ -32,26 +31,21 @@ university: Utah
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Software Design
-- Continuous Integration and Deployment
-- Synthetic Biology Tooling and Standards
+- Electrical Models
+- Asynchronous Circuits
 
 projects:
-- <a href="https://synbiohub.github.io/aboutsynbiohub/">SynBioHub</a>
-- <a href="https://sbolstandard.org/libraries/">SBOL Libraries</a>
+- <a href="https://github.com/MyersResearchGroup/LEMA">LEMA</a>
 
 
 department:
-- Biomedical Engineering and Computer Science
+- Electrical and Computer Engineering
 
 education:
   courses:
-  - course: B. Sci in Biomedical Engineering
+  - course: MS in Electrical and Computer Engineering
     institution: University of Utah
-    year: 2020
-  - course: B. Sci in Computer Science
-    institution: University of Utah
-    year: 2020
+    year: 2010
 
 
 # Social/Academic Networking
@@ -68,18 +62,18 @@ social:
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: user-graduate
-  icon_pack: fas
-  link: http://zachzundel.com/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/3ach
+#- icon: user-graduate
+#  icon_pack: fas
+#  link: http://zachzundel.com/
+#- icon: github
+#  icon_pack: fab
+#  link: https://github.com/3ach
 # - icon: external-link-alt
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: university-logo
   icon_pack: Custom_University
-  link: https://www.cs.utah.edu/
+  link: https://www.ece.utah.edu/graduate-programs-in-ece/ms-degree/
 # - icon: university
 #   icon_pack: fas
 #   link: https://www.colorado.edu/ecee
@@ -109,7 +103,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Alumni
-- Undergraduate Alumni
+- Masters Alumni
 ---
 
-Zach worked on SynBioHub as well as assorted tooling related to the SBOL Standard. He created continuous integration and deployment processes for many libraries and tools in the SBOL ecosystem. He now works on reliability and incident management for Facebook. 
+Satish is currently working as a design verification engineer at Apple. He worked on the LEMA tool for AMS model generation as part of his Masters thesis with Professor Chris Myers.

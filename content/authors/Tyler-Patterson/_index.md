@@ -1,18 +1,17 @@
 ---
 # Display name
-title: Zach Zundel
+title: Tyler Patterson
 
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
 weight: 830
 
 # Username (this should match the folder name)
 authors:
-- Zach Zundel
+- Tyler Patterson
 
 #Author Names (alternative spellings etc)
 names:
-- Zach Zundel
-- Zachary Zundel
+- Tyler Patterson
 
 # Is this the primary user of the site?
 superuser: false
@@ -32,26 +31,21 @@ university: Utah
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Software Design
-- Continuous Integration and Deployment
-- Synthetic Biology Tooling and Standards
+- Genetic Circuit Design
 
 projects:
-- <a href="https://synbiohub.github.io/aboutsynbiohub/">SynBioHub</a>
-- <a href="https://sbolstandard.org/libraries/">SBOL Libraries</a>
+- <a href="https://github.com/MyersResearchGroup/iBioSim">iBioSim</a>
 
 
 department:
-- Biomedical Engineering and Computer Science
+- Electrical and Computer Engineering
 
 education:
   courses:
-  - course: B. Sci in Biomedical Engineering
+  - course: BSci in Electrical and Computer Engineering
     institution: University of Utah
-    year: 2020
-  - course: B. Sci in Computer Science
-    institution: University of Utah
-    year: 2020
+    year: 2011
+
 
 
 # Social/Academic Networking
@@ -59,42 +53,23 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
 - icon: user-graduate
   icon_pack: fas
-  link: http://zachzundel.com/
+  link: https://everaccountable.com/about/
 - icon: github
   icon_pack: fab
-  link: https://github.com/3ach
-# - icon: external-link-alt
-#   icon_pack: fas
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://github.com/tpatterson
+#- icon: orcid
+#  icon_pack: fab
+#  link: https://orcid.org/0000-0002-8627-0591
 - icon: university-logo
   icon_pack: Custom_University
-  link: https://www.cs.utah.edu/
+  link: https://www.ece.utah.edu/prospective-students/
 # - icon: university
 #   icon_pack: fas
 #   link: https://www.colorado.edu/ecee
-# - icon: user
-#   icon_pack: fas
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: zotero
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: ieee
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: overleaf
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -112,4 +87,4 @@ user_groups:
 - Undergraduate Alumni
 ---
 
-Zach worked on SynBioHub as well as assorted tooling related to the SBOL Standard. He created continuous integration and deployment processes for many libraries and tools in the SBOL ecosystem. He now works on reliability and incident management for Facebook. 
+Tyler has loved creating software since he was 13 years old. He helped Chris with visualization code in iBioSim. After graduation he founded Ever Accountable, a company that creates software to help people avoid and overcome pornography. He now leads a team of people at Ever Accountable who push the boundaries of technology and psychology to make pornography avoidance and recovery as easy as possible.

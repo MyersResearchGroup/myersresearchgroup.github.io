@@ -1,18 +1,17 @@
 ---
 # Display name
-title: Zach Zundel
+title: Samuel Bridge
 
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
 weight: 830
 
 # Username (this should match the folder name)
 authors:
-- Zach Zundel
+- Samuel Bridge
 
 #Author Names (alternative spellings etc)
 names:
-- Zach Zundel
-- Zachary Zundel
+- Samuel Bridge
 
 # Is this the primary user of the site?
 superuser: false
@@ -32,26 +31,24 @@ university: Utah
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Software Design
-- Continuous Integration and Deployment
-- Synthetic Biology Tooling and Standards
+- Synthetic Biology
+- Genetic Circuit Design
 
 projects:
-- <a href="https://synbiohub.github.io/aboutsynbiohub/">SynBioHub</a>
-- <a href="https://sbolstandard.org/libraries/">SBOL Libraries</a>
+- <a href="https://sbolcanvas.org/canvas/tutorial">SBOL Canvas</a>
+- <a href="https://sboldesigner.github.io/">SBOL Designer</a>
+
 
 
 department:
-- Biomedical Engineering and Computer Science
+- Computer Science
 
 education:
   courses:
-  - course: B. Sci in Biomedical Engineering
+  - course: BS in Computer Science
     institution: University of Utah
     year: 2020
-  - course: B. Sci in Computer Science
-    institution: University of Utah
-    year: 2020
+
 
 
 # Social/Academic Networking
@@ -59,42 +56,23 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
 - icon: user-graduate
   icon_pack: fas
-  link: http://zachzundel.com/
+  link: https://www.linkedin.com/mwlite/in/samuel-bridge-96209a14a
 - icon: github
   icon_pack: fab
-  link: https://github.com/3ach
-# - icon: external-link-alt
-#   icon_pack: fas
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://github.com/SamuelSauce
+#- icon: orcid
+#  icon_pack: fab
+#  link: https://orcid.org/0000-0002-8627-0591
 - icon: university-logo
   icon_pack: Custom_University
   link: https://www.cs.utah.edu/
 # - icon: university
 #   icon_pack: fas
 #   link: https://www.colorado.edu/ecee
-# - icon: user
-#   icon_pack: fas
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: zotero
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: ieee
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: overleaf
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -112,4 +90,8 @@ user_groups:
 - Undergraduate Alumni
 ---
 
-Zach worked on SynBioHub as well as assorted tooling related to the SBOL Standard. He created continuous integration and deployment processes for many libraries and tools in the SBOL ecosystem. He now works on reliability and incident management for Facebook. 
+Samuel Bridge was an undergraduate researcher for Chris Myers at the University of Utah. He joined the lab in 2018 whilst studying  Computer Science. 
+
+During his time at the lab he primarily worked on SBOLDesigner, a tool for genetic circuit design. His interest in Mobile App development eventually inspired him to create an iOS prototype of SBOLDesigner. Later on his desire to create a more user friendly and modern version of SBOLDesigner led to being involved in the creation of SBOLCanvas, another tool, which is web based, for genetic circuit design.
+
+Since graduating, Sam has found himself working as a Software Engineer for Microsoft in Seattle, Washington. 
