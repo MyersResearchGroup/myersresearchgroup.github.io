@@ -1,54 +1,51 @@
 ---
 # Display name
-title: Michael Zhang
+title: Hao Zheng
 
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
-weight: 820
+weight: 810
 
 # Username (this should match the folder name)
 authors:
-- Michael Zhang
+- Hao Zheng
 
 #Author Names (alternative spellings etc)
 names:
-- Michael Zhang
+- Hao Zheng
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Alumni, Masters
+role: Alumni, PhD
 
 # Organizations/Affiliations
 organizations:
-- name: University of Utah
+- name: University of South Florida
   url: ""
 
 #Utah or CU
-university: Utah
+university: University of South Florida
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Genetic Circuit Design
+- Formal Verification
+- Model Checking
 
 projects:
-- <a href="https://synbiohub.github.io/">SynBioHub</a>
-- <a href="https://sbolstandard.org/libraries/">SBOL Libraries</a>
-- <a href="https://sboldesigner.github.io/">SBOL Designer</a>
-- <a href="https://github.com/SynBioDex/SBOLExplorer">SBOLExplorer</a>
-
+- <a href="https://fluentverification.github.io/">Fluent</a>
 
 
 department:
-- Computer Science
+- Computer Science and Engineering
 
 education:
   courses:
-  - course: BS/MS in Computer Science
-    institution: University of Utah
-    year: 2018
+ # - course: B. Sci in Biomedical Engineering
+ #   institution: University of Utah
+ #   year: 2020
 
 
 
@@ -60,16 +57,16 @@ social:
 
 - icon: user-graduate
   icon_pack: fas
-  link: https://www.linkedin.com/in/michael13162/
-- icon: github
-  icon_pack: fab
-  link: https://github.com/michael13162
-#- icon: orcid
+  link: www.cse.usf.edu/~haozheng
+#- icon: github
 #  icon_pack: fab
-#  link: https://orcid.org/0000-0002-8627-0591
-- icon: university-logo
-  icon_pack: Custom_University
-  link: https://www.cs.utah.edu/
+#  link: https://github.com/3ach
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-8627-0591
+#- icon: university-logo
+#  icon_pack: Custom_University
+#  link: https://www.cs.utah.edu/
 # - icon: university
 #   icon_pack: fas
 #   link: https://www.colorado.edu/ecee
@@ -88,5 +85,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Alumni
-- Masters Alumni
+- PhD Alumni
 ---
+
+Hao Zheng is a former PhD student under Chris Myers supervision. He graduated in 2001, and now he is an Associate Professor at the University of South Florida. His research interests are main in formal method in system designs, verification, and validation. 
