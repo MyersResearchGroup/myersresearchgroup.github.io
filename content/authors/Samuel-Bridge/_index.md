@@ -17,7 +17,7 @@ names:
 superuser: false
 
 # Role/position
-role: Alumni, Undergraduate
+role: Microsoft, Software Engineer
 
 # Organizations/Affiliations
 organizations:

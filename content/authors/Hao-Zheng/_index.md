@@ -17,7 +17,7 @@ names:
 superuser: false
 
 # Role/position
-role: Alumni, PhD
+role: University of South Florida, Associate Professor
 
 # Organizations/Affiliations
 organizations:

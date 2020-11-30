@@ -17,7 +17,7 @@ names:
 superuser: false
 
 # Role/position
-role: Alumni, Undergraduate
+role: Ever Accountable, President
 
 # Organizations/Affiliations
 organizations:

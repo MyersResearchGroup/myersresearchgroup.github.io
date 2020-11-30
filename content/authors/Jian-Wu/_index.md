@@ -17,7 +17,7 @@ names:
 superuser: false
 
 # Role/position
-role: Alumni, Postdoctoral
+role: Innogrit Technology, Senior Design Manager
 
 # Organizations/Affiliations
 organizations:

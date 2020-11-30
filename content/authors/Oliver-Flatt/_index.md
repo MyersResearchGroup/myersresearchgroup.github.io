@@ -17,7 +17,7 @@ names:
 superuser: false
 
 # Role/position
-role: Alumni, Undergraduate
+role: University of Utah, Undergraduate Researcher
 
 # Organizations/Affiliations
 organizations:

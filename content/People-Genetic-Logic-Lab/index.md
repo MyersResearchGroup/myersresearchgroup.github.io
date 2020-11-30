@@ -7,11 +7,7 @@ title = "People"
 
 
 
-## Postdoctoral Fellows
 
-- ##### Sung-Tae Jung, Professor, Wonkwang University, Korea.
-
-- Jian Wu, Toshiba America Electronic Components, Inc., San Jose, CA, USA
 
 ## PhD Students
 
@@ -32,18 +28,15 @@ title = "People"
 - [David Walter](https://www.linkedin.com/in/dwalter), Capital One, Richmond, VA.
 - [Leandro Watanabe](https://www.async.ece.utah.edu/~watanabe), Google, Seattle, CA.
 - [Zhen Zhang](https://www.researchgate.net/profile/Zhen_Zhang66), Assistant Professor, Utah State University, Logan, UT.
-- [Hao Zheng](http://www.csee.usf.edu/~zheng/), Associate Professor, University of South Florida, Tampa, FL.
+
 
 ## MS Students
 
 - Brandon Bachman, Intel Corporation, Folsom, CA.
-- Satish Batchu, Qualcomm, Raleigh, NC.
 - [Kip Killpack](http://www.async.ece.utah.edu/~killpack), Intel Corporation, Hillsboro, OR.
 - Christopher Krieger, Intel Corporation, Fort Collins, CO.
-- Dhanashree Kulkarni, Intel Corporation, Hillsboro, OR.
 - Nam Nguyen, University of Illinois in Urbana-Champaign, IL.
 - [Meher Samineni](https://mehersam.github.io/Meher-Samineni/), REI, Seattle, CA.
-- [Michael Zhang](https://www.linkedin.com/in/michael13162/), Google, Sunnyvale, CA.
 - [Yanyi Zhao](http://www.async.ece.utah.edu/~yzhao), Stryker, San Jose, CA.
 
 ## Undergraduate Students
@@ -51,7 +44,6 @@ title = "People"
 - Jeff Cuthbert, Raytheon, Dallas, TX.
 - Scott Glass, University of Utah, UT.
 - [Kevin Jones](http://www.async.ece.utah.edu/~kjones), Aberdeen Proving Ground, Philadelphia, PA.
-- Tyler Patterson, DataStax, Salt Lake City, UT.
 - John Perry, JPMorgan, New York City, NY.
 - Nick Seegmiller, Backcountry.com, Park City, UT.
 - Allen Sjogren, Hart Scientific, Salt Lake City, UT.
