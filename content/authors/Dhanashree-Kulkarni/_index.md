@@ -17,7 +17,7 @@ names:
 superuser: false
 
 # Role/position
-role: Alumni, Masters
+role: Intel Technologies, Analog Engineer
 
 # Organizations/Affiliations
 organizations:

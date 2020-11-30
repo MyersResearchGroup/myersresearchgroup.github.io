@@ -17,7 +17,7 @@ names:
 superuser: false
 
 # Role/position
-role: Alumni, Masters
+role: Google, Engineer
 
 # Organizations/Affiliations
 organizations:

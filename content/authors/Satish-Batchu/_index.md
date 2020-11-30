@@ -17,7 +17,7 @@ names:
 superuser: false
 
 # Role/position
-role: Alumni, Masters
+role: Apple, Design Verification Engineer
 
 # Organizations/Affiliations
 organizations:

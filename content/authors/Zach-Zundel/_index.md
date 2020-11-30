@@ -18,7 +18,7 @@ names:
 superuser: false
 
 # Role/position
-role: Alumni, Undergraduate
+role: Facebook, Product Engineer
 
 # Organizations/Affiliations
 organizations:
