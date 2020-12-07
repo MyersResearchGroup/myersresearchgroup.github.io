@@ -32,7 +32,7 @@
       <div class="portrait-title">
 
         {{ with $person.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
-
+        <p></p>
         {{ range $person.organizations }}
         <h3>
           {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
