@@ -9,6 +9,9 @@ authors:
 # Is this the primary user of the site?
 superuser: false
 
+# Role/position
+role: Former research area
+
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
 weight: 900
 
@@ -17,8 +20,8 @@ weight: 900
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 projects:
-- SBKS
-- FLUENT
+#- SBKS
+#- FLUENT
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -34,7 +37,7 @@ social:
 #   link: https://orcid.org/0000-0002-8762-8444
 # - icon: envelope
 #   icon_pack: fas
-#   link: mailto:benjamin.hat4@gmail.com 
+#   link: mailto:benjamin.hat4@gmail.com
 # - icon: university-logo
 #   icon_pack: Custom_University
 #   link: https://www.cs.utah.edu/
@@ -53,4 +56,4 @@ email: ""
 user_groups:
 - Research Areas
 ---
-Ben Hatch is a second-year undergraduate student at the University of Utah studying computer science. His current research focus is visualization tools for synthetic biology. Most recently, Ben has been devloping VisBOL 2.0, an open-source web-based visualization tool for synthetic biology designs.
+Supported by the National Science Foundation (NSF grant #CCR9971168), Professor Myers and his colleagues demonstrated the viability of analog architectures for MAP decoders. This project led to the design of the first successful analog MAP decoder using strictly CMOS design. The fabricated chip was tested at bit rates of 1 Mb/s to 10 Mb/s with a typical power consumption of only 16uW.  Under NSF CCF award 1117515, Professor Myers in collaboration with Professor Peng Li of Texas A&M integrated research in the area of analog circuit verification with analog testing, and applying this work to the challenges of modern analog circuit designs that include extensive digital components. During this project, we continued to develop our LEMA verification tool including improvements to our model generation tool, a new verification property language for analog/mixed-signal circuits, and new verification methods.  This work built upon past projects supported by the Semiconductor Research Corporation and additional support from Intel Corporation.
