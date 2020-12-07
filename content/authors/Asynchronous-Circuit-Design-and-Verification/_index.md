@@ -55,5 +55,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Research Areas
+
+research_area: true
 ---
 Supported by grants from the National Science Foundation (NSF CAREER award MIP-9625014), Intel Corporation, the Semiconductor Research Corporation (SRC), and the State of Utah, Professor Myers and his graduate students developed the ATACS tool for the synthesis and verification of timed asynchronous circuits. ATACS was utilized during the Intel RAPPID project which resulted in a prototype VLSI chip that was 3 times faster while using only half the power of the comparable synchronous design. NSF Japan Program award INT-0087281 helped foster a collaboration between the PI and Professor Tomohiro Yoneda of the National Institute of Informatics in Tokyo which has resulted in over 30 publications to date.

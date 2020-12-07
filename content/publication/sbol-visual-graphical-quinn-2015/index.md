@@ -28,14 +28,14 @@ authors:
 - Anil Wipat
 - Herbert M. Sauro
 tags:
-- '"DNA"'
-- '"Genetic engineering"'
-- '"Genetics"'
-- '"Language"'
-- '"Ontologies"'
-- '"Pigeons"'
-- '"Software tools"'
-- '"Synthetic biology"'
+- 'DNA'
+- 'Genetic engineering'
+- 'Genetics'
+- 'Language'
+- 'Ontologies'
+- 'Pigeons'
+- 'Software tools'
+- 'Synthetic biology'
 categories: []
 date: '2015-12-01'
 lastmod: 2020-09-27T16:55:42-03:00

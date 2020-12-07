@@ -11,16 +11,16 @@ authors:
 - Chris Myers
 - Takashi Nanya
 tags:
-- '"Asynchronous circuits"'
-- '"Circuit synthesis"'
-- '"Clocks"'
-- '"Flow graphs"'
-- '"Informatics"'
-- '"Integer linear programming"'
-- '"Processor scheduling"'
-- '"Scheduling algorithm"'
-- '"Signal synthesis"'
-- '"Time factors"'
+- 'Asynchronous circuits'
+- 'Circuit synthesis'
+- 'Clocks'
+- 'Flow graphs'
+- 'Informatics'
+- 'Integer linear programming'
+- 'Processor scheduling'
+- 'Scheduling algorithm'
+- 'Signal synthesis'
+- 'Time factors'
 categories: []
 date: '2006-09-01'
 lastmod: 2020-09-27T16:55:18-03:00

@@ -9,13 +9,13 @@ authors:
 - Hiroyuki Kuwahara
 - Chris J. Myers
 tags:
-- '"Algorithms"'
-- '"Computer Simulation"'
-- '"Enzymes"'
-- '"Mathematics"'
-- '"Models; Biological"'
-- '"Models; Chemical"'
-- '"Models; Statistical"'
+- 'Algorithms'
+- 'Computer Simulation'
+- 'Enzymes'
+- 'Mathematics'
+- 'Models; Biological'
+- 'Models; Chemical'
+- 'Models; Statistical'
 categories: []
 date: '2008-09-01'
 lastmod: 2020-09-27T16:55:35-03:00

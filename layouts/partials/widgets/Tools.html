@@ -34,7 +34,8 @@
     {{ range $query }}
     {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
     {{/* Get link to user's profile page. */}}
-    {{ $link := "" }}    {{$link := .Params.toolurl}}
+    {{ $link := "" }}
+    {{$link := .Params.toolurl}}
     <div class="col-12 col-sm-auto people-person">
       {{ $src := "" }}
       {{ if site.Params.avatar.gravatar }}

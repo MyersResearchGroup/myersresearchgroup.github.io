@@ -19,12 +19,12 @@ authors:
 - Dagmar Waltemath
 - Nicolas Le Novère
 tags:
-- '"Biology"'
-- '"computational modeling"'
-- '"data sharing"'
-- '"File formats"'
-- '"reproducible science"'
-- '"standardization"'
+- 'Biology'
+- 'computational modeling'
+- 'data sharing'
+- 'File formats'
+- 'reproducible science'
+- 'standardization'
 categories: []
 date: '2015-01-01'
 lastmod: 2020-09-27T16:55:35-03:00

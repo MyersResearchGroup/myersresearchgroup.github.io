@@ -10,14 +10,14 @@ authors:
 - Chris J. Myers
 - Michael S. Samoilov
 tags:
-- '"Bacterial pathogens"'
-- '"Biochemical simulations"'
-- '"Electrical circuits"'
-- '"Logic circuits"'
-- '"Pili and fimbriae"'
-- '"Simulation and modeling"'
-- '"Synthetic genetic networks"'
-- '"Virulence factors"'
+- 'Bacterial pathogens'
+- 'Biochemical simulations'
+- 'Electrical circuits'
+- 'Logic circuits'
+- 'Pili and fimbriae'
+- 'Simulation and modeling'
+- 'Synthetic genetic networks'
+- 'Virulence factors'
 categories: []
 date: '2010-03-01'
 lastmod: 2020-09-27T16:56:01-03:00

@@ -47,15 +47,17 @@ department:
 
 education:
   courses:
-  - course: BS in Electrical Engineering
-    institution: BYU
-    year: 1995
-  - course: MS in Electrical and Computer Engineering
-    institution: University of Utah
-    year: 2002
   - course: PhD in Computer Science
     institution: Colorado State University
     year: 2013
+  - course: MS in Electrical and Computer Engineering
+    institution: University of Utah
+    year: 2002
+  - course: BS in Electrical Engineering
+    institution: BYU
+    year: 1995
+
+
 
 
 

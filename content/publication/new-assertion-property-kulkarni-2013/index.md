@@ -9,13 +9,13 @@ authors:
 - Andrew N. Fisher
 - Chris J. Myers
 tags:
-- '"Cities and towns"'
-- '"Clocks"'
-- '"Delays"'
-- '"Educational institutions"'
-- '"Generators"'
-- '"Grammar"'
-- '"Integrated circuit modeling"'
+- 'Cities and towns'
+- 'Clocks'
+- 'Delays'
+- 'Educational institutions'
+- 'Generators'
+- 'Grammar'
+- 'Integrated circuit modeling'
 categories: []
 date: '2013-09-01'
 lastmod: 2020-09-27T16:55:31-03:00

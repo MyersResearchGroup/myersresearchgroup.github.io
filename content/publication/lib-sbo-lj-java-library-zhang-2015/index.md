@@ -18,16 +18,16 @@ authors:
 - Anil Wipat
 - Chris J. Myers
 tags:
-- '"Application programming interfaces"'
-- '"computational biology"'
-- '"Computational biology"'
-- '"Java"'
-- '"software libraries"'
-- '"Software libraries"'
-- '"software tools"'
-- '"Software tools"'
-- '"synthetic biology"'
-- '"Synthetic biology"'
+- 'Application programming interfaces'
+- 'computational biology'
+- 'Computational biology'
+- 'Java'
+- 'software libraries'
+- 'Software libraries'
+- 'software tools'
+- 'Software tools'
+- 'synthetic biology'
+- 'Synthetic biology'
 categories: []
 date: '2015-12-01'
 lastmod: 2020-09-27T16:55:26-03:00

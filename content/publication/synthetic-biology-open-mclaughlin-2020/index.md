@@ -19,11 +19,11 @@ authors:
 - Thomas E. Gorochowski
 - Chris J. Myers
 tags:
-- '"Data exchange"'
-- '"data standards"'
-- '"Knowledge representation"'
-- '"SBOL"'
-- '"Synthetic Biology"'
+- 'Data exchange'
+- 'data standards'
+- 'Knowledge representation'
+- 'SBOL'
+- 'Synthetic Biology'
 categories: []
 date: '2020-01-01'
 lastmod: 2020-09-27T16:55:57-03:00

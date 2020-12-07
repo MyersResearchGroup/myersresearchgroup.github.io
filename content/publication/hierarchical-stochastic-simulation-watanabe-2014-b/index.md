@@ -8,11 +8,11 @@ authors:
 - Leandro H. Watanabe
 - Chris J. Myers
 tags:
-- '"genetic circuits"'
-- '"hierarchical composition"'
-- '"SBML"'
-- '"stochastic simulation"'
-- '"synthetic and systems biology"'
+- 'genetic circuits'
+- 'hierarchical composition'
+- 'SBML'
+- 'stochastic simulation'
+- 'synthetic and systems biology'
 categories: []
 date: '2014-04-01'
 lastmod: 2020-09-27T16:55:17-03:00

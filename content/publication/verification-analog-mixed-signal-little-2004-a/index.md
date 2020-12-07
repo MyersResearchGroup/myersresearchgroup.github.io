@@ -11,11 +11,11 @@ authors:
 - Chris Myers
 - Tomohiro Yoneda
 tags:
-- '"Analog Circuit"'
-- '"Discrete Transition"'
-- '"Hybrid Automaton"'
-- '"Reachability Analysis"'
-- '"Reachable State"'
+- 'Analog Circuit'
+- 'Discrete Transition'
+- 'Hybrid Automaton'
+- 'Reachability Analysis'
+- 'Reachable State'
 categories: []
 date: '2004-01-01'
 lastmod: 2020-09-27T16:56:05-03:00
