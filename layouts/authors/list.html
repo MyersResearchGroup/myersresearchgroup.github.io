@@ -14,6 +14,9 @@
     {{/*Copy the line and replace the first list of aliases to redirect from and the second (e.g. jet-mante) with the page to redirect to*/}}
     {{if in (slice "Chris J. Myers" "Chris J Myers") .Title}} {{.Scratch.Set "newAuthor" "chris-myers"}} {{end}}
     {{if in (slice "Jeanet Mante") .Title}} {{.Scratch.Set "newAuthor" "jet-mante"}} {{end}}
+    {{if in (slice "Formal Verification of Cyberphysical Systems" "Genetic Design Automation" "Asynchronous Circuit Design and Verification" "Analog Circuit Design and Verification") .Title}}
+      {{.Scratch.Set "TagList" "True"}}
+    {{end}}
 
     {{$newAuthor := .Scratch.Get "newAuthor"}}
     <head>
