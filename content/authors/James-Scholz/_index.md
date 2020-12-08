@@ -35,12 +35,11 @@ organizations:
 
 interests:
 - Synthetic Biology
-- Genetic Circuit Design
-- Genetic Circuit Modeling
+- Test integration
+- RESTful API
 
 projects:
-- <a href="https://synbioks.github.io/">SBKS</a>
-- <a href="https://sbolcanvas.org/canvas/">SBOLCanvas</a>
+- <a href="/author/synbiohub/">SynBioHub</a>
 
 education:
   courses:

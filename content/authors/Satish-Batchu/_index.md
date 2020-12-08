@@ -35,7 +35,7 @@ interests:
 - Asynchronous Circuits
 
 projects:
-- <a href="https://github.com/MyersResearchGroup/LEMA">LEMA</a>
+- <a href="/author/lema/">LEMA</a>
 
 
 department:
@@ -53,42 +53,22 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
-# - icon: google-scholar
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-#- icon: user-graduate
-#  icon_pack: fas
-#  link: http://zachzundel.com/
+  - icon: user-graduate
+    icon_pack: fas
+    link: https://www.linkedin.com/in/satishbatchu
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/3ach
 # - icon: external-link-alt
 #   icon_pack: fas
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: university-logo
-  icon_pack: Custom_University
-  link: https://www.ece.utah.edu/graduate-programs-in-ece/ms-degree/
+  - icon: university-logo
+    icon_pack: Custom_University
+    link: https://www.ece.utah.edu/graduate-programs-in-ece/ms-degree/
 # - icon: university
 #   icon_pack: fas
 #   link: https://www.colorado.edu/ecee
-# - icon: user
-#   icon_pack: fas
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: zotero
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: ieee
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-# - icon: overleaf
-#   icon_pack: ai
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

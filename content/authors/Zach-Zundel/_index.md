@@ -37,8 +37,8 @@ interests:
 - Synthetic Biology Tooling and Standards
 
 projects:
-- <a href="https://synbiohub.github.io/aboutsynbiohub/">SynBioHub</a>
-- <a href="https://sbolstandard.org/libraries/">SBOL Libraries</a>
+- <a href="/author/synbiohub/">SynBioHub</a>
+- <a href="/author/sbol-libraries/">SBOL Libraries</a>
 
 
 department:

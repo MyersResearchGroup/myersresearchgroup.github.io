@@ -35,7 +35,9 @@
     {{ $avatar := (.Resources.ByType "image").GetMatch "*avatar*" }}
     {{/* Get link to user's profile page. */}}
     {{ $link := "" }}
-    {{$link := .Params.toolurl}}
+    {{ with site.GetPage (printf "/authors/%s" (path.Base (path.Split .Path).Dir)) }}
+      {{ $link = .RelPermalink }}
+    {{ end }}
     <div class="col-12 col-sm-auto people-person">
       {{ $src := "" }}
       {{ if site.Params.avatar.gravatar }}

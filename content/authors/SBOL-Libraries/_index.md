@@ -16,7 +16,7 @@ toolurl: https://sbolstandard.org/libraries/
 # Is this the primary user of the site?
 superuser: false
 
-interests:
+projects:
 - These libraries allow developers to integrate the SBOL data model into their software tools. These libraries are available in C/C++, Java, JavaScript, and Python.
 
 # Short bio (displayed in user profile at end of posts)
@@ -36,4 +36,9 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Tools
+
+research_area: true
+
+research_area_tags:
+- SBOL
 ---

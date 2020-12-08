@@ -34,9 +34,9 @@ interests:
 - Genetic Circuit Design
 
 projects:
-- <a href="https://synbiohub.github.io/">SynBioHub</a>
-- <a href="https://sbolstandard.org/libraries/">SBOL Libraries</a>
-- <a href="https://sboldesigner.github.io/">SBOL Designer</a>
+- <a href="/author/synbiohub/">SynBioHub</a>
+- <a href="/author/sbol-libraries/">SBOL Libraries</a>
+- <a href="/author/sbol-designer/">SBOL Designer</a>
 - <a href="https://github.com/SynBioDex/SBOLExplorer">SBOLExplorer</a>
 
 

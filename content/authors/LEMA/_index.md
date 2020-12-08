@@ -16,7 +16,7 @@ toolurl: https://github.com/MyersResearchGroup/LEMA
 # Is this the primary user of the site?
 superuser: false
 
-interests:
+projects:
 - The LEMA tool is for the formal verification of analog and mixed-signal circuits.
 
 # Short bio (displayed in user profile at end of posts)
@@ -37,4 +37,20 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Tools
+
+research_area: true
+
+research_area_tags:
+- LEMA AMS verification tool flow
+# - ams
+# - AMS circuits
+# - AMS systems
+# - Verilog-AMS model
+# - VHDL-AMS
+# - VHDL-AMS description
+# - analog/mixed-signal
+# - Analog/mixed-signal (AMS) circuits
+# - analog/mixed-signal circuit
+# - analog/mixed-signal circuits
+# - analog/mixed-signal systems
 ---

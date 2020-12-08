@@ -22,7 +22,7 @@ department:
 - School of Computing
 
 projects:
-- <a href="https://sbolcanvas.org/canvas/">SBOLCanvas</a>
+- <a href="/author/sbol-canvas/">SBOLCanvas</a>
 
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 810 for alum undergrads
 weight: 300

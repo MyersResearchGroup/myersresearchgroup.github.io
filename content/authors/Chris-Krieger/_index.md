@@ -37,7 +37,7 @@ interests:
 - Neuromorphic Computing
 
 projects:
-- <a href="https://github.com/MyersResearchGroup/ATACS">ATACS</a>
+- <a href="/author/atacs/">ATACS</a>
 
 
 

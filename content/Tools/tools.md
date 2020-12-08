@@ -20,10 +20,10 @@ subtitle = ""
   show_social = true
 
   # Show user's interests? (true/false)
-  show_interests = true
-
+  show_interests = false
+  
   # Show user's projects? (true/false)
-  show_projects = false
+  show_projects = true
 
   # Show user's department? (true/false)
   show_department = false

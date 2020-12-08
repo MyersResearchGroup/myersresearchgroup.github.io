@@ -18,7 +18,7 @@ weight: 400
 
 projects:
 - <a href="https://synbioks.github.io/">SBKS</a>
-- <a href="https://sbolcanvas.org/canvas/">SBOLCanvas</a>
+- <a href="/author/sbol-canvas/">SBOLCanvas</a>
 
 department:
 - Electrical and Computer Engineering

@@ -16,7 +16,7 @@ toolurl: https://synbiohub.org/
 # Is this the primary user of the site?
 superuser: false
 
-interests:
+projects:
 - SynBioHub is a Web-based repository for synthetic biology, enabling users to browse, upload, and share synthetic biology designs.
 
 # Short bio (displayed in user profile at end of posts)
@@ -45,4 +45,10 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Tools
+
+research_area: true
+
+research_area_tags:
+- SBOL
+- SynBioHub
 ---

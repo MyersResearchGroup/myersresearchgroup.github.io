@@ -22,8 +22,8 @@ department:
 - Biomedical Engineering
 
 projects:
-- <a href="https://github.com/MyersResearchGroup/iBioSim">iBioSim</a>
-- <a href="https://github.com/SynBioDex/SBOL-specification">SBOL</a>
+- <a href="/author/ibiosim/">iBioSim</a>
+- <a href="https://sbolstandard.org/">SBOL</a>
 
 # Role/position
 role: Graduate Researcher, Ph.D.

@@ -736,6 +736,8 @@ research_area_tags:
 # - satisfiability modulo theory solver
 # - SBML
 # - SBOL
+# - SBOLDesigner
+# - SBOLValidatory
 # - scalable verification
 # - scheduling
 # - Scheduling algorithm
@@ -834,6 +836,7 @@ research_area_tags:
 # - symbolic methods
 # - Symbolic Model
 # - symbolic model checking
+# - SynBioHub
 # - Synchronization
 # - synchronous control logic
 # - synchronous interlocked pipelines

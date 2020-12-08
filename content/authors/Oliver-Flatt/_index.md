@@ -35,7 +35,7 @@ interests:
 - Numerics
 
 projects:
-- <a href="https://synbiohub.github.io/">SynBioHub</a>
+- <a href="/author/synbiohub/">SynBioHub</a>
 
 department:
 - Computer Science
