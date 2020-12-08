@@ -10,10 +10,10 @@ authors:
 - Yingying Zhang
 - Chris Myers
 tags:
-- '"abstraction"'
-- '"compositional verification"'
-- '"minimization"'
-- '"model checking"'
+- 'abstraction'
+- 'compositional verification'
+- 'minimization'
+- 'model checking'
 categories: []
 date: '2012-01-01'
 lastmod: 2020-09-27T16:54:57-03:00

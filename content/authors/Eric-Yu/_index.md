@@ -30,7 +30,7 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 projects:
-- <a href="https://synbioks.github.io/">SynBioHub</a>
+- <a href="/author/synbiohub/">SynBioHub</a>
 
 
 department:
@@ -38,8 +38,8 @@ department:
 
 interests:
 - Synthetic Biology
-- Genetic Circuit Design
-- Genetic Circuit Modeling
+- Back End Design
+- Sequence Search
 
 education:
   courses:

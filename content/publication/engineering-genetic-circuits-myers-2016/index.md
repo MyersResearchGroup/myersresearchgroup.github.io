@@ -7,9 +7,9 @@ summary: ''
 authors:
 - Chris J. Myers
 tags:
-- '"Medical / Biotechnology"'
-- '"Science / Life Sciences / Biology"'
-- '"Science / Physics / General"'
+- 'Medical / Biotechnology'
+- 'Science / Life Sciences / Biology'
+- 'Science / Physics / General'
 categories: []
 date: '2016-04-01'
 lastmod: 2020-09-27T16:55:10-03:00

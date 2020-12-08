@@ -8,7 +8,8 @@ authors:
 - Jeanet Mante
 - Zach Zundel
 - Chris Myers
-tags: []
+tags:
+- SynBioHub
 categories: []
 date: '2020-05-01'
 lastmod: 2020-09-27T16:55:11-03:00

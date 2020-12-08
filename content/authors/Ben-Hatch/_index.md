@@ -38,8 +38,8 @@ interests:
 - Visualization
 
 projects:
-- <a href="https://github.com/VisBOL/visbol-js">VisBOL</a>
-- <a href="https://synbiohub.org">SynBioHub</a>
+- <a href="/author/visbol/">VisBOL</a>
+- <a href="/author/synbiohub/">SynBioHub</a>
 
 education:
   courses:

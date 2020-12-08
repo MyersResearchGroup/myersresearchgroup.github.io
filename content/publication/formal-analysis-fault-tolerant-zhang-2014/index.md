@@ -12,11 +12,11 @@ authors:
 - Hao Zheng
 - Chris Myers
 tags:
-- '"fault-tolerant routing"'
-- '"formal verification"'
-- '"LNT"'
-- '"Network-on-Chip"'
-- '"process algebra"'
+- 'fault-tolerant routing'
+- 'formal verification'
+- 'LNT'
+- 'Network-on-Chip'
+- 'process algebra'
 categories: []
 date: '2014-01-01'
 lastmod: 2020-09-27T16:55:13-03:00

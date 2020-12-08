@@ -35,8 +35,8 @@ interests:
 - Genetic Circuit Design
 
 projects:
-- <a href="https://sbolcanvas.org/canvas/tutorial">SBOL Canvas</a>
-- <a href="https://sboldesigner.github.io/">SBOL Designer</a>
+- <a href="/author/sbol-canvas/">SBOL Canvas</a>
+- <a href="/author/sbol-designer/">SBOL Designer</a>
 
 
 

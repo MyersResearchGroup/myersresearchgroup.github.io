@@ -6,7 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Michael Zhang
-tags: []
+tags:
+- SBOLDesigner
 categories: []
 date: '2018-04-01'
 lastmod: 2020-09-27T16:55:39-03:00

@@ -7,11 +7,11 @@ summary: ''
 authors:
 - Chris J. Myers
 tags:
-- '"Genetic design automation"'
-- '"Genetic part repositories"'
-- '"Synthetic biology"'
-- '"Synthetic Biology Open Language"'
-- '"Systems Biology Markup Language"'
+- 'Genetic design automation'
+- 'Genetic part repositories'
+- 'Synthetic biology'
+- 'Synthetic Biology Open Language'
+- 'Systems Biology Markup Language'
 categories: []
 date: '2013-01-01'
 lastmod: 2020-09-27T16:55:34-03:00

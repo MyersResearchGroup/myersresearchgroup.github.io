@@ -14,7 +14,9 @@ authors:
 - Douglas Densmore
 - Chris Myers
 - Anil Wipat
-tags: []
+tags:
+- SynBioHub
+- SBOLDesigner
 categories: []
 date: '2019-07-01'
 lastmod: 2020-09-27T16:54:59-03:00

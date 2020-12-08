@@ -9,11 +9,11 @@ authors:
 - Eric Mercer
 - Chris Myers
 tags:
-- '"Constraint Place"'
-- '"Marked Graph"'
-- '"Sequencing Transition"'
-- '"Time Circuit"'
-- '"Trace Theory"'
+- 'Constraint Place'
+- 'Marked Graph'
+- 'Sequencing Transition'
+- 'Time Circuit'
+- 'Trace Theory'
 categories: []
 date: '2001-01-01'
 lastmod: 2020-09-27T16:54:50-03:00

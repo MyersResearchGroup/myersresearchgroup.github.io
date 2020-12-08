@@ -35,7 +35,7 @@ interests:
 - Circuit Design
 
 projects:
-- <a href="https://github.com/MyersResearchGroup/LEMA">LEMA</a>
+- <a href="/author/lema/">LEMA</a>
 
 
 department:
@@ -55,9 +55,9 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 
-#- icon: user-graduate
-#  icon_pack: fas
-#  link: www.cse.usf.edu/~haozheng
+- icon: user-graduate
+  icon_pack: fas
+  link: https://www.linkedin.com/in/dhanashree-kulkarni-2764345
 #- icon: github
 #  icon_pack: fab
 #  link: https://github.com/3ach

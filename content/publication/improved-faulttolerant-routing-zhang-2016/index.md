@@ -13,11 +13,11 @@ authors:
 - Hao Zheng
 - Chris Myers
 tags:
-- '"Fault-tolerant routing"'
-- '"Formal methods"'
-- '"Model checking"'
-- '"Network-on-chip"'
-- '"Process calculus"'
+- 'Fault-tolerant routing'
+- 'Formal methods'
+- 'Model checking'
+- 'Network-on-chip'
+- 'Process calculus'
 categories: []
 date: '2016-03-01'
 lastmod: 2020-09-27T16:55:19-03:00

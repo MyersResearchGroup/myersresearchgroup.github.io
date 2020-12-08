@@ -9,7 +9,9 @@ authors:
 - James Alastair McLaughlin
 - Anil Wipat
 - Chris J. Myers
-tags: []
+tags:
+- SynBioHub
+- SBOLDesigner
 categories: []
 date: '2017-07-01'
 lastmod: 2020-09-27T16:55:40-03:00

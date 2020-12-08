@@ -27,7 +27,7 @@ department:
 
 projects:
 - <a href="https://synbioks.github.io/">SBKS</a>
-- <a href="https://synbiohub.github.io/aboutsynbiohub/">SynBioHub</a>
+- <a href="/author/synbiohub/">SynBioHub</a>
 
 # Organizations/Affiliations
 organizations:

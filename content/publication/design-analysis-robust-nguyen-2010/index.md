@@ -11,8 +11,8 @@ authors:
 - Chris Winstead
 - James Keener
 tags:
-- '"Genetic circuit"'
-- '"Synthetic logic gate"'
+- 'Genetic circuit'
+- 'Synthetic logic gate'
 categories: []
 date: '2010-05-01'
 lastmod: 2020-09-27T16:55:01-03:00

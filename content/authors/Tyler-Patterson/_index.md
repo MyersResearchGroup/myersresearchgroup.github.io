@@ -34,7 +34,7 @@ interests:
 - Genetic Circuit Design
 
 projects:
-- <a href="https://github.com/MyersResearchGroup/iBioSim">iBioSim</a>
+- <a href="/author/ibiosim/">iBioSim</a>
 
 
 department:

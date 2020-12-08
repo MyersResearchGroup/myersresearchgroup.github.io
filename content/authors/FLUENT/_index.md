@@ -16,12 +16,12 @@ superuser: false
 organizations:
 - name: Genetic Design Automation
   url: ""
-- name: Formal Verification of Cyber-Physical Systems
-  url: ""
-- name: Asynchronous Circuit Design and Verification
-  url: ""
-- name: Analog Circuit Design and Verification
-  url: ""
+#- name: Formal Verification of Cyber-Physical Systems
+#  url: ""
+#- name: Asynchronous Circuit Design and Verification
+#  url: ""
+#- name: Analog Circuit Design and Verification
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.

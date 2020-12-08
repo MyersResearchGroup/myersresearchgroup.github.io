@@ -8,11 +8,11 @@ authors:
 - Wendy Belluomini
 - Chris J. Myers
 tags:
-- '"Concurrent System"'
-- '"Constraint Matrix"'
-- '"Firing Time"'
-- '"Graph Transformation"'
-- '"State Space"'
+- 'Concurrent System'
+- 'Constraint Matrix'
+- 'Firing Time'
+- 'Graph Transformation'
+- 'State Space'
 categories: []
 date: '1998-01-01'
 lastmod: 2020-09-27T16:56:12-03:00

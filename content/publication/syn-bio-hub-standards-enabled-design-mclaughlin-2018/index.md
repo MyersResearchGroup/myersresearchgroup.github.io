@@ -13,7 +13,8 @@ authors:
 - Irina Dana Ofiteru
 - Angel Goñi-Moreno
 - Anil Wipat
-tags: []
+tags:
+- SynBioHub
 categories: []
 date: '2018-02-01'
 lastmod: 2020-09-27T16:55:52-03:00

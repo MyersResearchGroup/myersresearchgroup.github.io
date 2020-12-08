@@ -9,7 +9,8 @@ authors:
 - Meher Samineni
 - Zhen Zhang
 - Chris J. Myers
-tags: []
+tags:
+- SBOLValidator
 categories: []
 date: '2017-07-01'
 lastmod: 2020-09-27T16:56:04-03:00

@@ -16,18 +16,15 @@ superuser: false
 organizations:
 - name: Genetic Design Automation
   url: ""
-- name: Formal Verification of Cyber-Physical Systems
-  url: ""
-- name: Asynchronous Circuit Design and Verification
-  url: ""
-- name: Analog Circuit Design and Verification
-  url: ""
+#- name: Formal Verification of Cyber-Physical Systems
+#  url: ""
+#- name: Asynchronous Circuit Design and Verification
+#  url: ""
+#- name: Analog Circuit Design and Verification
+#  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
-department:
-- Computer Science
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -52,6 +49,7 @@ social:
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
+
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

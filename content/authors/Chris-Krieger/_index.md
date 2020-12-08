@@ -37,7 +37,7 @@ interests:
 - Neuromorphic Computing
 
 projects:
-- <a href="https://github.com/MyersResearchGroup/ATACS">ATACS</a>
+- <a href="/author/atacs/">ATACS</a>
 
 
 
@@ -47,15 +47,17 @@ department:
 
 education:
   courses:
-  - course: BS in Electrical Engineering
-    institution: BYU
-    year: 1995
-  - course: MS in Electrical and Computer Engineering
-    institution: University of Utah
-    year: 2002
   - course: PhD in Computer Science
     institution: Colorado State University
     year: 2013
+  - course: MS in Electrical and Computer Engineering
+    institution: University of Utah
+    year: 2002
+  - course: BS in Electrical Engineering
+    institution: BYU
+    year: 1995
+
+
 
 
 

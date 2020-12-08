@@ -9,12 +9,12 @@ authors:
 - Herbert Sauro
 - Anil Wipat
 tags:
-- '"abstraction"'
-- '"decoupling"'
-- '"genetic circuits"'
-- '"genetic design automation"'
-- '"standards"'
-- '"Synthetic biology"'
+- 'abstraction'
+- 'decoupling'
+- 'genetic circuits'
+- 'genetic design automation'
+- 'standards'
+- 'Synthetic biology'
 categories: []
 date: '2015-12-01'
 lastmod: 2020-09-27T16:55:23-03:00

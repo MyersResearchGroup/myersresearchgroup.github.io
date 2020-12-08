@@ -29,8 +29,8 @@ authors:
 - Herbert Sauro
 - Anil Wipat
 tags:
-- '"Programming Languages"'
-- '"Synthetic Biology"'
+- 'Programming Languages'
+- 'Synthetic Biology'
 categories: []
 date: '2016-12-01'
 lastmod: 2020-09-27T16:55:55-03:00

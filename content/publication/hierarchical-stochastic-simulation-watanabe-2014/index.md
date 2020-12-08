@@ -8,12 +8,12 @@ authors:
 - Leandro H. Watanabe
 - Chris J. Myers
 tags:
-- '"Discrete-event simulation"'
-- '"Genetic circuits"'
-- '"Hierarchical Simulation"'
-- '"population modeling"'
-- '"SBML"'
-- '"Stochastic simulation"'
+- 'Discrete-event simulation'
+- 'Genetic circuits'
+- 'Hierarchical Simulation'
+- 'population modeling'
+- 'SBML'
+- 'Stochastic simulation'
 categories: []
 date: '2014-01-01'
 lastmod: 2020-09-27T16:55:16-03:00
