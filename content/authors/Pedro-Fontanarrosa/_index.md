@@ -70,7 +70,7 @@ social:
   link: https://github.com/Fontanapink
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/0000-0002-1450-5638
+  link: https://orcid.org/0000-0002-0535-2684
 - icon: envelope
   icon_pack: fas
   link: mailto:pfontanarrosa@gmail.com  
