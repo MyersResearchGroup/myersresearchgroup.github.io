@@ -17,7 +17,7 @@ toolurl: https://github.com/SynBioDex/SBOLDesigner/releases
 superuser: false
 
 projects:
-- SBOLDesigner is a simple, biologist-friendly CAD software tool for creating and manipulating the sequences of genetic constructs using the Synthetic Biology Open Language (SBOL) 2.2 data model.
+- SBOLDesigner is a CAD software tool for creating and manipulating the SBOL compliant genetic constructs.
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -55,3 +55,4 @@ research_area_tags:
 - SBOLDesigner
 ---
 
+SBOLDesigner is a simple, biologist-friendly CAD software tool for creating and manipulating the sequences of genetic constructs using the Synthetic Biology Open Language (SBOL) 2.2 data model.

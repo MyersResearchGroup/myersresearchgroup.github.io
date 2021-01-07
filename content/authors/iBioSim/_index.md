@@ -17,7 +17,7 @@ toolurl: https://github.com/MyersResearchGroup/iBioSim/releases
 superuser: false
 
 projects:
-- iBioSim has been developed for the modeling, analysis, and design of genetic circuits. It supports modeling and visualization support for multi-cellular and spatial models, importing and exporting models specified using the Systems Biology Markup Language (SBML), and is one of the first tools to also support the Synthetic Biology Open Language (SBOL).
+- iBioSim is a stohcastic and deterministic modelling tool for genetic circuit design and analysis.
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -51,3 +51,5 @@ research_area: true
 research_area_tags:
 - iBioSim
 ---
+
+iBioSim has been developed for the modeling, analysis, and design of genetic circuits. It supports modeling and visualization support for multi-cellular and spatial models, importing and exporting models specified using the Systems Biology Markup Language (SBML), and is one of the first tools to also support the Synthetic Biology Open Language (SBOL).

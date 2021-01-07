@@ -1,17 +1,17 @@
 ---
 # Display name
-title: Prubtej Singh
+title: Prubhtej Singh
 
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, 830 for alum undergrads, 840 for intern Students
 weight: 840
 
 # Username (this should match the folder name)
 authors:
-- Prubtej Singh
+- Prubhtej Singh
 
 #Author Names (alternative spellings etc)
 names:
-- Prubtej Singh
+- Prubhtej Singh
 
 # Is this the primary user of the site?
 superuser: false
