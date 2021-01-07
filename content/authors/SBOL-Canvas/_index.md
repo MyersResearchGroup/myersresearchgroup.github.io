@@ -18,7 +18,7 @@ toolurl: https://sbolcanvas.org/canvas/
 superuser: false
 
 projects:
-- SBOLCavas is a web application for creation and editing of genetic constructs using the SBOL data and visual standard. SBOLCanvas allows a user to create a genetic design from start to finish, with the option to incorporate existing SBOL data from a SynBioHub repository.
+- SBOLCanvas is a visual 'drag-and-drop' tool for the creation of genetic constructs and related figures using SBOl data and visual standards.
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -52,3 +52,5 @@ research_area: true
 # research_area_tags:
 # - iBioSim
 ---
+
+SBOLCanvas is a web application for creation and editing of genetic constructs using the SBOL data and visual standard. SBOLCanvas allows a user to create a genetic design from start to finish, with the option to incorporate existing SBOL data from a SynBioHub repository.

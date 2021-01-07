@@ -17,7 +17,7 @@ toolurl: https://validator.sbolstandard.org/
 superuser: false
 
 projects:
-- SBOL Validator/Converter is a simple, easy-to-use software tool that allows for conversion between SBOL/GenBank/FASTA files using the Synthetic Biology Open Language (SBOL) 2.0 data model. Some key features of the Validator/Converter include its ability to convert between SBOL, FASTA, and GenBank files and that the tool is web-based which promotes ease of access and allows for central maintenance of validation methods. Additionally, it is accessible through either a web GUI or a RESTful API.
+- SBOL Validator/Converter is an easy-to-use software tool that allows for conversion between SBOL/GenBank/FASTA files using the Synthetic Biology Open Language (SBOL) 2.0 data model
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -49,3 +49,4 @@ research_area_tags:
 - SBOL
 - SBOLValidator
 ---
+SBOL Validator/Converter is a simple, easy-to-use software tool that allows for conversion between SBOL/GenBank/FASTA files using the Synthetic Biology Open Language (SBOL) 2.0 data model. Some key features of the Validator/Converter include its ability to convert between SBOL, FASTA, and GenBank files and that the tool is web-based which promotes ease of access and allows for central maintenance of validation methods. Additionally, it is accessible through either a web GUI or a RESTful API.

@@ -17,7 +17,7 @@ toolurl: https://sbolstandard.org/libraries/
 superuser: false
 
 projects:
-- These libraries allow developers to integrate the SBOL data model into their software tools. These libraries are available in C/C++, Java, JavaScript, and Python.
+- These libraries allow developers to integrate the SBOL data model into their software tools.
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -42,3 +42,4 @@ research_area: true
 research_area_tags:
 - SBOL
 ---
+These libraries allow developers to integrate the SBOL data model into their software tools. These libraries are available in C/C++, Java, JavaScript, and Python. There are libraries avaible for the SBOL 2 and SBOL 3 data standard. For more information see the <a href="https://sbolstandard.org/libraries/">SBOL Standard Website</a>.

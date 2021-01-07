@@ -52,3 +52,4 @@ research_area: true
 # research_area_tags:
 # - iBioSim
 ---
+VisBOL is a tool for the rendering of SBOL constructs in the SBOL visual data standard. It uses the JavaScript React library to add glyphs (complex and simple) and interactions to the visualisations.
