@@ -11,7 +11,7 @@ names:
 - Jet Mante
 - Jeanet Mante
 
-#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 810 for alum undergrads
+#Use 1 for Faculty, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
 weight: 200
 
 # Is this the primary user of the site?
@@ -26,8 +26,8 @@ department:
 - Biomedical Engineering
 
 projects:
-- <a href="https://synbioks.github.io/">SBKS</a>
-- <a href="/author/synbiohub/">SynBioHub</a>
+# - <a href="https://synbioks.github.io/">SBKS</a>
+# - <a href="/author/synbiohub/">SynBioHub</a>
 
 # Organizations/Affiliations
 organizations:
@@ -73,9 +73,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0002-1450-5638
-- icon: university-logo
-  icon_pack: Custom_University
-  link: https://www.colorado.edu/bme/academics/phd-program
+# - icon: university-logo
+#   icon_pack: Custom_University
+#   link: https://www.colorado.edu/bme/academics/phd-program
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

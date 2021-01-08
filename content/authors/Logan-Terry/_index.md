@@ -22,9 +22,9 @@ department:
 - School of Computing
 
 projects:
-- <a href="/author/sbol-canvas/">SBOLCanvas</a>
+# - <a href="/author/sbol-canvas/">SBOLCanvas</a>
 
-#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 810 for alum undergrads
+#Use 1 for Faculty, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
 weight: 300
 
 # Organizations/Affiliations
@@ -57,9 +57,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/randoom97
-- icon: university-logo
-  icon_pack: Custom_University
-  link: https://www.cs.utah.edu/
+# - icon: university-logo
+#   icon_pack: Custom_University
+#   link: https://www.cs.utah.edu/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv

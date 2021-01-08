@@ -10,15 +10,9 @@
 
 [[main]]
   name = "People"
-  url = "/People-Genetic-Logic-Lab"
+  url = "/People-SBKS"
   identifier = "people"
   weight = 20
-
-  [[main]]
-  name = "Research"
-  url = "/research"
-  weight = 30
-  identifier = "research-id"
 
 [[main]]
   name = "Publications"
@@ -26,28 +20,11 @@
   weight = 50
   identifier = "Publications"
 
-[[main]]
-  name = "Publications"
-  url = "/Publications/Engineering-Genetic-Circuits"
-  weight = 1
-  parent = "Publications"
-
-[[main]]
-  name = "Publications"
-  url = "/Publications/Asynchronous-Circuit-Design"
-  weight = 2
-  parent = "Publications"
-
   [[main]]
   name = "Tools"
   url = "/tools"
   weight = 60
   identifier = "tools-id"
-
-[[main]]
-  name = "Teaching"
-  url = "/courses"
-  weight = 70  
 
 [[main]]
   name = "Contact"

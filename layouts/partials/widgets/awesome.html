@@ -7,7 +7,7 @@
 {{ $show_interests := $page.Params.design.show_interests | default true }}
 {{ $show_projects := $page.Params.design.show_projects | default true }}
 {{ $show_department := $page.Params.design.show_department | default true }}
-
+{{ $show_university := $page.Params.design.show_university | default false }}
 <div class="row justify-content-center people-widget">
     {{ with $page.Title }}
     <div class="col-md-12 section-heading">
@@ -56,6 +56,13 @@
         {{ if $show_social }}{{ partial "social_links_plus_university" . }}{{ end }}
         {{ with .Params.role }}<h3>{{ . | markdownify | emojify }}</h3>{{ end }}
         {{ if and $show_department .Params.department }}<h3>{{ delimit .Params.department ", " | markdownify | emojify }}</h3>{{ end }}
+        {{ range .Params.organizations }}
+        <h3>
+          {{ with .url }}<a href="{{ . }}" target="_blank" rel="noopener">{{ end }}
+          <span>{{ .name }}</span>
+          {{ if .url }}</a>{{ end }}
+        </h3>
+        {{ end }}
         {{ if and $show_projects .Params.projects }}<p class="people-interests">{{ delimit .Params.projects ", " | markdownify | emojify }}</p>{{ end }}
         {{ if and $show_interests .Params.interests }}<p class="people-interests">{{ delimit .Params.interests ", " | markdownify | emojify }}</p>{{ end }}
       </div>
