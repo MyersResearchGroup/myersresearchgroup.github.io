@@ -39,7 +39,7 @@ interests:
 - Synthetic Biology
 
 projects:
-- <a href="/author/synbiohub/">SynBioHub (Plugins)</a>
+- <a href="/author/synbiohub-plugins/">SynBioHub Plugins</a>
 
 
 department:
