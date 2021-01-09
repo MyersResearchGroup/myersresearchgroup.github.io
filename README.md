@@ -12,6 +12,9 @@
 * create branch for the repository and open the branch in vs code
 * Page about website structure: https://wowchemy.com/docs/get-started/
 
+## Uploading publications
+Follow instructions here: https://wowchemy.com/docs/managing-content/#create-a-publication
+
 ## Website Structure Overview
 
 * The general file structure looks like this: https://wowchemy.com/docs/get-started/#remove-any-unused-example-pages
