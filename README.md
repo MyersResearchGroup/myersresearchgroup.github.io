@@ -15,6 +15,8 @@
 ## Uploading publications
 Follow instructions here: https://wowchemy.com/docs/managing-content/#create-a-publication
 
+Then run the cleanup_hugo_tagging.py script (make sure the path is to the publications folder) to clean up the extra "" in tags.
+
 ## Website Structure Overview
 
 * The general file structure looks like this: https://wowchemy.com/docs/get-started/#remove-any-unused-example-pages
