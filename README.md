@@ -73,13 +73,13 @@ headless = false  # Homepage is headless, other widget pages are not.
 ## How To's:
 
 * **Import new references**: 
-  For this, please install and use the [Academic Import](https://github.com/wowchemy/hugo-academic-cli/#usage) (for alternate instructions see https://wowchemy.com/docs/managing-content/#create-a-publication) command to import new references into the webpage. Please make sure to use the `--normalize` (for tag normalization), and `--overwrite` (to avoid reference duplicates) flags when importing references using the academic import command. Check out https://github.com/wowchemy/hugo-academic-cli/#usage for more information.
+  For this, please install and use the [Academic Import](https://github.com/wowchemy/hugo-academic-cli/#usage) (for alternate instructions see https://wowchemy.com/docs/managing-content/#create-a-publication) command to import new references into the webpage. Please make sure to use the `--overwrite` (to avoid reference duplicates) flags when importing references using the academic import command. Check out https://github.com/wowchemy/hugo-academic-cli/#usage for more information.
   
  NB: currently use this command to run academic import to ensure no additional quotes are added to tags `pip3 install -U git+https://github.com/wowchemy/hugo-academic-cli.git`
  
  If that isn't working tags can be cleaned up using the cleanup_hugo_tagging.py script (make sure the path is to the publications folder) to clean up the extra "" in tags.
 
-  Talking about tags, [Academic Import](https://github.com/wowchemy/hugo-academic-cli/#usage) will automatically generate tags for all references imported, created from a mixture of keywords and titles extracted from the bib information. However, sometimes this can go a-wire and add weird tags. This is why it is important to use the `--normalize` flag when importing using the academic import command. However, even with care, these tags can get weird. If any tag has a *"."* or a *"?"* or any other non-alphanumerical value, the site won't build. Please make sure you remove all characters that are not alpha-numerical from tags to run correctly.
+  Talking about tags, [Academic Import](https://github.com/wowchemy/hugo-academic-cli/#usage) will automatically generate tags for all references imported, created from a mixture of keywords and titles extracted from the bib information. However, sometimes this can go a-wire and add weird tags. If any tag has a *"."* or a *"?"* or any other non-alphanumerical value, the site won't build. Please make sure you remove all characters that are not alpha-numerical from tags to run correctly.
 
 ## Common error and mistakes
 
