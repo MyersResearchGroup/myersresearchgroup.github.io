@@ -78,6 +78,8 @@ email: ""
 user_groups:
 - Undergraduate Students
 - Researchers
+- SynBioHub
+- Genetic Design Automation
 ---
 
 

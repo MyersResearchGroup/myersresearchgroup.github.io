@@ -117,6 +117,8 @@ email: ""
 user_groups:
 - Researchers
 - Principal Investigator
+- Genetic Design Automation
+- SBOLCanvas
 ---
 
 Chris J. Myers received the BS degree in electrical engineering and Chinese history in 1991 from the California Institute of Technology in Pasadena, California, and the MSEE and PhD degrees from Stanford University in 1993 and 1995, respectively. Before arriving at CU Boulder, he was a professor and associate chair in the Department of Electrical and Computer Engineering at the University of Utah in Salt Lake City.

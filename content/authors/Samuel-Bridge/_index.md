@@ -88,6 +88,9 @@ email: ""
 user_groups:
 - Alumni
 - Undergraduate Alumni
+- Genetic Design Automation
+- SBOL Canvas
+- SBOL Designer
 ---
 
 Samuel Bridge was an undergraduate researcher for Chris Myers at the University of Utah. He joined the lab in 2018 whilst studying  Computer Science. 

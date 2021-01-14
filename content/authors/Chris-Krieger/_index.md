@@ -98,6 +98,8 @@ email: ""
 user_groups:
 - Alumni
 - Masters Alumni
+- ATACS
+- Asynchronous Verification
 ---
 
 Christopher Krieger began his research career in Dr. Myer's Asynchronous Circuits lab at the University of Utah as an MS student. He focused on asynchronous hardware systems, working particularly on extending the ATACS system to synthesize a wider range of systems. Krieger's work enabled ATACS to efficiently add context variables to complete the state coding of a system, thereby removing ambiguity. This work allowed for the insertion of the minimum number of context variables by carefully choosing where to insert the variables and their transitions.

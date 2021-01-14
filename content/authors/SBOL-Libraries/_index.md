@@ -37,6 +37,10 @@ social:
 user_groups:
 - Tools
 
+#any user groups to display on the page
+display_groups:
+- SBOL Libraries
+
 research_area: true
 
 research_area_tags:

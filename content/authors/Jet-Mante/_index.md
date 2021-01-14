@@ -28,6 +28,7 @@ department:
 projects:
 - <a href="https://synbioks.github.io/">SBKS</a>
 - <a href="/author/synbiohub/">SynBioHub</a>
+- <a href="/author/synbiohub-plugins/">SynBioHub Plugins</a>
 
 # Organizations/Affiliations
 organizations:
@@ -91,6 +92,9 @@ email: ""
 user_groups:
 - Researchers
 - Graduate Students
+- SynBioHub
+- SynBioHub Plugins
+- Genetic Design Automation
 ---
 
 Jet Mante joined the Genetic Logic Lab as a Ph.D. student under the Supervision of Professor Chris Myers. She is a plant scientist whose research focuses on the reuse of data and genetic components in Synthetic Biology. She is expanding her computational skills working on search and curation methods in SynBioHub.

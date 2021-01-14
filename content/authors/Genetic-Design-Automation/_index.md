@@ -57,6 +57,10 @@ email: ""
 user_groups:
 - Research Areas
 
+#any user groups to display on the page
+display_groups:
+- Genetic Design Automation
+
 research_area: true
 
 research_area_tags:

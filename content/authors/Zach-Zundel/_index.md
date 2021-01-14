@@ -38,7 +38,9 @@ interests:
 
 projects:
 - <a href="/author/synbiohub/">SynBioHub</a>
+- <a href="/author/synbiohub-plugins/">SynBioHub Plugins</a>
 - <a href="/author/sbol-libraries/">SBOL Libraries</a>
+- <a href="/author/sbol-validator/">SBOL Validators</a>
 
 
 department:
@@ -110,6 +112,11 @@ email: ""
 user_groups:
 - Alumni
 - Undergraduate Alumni
+- Genetic Design Automation
+- SynBioHub
+- SynBioHub Plugins
+- SBOL Libraries
+- SBOL Validator
 ---
 
 Zach worked on SynBioHub as well as assorted tooling related to the SBOL Standard. He created continuous integration and deployment processes for many libraries and tools in the SBOL ecosystem. He now works on reliability and incident management for Facebook. 

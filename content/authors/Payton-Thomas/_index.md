@@ -81,6 +81,8 @@ email: "paytonco@gmail.com"
 user_groups:
 - Researchers
 - Undergraduate Students
+- SBOL Canvas
+- Genetic Design Automation
 ---
 
 

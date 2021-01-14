@@ -85,6 +85,8 @@ email: ""
 user_groups:
 - Alumni
 - Undergraduate Alumni
+- SynBioHub
+- Genetic Design Automation
 ---
 
 Undergraduate researcher, currently working on the floating-point improvement tool Herbie.
