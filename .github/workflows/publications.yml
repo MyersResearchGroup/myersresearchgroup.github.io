@@ -18,14 +18,16 @@ jobs:
     steps:
       - name: Set variables
         env:
-          branch_number: $random 
+          branch_number: $RANDOM
+          branch_name: "pub-$branch_number"
+        run: echo $branch_name 
         
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
         
       - name: New Branch
         run: |
-          git checkout -b pub-$branch_number master
+          git checkout -b $branch_name master
 
       #installs python on the machine
       - name: install python
@@ -60,7 +62,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: pub-$branch_number
+          branch: $branch_name
 
 #       # Runs a single command using the runners shell
 #       - name: Run a one-line script
