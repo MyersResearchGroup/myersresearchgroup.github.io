@@ -19,6 +19,7 @@ jobs:
       - name: Set variables
         run: |
           branch_name="pub-$RANDOM"
+          echo $branch_name
         
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
