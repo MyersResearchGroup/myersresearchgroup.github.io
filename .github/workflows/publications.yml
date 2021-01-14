@@ -40,6 +40,16 @@ jobs:
           # The packages to install from Pip
           packages: academic
           upgrade: true 
+          
+      - name: Create A File
+        # You may pin to the exact commit or the version.
+        # uses: 1arp/create-a-file-action@ee80edaa4741d9997dbe053e052329d4070c020c
+        uses: 1arp/create-a-file-action@0.2
+        with:
+          file: Test.txt
+          content: "Hello World" 
+          
+          
       - name: Commit files
         run: |
          git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
