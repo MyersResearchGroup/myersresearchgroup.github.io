@@ -22,7 +22,7 @@ jobs:
           branch_name: "pub-{{$branch_number}}"
         run: |
           echo $branch_number
-          echo $branch_name 
+          echo "pub-$RANDOM"
         
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
