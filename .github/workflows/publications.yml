@@ -16,11 +16,16 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      - name: Set variables
+        env:
+          branch_number: $random 
+        
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+        
       - name: New Branch
         run: |
-          git checkout -b publications2 master
+          git checkout -b pub-$branch_number master
 
       #installs python on the machine
       - name: install python
@@ -51,12 +56,11 @@ jobs:
          git config --local user.name "github-actions[bot]"
          git add .
          git commit -m "Add changes" -a
-         git pull ${{ secrets.GITHUB_TOKEN }} publications2
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: publications2
+          branch: pub-$branch_number
 
 #       # Runs a single command using the runners shell
 #       - name: Run a one-line script
