@@ -84,6 +84,7 @@ email: ""
 user_groups:
 - Alumni
 - Masters Alumni
+- LEMA
 ---
 
 Satish is currently working as a design verification engineer at Apple. He worked on the LEMA tool for AMS model generation as part of his Masters thesis with Professor Chris Myers.

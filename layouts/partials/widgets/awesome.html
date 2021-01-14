@@ -23,6 +23,7 @@
     {{ end }}
   
     {{ range $page.Params.content.user_groups }}
+  
     {{ $query := where (where site.Pages "Section" "authors") ".Params.user_groups" "intersect" (slice .) }}
   
     {{if $query}}

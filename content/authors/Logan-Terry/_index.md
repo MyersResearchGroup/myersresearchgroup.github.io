@@ -74,6 +74,8 @@ email: ""
 user_groups:
 - Researchers
 - Graduate Students
+- SBOL Canvas
+- Genetic Design Automation
 ---
 
 Likes solving puzzles and plays a lot of puzzle games. Got into programming because of video games. Plays a lot of Minecraft. Can solve a Rubik's cube in just over a minute. Interested in operating systems, and compilers.

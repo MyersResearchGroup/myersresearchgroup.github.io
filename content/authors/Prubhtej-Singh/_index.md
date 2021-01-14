@@ -84,6 +84,7 @@ email: ""
 user_groups:
 - Alumni
 - Intern Alumni
+- SynBioHub
 ---
 
 Prubhtej is an aspiring student pursuing his bachelors in Information Technology from GGSIP University, New Delhi, India. He's Versed with excellent programming skills, he has a good knowledge of Data Structures, Computer Graphics, Python, Machine Learning & Technical Documentations.These qualities have been highlighted by him time to time. 

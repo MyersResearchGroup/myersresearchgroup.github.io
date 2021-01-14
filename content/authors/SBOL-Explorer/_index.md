@@ -43,6 +43,10 @@ social:
 user_groups:
 - Tools
 
+#any user groups to display on the page
+display_groups:
+- SBOL Explorer
+
 research_area: true
 
 research_area_tags:

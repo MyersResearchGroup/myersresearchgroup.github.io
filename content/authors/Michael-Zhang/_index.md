@@ -37,7 +37,7 @@ projects:
 - <a href="/author/synbiohub/">SynBioHub</a>
 - <a href="/author/sbol-libraries/">SBOL Libraries</a>
 - <a href="/author/sbol-designer/">SBOL Designer</a>
-- <a href="https://github.com/SynBioDex/SBOLExplorer">SBOLExplorer</a>
+- <a href="/author/sbol-explorer/">SBOLExplorer</a>
 
 
 
@@ -89,4 +89,8 @@ email: ""
 user_groups:
 - Alumni
 - Masters Alumni
+- SBOL Explorer
+- Genetic Design Automation
+- SBOL Libraries
+- SBOL Designer
 ---

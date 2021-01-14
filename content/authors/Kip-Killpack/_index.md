@@ -86,6 +86,8 @@ email: ""
 user_groups:
 - Alumni
 - Masters Alumni
+- ATACS
+- Asynchronous Verification
 ---
 
 Kip graduated from the University of Utah in 2002 with an MS in computer engineering. He worked in Chris Meyers' lab as both an undergraduate and MS student using ATACS to design parts of an asynchronous 20-bit multiplier. Kip fabbed the multiplier through Mosis and tested it extensively. Kip has worked at Intel from 2002 to present in various roles working on: accurate static timing analysis, performance validation to silicon correlation, vertical circuit design from RTL to layout, voltage droop measurement circuits, post-silicon speed debug, fab process analysis, and post-silicon debug software tools. He currently acts as system architect for the component debug tester tool software. Outside of work his interests include hiking, camping, biking, drawing, writing autobiographical fiction, and spending time with his three children.

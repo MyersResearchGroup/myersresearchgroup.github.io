@@ -92,6 +92,9 @@ email: ""
 user_groups:
 - Alumni
 - PhD Alumni
+- Asynchronous Verification
+- LEMA
+- ATACS
 ---
 
 David has pursued a diverse set of experiences in higher education and the technology sector.  After completing graduate school in 2007 at the University of Utah  where he worked on formal verification of analog and mixed-signal circuits with Chris Myers, David spent two years as United States Peace Corps Volunteer in the Philippines. As a volunteer, David taught Computer Science and Educational Technology at the University of Northern Philippines.  Upon completion of his volunteer service, he continued to pursue his interest in teaching by becoming a faculty member in the Computer Science program at  Virginia State University where he pursued work to broaden participation in the field. In 2017, David decided to deepen his experience in industry.  He spent two years at Capital One where he ultimately did software development and managed a small team.  He is now a Senior Software Developer at Amazon AWS where he works in the S3 organization.  

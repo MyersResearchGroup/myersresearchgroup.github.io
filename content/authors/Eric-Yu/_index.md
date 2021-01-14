@@ -79,6 +79,9 @@ email: ""
 user_groups:
 - Researchers
 - Undergraduate Students
+- Genetic Design Automation
+- SynBioHub
+- SBOL Explorer
 ---
 
 

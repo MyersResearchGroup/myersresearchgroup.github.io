@@ -90,5 +90,7 @@ email: ""
 user_groups:
 - Alumni
 - PhD Alumni
+- Asynchronous Verification
+- ATACS
 ---
 Recently retired professor of electrical engineering gat Walla Walla University. Worked with Chris on Technology mapping of timed circuits.

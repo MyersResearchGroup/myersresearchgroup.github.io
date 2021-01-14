@@ -86,6 +86,8 @@ email: ""
 user_groups:
 - Alumni
 - Masters Alumni
+- LEMA
+- Asynchronous Verification
 ---
 
 Dhanashree worked on  creating Labeled Petri Net(LPN) models of mixed signal circuits using LEMA, an in-house formal verification tool developed for analog and mixed-signal circuits. Dhanashree worked on developing a new property specification language and creating a property language translator that translates temporal properties to LPN format. Dhanashree at present works  as an Analog Engineer with a non-volatile memory design group at Intel technologies.

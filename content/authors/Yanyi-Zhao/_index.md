@@ -89,6 +89,8 @@ email: ""
 user_groups:
 - Alumni
 - Masters Alumni
+- ATACS
+- Asynchronous Verification
 ---
 
 Yanyi Zhao is a Program Manager at Juniper Networks, a leading company in the networking industry.  She has over five years of experience in networking, and over eight years in the medical device industry.  Yanyi graduated from the University of Utah with a Bachelor and Master of Science in Electrical Engineering.  She worked in Professor Chris Myers’ research group from 2001 to 2004.  In her Bachelor’s thesis, Yanyi designed and synthesized an asynchronous MPEG decoder implemented on a FPGA.  For her Master’s thesis, she developed a completely automated tool flow for FPGA design of asynchronous circuits from high-level specifications.  This research leveraged both asynchronous and synchronous design automation tools in an innovative fashion.  In her free time, Yanyi enjoys watching movies, eating seafood tacos, and travelling to different beach destinations. 

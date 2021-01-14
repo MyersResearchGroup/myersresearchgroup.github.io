@@ -89,6 +89,9 @@ email: ""
 user_groups:
 - Alumni
 - Masters Alumni
+- Genetic Design Automation
+- SynBioHub
+- SBOL Libraries
 ---
 
 Meher Samineni graduated from University of Utah with a B.S/M.S in Computer Science. She was an undergraduate and graduate researcher within Myers Research Group. Her work involved helping maintain the SBOL libraries as well as creating methodology for synthetic biology tooling compatibility and data compliance. After graduation, she decided to become a developer in industry and is currently a software developer at REI. 

@@ -79,5 +79,8 @@ email: "benjamin.hat4@gmail.com"
 user_groups:
 - Researchers
 - Undergraduate Students
+- Genetic Design Automation
+- VisBOL
+- SynBioHub
 ---
 Ben Hatch is a second-year undergraduate student at the University of Utah studying computer science. His current research focus is visualization tools for synthetic biology. Most recently, Ben has been devloping VisBOL 2.0, an open-source web-based visualization tool for synthetic biology designs.

@@ -85,6 +85,8 @@ email: ""
 user_groups:
 - Alumni
 - Undergraduate Alumni
+- ATACS
+- Asynchronous Verification
 ---
 
 Nick is a software engineering leader who has worked in ecommerce/retail, console video games, public safety software, smart home products, health care software, and voice assistants. Nick was a computer science undergrad in Chris's group at the University of Utah and created a VHDL-AMS parser to facilitate benchmarking ATACS with competing tools. He currently works for Amazon in Seattle.

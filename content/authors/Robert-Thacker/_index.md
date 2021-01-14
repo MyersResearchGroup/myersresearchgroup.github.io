@@ -94,6 +94,8 @@ email: ""
 user_groups:
 - Alumni
 - PhD Alumni
+- ATACS
+- Asynchronous Verification
 ---
 
 Robert studied Computer Science at the University of Utah, where his research activities focused on cad tool development for asynchronous circuit design and formal verification.  He received an SRC fellowship in 1998. He spent 3 years at IBM working on formal verification tools. Robert is currently employed as a flow development engineer at AMD.  Robert retired from the U.S. Army in 2018.

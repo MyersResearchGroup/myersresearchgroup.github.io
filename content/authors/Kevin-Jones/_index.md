@@ -87,6 +87,9 @@ email: ""
 user_groups:
 - Alumni
 - Undergraduate Alumni
+- LEMA
+- iBioSim
+- Genetic Design Automation
 ---
 
 Kevin began his research career working on abstracting formal verification models with Dr. Myers at the University of Utah. He then leveraged his background in formal verification to work in industry as a test engineer. After studying hardware and network security during his graduate work, he has been working as a cyber security researcher, focusing on embedded system reverse engineering and local network vulnerabilities.

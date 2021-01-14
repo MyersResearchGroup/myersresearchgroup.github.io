@@ -91,6 +91,9 @@ email: ""
 user_groups:
 - Alumni
 - PhD Alumni
+- Genetic Design Automation
+- SynBioHub
+- iBioSim
 ---
 
 While he was an undergraduate and graduate researcher in Professor Chris Myers's lab at the University of Utah, Curtis worked on utilizing stochastic model checking and simulation to perform design space exploration of synthetic genetic circuits.  In particular, he worked on adding functionality to iBioSim to automatically partition the state space of said genetic circuits and apply Markovian analysis to determine the probabilities of certain events occurring.  Since then, he has been involved in the development of several tools in computational synthetic biology as a postdoc at both Newcastle University and Boston University including the SynBioHub, BioPSy, and Phoenix.  Curtis is currently a research and development computer scientist at Sandia National Laboratories in Albuquerque, New Mexico.
