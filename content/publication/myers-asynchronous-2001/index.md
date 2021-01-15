@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Chris J. Myers
 tags:
-- '"VLSI & ULSI"'
-- '"technology & engineering / electrical"'
+- 'VLSI & ULSI'
+- 'technology & engineering / electrical'
 categories: []
 date: '2001-07-01'
 lastmod: 2021-01-15T18:41:54Z
