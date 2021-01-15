@@ -11,8 +11,8 @@ authors:
 - H. Zheng
 - C. Myers
 tags:
-- 'Search'
-- 'stochastic logic'
+- '"stochastic logic"'
+- '"search"'
 categories: []
 date: '2019-01-01'
 lastmod: 2021-01-15T18:41:52Z
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-15T18:41:52.466836Z'
+publishDate: '2021-01-15T21:34:47.194241Z'
 publication_types:
 - '6'
 abstract: 'This book presents outstanding contributions in an exciting, new and multidisciplinary
@@ -42,7 +42,7 @@ abstract: 'This book presents outstanding contributions in an exciting, new and 
   field of computer science devoted to the development of algorithms that yield trustworthy
   answers, providing a basis of sound logical reasoning. For example, in the semiconductor
   industry formal verification is instrumental to ensuring that chip designs are free
-  of defects (or "bugs"). Over the past 15 years, systems biology and systems medicine
+  of defects (or \"bugs\"). Over the past 15 years, systems biology and systems medicine
   have been introduced in an attempt to understand the enormous complexity of life
   from a computational point of view. This has generated a wealth of new knowledge
   in the form of computational models, whose staggering complexity makes manual analysis
@@ -59,10 +59,10 @@ abstract: 'This book presents outstanding contributions in an exciting, new and 
   areas, including: - Parameter inference from time series - Model selection - Network
   structure identification - Machine learning - Systems medicine - Hypothesis generation
   from experimental data - Systems biology, systems medicine, and digital pathology
-  - Verification of biomedical devices "This book presents a comprehensive spectrum
+  - Verification of biomedical devices \"This book presents a comprehensive spectrum
   of model-focused analysis techniques for biological systems ...an essential resource
   for tracking the developments of a fast moving field that promises to revolutionize
-  biology and medicine by the automated analysis of models and data." Prof Luca Cardelli
+  biology and medicine by the automated analysis of models and data.\" Prof Luca Cardelli
   FRS, University of Oxford'
 publication: '*Automated Reasoning for Systems Biology and Medicine*'
 url_pdf: https://www.springer.com/gp/book/9783030172961

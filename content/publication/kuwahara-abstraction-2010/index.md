@@ -8,7 +8,7 @@ authors:
 - Hiroyuki Kuwahara
 - Chris J. Myers
 tags:
-- 'Search'
+- '"search"'
 categories: []
 date: '2010-01-01'
 lastmod: 2021-01-15T18:41:52Z
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-15T18:41:52.743979Z'
+publishDate: '2021-01-15T21:34:46.034777Z'
 publication_types:
 - '6'
 abstract: With advances in high throughput methods of data collection for gene regulatory

@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Chris Myers
 tags:
-- 'Search'
-- 'stochastic logic'
+- '"stochastic logic"'
+- '"search"'
 categories: []
 date: '2010-08-01'
 lastmod: 2021-01-15T18:41:52Z
@@ -29,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-15T18:41:52.318968Z'
+publishDate: '2021-01-15T21:34:53.427510Z'
 publication_types:
-- '5'
+- '0'
 abstract: Uncertainty presents significant challenges in the reasoning about and controlling
   of complex dynamical systems. To address this challenge, numerous researchers are
   developing improved methods for stochastic analysis. This book presents a diverse

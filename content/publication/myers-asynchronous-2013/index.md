@@ -6,7 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Chris Myers
-tags: []
+tags:
+- '"asynchronous circuit"'
 categories: []
 date: '2013-09-01'
 lastmod: 2021-01-15T18:41:53Z
@@ -27,7 +28,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-15T18:41:53.142958Z'
+publishDate: '2021-01-15T21:34:46.950027Z'
 publication_types:
 - '5'
 abstract: ''
