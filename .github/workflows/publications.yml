@@ -18,10 +18,8 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
-      - name: Set variables
+      - name: branch name output
         run: |
-          branch_name="pub-$RANDOM"
-          echo $branch_name
           echo Pub-$GITHUB_RUN_NUMBER
         
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
@@ -64,7 +62,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: $branch_name
+          branch: Pub-$GITHUB_RUN_NUMBER
 
 #       # Runs a single command using the runners shell
 #       - name: Run a one-line script
