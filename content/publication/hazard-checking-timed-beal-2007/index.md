@@ -9,22 +9,21 @@ authors:
 - Tomohiro Yoneda
 - Chris J. Myers
 tags:
-- 'Algorithm design and analysis'
-- 'Approximation algorithms'
-- 'asynchronous circuits'
-- 'Asynchronous circuits'
-- 'Circuit synthesis'
-- 'Cities and towns'
-- 'Explosions'
-- 'hazard checking'
-- 'Hazards'
-- 'Informatics'
-- 'internal loops'
-- 'Safety'
-- 'safety failures'
-- 'Signal synthesis'
-- 'state- space explosion'
-- 'timed asynchronous circuits'
+- '"algorithm design and analysis"'
+- '"approximation algorithms"'
+- '"asynchronous circuits"'
+- '"circuit"'
+- '"circuit synthesis"'
+- '"explosion"'
+- '"hazard checking"'
+- '"hazards"'
+- '"informatics"'
+- '"internal loops"'
+- '"safety"'
+- '"safety failures"'
+- '"signal synthesis"'
+- '"state-space explosion"'
+- '"timed asynchronous circuits"'
 categories: []
 date: '2007-07-01'
 lastmod: 2020-09-27T16:55:16-03:00
@@ -45,9 +44,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:15.966719Z'
+publishDate: '2021-01-15T17:11:46.030249Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper proposes a new approach for the hazard checking of timed asynchronous
   circuits. Previous papers proposed either exact algorithms, which suffer from statespace
   explosion, or efficient algorithms which use a (conservative) approximation to avoid

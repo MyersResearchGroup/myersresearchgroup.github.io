@@ -8,25 +8,23 @@ authors:
 - W. Belluomini
 - C.J. Myers
 tags:
-- 'Algorithm design and analysis'
-- 'asynchronous circuits'
-- 'Asynchronous circuits'
-- 'Circuit synthesis'
-- 'Cities and towns'
-- 'computational complexity'
-- 'Computer science'
-- 'Design optimization'
-- 'geometric regions'
-- 'logic design'
-- 'partial orders'
-- 'Process design'
-- 'Space exploration'
-- 'State-space methods'
-- 'timed circuit synthesis'
-- 'timed state space exploration'
-- 'timing'
-- 'Timing'
-- 'timing analysis algorithms'
+- '"algorithm design and analysis"'
+- '"asynchronous circuits"'
+- '"circuit"'
+- '"circuit synthesis"'
+- '"computational complexity"'
+- '"design optimization"'
+- '"geometric regions"'
+- '"logic design"'
+- '"partial orders"'
+- '"process design"'
+- '"Search"'
+- '"space exploration"'
+- '"state-space methods"'
+- '"timed circuit synthesis"'
+- '"timed state-space exploration"'
+- '"timing"'
+- '"timing analysis algorithms"'
 categories: []
 date: '1997-04-01'
 lastmod: 2020-09-27T16:55:09-03:00
@@ -47,9 +45,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:09.307493Z'
+publishDate: '2021-01-15T17:11:43.664945Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper presents new timing analysis algorithms for efficient state space
   exploration during timed circuit synthesis. Timed circuits are a class of asynchronous
   circuits that incorporate explicit timing information in the specification which

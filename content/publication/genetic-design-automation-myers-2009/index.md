@@ -12,26 +12,27 @@ authors:
 - Curtis Madsen
 - Nam-Phuong D. Nguyen
 tags:
-- 'Biological system modeling'
-- 'Circuit simulation'
-- 'complex integrated circuits'
-- 'Design automation'
-- 'DNA'
-- 'Electronic circuits'
-- 'electronic design automation'
-- 'Electronic design automation and methodology'
-- 'electronic design automation tool'
-- 'genetic circuits'
-- 'genetic circuits design'
-- 'genetic design automation'
-- 'genetic engineering'
-- 'Genetics'
-- 'integrated circuit design'
-- 'Microorganisms'
-- 'Stochastic processes'
-- 'stochastic simulation'
-- 'synthetic biology'
-- 'Synthetic biology'
+- '"biological system modeling"'
+- '"circuit"'
+- '"circuit simulation"'
+- '"complex integrated circuit"'
+- '"Design automation"'
+- '"DNA"'
+- '"Electronic circuits"'
+- '"electronic design automation"'
+- '"Electronic design automation and methodology"'
+- '"electronic design automation tool"'
+- '"genetic circuit"'
+- '"genetic circuit design"'
+- '"genetic design automation"'
+- '"genetic engineering"'
+- '"genetics"'
+- '"integrated circuit design"'
+- '"Microorganisms"'
+- '"stochastic logic"'
+- '"stochastic processes"'
+- '"stochastic simulation"'
+- '"synthetic biology"'
 categories: []
 date: '2009-11-01'
 lastmod: 2020-09-27T16:55:15-03:00
@@ -52,9 +53,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:15.319417Z'
+publishDate: '2021-01-15T17:11:45.749115Z'
 publication_types:
-- 1
+- '1'
 abstract: Electronic design automation (EDA) tools have facilitated the design of
   ever more complex integrated circuits each year. Synthetic biology would also benefit
   from the development of genetic design automation (GDA) tools. Existing GDA tools

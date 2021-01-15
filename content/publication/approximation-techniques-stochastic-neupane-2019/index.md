@@ -10,7 +10,9 @@ authors:
 - C. Madsen
 - H. Zheng
 - C. Myers
-tags: []
+tags:
+- '"Search"'
+- '"stochastic logic"'
 categories: []
 date: '2019-01-01'
 lastmod: 2020-09-27T16:54:42-03:00
@@ -31,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:42.712043Z'
+publishDate: '2021-01-15T17:11:35.447706Z'
 publication_types:
-- 6
+- '6'
 abstract: "This book presents outstanding contributions in an exciting, new and multidisciplinary\
   \ research area: the application of formal, automated reasoning techniques to analyse\
   \ complex models in systems biology and systems medicine. Automated reasoning is\

@@ -12,7 +12,8 @@ authors:
 - Brett Jepsen
 - Riley Roberts
 - Chris J. Myers
-tags: []
+tags:
+- '"genetic circuit"'
 categories: []
 date: August 3rd-5th, 2020-01-01
 lastmod: 2020-09-27T16:55:15-03:00
@@ -33,9 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:14.784896Z'
+publishDate: '2021-01-15T17:11:45.624693Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*12th International Workshop on Bio-Design Automation*'
 ---

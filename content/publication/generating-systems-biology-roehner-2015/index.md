@@ -10,7 +10,10 @@ authors:
 - Zhen Zhang
 - Tramy Nguyen
 - Chris J. Myers
-tags: []
+tags:
+- '"genetic circuit"'
+- '"iBioSim"'
+- '"SBOL"'
 categories: []
 date: '2015-08-01'
 lastmod: 2020-09-27T16:55:14-03:00
@@ -31,9 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:14.123651Z'
+publishDate: '2021-01-15T17:11:45.371387Z'
 publication_types:
-- 2
+- '2'
 abstract: In the context of synthetic biology, model generation is the automated process
   of constructing biochemical models based on genetic designs. This paper discusses
   the use cases for model generation in genetic design automation (GDA) software tools

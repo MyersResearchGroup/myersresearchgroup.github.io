@@ -8,35 +8,34 @@ authors:
 - H.M. Jacobson
 - C.J. Myers
 tags:
-- 'asynchronous circuits'
-- 'Asynchronous circuits'
-- 'asynchronous logic synthesis'
-- 'Circuit synthesis'
-- 'Cities and towns'
-- 'compacted state graphs'
-- 'cover tables'
-- 'divide-and-merge algorithm'
-- 'extended burst-mode FSM synthesis'
-- 'finite state machines'
-- 'finite-state machine synthesis'
-- 'generalized C element implementations'
-- 'graph theory'
-- 'hazard constraints'
-- 'Hazards'
-- 'hazards and race conditions'
-- 'Integrated circuit synthesis'
-- 'integrated logic circuits'
-- 'Jacobian matrices'
-- 'Libraries'
-- 'Logic'
-- 'logic CAD'
-- 'minimisation of switching nets'
-- 'Minimization methods'
-- 'single-cube cover algorithms'
-- 'Space exploration'
-- 'state graph exploration'
-- 'two-level hazard-free logic minimization'
-- 'two-level standard gate implementations'
+- '"asynchronous circuits"'
+- '"asynchronous logic synthesis"'
+- '"circuit"'
+- '"circuit synthesis"'
+- '"compacted state graph"'
+- '"cover tables"'
+- '"divide-and-merge algorithm"'
+- '"extended burst-mode FSM synthesis"'
+- '"finite state machine"'
+- '"finite-state machine synthesis"'
+- '"generalized C element implementations"'
+- '"graph theory"'
+- '"hazard constraints"'
+- '"hazards"'
+- '"hazards and race conditions"'
+- '"Integrated circuit synthesis"'
+- '"integrated logic circuits"'
+- '"Jacobian matrices"'
+- '"libraries"'
+- '"logic"'
+- '"logic CAD"'
+- '"minimisation of switching nets"'
+- '"Minimization methods"'
+- '"single-cube cover algorithms"'
+- '"space exploration"'
+- '"state graph exploration"'
+- '"two-level hazard-free logic minimization"'
+- '"two-level standard gate implementations"'
 categories: []
 date: '2002-11-01'
 lastmod: 2020-09-27T16:55:06-03:00
@@ -57,9 +56,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:06.620718Z'
+publishDate: '2021-01-15T17:11:42.722092Z'
 publication_types:
-- 2
+- '2'
 abstract: This paper presents a new approach to two-level hazard-free logic minimization
   in the context of extended burst-mode finite-state machine synthesis. The approach
   achieves fast single-output logic minimization that yields solutions that are exact

@@ -8,27 +8,26 @@ authors:
 - E.G. Mercer
 - C.J. Myers
 tags:
-- 'asynchronous circuits'
-- 'Asynchronous circuits'
-- 'Circuit analysis'
-- 'Circuit analysis computing'
-- 'Circuit optimization'
-- 'Delay'
-- 'delay distributions'
-- 'Delays'
-- 'Error analysis'
-- 'Measurement'
-- 'optimization'
-- 'performance metric'
-- 'Petri nets'
-- 'Pins'
-- 'Statistical analysis'
-- 'Statistical distributions'
-- 'stochastic cycle period analysis'
-- 'Stochastic processes'
-- 'timed circuits'
-- 'timed stochastic Petri nets'
-- 'weighted place delays'
+- '"asynchronous circuits"'
+- '"circuit"'
+- '"circuit analysis"'
+- '"circuit optimization"'
+- '"delay"'
+- '"delay distributions"'
+- '"Delays"'
+- '"Error analysis"'
+- '"Measurement"'
+- '"optimization"'
+- '"performance metric"'
+- '"petri nets"'
+- '"statistical analysis"'
+- '"statistical distributions"'
+- '"stochastic cycle period analysis"'
+- '"stochastic logic"'
+- '"stochastic processes"'
+- '"timed circuits"'
+- '"timed stochastic petri nets"'
+- '"weighted place delays"'
 categories: []
 date: '1999-07-01'
 lastmod: 2020-09-27T16:55:50-03:00
@@ -49,9 +48,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:50.144687Z'
+publishDate: '2021-01-15T17:11:59.177824Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper presents a technique to estimate the stochastic cycle period
   (SCP), a performance metric for timed asynchronous circuits. This technique uses
   timed stochastic Petri nets (TSPN) which support choice and arbitrary delay distributions.

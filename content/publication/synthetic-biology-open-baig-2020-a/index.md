@@ -20,7 +20,9 @@ authors:
 - Ernst Oberortner
 - Anil Wipat
 - Chris J. Myers
-tags: []
+tags:
+- '"genetic circuit"'
+- '"SBOL"'
 categories: []
 date: '2020-06-01'
 lastmod: 2020-09-27T16:55:55-03:00
@@ -41,29 +43,28 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:54.775342Z'
+publishDate: '2021-01-15T17:12:00.889558Z'
 publication_types:
-- 2
-abstract: Abstract              Synthetic biology builds upon genetics, molecular
-  biology, and metabolic engineering by applying engineering principles to the design
-  of biological systems. When designing a synthetic system, synthetic biologists need
-  to exchange information about multiple types of molecules, the intended behavior
-  of the system, and actual experimental measurements. The Synthetic Biology Open
-  Language (SBOL) has been developed as a standard to support the specification and
-  exchange of biological design information in synthetic biology, following an open
-  community process involving both wet bench scientists and dry scientific modelers
-  and software developers, across academia, industry, and other institutions. This
-  document describes SBOL 3.0.0, which condenses and simplifies previous versions
-  of SBOL based on experiences in deployment across a variety of scientific and industrial
-  settings. In particular, SBOL 3.0.0, (1) separates sequence features from part/sub-part
-  relationships, (2) renames Component Definition/Component to Component/Sub-Component,
-  (3) merges Component and Module classes, (4) ensures consistency between data model
-  and ontology terms, (5) extends the means to define and reference Sub-Components,
-  (6) refines requirements on object URIs, (7) enables graph-based serialization,
-  (8) moves Systems Biology Ontology (SBO) for Component types, (9) makes all sequence
-  associations explicit, (10) makes interfaces explicit, (11) generalizes Sequence
-  Constraints into a general structural Constraint class, and (12) expands the set
-  of allowed constraints.
+- '2'
+abstract: Synthetic biology builds upon genetics, molecular biology, and metabolic
+  engineering by applying engineering principles to the design of biological systems.
+  When designing a synthetic system, synthetic biologists need to exchange information
+  about multiple types of molecules, the intended behavior of the system, and actual
+  experimental measurements. The Synthetic Biology Open Language (SBOL) has been developed
+  as a standard to support the specification and exchange of biological design information
+  in synthetic biology, following an open community process involving both wet bench
+  scientists and dry scientific modelers and software developers, across academia,
+  industry, and other institutions. This document describes SBOL 3.0.0, which condenses
+  and simplifies previous versions of SBOL based on experiences in deployment across
+  a variety of scientific and industrial settings. In particular, SBOL 3.0.0, (1)
+  separates sequence features from part/sub-part relationships, (2) renames Component
+  Definition/Component to Component/Sub-Component, (3) merges Component and Module
+  classes, (4) ensures consistency between data model and ontology terms, (5) extends
+  the means to define and reference Sub-Components, (6) refines requirements on object
+  URIs, (7) enables graph-based serialization, (8) moves Systems Biology Ontology
+  (SBO) for Component types, (9) makes all sequence associations explicit, (10) makes
+  interfaces explicit, (11) generalizes Sequence Constraints into a general structural
+  Constraint class, and (12) expands the set of allowed constraints.
 publication: '*Journal of Integrative Bioinformatics*'
 doi: 10.1515/jib-2020-0017
 ---

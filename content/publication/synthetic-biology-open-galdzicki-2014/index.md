@@ -38,7 +38,9 @@ authors:
 - John H. Gennari
 - Chris J. Myers
 - Herbert M. Sauro
-tags: []
+tags:
+- '"SBOL"'
+- '"Search"'
 categories: []
 date: '2014-06-01'
 lastmod: 2020-09-27T16:55:56-03:00
@@ -59,9 +61,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:56.564525Z'
+publishDate: '2021-01-15T17:12:01.606778Z'
 publication_types:
-- 2
+- '2'
 abstract: The synthetic biology research community describes a standard language for
   exchanging designs of biological 'parts'.
 publication: '*Nature Biotechnology*'

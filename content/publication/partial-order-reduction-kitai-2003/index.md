@@ -11,7 +11,8 @@ authors:
 - Tomohiro Yoneda
 - Eric Mercer
 - Chris Myers
-tags: []
+tags:
+- '"Search"'
 categories: []
 date: '2003-12-01'
 lastmod: 2020-09-27T16:55:33-03:00
@@ -32,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:32.638697Z'
+publishDate: '2021-01-15T17:11:51.886926Z'
 publication_types:
-- 2
+- '2'
 abstract: Using a level oriented model for verification of asynchronous circuits helps
   users to easily construct formal models with high readability or to naturally model
   data-path circuits. On the other hand, in order to use such a model for larger circuit,

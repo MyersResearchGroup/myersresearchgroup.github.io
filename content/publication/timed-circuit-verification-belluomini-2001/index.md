@@ -9,35 +9,33 @@ authors:
 - C.J. Myers
 - H.P. Hofstee
 tags:
-- 'Algorithm design and analysis'
-- 'asynchronous circuits'
-- 'automatic testing'
-- 'circuit design'
-- 'circuit level verification'
-- 'Circuit synthesis'
-- 'Circuit testing'
-- 'Decoding'
-- 'Delay'
-- 'gate-level circuits'
-- 'gigahertz unit Test Site'
-- 'integrated circuit testing'
-- 'Logic design'
-- 'logic gates'
-- 'logic testing'
-- 'Microprocessors'
-- 'partially ordered sets'
-- 'Performance gain'
-- 'Process design'
-- 'specification formalism'
-- 'state-space exploration'
-- 'state-space methods'
-- 'TEL structures'
-- 'timed circuit verification'
-- 'timed event/level structures'
-- 'timing'
-- 'Timing'
-- 'timing properties'
-- 'VLSI'
+- '"algorithm design and analysis"'
+- '"asynchronous circuits"'
+- '"automatic testing"'
+- '"circuit"'
+- '"circuit CAD"'
+- '"circuit synthesis"'
+- '"circuit testing"'
+- '"decoding"'
+- '"delay"'
+- '"gate-level circuits"'
+- '"integrated circuit testing"'
+- '"logic design"'
+- '"logic gates"'
+- '"logic testing"'
+- '"Microprocessors"'
+- '"partially ordered sets"'
+- '"performance gain"'
+- '"process design"'
+- '"specification formalism"'
+- '"state-space exploration"'
+- '"state-space methods"'
+- '"TEL structures"'
+- '"timed circuit verification"'
+- '"timed event/level structures"'
+- '"timing"'
+- '"timing properties"'
+- '"VLSI"'
 categories: []
 date: '2001-01-01'
 lastmod: 2020-09-27T16:56:02-03:00
@@ -58,9 +56,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:56:02.421914Z'
+publishDate: '2021-01-15T17:12:03.636457Z'
 publication_types:
-- 2
+- '2'
 abstract: Recent design examples have shown that significant performance gains are
   realized when circuit designers are allowed to make aggressive timing assumptions.
   Circuit correctness in these aggressive styles is highly timing dependent and, in

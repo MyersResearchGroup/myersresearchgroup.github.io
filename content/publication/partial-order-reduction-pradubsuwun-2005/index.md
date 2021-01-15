@@ -8,7 +8,8 @@ authors:
 - Denduang Pradubsuwun
 - Tomohiro Yoneda
 - Chris Myers
-tags: []
+tags:
+- '"Search"'
 categories: []
 date: '2005-07-01'
 lastmod: 2020-09-27T16:55:33-03:00
@@ -29,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:33.466482Z'
+publishDate: '2021-01-15T17:11:53.084470Z'
 publication_types:
-- 2
+- '2'
 abstract: This paper proposes a partial order reduction algorithm for timed trace
   theoretic verification in order to detect both safety failures and timing failures
   of timed circuits efficiently. This algorithm is based on the framework of timed

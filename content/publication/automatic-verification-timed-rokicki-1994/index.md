@@ -8,13 +8,13 @@ authors:
 - Tomas G. Rokicki
 - Chris J. Myers
 tags:
-- 'Asynchronous Circuit'
-- 'Automatic Verification'
-- 'Firing Sequence'
-- 'Trace Theory'
-- 'Transition Firing'
+- '"asynchronous circuit"'
+- '"automatic verification"'
+- '"Firing Sequence"'
+- '"trace theory"'
+- '"transition firing"'
 categories: []
-date: '1994-01-01'
+date: '1994-06-01'
 lastmod: 2020-09-27T16:54:52-03:00
 featured: false
 draft: false
@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:51.745909Z'
+publishDate: '2021-01-15T17:11:37.930713Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper presents a new formalism and a new algorithm for verifying timed
   circuits. The formalism, called orbital nets, allows hierarchical verification based
   on a behavioral semantics of timed trace theory. We present improvements to a geometric

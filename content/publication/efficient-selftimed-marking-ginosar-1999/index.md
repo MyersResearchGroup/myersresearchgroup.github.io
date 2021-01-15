@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:08.491669Z'
+publishDate: '2021-01-15T17:11:43.371899Z'
 publication_types:
-- 8
+- '8'
 abstract: A self-timed instruction marking circuit includes a long instruction processing
   system to divide long instruction processing between two columns of the instruction
   marking circuit. Length decoders are interconnected across columns to signal the

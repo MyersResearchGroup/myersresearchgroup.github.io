@@ -10,9 +10,10 @@ authors:
 - Nathan Barker
 - Michael Samoilov
 - Adam Arkin
-tags: []
+tags:
+- '"genetic circuit"'
 categories: []
-date: '2005-01-01'
+date: '2005-04-01'
 lastmod: 2020-09-27T16:54:44-03:00
 featured: false
 draft: false
@@ -31,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:44.567088Z'
+publishDate: '2021-01-15T17:11:35.857621Z'
 publication_types:
-- 1
+- '1'
 abstract: Abstract. In order to efficiently analyze a large scale system in an automated
   and objective manner, abstraction is essential. This paper presents an automated
   abstraction methodology that systematically reduces the small scale complexity found

@@ -17,7 +17,8 @@ authors:
 - Chris Myers
 - David Nickerson
 - Dagmar Waltemath
-tags: []
+tags:
+- '"SBOL"'
 categories: []
 date: '2019-07-01'
 lastmod: 2020-09-27T16:55:47-03:00
@@ -38,16 +39,16 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:46.655199Z'
+publishDate: '2021-01-15T17:11:57.751214Z'
 publication_types:
-- 2
-abstract: Abstract                              This special issue of the                Journal
-  of Integrative Bioinformatics                presents an overview of COMBINE standards
-  and their latest specifications. The standards cover representation formats for
-  computational modeling in synthetic and systems biology and include BioPAX, CellML,
-  NeuroML, SBML, SBGN, SBOL and SED-ML. The articles in this issue contain updated
-  specifications of SBGN Process Description Level 1 Version 2, SBML Level 3 Core
-  Version 2 Release 2, SBOL Version 2.3.0, and SBOL Visual Version 2.1.
+- '2'
+abstract: This special issue of the Journal of Integrative Bioinformatics presents
+  an overview of COMBINE standards and their latest specifications. The standards
+  cover representation formats for computational modeling in synthetic and systems
+  biology and include BioPAX, CellML, NeuroML, SBML, SBGN, SBOL and SED-ML. The articles
+  in this issue contain updated specifications of SBGN Process Description Level 1
+  Version 2, SBML Level 3 Core Version 2 Release 2, SBOL Version 2.3.0, and SBOL Visual
+  Version 2.1.
 publication: '*Journal of Integrative Bioinformatics*'
 doi: 10.1515/jib-2019-0035
 ---

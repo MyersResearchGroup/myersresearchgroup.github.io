@@ -29,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:38.559722Z'
+publishDate: '2021-01-15T17:11:54.784798Z'
 publication_types:
-- 2
+- '2'
 abstract: Disease modelers have been modeling progression of diseases for several
   decades using such tools as Markov models or microsimulation. However, they need
   to addr...

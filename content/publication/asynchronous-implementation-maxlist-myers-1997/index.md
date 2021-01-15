@@ -8,25 +8,22 @@ authors:
 - C.J. Myers
 - Hao Zheng
 tags:
-- 'asynchronous implementation'
-- 'asynchronous VLSI architecture'
-- 'Cities and towns'
-- 'Delay'
-- 'delay variations'
-- 'digital simulation'
-- 'Engineering profession'
-- 'Filters'
-- 'Hardware'
-- 'image processing'
-- 'Image processing'
-- 'maxlist algorithm'
-- 'minimums'
-- 'running maximum'
-- 'signal processing'
-- 'Signal processing'
-- 'simulation results'
-- 'Very large scale integration'
-- 'VLSI'
+- '"asynchronous implementation"'
+- '"asynchronous VLSI architecture"'
+- '"delay"'
+- '"delay variations"'
+- '"digital simulation"'
+- '"Engineering profession"'
+- '"Filters"'
+- '"hardware"'
+- '"image processing"'
+- '"maxlist algorithm"'
+- '"minimums"'
+- '"running maximum"'
+- '"signal processing"'
+- '"simulation results"'
+- '"very large scale integration"'
+- '"VLSI"'
 categories: []
 date: '1997-04-01'
 lastmod: 2020-09-27T16:54:47-03:00
@@ -47,9 +44,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:46.768203Z'
+publishDate: '2021-01-15T17:11:36.466525Z'
 publication_types:
-- 1
+- '1'
 abstract: We present an efficient asynchronous VLSI architecture for calculating running
   maximum or minimum values over a sliding window. Running maximums or minimums are
   very useful for many signal and image processing tasks. Our architecture performs

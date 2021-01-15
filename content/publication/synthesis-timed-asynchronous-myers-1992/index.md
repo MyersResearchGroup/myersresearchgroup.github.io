@@ -8,28 +8,28 @@ authors:
 - C. Myers
 - T.H.-Y. Meng
 tags:
-- 'Asynchronous circuits'
-- 'asynchronous sequential logic'
-- 'Circuit synthesis'
-- 'complexity'
-- 'Complexity theory'
-- 'computational complexity'
-- 'Constraint optimization'
-- 'cyclic graph specification'
-- 'Delay'
-- 'Erbium'
-- 'formal specification'
-- 'infinite acyclic graph'
-- 'Laboratories'
-- 'logic design'
-- 'redundancy'
-- 'Robustness'
-- 'sufficient condition'
-- 'systematic synthesis procedure'
-- 'timed asynchronous circuits synthesis'
-- 'Timing'
-- 'timing constraints'
-- 'Wire'
+- '"asynchronous circuits"'
+- '"asynchronous sequential logic"'
+- '"circuit"'
+- '"circuit synthesis"'
+- '"complexity"'
+- '"Complexity theory"'
+- '"computational complexity"'
+- '"constraint matrix"'
+- '"cyclic graph"'
+- '"delay"'
+- '"Erbium"'
+- '"formal specification"'
+- '"infinite acyclic graph"'
+- '"laboratories"'
+- '"logic design"'
+- '"redundancy"'
+- '"robustness"'
+- '"sufficient condition"'
+- '"systematic synthesis procedure"'
+- '"timed asynchronous circuits synthesis"'
+- '"timing"'
+- '"timing constraints"'
 categories: []
 date: '1992-10-01'
 lastmod: 2020-09-27T16:55:53-03:00
@@ -50,9 +50,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:53.174585Z'
+publishDate: '2021-01-15T17:12:00.246743Z'
 publication_types:
-- 1
+- '1'
 abstract: A synthesis method that utilizes timing constraints to generate timed asynchronous
   circuits is presented. By unfolding the cyclic graph specification of an asynchronous
   circuit into an infinite acyclic graph, it is possible to use efficient algorithms

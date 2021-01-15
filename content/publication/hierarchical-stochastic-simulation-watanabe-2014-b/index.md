@@ -8,11 +8,13 @@ authors:
 - Leandro H. Watanabe
 - Chris J. Myers
 tags:
-- 'genetic circuits'
-- 'hierarchical composition'
-- 'SBML'
-- 'stochastic simulation'
-- 'synthetic and systems biology'
+- '"genetic circuit"'
+- '"hierarchical composition"'
+- '"iBioSim"'
+- '"SBML"'
+- '"stochastic logic"'
+- '"stochastic simulation"'
+- '"synthetic and systems biology"'
 categories: []
 date: '2014-04-01'
 lastmod: 2020-09-27T16:55:17-03:00
@@ -33,9 +35,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:16.914159Z'
+publishDate: '2021-01-15T17:11:46.431472Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper describes a hierarchical stochastic simulation algorithm which
   has been implemented within iBioSim, a tool used to model, analyze, and visualize
   genetic circuits. Many biological analysis tools flatten out hierarchy before simulation,

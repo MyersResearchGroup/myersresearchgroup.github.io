@@ -11,11 +11,13 @@ authors:
 - Chris Winstead
 - Chris Myers
 tags:
-- 'continuous stochastic logic'
-- 'design space exploration'
-- 'Markov chain analysis'
-- 'Stochastic model checking'
-- 'synthetic genetic circuits'
+- '"design space exploration"'
+- '"genetic circuit"'
+- '"Markov chain analysis"'
+- '"Search"'
+- '"stochastic logic"'
+- '"stochastic model checking"'
+- '"synthetic genetic circuits"'
 categories: []
 date: '2015-12-01'
 lastmod: 2020-09-27T16:55:51-03:00
@@ -36,9 +38,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:50.839829Z'
+publishDate: '2021-01-15T17:11:59.436417Z'
 publication_types:
-- 2
+- '2'
 abstract: Synthetic genetic circuits have a number of exciting potential applications
   such as cleaning up toxic waste, hunting and killing tumor cells, and producing
   drugs and bio-fuels more efficiently. When designing and analyzing genetic circuits,

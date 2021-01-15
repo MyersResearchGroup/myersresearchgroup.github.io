@@ -8,9 +8,10 @@ authors:
 - Nathan Barker
 - Chris Myers
 - Hiroyuki Kuwahara
-tags: []
+tags:
+- '"genetic circuit"'
 categories: []
-date: '2006-01-01'
+date: Jan - Mar, 2006-01-01
 lastmod: 2020-09-27T16:55:24-03:00
 featured: false
 draft: false
@@ -29,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:24.287299Z'
+publishDate: '2021-01-15T17:11:48.859501Z'
 publication_types:
-- 1
+- '1'
 abstract: Abstract. Recent experimental advances facilitate the collection of time
   series data that indicate which genes in a cell are expressed. This paper proposes
   an efficient method to generate the genetic regulatory network inferred from time

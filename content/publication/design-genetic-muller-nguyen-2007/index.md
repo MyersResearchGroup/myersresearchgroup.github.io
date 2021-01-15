@@ -10,31 +10,27 @@ authors:
 - Chris J. Myers
 - James P. Keener
 tags:
-- 'asynchronous circuit'
-- 'asynchronous circuits'
-- 'Asynchronous circuits'
-- 'asynchronous sequential logic'
-- 'Biological materials'
-- 'biological techniques'
-- 'Boolean functions'
-- 'Building materials'
-- 'Design engineering'
-- 'digital design procedure'
-- 'genetic engineering'
-- 'Genetic engineering'
-- 'genetic material'
-- 'genetic Muller C-element'
-- 'Logic design'
-- 'Logic gates'
-- 'mathematical analysis'
-- 'Microorganisms'
-- 'sequential circuits'
-- 'sequential logic gates'
-- 'stochastic processes'
-- 'stochastic simulation'
-- 'synthetic biology'
-- 'Synthetic biology'
-- 'transcriptional regulatory elements'
+- '"asynchronous circuit"'
+- '"asynchronous circuits"'
+- '"asynchronous sequential logic"'
+- '"Boolean function"'
+- '"Design engineering"'
+- '"digital design procedure"'
+- '"genetic circuit"'
+- '"genetic engineering"'
+- '"genetic material"'
+- '"genetic Muller C-element"'
+- '"logic design"'
+- '"Logic gates"'
+- '"mathematical analysis"'
+- '"Microorganisms"'
+- '"sequential circuits"'
+- '"sequential logic gates"'
+- '"stochastic logic"'
+- '"stochastic processes"'
+- '"stochastic simulation"'
+- '"synthetic biology"'
+- '"transcriptional regulatory elements"'
 categories: []
 date: '2007-03-01'
 lastmod: 2020-09-27T16:55:02-03:00
@@ -55,9 +51,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:02.024094Z'
+publishDate: '2021-01-15T17:11:41.421608Z'
 publication_types:
-- 1
+- '1'
 abstract: Synthetic biology uses engineering principles to design circuits out of
   genetic materials that are inserted into bacteria to perform various tasks. While
   synthetic combinational Boolean logic gates have been constructed, there are many

@@ -18,14 +18,14 @@ authors:
 - Björn Sommer
 - Dagmar Waltemath
 tags:
-- 'Animals'
-- 'COMBINE'
-- 'Computational Biology'
-- 'Documentation'
-- 'Humans'
-- 'Standards'
-- 'Synthetic Biology'
-- 'Systems Biology'
+- '"animals"'
+- '"COMBINE"'
+- '"computational biology"'
+- '"documentation"'
+- '"humans"'
+- '"standards"'
+- '"synthetic biology"'
+- '"systems biology"'
 categories: []
 date: '2018-03-01'
 lastmod: 2020-09-27T16:55:46-03:00
@@ -46,9 +46,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:46.357030Z'
+publishDate: '2021-01-15T17:11:57.618684Z'
 publication_types:
-- 2
+- '2'
 abstract: Standards are essential to the advancement of Systems and Synthetic Biology.
   COMBINE provides a formal body and a centralised platform to help develop and disseminate
   relevant standards and related resources. The regular special issue of the Journal

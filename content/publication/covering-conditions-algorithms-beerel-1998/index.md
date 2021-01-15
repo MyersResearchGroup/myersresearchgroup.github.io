@@ -9,25 +9,23 @@ authors:
 - C.J. Myers
 - T.H. Meng
 tags:
-- 'asynchronous circuit'
-- 'asynchronous circuits'
-- 'Asynchronous circuits'
-- 'automatic synthesis'
-- 'block-level circuit'
-- 'Boolean covering condition'
-- 'Circuit synthesis'
-- 'Circuit testing'
-- 'Clocks'
-- 'Delay'
-- 'gate-level speed-independent circuit'
-- 'Hazards'
-- 'Integrated circuit synthesis'
-- 'logic CAD'
-- 'optimal single-cube algorithm'
-- 'standard C-implementation'
-- 'Synchronization'
-- 'Voltage'
-- 'Wires'
+- '"asynchronous circuit"'
+- '"asynchronous circuits"'
+- '"automatic synthesis"'
+- '"block-level circuit"'
+- '"Boolean covering condition"'
+- '"circuit"'
+- '"circuit synthesis"'
+- '"circuit testing"'
+- '"clock"'
+- '"delay"'
+- '"gate-level speed-independent circuit"'
+- '"hazards"'
+- '"Integrated circuit synthesis"'
+- '"logic CAD"'
+- '"optimal single-cube algorithm"'
+- '"standard C-implementation"'
+- '"synchronization"'
 categories: []
 date: '1998-03-01'
 lastmod: 2020-09-27T16:55:00-03:00
@@ -48,9 +46,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:00.226898Z'
+publishDate: '2021-01-15T17:11:40.769434Z'
 publication_types:
-- 2
+- '2'
 abstract: This paper presents theory and algorithms for the synthesis of standard
   C-implementations of speed-independent circuits. These implementations are block-level
   circuits which may consist of atomic gates to perform complex functions in order

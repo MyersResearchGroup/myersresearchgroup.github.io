@@ -14,26 +14,24 @@ authors:
 - K. Stevens
 - K.Y. Yun
 tags:
-- 'asynchronous circuits'
-- 'asynchronous combinational circuits'
-- 'average-case delay'
-- 'combinational circuits'
-- 'Combinational circuits'
-- 'combinational length decoding'
-- 'Decoding'
-- 'Delay'
-- 'Design automation'
-- 'Design optimization'
-- 'domino logic'
-- 'Frequency'
-- 'logic design'
-- 'Logic design'
-- 'Microprocessors'
-- 'one-hot encoded outputs'
-- 'Phase detection'
-- 'Signal design'
-- 'technology mapping'
-- 'worst-case delay'
+- '"asynchronous circuits"'
+- '"asynchronous combinational circuits"'
+- '"average-case delay"'
+- '"combinational"'
+- '"decoding"'
+- '"delay"'
+- '"Design automation"'
+- '"design optimization"'
+- '"domino logic"'
+- '"Frequency"'
+- '"logic design"'
+- '"Microprocessors"'
+- '"one-hot encoded outputs"'
+- '"phase detection"'
+- '"Search"'
+- '"signal design"'
+- '"technology mapping"'
+- '"worst-case delay"'
 categories: []
 date: '1998-03-01'
 lastmod: 2020-09-27T16:54:52-03:00
@@ -54,9 +52,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:52.090983Z'
+publishDate: '2021-01-15T17:11:38.064374Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper presents a technology mapping technique for optimizing the average-case
   delay of asynchronous combinational circuits implemented using domino logic and
   one-hot encoded outputs. The technique minimizes the critical path for common input

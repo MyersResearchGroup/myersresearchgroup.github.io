@@ -19,13 +19,14 @@ authors:
 - Michael Zhang
 - Zach Zundel
 tags:
-- 'Models; Biological'
-- 'Software'
-- 'standards'
-- 'synthetic biological circuits'
-- 'synthetic biology'
-- 'Synthetic Biology'
-- 'Workflow'
+- '"genetic circuit"'
+- '"Models; Biological"'
+- '"SBOL"'
+- '"software"'
+- '"standards"'
+- '"synthetic biological circuits"'
+- '"synthetic biology"'
+- '"workflow"'
 categories: []
 date: '2017-06-01'
 lastmod: 2020-09-27T16:55:48-03:00
@@ -46,9 +47,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:48.420479Z'
+publishDate: '2021-01-15T17:11:58.404564Z'
 publication_types:
-- 2
+- '2'
 abstract: A synthetic biology workflow is composed of data repositories that provide
   information about genetic parts, sequence-level design tools to compose these parts
   into circuits, visualization tools to depict these designs, genetic design tools

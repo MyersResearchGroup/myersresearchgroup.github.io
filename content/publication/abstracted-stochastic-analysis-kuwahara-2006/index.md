@@ -8,9 +8,11 @@ authors:
 - Hiroyuki Kuwahara
 - Chris Myers
 - Michael Samoilov
-tags: []
+tags:
+- '"Search"'
+- '"stochastic logic"'
 categories: []
-date: '2006-01-01'
+date: '2006-06-01'
 lastmod: 2020-09-27T16:54:35-03:00
 featured: false
 draft: false
@@ -29,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:35.685159Z'
+publishDate: '2021-01-15T17:11:33.352973Z'
 publication_types:
-- 1
+- '1'
 abstract: 'Abstract — With the aid of model abstractions, biochemical networks can
   be analyzed at different levels of resolution: from low-level quantitative models
   to high-level qualitative ones. Furthermore, an ability to change the level of abstraction

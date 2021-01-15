@@ -13,24 +13,20 @@ authors:
 - Chris Myers
 - Takashi Nanya
 tags:
-- 'asynchronous circuits'
-- 'Asynchronous circuits'
-- 'behavioral description'
-- 'behavioral synthesis method'
-- 'bundled-data implementation'
-- 'C language'
-- 'circuit analysis computing'
-- 'Circuit synthesis'
-- 'Clocks'
-- 'Control system synthesis'
-- 'Informatics'
-- 'network synthesis'
-- 'Processor scheduling'
-- 'Resource management'
-- 'RTL model'
-- 'Scheduling algorithm'
-- 'Signal synthesis'
-- 'Space exploration'
+- '"asynchronous circuits"'
+- '"circuit"'
+- '"circuit analysis"'
+- '"circuit synthesis"'
+- '"clock"'
+- '"control system"'
+- '"informatics"'
+- '"network synthesis"'
+- '"processor scheduling"'
+- '"resource management"'
+- '"RTL model"'
+- '"scheduling algorithm"'
+- '"signal synthesis"'
+- '"space exploration"'
 categories: []
 date: '2008-06-01'
 lastmod: 2020-09-27T16:54:52-03:00
@@ -51,9 +47,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:52.533473Z'
+publishDate: '2021-01-15T17:11:38.199001Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper presents a behavioral synthesis method for asynchronous circuits
   with bundled-data implementation. This paper extends a behavioral synthesis method
   for synchronous circuits so that an RTL model of bundled-data implementation is

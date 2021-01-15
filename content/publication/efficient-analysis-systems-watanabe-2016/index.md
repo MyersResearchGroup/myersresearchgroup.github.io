@@ -8,7 +8,8 @@ summary: ''
 authors:
 - Leandro Watanabe
 - Chris J. Myers
-tags: []
+tags:
+- '"genetic circuit"'
 categories: []
 date: '2016-08-01'
 lastmod: 2020-09-27T16:55:07-03:00
@@ -29,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:07.341757Z'
+publishDate: '2021-01-15T17:11:42.980293Z'
 publication_types:
-- 2
+- '2'
 abstract: The Systems Biology Markup Language (SBML) has been widely used for modeling
   biological systems. Although SBML has been successful in representing a wide variety
   of biochemical models, the core standard lacks the structure for representing large

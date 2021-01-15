@@ -8,13 +8,13 @@ authors:
 - Wendy Belluomini
 - Chris J. Myers
 tags:
-- 'Concurrent System'
-- 'Constraint Matrix'
-- 'Firing Time'
-- 'Graph Transformation'
-- 'State Space'
+- '"concurrency"'
+- '"constraint matrix"'
+- '"Firing Time"'
+- '"graph transformation"'
+- '"state space"'
 categories: []
-date: '1998-01-01'
+date: '1998-06-01'
 lastmod: 2020-09-27T16:56:12-03:00
 featured: false
 draft: false
@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:56:11.756269Z'
+publishDate: '2021-01-15T17:12:05.877672Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper presents a new algorithm for efficiently verifying timed systems.
   The new algorithm represents timing information using geometric regions and explores
   the timed state space by considering partially ordered sets of events rather than

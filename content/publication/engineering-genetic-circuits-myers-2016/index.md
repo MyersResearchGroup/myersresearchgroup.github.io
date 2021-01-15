@@ -7,9 +7,9 @@ summary: ''
 authors:
 - Chris J. Myers
 tags:
-- 'Medical / Biotechnology'
-- 'Science / Life Sciences / Biology'
-- 'Science / Physics / General'
+- '"Medical / Biotechnology"'
+- '"science / life sciences / biology"'
+- '"science / physics / general"'
 categories: []
 date: '2016-04-01'
 lastmod: 2020-09-27T16:55:10-03:00
@@ -30,13 +30,13 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:10.389595Z'
+publishDate: '2021-01-15T17:11:44.064921Z'
 publication_types:
-- 5
+- '5'
 abstract: An Introduction to Systems BioengineeringTakes a Clear and Systematic Engineering
   Approach to Systems BiologyFocusing on genetic regulatory networks, Engineering
   Genetic Circuits presents the modeling, analysis, and design methods for systems
   biology. It discusses how to examine experimental data to learn about mathematical
   models, develop efficien
-publication: '*CRC Press*'
+publication: '*Chapman & Hall/CRC Press*'
 ---

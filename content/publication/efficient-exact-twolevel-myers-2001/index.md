@@ -8,31 +8,29 @@ authors:
 - C. Myers
 - H. Jacobson
 tags:
-- 'asynchronous circuits'
-- 'Asynchronous circuits'
-- 'Automata'
-- 'burst-mode benchmarks'
-- 'Circuit synthesis'
-- 'compacted state graphs'
-- 'Computer science'
-- 'cover tables'
-- 'exact two-level hazard-free logic minimization'
-- 'graph theory'
-- 'Integrated circuit synthesis'
-- 'Jacobian matrices'
-- 'Logic circuits'
-- 'logic simulation'
-- 'minimisation of switching nets'
-- 'Minimization methods'
-- 'multivalued logic circuits'
-- 'Partitioning algorithms'
-- 'Protocols'
-- 'single-cube cover algorithms'
-- 'single-output minimization'
-- 'state assignment'
-- 'state graph exploration'
-- 'sum-of-products logic minimization'
-- 'synthesis times'
+- '"asynchronous circuits"'
+- '"automata"'
+- '"circuit"'
+- '"circuit synthesis"'
+- '"compacted state graph"'
+- '"cover tables"'
+- '"exact two-level hazard-free logic minimization"'
+- '"graph theory"'
+- '"Integrated circuit synthesis"'
+- '"Jacobian matrices"'
+- '"logic circuits"'
+- '"logic simulation"'
+- '"minimisation of switching nets"'
+- '"Minimization methods"'
+- '"multivalued logic circuits"'
+- '"partitioning algorithms"'
+- '"protocols"'
+- '"single-cube cover algorithms"'
+- '"single-output minimization"'
+- '"state assignment"'
+- '"state graph exploration"'
+- '"sum-of-products logic minimization"'
+- '"synthesis times"'
 categories: []
 date: '2001-03-01'
 lastmod: 2020-09-27T16:55:07-03:00
@@ -53,9 +51,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:07.739681Z'
+publishDate: '2021-01-15T17:11:43.116476Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper presents a new approach to two-level hazard free sum-of-products
   logic minimization. No currently available minimizers for single-output literal-exact
   two-level hazard-free logic minimization can handle large circuits without synthesis

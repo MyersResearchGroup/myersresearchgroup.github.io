@@ -34,9 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:41.235991Z'
+publishDate: '2021-01-15T17:11:34.919609Z'
 publication_types:
-- 8
+- '8'
 abstract: Optimal parallelization of necessarily serial operations is performed by
   speculative parallel processing and propagation of serial marking signals to indicate
   valid data. An exemplary instruction marking circuit for a computer system implementing

@@ -10,7 +10,8 @@ authors:
 - Zhen Zhang
 - Chris J. Myers
 tags:
-- SBOLValidator
+- '"SBOL"'
+- '"validator"'
 categories: []
 date: '2017-07-01'
 lastmod: 2020-09-27T16:56:04-03:00
@@ -31,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:56:04.455435Z'
+publishDate: '2021-01-15T17:12:04.377527Z'
 publication_types:
-- 2
+- '2'
 abstract: 'This paper presents a new validation and conversion utility for the Synthetic
   Biology Open Language (SBOL). This utility can be accessed directly in software
   using the libSBOLj library, through a web interface, or using a web service via

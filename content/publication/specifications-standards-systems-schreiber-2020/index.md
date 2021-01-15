@@ -38,14 +38,12 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:47.259582Z'
+publishDate: '2021-01-15T17:11:57.875567Z'
 publication_types:
-- 2
-abstract: $<$section class=\"abstract\"$><$h2 class=\"abstractTitle text-title my-1\"
-  id=\"d58e2\"$>$Abstract$<$/h2$><$p$>$This special issue of the $<$em$>$Journal of
-  Integrative Bioinformatics$<$/em$>$ presents papers related to the 10th COMBINE
-  meeting together with the annual update of COMBINE standards in systems and synthetic
-  biology.$<$/p$><$/section$>$
+- '2'
+abstract: This special issue of the Journal of Integrative Bioinformatics presents
+  papers related to the 10th COMBINE meeting together with the annual update of COMBINE
+  standards in systems and synthetic biology.
 publication: '*Journal of Integrative Bioinformatics*'
 doi: 10.1515/jib-2020-0022
 ---

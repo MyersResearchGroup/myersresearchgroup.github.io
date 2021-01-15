@@ -12,7 +12,10 @@ authors:
 - Tramy Nguyen
 - Chris J. Myers
 - Herbert M. Sauro
-tags: []
+tags:
+- '"genetic circuit"'
+- '"SBOL"'
+- '"Search"'
 categories: []
 date: '2019-07-01'
 lastmod: 2020-09-27T16:55:36-03:00
@@ -33,9 +36,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:36.386676Z'
+publishDate: '2021-01-15T17:11:54.161011Z'
 publication_types:
-- 2
+- '2'
 abstract: This paper presents pySBOL, a software library for computer-aided design
   of synthetic biological systems in the Python scripting language. This library provides
   an easy-to-use, object-oriented, application programming interface (API) with low

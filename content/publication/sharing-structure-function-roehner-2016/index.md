@@ -24,7 +24,10 @@ authors:
 - Anil Wipat
 - Herbert M. Sauro
 - Chris J. Myers
-tags: []
+tags:
+- '"genetic circuit"'
+- '"SBOL"'
+- '"Search"'
 categories: []
 date: '2016-06-01'
 lastmod: 2020-09-27T16:55:44-03:00
@@ -45,9 +48,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:44.092049Z'
+publishDate: '2021-01-15T17:11:56.849917Z'
 publication_types:
-- 2
+- '2'
 abstract: The Synthetic Biology Open Language (SBOL) is a standard that enables collaborative
   engineering of biological systems across different institutions and tools. SBOL
   is developed through careful consideration of recent synthetic biology trends, real

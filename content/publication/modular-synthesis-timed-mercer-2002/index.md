@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:29.274687Z'
+publishDate: '2021-01-15T17:11:50.849368Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper develops a modular synthesis algorithm for timed circuits that
   is dramatically accelerated by partial order reduction. Each timed circuit młdots
 publication: "*Theory and Practice of Timed Systems, TPTS '02*"

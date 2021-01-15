@@ -9,7 +9,10 @@ authors:
 - Zach Zundel
 - Chris Myers
 tags:
-- SynBioHub
+- '"genetic circuit"'
+- '"Plugin"'
+- '"SBOL"'
+- '"SynBioHub"'
 categories: []
 date: '2020-05-01'
 lastmod: 2020-09-27T16:55:11-03:00
@@ -30,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:11.260301Z'
+publishDate: '2021-01-15T17:11:44.321694Z'
 publication_types:
-- 2
+- '2'
 abstract: 'SynBioHub is a repository for synthetic genetic designs represented in
   the Synthetic Biology Open Language (SBOL). To integrate SynBioHub into more synthetic
   biology workflows, its data processing capabilities need to be expanded. To this

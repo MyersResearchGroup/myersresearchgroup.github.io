@@ -10,23 +10,19 @@ authors:
 - Hao Zheng
 - Chris Myers
 tags:
-- 'Analytical models'
-- 'behavioral analysis'
-- 'compositional reachability analysis method'
-- 'compositional reasoning'
-- 'Computational modeling'
-- 'formal verification'
-- 'Grammar'
-- 'Labeling'
-- 'model checking'
-- 'over-approximate local state space'
-- 'partial order reduction'
-- 'partial order reduction efficacy'
-- 'reachability analysis'
-- 'Reachability analysis'
-- 'state space analysis'
-- 'state space reduction'
-- 'Synchronization'
+- '"analytical models"'
+- '"compositional model checking"'
+- '"computational modeling"'
+- '"formal verification"'
+- '"grammar"'
+- '"labeling"'
+- '"model checking"'
+- '"over-approximate local state space"'
+- '"partial order reduction"'
+- '"reachability analysis"'
+- '"state space analysis"'
+- '"state space reduction"'
+- '"synchronization"'
 categories: []
 date: '2012-08-01'
 lastmod: 2020-09-27T16:55:21-03:00
@@ -47,9 +43,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:21.078026Z'
+publishDate: '2021-01-15T17:11:47.693965Z'
 publication_types:
-- 1
+- '1'
 abstract: Efficacy of partial order reduction in reducing state space relies on adequate
   extraction of the independence relation among possible behaviors. However, traditional
   approaches by statically analyzing system model structures are often not able to

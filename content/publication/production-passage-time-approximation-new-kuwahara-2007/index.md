@@ -8,9 +8,11 @@ summary: ''
 authors:
 - Hiroyuki Kuwahara
 - Chris Myers
-tags: []
+tags:
+- '"Search"'
+- '"stochastic logic"'
 categories: []
-date: '2007-01-01'
+date: '2007-04-01'
 lastmod: 2020-09-27T16:55:34-03:00
 featured: false
 draft: false
@@ -29,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:34.455837Z'
+publishDate: '2021-01-15T17:11:53.524111Z'
 publication_types:
-- 1
+- '1'
 abstract: Given the substantial computational requirements of stochastic simulation,
   approximation is essential for efficient analysis of any realistic biochemical system.
   This paper introduces a new approximation method to reduce the computational cost
