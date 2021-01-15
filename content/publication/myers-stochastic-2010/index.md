@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Chris Myers
 tags:
-- Search
-- stochastic logic
+- '"Search"'
+- '"stochastic logic"'
 categories: []
 date: '2010-08-01'
 lastmod: 2021-01-15T17:26:00Z
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-15T17:26:00.605141Z'
+publishDate: '2021-01-15T18:31:52.819476Z'
 publication_types:
 - '5'
 abstract: Uncertainty presents significant challenges in the reasoning about and controlling

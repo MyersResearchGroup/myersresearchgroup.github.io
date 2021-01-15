@@ -7,9 +7,9 @@ summary: ''
 authors:
 - Chris J. Myers
 tags:
-- Medical / Biotechnology
-- science / life sciences / biology
-- science / physics / general
+- '"Medical / Biotechnology"'
+- '"science / life sciences / biology"'
+- '"science / physics / general"'
 categories: []
 date: '2016-04-01'
 lastmod: 2021-01-15T17:26:01Z
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-15T17:26:01.544212Z'
+publishDate: '2021-01-15T18:31:53.852659Z'
 publication_types:
 - '5'
 abstract: An Introduction to Systems BioengineeringTakes a Clear and Systematic Engineering

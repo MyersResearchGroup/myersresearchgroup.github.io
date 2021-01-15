@@ -11,8 +11,8 @@ authors:
 - H. Zheng
 - C. Myers
 tags:
-- Search
-- stochastic logic
+- '"Search"'
+- '"stochastic logic"'
 categories: []
 date: '2019-01-01'
 lastmod: 2021-01-15T17:26:00Z
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-15T17:26:00.721992Z'
+publishDate: '2021-01-15T18:31:52.955587Z'
 publication_types:
 - '6'
 abstract: 'This book presents outstanding contributions in an exciting, new and multidisciplinary

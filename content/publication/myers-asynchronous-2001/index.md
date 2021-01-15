@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Chris J. Myers
 tags:
-- VLSI & ULSI
-- technology & engineering / electrical
+- '"VLSI & ULSI"'
+- '"technology & engineering / electrical"'
 categories: []
 date: '2001-07-01'
 lastmod: 2021-01-15T17:26:02Z
@@ -29,7 +29,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-15T17:26:02.165044Z'
+publishDate: '2021-01-15T18:31:54.508087Z'
 publication_types:
 - '5'
 abstract: 'With asynchronous circuit design becoming a powerful tool in the development

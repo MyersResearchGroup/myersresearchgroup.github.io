@@ -13,7 +13,7 @@ authors:
 - Abiezer Tejeda
 - Chris Winstead
 tags:
-- stochastic logic
+- '"stochastic logic"'
 categories: []
 date: '2010-08-01'
 lastmod: 2021-01-15T17:26:00Z
@@ -34,7 +34,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-15T17:26:00.842676Z'
+publishDate: '2021-01-15T18:31:53.096763Z'
 publication_types:
 - '6'
 abstract: Open access peer-reviewed chapter
