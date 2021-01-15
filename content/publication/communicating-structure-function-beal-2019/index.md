@@ -8,7 +8,7 @@ authors:
 - Jacob Beal
 - Tramy Nguyen
 - Thomas E. Gorochowski
-- Angel Goñi-Moreno
+- Angel GoÃ±i-Moreno
 - James Scott-Brown
 - James Alastair McLaughlin
 - Curtis Madsen
@@ -19,7 +19,7 @@ authors:
 - Sebastian Castillo Hair
 - Kevin Clancy
 - Augustin Luna
-- Nicolas Le Novère
+- Nicolas Le NovÃ¨re
 - Zach Palchick
 - Matthew Pocock
 - Herbert Sauro
@@ -29,7 +29,8 @@ authors:
 - Zach Zundel
 - Chris Myers
 - Anil Wipat
-tags: []
+tags:
+- 'Synthetic Biology'
 categories: []
 date: '2019-08-01'
 lastmod: 2020-09-27T16:54:56-03:00
