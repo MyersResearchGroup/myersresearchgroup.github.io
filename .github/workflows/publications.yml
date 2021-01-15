@@ -4,8 +4,12 @@ on:
   # Triggers the workflow on push or pull request events but only for the master branch
   push:
     branches: [ master ]
+    paths:
+      - '*.bib'
   pull_request:
     branches: [ master ]
+    paths:
+      - '*.bib'
     
 
 
@@ -24,7 +28,7 @@ jobs:
           
       - name: install hugo
         run: |
-          /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+          mkdir homebrew && curl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip 1 -C homebrew
           brew install hugo
         
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
@@ -51,7 +55,8 @@ jobs:
           
       # Runs a single command using the runners shell
       - name: Run academic import
-        run: academic import --bibtex publications.bib --overwrite #path to use
+        run: |
+          academic import --bibtex publications.bib --overwrite #path to use
           
 #       - name: Create A File
 #         # You may pin to the exact commit or the version.
