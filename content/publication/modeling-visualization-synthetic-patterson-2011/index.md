@@ -7,7 +7,7 @@ summary: ''
 authors:
 - T Patterson
 tags:
-- '"iBioSim"'
+- 'iBioSim'
 categories: []
 date: '2011-05-01'
 lastmod: 2020-09-27T16:55:28-03:00

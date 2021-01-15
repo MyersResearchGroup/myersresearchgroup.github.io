@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Curtis Madsen
 tags:
-- '"Search"'
-- '"stochastic logic"'
+- 'Search'
+- 'stochastic logic'
 categories: []
 date: '2013-08-01'
 lastmod: 2020-09-27T16:55:49-03:00

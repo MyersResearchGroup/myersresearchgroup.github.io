@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Hiroyuki Kuwahara
 tags:
-- '"genetic circuit"'
-- '"stochastic logic"'
+- 'genetic circuit'
+- 'stochastic logic'
 categories: []
 date: '2007-12-01'
 lastmod: 2020-09-27T16:55:27-03:00

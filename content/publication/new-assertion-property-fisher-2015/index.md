@@ -9,7 +9,7 @@ authors:
 - D. Kulkarni
 - C. Myers
 tags:
-- '"Search"'
+- 'Search'
 categories: []
 date: '2015-01-01'
 lastmod: 2020-09-27T16:55:31-03:00

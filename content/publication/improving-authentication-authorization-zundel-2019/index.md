@@ -7,10 +7,10 @@ summary: ''
 authors:
 - Zach Zundel
 tags:
-- '"genetic circuit"'
-- '"SBOL"'
-- '"Search"'
-- '"SynBioHub"'
+- 'genetic circuit'
+- 'SBOL'
+- 'Search'
+- 'SynBioHub'
 categories: []
 date: '2019-12-01'
 lastmod: 2020-09-27T16:55:21-03:00

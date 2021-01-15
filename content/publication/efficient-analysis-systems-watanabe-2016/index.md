@@ -9,7 +9,7 @@ authors:
 - Leandro Watanabe
 - Chris J. Myers
 tags:
-- '"genetic circuit"'
+- 'genetic circuit'
 categories: []
 date: '2016-08-01'
 lastmod: 2020-09-27T16:55:07-03:00

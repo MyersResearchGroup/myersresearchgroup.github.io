@@ -6,7 +6,7 @@ title: A Computational Workflow for the Automated Generation of Models of Geneti
 subtitle: ''
 summary: ''
 authors:
-- GÃ¶ksel Misirli
+- Göksel Misirli
 - Tramy Nguyen
 - James Alastair McLaughlin
 - Prashant Vaidyanathan
@@ -15,11 +15,11 @@ authors:
 - Chris Myers
 - Anil Wipat
 tags:
-- '"genetic circuit"'
-- '"iBioSim"'
-- '"SBOL"'
-- '"SBOLDesigner"'
-- '"SynBioHub"'
+- 'genetic circuit'
+- 'iBioSim'
+- 'SBOL'
+- 'SBOLDesigner'
+- 'SynBioHub'
 categories: []
 date: '2019-07-01'
 lastmod: 2020-09-27T16:54:59-03:00

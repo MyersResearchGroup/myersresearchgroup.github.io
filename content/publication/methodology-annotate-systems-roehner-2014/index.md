@@ -9,9 +9,9 @@ authors:
 - Nicholas Roehner
 - Chris J. Myers
 tags:
-- '"genetic circuit"'
-- '"iBioSim"'
-- '"SBOL"'
+- 'genetic circuit'
+- 'iBioSim'
+- 'SBOL'
 categories: []
 date: '2014-02-01'
 lastmod: 2020-09-27T16:55:27-03:00

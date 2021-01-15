@@ -7,9 +7,9 @@ summary: ''
 authors:
 - Chris Krieger
 tags:
-- '"ATACS"'
-- '"ATACS design tool"'
-- '"Search"'
+- 'ATACS'
+- 'ATACS design tool'
+- 'Search'
 categories: []
 date: '2002-12-01'
 lastmod: 2020-09-27T16:54:57-03:00

@@ -13,9 +13,9 @@ authors:
 - Chris J. Myers
 - Herbert M. Sauro
 tags:
-- '"genetic circuit"'
-- '"SBOL"'
-- '"Search"'
+- 'genetic circuit'
+- 'SBOL'
+- 'Search'
 categories: []
 date: '2019-07-01'
 lastmod: 2020-09-27T16:55:36-03:00

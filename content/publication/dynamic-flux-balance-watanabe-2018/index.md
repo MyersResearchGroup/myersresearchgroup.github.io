@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Leandro H. Watanabe
-- Matthias KÃ¶nig
+- Matthias König
 - Chris J. Myers
 tags: []
 categories: []

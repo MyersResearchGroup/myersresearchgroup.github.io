@@ -11,7 +11,7 @@ authors:
 - Nathan A. Barker
 - Adam P. Arkin
 tags:
-- '"genetic circuit"'
+- 'genetic circuit'
 categories: []
 date: '2006-01-01'
 lastmod: 2020-09-27T16:54:48-03:00

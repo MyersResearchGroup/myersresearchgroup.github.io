@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Hao Zheng
 tags:
-- '"ATACS"'
-- '"ATACS design tool"'
+- 'ATACS'
+- 'ATACS design tool'
 categories: []
 date: '1998-06-01'
 lastmod: 2020-09-27T16:55:45-03:00

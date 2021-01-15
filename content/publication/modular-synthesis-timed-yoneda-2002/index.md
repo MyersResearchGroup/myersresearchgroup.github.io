@@ -9,7 +9,7 @@ authors:
 - Eric Mercer
 - Chris Myers
 tags:
-- '"Search"'
+- 'Search'
 categories: []
 date: '2002-12-01'
 lastmod: 2020-09-27T16:55:29-03:00

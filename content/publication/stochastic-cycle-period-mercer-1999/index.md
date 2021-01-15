@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Eric G. Mercer
 tags:
-- '"stochastic logic"'
+- 'stochastic logic'
 categories: []
 date: '1999-05-01'
 lastmod: 2020-09-27T16:55:50-03:00

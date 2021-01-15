@@ -17,7 +17,7 @@ authors:
 - Darren J. Wilkinson
 - Michael Hucka
 tags:
-- '"stochastic logic"'
+- 'stochastic logic'
 categories: []
 date: '2020-07-01'
 lastmod: 2020-09-27T16:55:59-03:00

@@ -10,29 +10,29 @@ authors:
 - Padraig Gleeson
 - Martin Golebiewski
 - Michael Hucka
-- Nicolas Le NovÃ¨re
+- Nicolas Le Novère
 - David P. Nickerson
 - Falk Schreiber
 - Dagmar Waltemath
 tags:
-- '"bioinformatics"'
-- '"biological system modeling"'
-- '"biology computing"'
-- '"COMBINE"'
-- '"computational modeling"'
-- '"data exchange"'
-- '"DNA"'
-- '"information exchange"'
-- '"information reuse"'
-- '"interoperability"'
-- '"open systems"'
-- '"proteins"'
-- '"Proteins"'
-- '"scientific results"'
-- '"Search"'
-- '"standards"'
-- '"text analysis"'
-- '"visualization"'
+- 'bioinformatics'
+- 'biological system modeling'
+- 'biology computing'
+- 'COMBINE'
+- 'computational modeling'
+- 'data exchange'
+- 'DNA'
+- 'information exchange'
+- 'information reuse'
+- 'interoperability'
+- 'open systems'
+- 'proteins'
+- 'Proteins'
+- 'scientific results'
+- 'Search'
+- 'standards'
+- 'text analysis'
+- 'visualization'
 categories: []
 date: '2017-12-01'
 lastmod: 2020-09-27T16:54:54-03:00

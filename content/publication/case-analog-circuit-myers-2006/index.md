@@ -11,9 +11,9 @@ authors:
 - Nicholas Seegmiller
 - Scott Little
 tags:
-- '"analog circuits"'
-- '"formal verification"'
-- '"hybrid Petri nets"'
+- 'analog circuits'
+- 'formal verification'
+- 'hybrid Petri nets'
 categories: []
 date: '2006-06-01'
 lastmod: 2020-09-27T16:54:55-03:00

@@ -28,15 +28,15 @@ authors:
 - Anil Wipat
 - Herbert M. Sauro
 tags:
-- '"DNA"'
-- '"genetic circuit"'
-- '"genetic engineering"'
-- '"genetics"'
-- '"Language"'
-- '"ontologies"'
-- '"SBOL"'
-- '"software tools"'
-- '"synthetic biology"'
+- 'DNA'
+- 'genetic circuit'
+- 'genetic engineering'
+- 'genetics'
+- 'Language'
+- 'ontologies'
+- 'SBOL'
+- 'software tools'
+- 'synthetic biology'
 categories: []
 date: '2015-12-01'
 lastmod: 2020-09-27T16:55:42-03:00

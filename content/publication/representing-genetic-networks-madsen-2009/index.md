@@ -8,10 +8,10 @@ summary: ''
 authors:
 - Curtis Madsen
 tags:
-- '"ATACS"'
-- '"ATACS design tool"'
-- '"iBioSim"'
-- '"Search"'
+- 'ATACS'
+- 'ATACS design tool'
+- 'iBioSim'
+- 'Search'
 categories: []
 date: '2009-06-01'
 lastmod: 2020-09-27T16:55:38-03:00

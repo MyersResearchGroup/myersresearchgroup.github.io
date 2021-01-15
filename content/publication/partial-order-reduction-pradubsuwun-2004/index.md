@@ -9,11 +9,11 @@ authors:
 - Tomohiro Yoneda
 - Chris Myers
 tags:
-- '"input transition"'
-- '"output transition"'
-- '"partial order reduction"'
-- '"timing failure"'
-- '"trace theory"'
+- 'input transition'
+- 'output transition'
+- 'partial order reduction'
+- 'timing failure'
+- 'trace theory'
 categories: []
 date: '2004-11-01'
 lastmod: 2020-09-27T16:55:33-03:00

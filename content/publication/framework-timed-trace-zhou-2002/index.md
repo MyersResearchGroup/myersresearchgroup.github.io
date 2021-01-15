@@ -9,7 +9,7 @@ authors:
 - Tomohiro Yoneda
 - Chris Myers
 tags:
-- '"Search"'
+- 'Search'
 categories: []
 date: '2002-10-01'
 lastmod: 2020-09-27T16:55:14-03:00

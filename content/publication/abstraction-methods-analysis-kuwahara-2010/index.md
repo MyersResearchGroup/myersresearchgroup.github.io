@@ -8,7 +8,7 @@ authors:
 - Hiroyuki Kuwahara
 - Chris J. Myers
 tags:
-- '"Search"'
+- 'Search'
 categories: []
 date: '2010-01-01'
 lastmod: 2020-09-27T16:54:36-03:00

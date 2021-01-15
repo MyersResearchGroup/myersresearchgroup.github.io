@@ -14,9 +14,9 @@ authors:
 - Angel Goñi-Moreno
 - Anil Wipat
 tags:
-- '"SBOL"'
-- '"Search"'
-- '"SynBioHub"'
+- 'SBOL'
+- 'Search'
+- 'SynBioHub'
 categories: []
 date: '2018-02-01'
 lastmod: 2020-09-27T16:55:52-03:00

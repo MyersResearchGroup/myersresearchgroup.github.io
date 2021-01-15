@@ -8,7 +8,7 @@ authors:
 - Jacob Beal
 - Tramy Nguyen
 - Thomas E. Gorochowski
-- Angel GoÃ±i-Moreno
+- Angel Goñi-Moreno
 - James Scott-Brown
 - James Alastair McLaughlin
 - Curtis Madsen
@@ -19,7 +19,7 @@ authors:
 - Sebastian Castillo Hair
 - Kevin Clancy
 - Augustin Luna
-- Nicolas Le NovÃ¨re
+- Nicolas Le Novère
 - Zach Palchick
 - Matthew Pocock
 - Herbert Sauro

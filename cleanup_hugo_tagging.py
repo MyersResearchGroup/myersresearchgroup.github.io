@@ -1,6 +1,6 @@
 import os
 
-pub_path = "C:/.../publication"
+pub_path = "C:/Users/.../myersresearchgroup.github.io/content/publication"
 
 files_list = []
 
@@ -12,6 +12,7 @@ for root, directories, files in os.walk(pub_path):
 
 for file in files_list:
     with open (file) as f:
+        print(file)
         data = f.read()
         if "\ntags" in data:
             overwrite = True

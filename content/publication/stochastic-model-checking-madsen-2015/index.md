@@ -11,13 +11,13 @@ authors:
 - Chris Winstead
 - Chris Myers
 tags:
-- '"design space exploration"'
-- '"genetic circuit"'
-- '"Markov chain analysis"'
-- '"Search"'
-- '"stochastic logic"'
-- '"stochastic model checking"'
-- '"synthetic genetic circuits"'
+- 'design space exploration'
+- 'genetic circuit'
+- 'Markov chain analysis'
+- 'Search'
+- 'stochastic logic'
+- 'stochastic model checking'
+- 'synthetic genetic circuits'
 categories: []
 date: '2015-12-01'
 lastmod: 2020-09-27T16:55:51-03:00

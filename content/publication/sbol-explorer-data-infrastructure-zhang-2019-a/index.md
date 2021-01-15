@@ -7,11 +7,11 @@ summary: ''
 authors:
 - Michael Zhang
 tags:
-- '"genetic circuit"'
-- '"SBOL"'
-- '"SBOLExplorer"'
-- '"Search"'
-- '"SynBioHub"'
+- 'genetic circuit'
+- 'SBOL'
+- 'SBOLExplorer'
+- 'Search'
+- 'SynBioHub'
 categories: []
 date: '2019-05-01'
 lastmod: 2020-09-27T16:55:41-03:00

@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Curtis A. Nelson
 tags:
-- '"Search"'
+- 'Search'
 categories: []
 date: '2004-12-01'
 lastmod: 2020-09-27T16:56:00-03:00

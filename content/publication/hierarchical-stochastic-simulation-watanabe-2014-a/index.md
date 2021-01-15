@@ -7,8 +7,8 @@ summary: ''
 authors:
 - L Watanabe
 tags:
-- '"iBioSim"'
-- '"stochastic logic"'
+- 'iBioSim'
+- 'stochastic logic'
 categories: []
 date: '2014-05-01'
 lastmod: 2020-09-27T16:55:16-03:00

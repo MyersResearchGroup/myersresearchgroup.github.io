@@ -29,10 +29,10 @@ authors:
 - Herbert Sauro
 - Anil Wipat
 tags:
-- '"genetic circuit"'
-- '"programming languages"'
-- '"SBOL"'
-- '"synthetic biology"'
+- 'genetic circuit'
+- 'programming languages'
+- 'SBOL'
+- 'synthetic biology'
 categories: []
 date: '2016-12-01'
 lastmod: 2020-09-27T16:55:55-03:00

@@ -21,7 +21,7 @@ authors:
 - Maja Rennig
 - Leonardo Rios
 - Kristie Tanner
-- V̧́tor de Lorenzo
+- Víctor de Lorenzo
 - Manuel Porcar
 tags: []
 categories: []

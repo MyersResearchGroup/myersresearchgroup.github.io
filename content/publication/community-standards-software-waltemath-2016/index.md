@@ -26,15 +26,15 @@ authors:
 - Joseph Cursons
 - Tobias Czauderna
 - Arthur P. Goldberg
-- Harold F. GÃ³mez
+- Harold F. Gómez
 - Jens Hahn
 - Tuure Hameri
 - Daniel F. Hernandez Gardiol
 - Denis Kazakiewicz
 - Ilya Kiselev
 - Vincent Knight-Schrijver
-- Christian KnÃ¼pfer
-- Matthias KÃ¶nig
+- Christian Knüpfer
+- Matthias König
 - Daewon Lee
 - Audald Lloret-Villas
 - Nikita Mandrik
@@ -51,7 +51,7 @@ authors:
 - Tom Theile
 - Milenko Tokic
 - Namrata Tomar
-- Vasundra TourÃ©
+- Vasundra Touré
 - Jannis Uhlendorf
 - Thawfeek M Varusai
 - Leandro H. Watanabe
@@ -63,29 +63,29 @@ authors:
 - Anna Zhukova
 - Falk Schreiber
 tags:
-- '"biological system modeling"'
-- '"biology computing"'
-- '"cellular biophysics"'
-- '"comprehensive model"'
-- '"computational biology"'
-- '"computational modeling"'
-- '"current standard"'
-- '"cytological"'
-- '"education"'
-- '"female"'
-- '"humans"'
-- '"Male"'
-- '"Mathematical model"'
-- '"Models; Biological"'
-- '"optical wavelength conversion"'
-- '"Search"'
-- '"simulation"'
-- '"software"'
-- '"standards"'
-- '"systems biology"'
-- '"systems biology markup language"'
-- '"WC modeling standards"'
-- '"whole-cell modeling"'
+- 'biological system modeling'
+- 'biology computing'
+- 'cellular biophysics'
+- 'comprehensive model'
+- 'computational biology'
+- 'computational modeling'
+- 'current standard'
+- 'cytological'
+- 'education'
+- 'female'
+- 'humans'
+- 'Male'
+- 'Mathematical model'
+- 'Models; Biological'
+- 'optical wavelength conversion'
+- 'Search'
+- 'simulation'
+- 'software'
+- 'standards'
+- 'systems biology'
+- 'systems biology markup language'
+- 'WC modeling standards'
+- 'whole-cell modeling'
 categories: []
 date: '2016-10-01'
 lastmod: 2020-09-27T16:54:56-03:00

@@ -9,13 +9,13 @@ authors:
 - Andrew N. Fisher
 - Chris J. Myers
 tags:
-- '"clock"'
-- '"Delays"'
-- '"Educational institutions"'
-- '"generators"'
-- '"grammar"'
-- '"Integrated circuit modeling"'
-- '"LEMA AMS verification tool flow"'
+- 'clock'
+- 'Delays'
+- 'Educational institutions'
+- 'generators'
+- 'grammar'
+- 'Integrated circuit modeling'
+- 'LEMA AMS verification tool flow'
 categories: []
 date: '2013-09-01'
 lastmod: 2020-09-27T16:55:31-03:00

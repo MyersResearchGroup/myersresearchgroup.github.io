@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Nicholas Roehner
 tags:
-- '"iBioSim"'
-- '"SBOL"'
+- 'iBioSim'
+- 'SBOL'
 categories: []
 date: '2014-12-01'
 lastmod: 2020-09-27T16:56:00-03:00

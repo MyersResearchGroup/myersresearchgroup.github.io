@@ -11,11 +11,11 @@ authors:
 - Kevin Jones
 - Chris Myers
 tags:
-- '"hybrid automaton"'
-- '"Model Checker"'
-- '"rate assignment"'
-- '"safety property"'
-- '"simulation trace"'
+- 'hybrid automaton'
+- 'Model Checker'
+- 'rate assignment'
+- 'safety property'
+- 'simulation trace'
 categories: []
 date: '2007-10-01'
 lastmod: 2020-09-27T16:54:40-03:00

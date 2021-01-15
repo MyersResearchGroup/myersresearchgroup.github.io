@@ -14,7 +14,7 @@ authors:
 - Michael Hucka
 - Esther Thea Inau
 - Sarah M Keating
-- Matthias KÃ¶nig
+- Matthias König
 - Olga Krebs
 - Rahuman S Malik-Sheriff
 - David Nickerson
@@ -26,7 +26,7 @@ authors:
 - Ulrike Wittig
 - Chris J Myers
 tags:
-- '"Search"'
+- 'Search'
 categories: []
 date: '2020-06-01'
 lastmod: 2020-09-27T16:55:12-03:00

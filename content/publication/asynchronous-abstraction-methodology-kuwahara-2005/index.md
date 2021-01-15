@@ -11,7 +11,7 @@ authors:
 - Michael Samoilov
 - Adam Arkin
 tags:
-- '"genetic circuit"'
+- 'genetic circuit'
 categories: []
 date: '2005-04-01'
 lastmod: 2020-09-27T16:54:44-03:00

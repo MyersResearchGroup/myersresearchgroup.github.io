@@ -14,9 +14,9 @@ authors:
 - Zach Zundel
 - Chris J. Myers
 tags:
-- '"genetic circuit"'
-- '"SBOL"'
-- '"SBOLDesigner"'
+- 'genetic circuit'
+- 'SBOL'
+- 'SBOLDesigner'
 categories: []
 date: '2019-07-01'
 lastmod: 2020-09-27T16:55:47-03:00

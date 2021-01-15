@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Pedro Fontanarrosa
 tags:
-- '"genetic circuit"'
-- '"iBioSim"'
+- 'genetic circuit'
+- 'iBioSim'
 categories: []
 date: '2019-12-01'
 lastmod: 2020-09-27T16:54:49-03:00

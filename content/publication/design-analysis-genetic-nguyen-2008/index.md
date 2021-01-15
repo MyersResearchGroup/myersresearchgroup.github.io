@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Nam-Phuong D. Nguyen
 tags:
-- '"genetic circuit"'
+- 'genetic circuit'
 categories: []
 date: '2008-08-01'
 lastmod: 2020-09-27T16:55:00-03:00

@@ -19,14 +19,14 @@ authors:
 - Michael Zhang
 - Zach Zundel
 tags:
-- '"genetic circuit"'
-- '"Models; Biological"'
-- '"SBOL"'
-- '"software"'
-- '"standards"'
-- '"synthetic biological circuits"'
-- '"synthetic biology"'
-- '"workflow"'
+- 'genetic circuit'
+- 'Models; Biological'
+- 'SBOL'
+- 'software'
+- 'standards'
+- 'synthetic biological circuits'
+- 'synthetic biology'
+- 'workflow'
 categories: []
 date: '2017-06-01'
 lastmod: 2020-09-27T16:55:48-03:00

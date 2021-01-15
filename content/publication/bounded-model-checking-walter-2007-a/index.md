@@ -9,11 +9,11 @@ authors:
 - Scott Little
 - Chris Myers
 tags:
-- '"Boolean variable"'
-- '"bound model"'
-- '"hybrid automaton"'
-- '"Model Checker"'
-- '"symbolic model"'
+- 'Boolean variable'
+- 'bound model'
+- 'hybrid automaton'
+- 'Model Checker'
+- 'symbolic model'
 categories: []
 date: '2007-10-01'
 lastmod: 2020-09-27T16:54:53-03:00

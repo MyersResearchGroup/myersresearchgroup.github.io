@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Brandon M. Bachman
 tags:
-- '"Search"'
+- 'Search'
 categories: []
 date: '1998-12-01'
 lastmod: 2020-09-27T16:54:43-03:00

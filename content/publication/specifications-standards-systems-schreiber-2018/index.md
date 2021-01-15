@@ -18,14 +18,14 @@ authors:
 - Björn Sommer
 - Dagmar Waltemath
 tags:
-- '"animals"'
-- '"COMBINE"'
-- '"computational biology"'
-- '"documentation"'
-- '"humans"'
-- '"standards"'
-- '"synthetic biology"'
-- '"systems biology"'
+- 'animals'
+- 'COMBINE'
+- 'computational biology'
+- 'documentation'
+- 'humans'
+- 'standards'
+- 'synthetic biology'
+- 'systems biology'
 categories: []
 date: '2018-03-01'
 lastmod: 2020-09-27T16:55:46-03:00

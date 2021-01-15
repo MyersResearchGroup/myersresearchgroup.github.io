@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Chris Myers
 tags:
-- '"Search"'
-- '"stochastic logic"'
+- 'Search'
+- 'stochastic logic'
 categories: []
 date: '2010-08-01'
 lastmod: 2021-01-15T17:11:59Z

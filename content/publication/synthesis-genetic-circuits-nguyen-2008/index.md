@@ -11,7 +11,7 @@ authors:
 - Curtis Madsen
 - Chris J. Myers
 tags:
-- '"genetic circuit"'
+- 'genetic circuit'
 categories: []
 date: '2008-06-01'
 lastmod: 2020-09-27T16:55:52-03:00

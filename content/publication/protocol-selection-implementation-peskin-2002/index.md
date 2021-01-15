@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Eric Peskin
 tags:
-- '"Search"'
+- 'Search'
 categories: []
 date: '2002-08-01'
 lastmod: 2020-09-27T16:55:36-03:00

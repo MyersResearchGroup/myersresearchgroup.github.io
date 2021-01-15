@@ -12,7 +12,7 @@ authors:
 - Chris J. Myers
 - Xin Gao
 tags:
-- '"SBOL"'
+- 'SBOL'
 categories: []
 date: '2017-04-01'
 lastmod: 2020-09-27T16:55:41-03:00

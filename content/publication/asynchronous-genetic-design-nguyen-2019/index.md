@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Tramy T Nguyen
 tags:
-- '"SBOL"'
+- 'SBOL'
 categories: []
 date: '2019-12-01'
 lastmod: 2020-09-27T16:54:46-03:00

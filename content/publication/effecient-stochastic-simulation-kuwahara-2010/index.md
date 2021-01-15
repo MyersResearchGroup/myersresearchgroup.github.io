@@ -13,7 +13,7 @@ authors:
 - Abiezer Tejeda
 - Chris Winstead
 tags:
-- '"stochastic logic"'
+- 'stochastic logic'
 categories: []
 date: '2010-08-01'
 lastmod: 2020-09-27T16:55:06-03:00

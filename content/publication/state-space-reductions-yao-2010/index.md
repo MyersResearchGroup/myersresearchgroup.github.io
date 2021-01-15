@@ -9,17 +9,17 @@ authors:
 - Hao Zheng
 - Chris J. Myers
 tags:
-- '"algorithm design and analysis"'
-- '"asynchronous designs"'
-- '"compositional minimization"'
-- '"design methodology"'
-- '"explosion"'
-- '"formal verification"'
-- '"learning automata"'
-- '"scalable verification"'
-- '"state space reductions"'
-- '"state-space methods"'
-- '"system recovery"'
+- 'algorithm design and analysis'
+- 'asynchronous designs'
+- 'compositional minimization'
+- 'design methodology'
+- 'explosion'
+- 'formal verification'
+- 'learning automata'
+- 'scalable verification'
+- 'state space reductions'
+- 'state-space methods'
+- 'system recovery'
 categories: []
 date: '2010-06-01'
 lastmod: 2020-09-27T16:55:49-03:00

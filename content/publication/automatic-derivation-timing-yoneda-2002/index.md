@@ -9,10 +9,10 @@ authors:
 - Tomoya Kitai
 - Chris Myers
 tags:
-- '"failure analysis"'
-- '"timed circuits"'
-- '"timing constraints"'
-- '"trace theoretic verification"'
+- 'failure analysis'
+- 'timed circuits'
+- 'timing constraints'
+- 'trace theoretic verification'
 categories: []
 date: '2002-07-01'
 lastmod: 2020-09-27T16:54:50-03:00

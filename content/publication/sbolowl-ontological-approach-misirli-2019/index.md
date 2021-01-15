@@ -15,8 +15,8 @@ authors:
 - Phillip Lord
 - Anil Wipat
 tags:
-- '"genetic circuit"'
-- '"SBOL"'
+- 'genetic circuit'
+- 'SBOL'
 categories: []
 date: '2019-07-01'
 lastmod: 2020-09-27T16:55:41-03:00

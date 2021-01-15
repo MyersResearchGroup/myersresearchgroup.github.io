@@ -37,8 +37,8 @@ authors:
 - Herbert Sauro
 - Anil Wipat
 tags:
-- '"genetic circuit"'
-- '"SBOL"'
+- 'genetic circuit'
+- 'SBOL'
 categories: []
 date: '2019-06-01'
 lastmod: 2020-09-27T16:55:57-03:00

@@ -19,12 +19,12 @@ authors:
 - Thomas E. Gorochowski
 - Chris J. Myers
 tags:
-- '"data exchange"'
-- '"data standard"'
-- '"genetic circuit"'
-- '"Knowledge representation"'
-- '"SBOL"'
-- '"synthetic biology"'
+- 'data exchange'
+- 'data standard'
+- 'genetic circuit'
+- 'Knowledge representation'
+- 'SBOL'
+- 'synthetic biology'
 categories: []
 date: '2020-01-01'
 lastmod: 2020-09-27T16:55:57-03:00

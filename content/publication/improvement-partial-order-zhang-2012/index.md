@@ -10,19 +10,19 @@ authors:
 - Hao Zheng
 - Chris Myers
 tags:
-- '"analytical models"'
-- '"compositional model checking"'
-- '"computational modeling"'
-- '"formal verification"'
-- '"grammar"'
-- '"labeling"'
-- '"model checking"'
-- '"over-approximate local state space"'
-- '"partial order reduction"'
-- '"reachability analysis"'
-- '"state space analysis"'
-- '"state space reduction"'
-- '"synchronization"'
+- 'analytical models'
+- 'compositional model checking'
+- 'computational modeling'
+- 'formal verification'
+- 'grammar'
+- 'labeling'
+- 'model checking'
+- 'over-approximate local state space'
+- 'partial order reduction'
+- 'reachability analysis'
+- 'state space analysis'
+- 'state space reduction'
+- 'synchronization'
 categories: []
 date: '2012-08-01'
 lastmod: 2020-09-27T16:55:21-03:00

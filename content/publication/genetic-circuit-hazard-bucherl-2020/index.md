@@ -5,7 +5,7 @@ title: Genetic Circuit Hazard Analysis Using STAMINA
 subtitle: ''
 summary: ''
 authors:
-- Lukas BÃ¼cherl
+- Lukas Bücherl
 - Jeanet Mante
 - Pedro Fontanarrosa
 - Zhen Zhang
@@ -13,7 +13,7 @@ authors:
 - Riley Roberts
 - Chris J. Myers
 tags:
-- '"genetic circuit"'
+- 'genetic circuit'
 categories: []
 date: August 3rd-5th, 2020-01-01
 lastmod: 2020-09-27T16:55:15-03:00

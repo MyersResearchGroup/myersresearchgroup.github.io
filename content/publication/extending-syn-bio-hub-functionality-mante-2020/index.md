@@ -9,10 +9,10 @@ authors:
 - Zach Zundel
 - Chris Myers
 tags:
-- '"genetic circuit"'
-- '"Plugin"'
-- '"SBOL"'
-- '"SynBioHub"'
+- 'genetic circuit'
+- 'Plugin'
+- 'SBOL'
+- 'SynBioHub'
 categories: []
 date: '2020-05-01'
 lastmod: 2020-09-27T16:55:11-03:00

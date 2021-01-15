@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Robert A. Thacker
 tags:
-- '"Search"'
+- 'Search'
 categories: []
 date: '1998-06-01'
 lastmod: 2020-09-27T16:55:19-03:00

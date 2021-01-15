@@ -8,8 +8,8 @@ summary: ''
 authors:
 - Meher Samineni
 tags:
-- '"SBOL"'
-- '"Search"'
+- 'SBOL'
+- 'Search'
 categories: []
 date: '2019-05-01'
 lastmod: 2020-09-27T16:55:45-03:00
