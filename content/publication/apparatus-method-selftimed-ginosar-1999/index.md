@@ -34,9 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:41.500284Z'
+publishDate: '2021-01-15T17:11:35.052654Z'
 publication_types:
-- 8
+- '8'
 abstract: A self-timed instruction marking circuit includes a prefix handling system
   for processing instruction bytes having prefix bytes. Length decoders receive instruction
   data bytes, and perform length decoding independently of the other length decoders

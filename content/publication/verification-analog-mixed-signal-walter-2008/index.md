@@ -11,30 +11,31 @@ authors:
 - Nicholas Seegmiller
 - Tomohiro Yoneda
 tags:
-- 'Analog circuits'
-- 'Analog/mixed-signal (AMS) circuits'
-- 'analog/mixed-signal circuits'
-- 'binary decision diagrams'
-- 'binary decision diagrams (BDDs)'
-- 'Boolean functions'
-- 'circuit analysis computing'
-- 'Cities and towns'
-- 'Data structures'
-- 'formal verification'
-- 'Formal verification'
-- 'hardware description languages'
-- 'Mechanical factors'
-- 'mixed analogue-digital integrated circuits'
-- 'model checker'
-- 'Petri nets'
-- 'satisfiability modulo theories'
-- 'satisfiability modulo theory solver'
-- 'Semiconductor device noise'
-- 'Space exploration'
-- 'State-space methods'
-- 'symbolic methods'
-- 'symbolic model checking'
-- 'Time domain analysis'
+- '"analog circuits"'
+- '"analog/mixed-signal (AMS) circuits"'
+- '"analog/mixed-signal circuits"'
+- '"binary decision diagram"'
+- '"Boolean function"'
+- '"circuit analysis"'
+- '"data structure"'
+- '"formal verification"'
+- '"hardware description language"'
+- '"Mechanical factors"'
+- '"mixed analogue-digital integrated circuits"'
+- '"model checker"'
+- '"petri nets"'
+- '"Petri nets"'
+- '"satisfiability modulo theories"'
+- '"satisfiability modulo theory solver"'
+- '"semiconductor device noise"'
+- '"Semiconductor device noise"'
+- '"space exploration"'
+- '"Space exploration"'
+- '"state-space methods"'
+- '"State-space methods"'
+- '"symbolic methods"'
+- '"symbolic model checking"'
+- '"time domain analysis"'
 categories: []
 date: '2008-12-01'
 lastmod: 2020-09-27T16:56:07-03:00
@@ -55,9 +56,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:56:07.532393Z'
+publishDate: '2021-01-15T17:12:05.060706Z'
 publication_types:
-- 2
+- '2'
 abstract: This paper presents two symbolic model checking algorithms for the verification
   of analog/mixed-signal circuits. The first model checker utilizes binary decision
   diagrams while the second is a bounded model checker that uses a satisfiability

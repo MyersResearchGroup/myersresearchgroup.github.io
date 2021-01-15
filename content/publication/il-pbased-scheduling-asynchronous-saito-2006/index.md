@@ -11,16 +11,17 @@ authors:
 - Chris Myers
 - Takashi Nanya
 tags:
-- 'Asynchronous circuits'
-- 'Circuit synthesis'
-- 'Clocks'
-- 'Flow graphs'
-- 'Informatics'
-- 'Integer linear programming'
-- 'Processor scheduling'
-- 'Scheduling algorithm'
-- 'Signal synthesis'
-- 'Time factors'
+- '"asynchronous circuits"'
+- '"circuit"'
+- '"circuit synthesis"'
+- '"clock"'
+- '"Flow graphs"'
+- '"informatics"'
+- '"Integer linear programming"'
+- '"processor scheduling"'
+- '"scheduling algorithm"'
+- '"signal synthesis"'
+- '"time factors"'
 categories: []
 date: '2006-09-01'
 lastmod: 2020-09-27T16:55:18-03:00
@@ -41,9 +42,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:18.671458Z'
+publishDate: '2021-01-15T17:11:46.938094Z'
 publication_types:
-- 1
+- '1'
 abstract: In this paper, we propose a new scheduling method for asynchronous circuits
   in bundled-data implementation. The method is based on integer linear programming
   (ILP) which explores an optimum schedule under resource or time constraints. To

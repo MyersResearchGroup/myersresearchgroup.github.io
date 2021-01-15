@@ -13,11 +13,11 @@ authors:
 - Hao Zheng
 - Chris Myers
 tags:
-- 'Fault-tolerant routing'
-- 'Formal methods'
-- 'Model checking'
-- 'Network-on-chip'
-- 'Process calculus'
+- '"fault-tolerant routing"'
+- '"formal methods"'
+- '"Model checking"'
+- '"network-on-chip"'
+- '"process calculus"'
 categories: []
 date: '2016-03-01'
 lastmod: 2020-09-27T16:55:19-03:00
@@ -38,9 +38,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:19.419458Z'
+publishDate: '2021-01-15T17:11:47.190436Z'
 publication_types:
-- 2
+- '2'
 abstract: A fault-tolerant routing algorithm in Network-on-Chip (NoC) architectures
   provides adaptivity for on-chip communications. Adding fault-tolerance adaptivity
   to a routing algorithm increases its design complexity and makes it prone to deadlock

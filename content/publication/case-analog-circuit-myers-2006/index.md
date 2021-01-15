@@ -11,9 +11,9 @@ authors:
 - Nicholas Seegmiller
 - Scott Little
 tags:
-- 'Analog circuits'
-- 'formal verification'
-- 'hybrid Petri nets'
+- '"analog circuits"'
+- '"formal verification"'
+- '"hybrid Petri nets"'
 categories: []
 date: '2006-06-01'
 lastmod: 2020-09-27T16:54:55-03:00
@@ -34,9 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:55.075503Z'
+publishDate: '2021-01-15T17:11:38.839784Z'
 publication_types:
-- 2
+- '2'
 abstract: The traditional approach to validate analog circuits is to utilize extensive
   SPICE-level simulations. The main challenge of this approach is knowing when all
   important corner cases have been simulated. A new alternative is to utilize formal

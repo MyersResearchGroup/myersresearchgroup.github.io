@@ -6,7 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - T Patterson
-tags: []
+tags:
+- '"iBioSim"'
 categories: []
 date: '2011-05-01'
 lastmod: 2020-09-27T16:55:28-03:00
@@ -27,9 +28,16 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:28.718124Z'
+publishDate: '2021-01-15T17:11:50.604226Z'
 publication_types:
-- 7
-abstract: ''
+- '7'
+abstract: The iBioSim tool is being developed to facilitate the construction and simulation
+  of synthetic genetic circuits. In this project, we have created a user interface
+  that is similar to those used to construct schematic diagrams which are familiar
+  to electrical engineers. Promoters, chemical species, and biological relationships
+  can be placed visually on a schematic diagram. Another enhancement was the creation
+  of a new simulation visualization tool which allows the user to associate chemical
+  species with color schemes, opacity, and cell size. This tool allows the user to
+  see the cells behavior as if through a microscope.
 publication: ''
 ---

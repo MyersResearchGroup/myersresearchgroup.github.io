@@ -10,27 +10,23 @@ authors:
 - E. Mercer
 - C.J. Meyers
 tags:
-- '24 bit'
-- 'area critical synchronous systems'
-- 'Auditory system'
-- 'Batteries'
-- 'cellular arrays'
-- 'Cities and towns'
-- 'Clocks'
-- 'combinational element'
-- 'Costs'
-- 'Delay'
-- 'energy critical synchronous systems'
-- 'Filters'
-- 'latency'
-- 'low-power electronics'
-- 'multiplying circuits'
-- 'polynomial growth'
-- 'Routing'
-- 'Scheduling'
-- 'standard-cell self-timed multiplier'
-- 'Timing'
-- 'word sizes'
+- '"area critical synchronous systems"'
+- '"auditory system"'
+- '"clock"'
+- '"combinational"'
+- '"cost"'
+- '"delay"'
+- '"energy critical synchronous systems"'
+- '"Filters"'
+- '"latency"'
+- '"low-power electronics"'
+- '"multiplying circuits"'
+- '"polynomial growth"'
+- '"routing"'
+- '"scheduling"'
+- '"Search"'
+- '"standard-cell self-timed multiplier"'
+- '"timing"'
 categories: []
 date: '2001-03-01'
 lastmod: 2020-09-27T16:55:48-03:00
@@ -51,9 +47,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:48.034520Z'
+publishDate: '2021-01-15T17:11:58.272030Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper describes the design of a standard-cell self-timed multiplier
   for use in energy and area critical synchronous systems. The area of this multiplier
   is bounded by N rather than N/sup 2/ as seen in more traditional combinational parallel

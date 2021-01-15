@@ -7,13 +7,14 @@ summary: ''
 authors:
 - Chris J. Myers
 tags:
-- 'Genetic design automation'
-- 'Genetic part repositories'
-- 'Synthetic biology'
-- 'Synthetic Biology Open Language'
-- 'Systems Biology Markup Language'
+- '"genetic circuit"'
+- '"genetic design automation"'
+- '"genetic part repositories"'
+- '"synthetic biology"'
+- '"synthetic biology open language"'
+- '"systems biology markup language"'
 categories: []
-date: '2013-01-01'
+date: '2013-11-01'
 lastmod: 2020-09-27T16:55:34-03:00
 featured: false
 draft: false
@@ -32,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:33.793609Z'
+publishDate: '2021-01-15T17:11:53.228960Z'
 publication_types:
-- 6
+- '6'
 abstract: Crucial to the success of synthetic biology is the development of platforms
   for genetic design automation (GDA). This chapter presents the current state-of-the-art
   in GDA tools. This chapter also briefly describes the standards used for data representation

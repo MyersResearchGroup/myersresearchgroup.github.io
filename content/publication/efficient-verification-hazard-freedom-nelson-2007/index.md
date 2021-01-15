@@ -9,27 +9,27 @@ authors:
 - Chris J. Myers
 - Tomohiro Yoneda
 tags:
-- 'asynchronous circuits'
-- 'Asynchronous circuits'
-- 'Circuit analysis'
-- 'Circuit optimization'
-- 'Circuit synthesis'
-- 'current verification algorithms'
-- 'Decoding'
-- 'Explosions'
-- 'gate level timed asynchronous circuits'
-- 'hazard freedom'
-- 'Hazard-freedom'
-- 'Hazards'
-- 'Libraries'
-- 'Monte Carlo methods'
-- 'Performance gain'
-- 'response surface methodology'
-- 'technological forecasting'
-- 'technology mapping'
-- 'timed asynchronous circuits'
-- 'Timing'
-- 'verification'
+- '"asynchronous circuits"'
+- '"circuit"'
+- '"circuit analysis"'
+- '"circuit optimization"'
+- '"circuit synthesis"'
+- '"current verification algorithms"'
+- '"decoding"'
+- '"explosion"'
+- '"gate level timed asynchronous circuits"'
+- '"hazard freedom"'
+- '"hazard-freedom"'
+- '"hazards"'
+- '"libraries"'
+- '"Monte Carlo methods"'
+- '"performance gain"'
+- '"response surface methodology"'
+- '"technological forecasting"'
+- '"technology mapping"'
+- '"timed asynchronous circuits"'
+- '"timing"'
+- '"verification"'
 categories: []
 date: '2007-03-01'
 lastmod: 2020-09-27T16:55:10-03:00
@@ -50,9 +50,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:09.952777Z'
+publishDate: '2021-01-15T17:11:43.922963Z'
 publication_types:
-- 2
+- '2'
 abstract: This paper presents an efficient method for verifying hazard-freedom in
   gate-level timed asynchronous circuits. Timed circuits are a class of asynchronous
   circuits that are optimized using explicit timing information. In asynchronous circuits,

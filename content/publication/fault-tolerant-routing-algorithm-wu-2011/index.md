@@ -9,7 +9,8 @@ authors:
 - J. Wu
 - Z. Zhang
 - Chris J. Myers
-tags: []
+tags:
+- '"Search"'
 categories: []
 date: '2011-11-01'
 lastmod: 2020-09-27T16:55:12-03:00
@@ -30,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:12.241678Z'
+publishDate: '2021-01-15T17:11:44.728621Z'
 publication_types:
-- 1
+- '1'
 abstract: Adaptive routing is a sensible approach to enhance fault-tolerance in Network-on-Chip
   (NoC) architectures, but can cause deadlock if implemented improperly. Glass and
   Ni proposed an adaptive routing algorithm based on a turn model which is proven

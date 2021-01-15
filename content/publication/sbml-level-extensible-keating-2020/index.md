@@ -60,11 +60,12 @@ authors:
 - Michael Hucka
 - SBML Level 3 Community members
 tags:
-- 'computational modeling'
-- 'file format'
-- 'interoperability'
-- 'reproducibility'
-- 'systems biology'
+- '"computational modeling"'
+- '"file format"'
+- '"interoperability"'
+- '"reproducibility"'
+- '"Search"'
+- '"systems biology"'
 categories: []
 date: '2020-08-01'
 lastmod: 2020-09-27T16:55:39-03:00
@@ -85,24 +86,24 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:38.899813Z'
+publishDate: '2021-01-15T17:11:54.906408Z'
 publication_types:
-- 2
-abstract: Abstract Systems biology has experienced dramatic growth in the number,
-  size, and complexity of computational models. To reproduce simulation results and
-  reuse models, researchers must exchange unambiguous model descriptions. We review
-  the latest edition of the Systems Biology Markup Language (SBML), a format designed
-  for this purpose. A community of modelers and software authors developed SBML Level
-  3 over the past decade. Its modular form consists of a core suited to representing
-  reaction-based models and packages that extend the core with features suited to
-  other model types including constraint-based models, reaction-diffusion models,
-  logical network models, and rule-based models. The format leverages two decades
-  of SBML and a rich software ecosystem that transformed how systems biologists build
-  and interact with models. More recently, the rise of multiscale models of whole
-  cells and organs, and new data sources such as single-cell measurements and live
-  imaging, has precipitated new ways of integrating data with models. We provide our
-  perspectives on the challenges presented by these developments and how SBML Level
-  3 provides the foundation needed to support this evolution.
+- '2'
+abstract: Systems biology has experienced dramatic growth in the number, size, and
+  complexity of computational models. To reproduce simulation results and reuse models,
+  researchers must exchange unambiguous model descriptions. We review the latest edition
+  of the Systems Biology Markup Language (SBML), a format designed for this purpose.
+  A community of modelers and software authors developed SBML Level 3 over the past
+  decade. Its modular form consists of a core suited to representing reaction-based
+  models and packages that extend the core with features suited to other model types
+  including constraint-based models, reaction-diffusion models, logical network models,
+  and rule-based models. The format leverages two decades of SBML and a rich software
+  ecosystem that transformed how systems biologists build and interact with models.
+  More recently, the rise of multiscale models of whole cells and organs, and new
+  data sources such as single-cell measurements and live imaging, has precipitated
+  new ways of integrating data with models. We provide our perspectives on the challenges
+  presented by these developments and how SBML Level 3 provides the foundation needed
+  to support this evolution.
 publication: '*Molecular Systems Biology*'
 doi: 10.15252/msb.20199110
 ---

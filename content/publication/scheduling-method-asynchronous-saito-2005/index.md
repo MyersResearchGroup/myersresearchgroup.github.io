@@ -32,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:42.984011Z'
+publishDate: '2021-01-15T17:11:56.458838Z'
 publication_types:
-- 1
+- '1'
 abstract: A Scheduling Method for Asynchronous Bundled-Data Implementations Based
   on The Completion of Data Operations
 publication: '*2005 Int. Tech. Conf. on Circuits/Systems, Computers, and Communication*'

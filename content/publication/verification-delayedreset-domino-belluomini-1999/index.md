@@ -9,32 +9,30 @@ authors:
 - C.J. Myers
 - H.P. Hofstee
 tags:
-- 'Application software'
-- 'asynchronous circuits'
-- 'Asynchronous circuits'
-- 'ATACS'
-- 'Circuit testing'
-- 'Cities and towns'
-- 'Computer science'
-- 'Delay'
-- 'delayed-reset domino circuits'
-- 'Design automation'
-- 'gigahertz unit Test Site'
-- 'guTS'
-- 'integrated circuit design'
-- 'Laboratories'
-- 'logic CAD'
-- 'partially ordered sets'
-- 'Performance analysis'
-- 'self-resetting'
-- 'state-space explosion problem'
-- 'state-space methods'
-- '℡ structure'
-- 'timed event/level structures'
-- 'timing'
-- 'Timing'
-- 'timing analysis tool'
-- 'timing properties'
+- '"application software"'
+- '"asynchronous circuits"'
+- '"ATACS"'
+- '"ATACS design tool"'
+- '"circuit"'
+- '"circuit testing"'
+- '"delay"'
+- '"delayed-reset domino circuits"'
+- '"Design automation"'
+- '"guTS"'
+- '"integrated circuit design"'
+- '"laboratories"'
+- '"logic CAD"'
+- '"partially ordered sets"'
+- '"performance analysis"'
+- '"Search"'
+- '"self-resetting"'
+- '"state-space explosion problem"'
+- '"state-space methods"'
+- '"TEL structures"'
+- '"timed event/level structures"'
+- '"timing"'
+- '"timing analysis tool"'
+- '"timing properties"'
 categories: []
 date: '1999-04-01'
 lastmod: 2020-09-27T16:56:08-03:00
@@ -55,9 +53,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:56:07.988168Z'
+publishDate: '2021-01-15T17:12:05.189901Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper discusses the application of the timing analysis tool ATACS to
   the high performance, self-resetting and delayed-reset domino circuits being designed
   at IBM's Austin Research Laboratory. The tool, which was originally developed to

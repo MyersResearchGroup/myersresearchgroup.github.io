@@ -32,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:40.144162Z'
+publishDate: '2021-01-15T17:11:34.540738Z'
 publication_types:
-- 2
+- '2'
 abstract: Verification of analog/mixed-signal (AMS) circuits is complicated by the
   difficulty of obtaining circuit models at suitable levels of abstraction. We propose
   a method to automatically generate abstract models suitable for formal verification

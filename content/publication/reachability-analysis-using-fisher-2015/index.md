@@ -9,12 +9,11 @@ authors:
 - Chris J. Myers
 - Peng Li
 tags:
-- 'Difference bound matrices'
-- 'LPNs'
-- 'Range of rates'
-- 'Zones'
+- '"Difference bound matrices"'
+- '"LPNs"'
+- '"range of rates"'
 categories: []
-date: '2015-01-01'
+date: '2015-04-01'
 lastmod: 2020-09-27T16:55:38-03:00
 featured: false
 draft: false
@@ -33,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:37.738898Z'
+publishDate: '2021-01-15T17:11:54.536586Z'
 publication_types:
-- 1
+- '1'
 abstract: General hybrid systems can be difficult to verify due to their generality.
   To reduce the complexity, one often specializes to hybrid systems where the complexity
   is more manageable. If one reduces the modeling formalism to ones where the continuous

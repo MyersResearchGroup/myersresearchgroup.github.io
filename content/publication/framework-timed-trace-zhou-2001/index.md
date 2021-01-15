@@ -8,7 +8,8 @@ authors:
 - Bin Zhou
 - Tomohiro Yoneda
 - Chris Myers
-tags: []
+tags:
+- '"Search"'
 categories: []
 date: '2001-11-01'
 lastmod: 2020-09-27T16:55:13-03:00
@@ -29,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:13.388582Z'
+publishDate: '2021-01-15T17:11:45.122427Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper develops a framework to support trace theoretic verification
   of timed circuits and systems. A theoretical foundation for classifying timed traces
   as either successes or failures is developed. The concept of the semimirror is introduced

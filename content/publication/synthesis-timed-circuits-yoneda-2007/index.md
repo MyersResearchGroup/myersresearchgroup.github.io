@@ -8,34 +8,32 @@ authors:
 - Tomohiro Yoneda
 - Chris J. Myers
 tags:
-- 'abstraction'
-- 'Abstraction'
-- 'asynchronous circuits'
-- 'Asynchronous circuits'
-- 'circuit implementation'
-- 'Circuit synthesis'
-- 'cost reduction'
-- 'Costs'
-- 'decomposition'
-- 'decomposition-based method'
-- 'graph theory'
-- 'High level languages'
-- 'Informatics'
-- 'Logic circuits'
-- 'logic design'
-- 'Nii-Utah Timed Asynchronous circuit Synthesis system'
-- 'Optimization methods'
-- 'Signal analysis'
-- 'Signal synthesis'
-- 'state coding'
-- 'state-space methods'
-- 'State-space methods'
-- 'synthesis'
-- 'timed circuit synthesis'
-- 'timed circuits'
-- 'timed signal transition graph'
-- 'timed signal transition graphs (STGs)'
-- 'trigger signals'
+- '"abstraction"'
+- '"asynchronous circuits"'
+- '"circuit"'
+- '"circuit synthesis"'
+- '"cost"'
+- '"cost reduction"'
+- '"decomposition"'
+- '"decomposition-based method"'
+- '"graph theory"'
+- '"high level languages"'
+- '"informatics"'
+- '"logic circuits"'
+- '"logic design"'
+- '"nii-Utah timed asynchronous circuit synthesis system"'
+- '"optimization"'
+- '"Search"'
+- '"signal analysis"'
+- '"signal synthesis"'
+- '"state coding"'
+- '"state-space methods"'
+- '"synthesis"'
+- '"timed circuit synthesis"'
+- '"timed circuits"'
+- '"timed signal transition graph"'
+- '"timed signal transition graphs (STGs)"'
+- '"trigger signals"'
 categories: []
 date: '2007-07-01'
 lastmod: 2020-09-27T16:55:54-03:00
@@ -56,9 +54,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:54.162943Z'
+publishDate: '2021-01-15T17:12:00.628004Z'
 publication_types:
-- 2
+- '2'
 abstract: This paper presents a decomposition-based method for timed circuit design
   that is capable of significantly reducing the cost of synthesis. In particular,
   this method synthesizes each output individually. It begins by contracting the timed

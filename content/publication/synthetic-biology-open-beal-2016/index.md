@@ -29,8 +29,10 @@ authors:
 - Herbert Sauro
 - Anil Wipat
 tags:
-- 'Programming Languages'
-- 'Synthetic Biology'
+- '"genetic circuit"'
+- '"programming languages"'
+- '"SBOL"'
+- '"synthetic biology"'
 categories: []
 date: '2016-12-01'
 lastmod: 2020-09-27T16:55:55-03:00
@@ -51,9 +53,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:55.520315Z'
+publishDate: '2021-01-15T17:12:01.188669Z'
 publication_types:
-- 2
+- '2'
 abstract: Synthetic biology builds upon the techniques and successes of genetics,
   molecular biology, and metabolic engineering by applying engineering principles
   to the design of biological systems. The field still faces substantial challenges,

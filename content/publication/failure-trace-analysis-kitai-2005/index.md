@@ -8,7 +8,8 @@ authors:
 - Tomoya Kitai
 - Tomohiro Yoneda
 - Chris Myers
-tags: []
+tags:
+- '"Search"'
 categories: []
 date: '2005-11-01'
 lastmod: 2020-09-27T16:55:11-03:00
@@ -29,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:11.552487Z'
+publishDate: '2021-01-15T17:11:44.452523Z'
 publication_types:
-- 2
+- '2'
 abstract: This work proposes a technique to automatically obtain timing constraints
   for a given timed circuit to operate correctly. A designated set of delay parameters
   of a circuit are first set to sufficiently large bounds, and verification runs followed

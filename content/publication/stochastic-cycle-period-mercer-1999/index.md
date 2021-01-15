@@ -6,7 +6,8 @@ subtitle: ''
 summary: ''
 authors:
 - Eric G. Mercer
-tags: []
+tags:
+- '"stochastic logic"'
 categories: []
 date: '1999-05-01'
 lastmod: 2020-09-27T16:55:50-03:00
@@ -27,9 +28,20 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:49.850507Z'
+publishDate: '2021-01-15T17:11:59.050417Z'
 publication_types:
-- 7
-abstract: ''
+- '7'
+abstract: This thesis presents a method of deriving a performance metric for timed
+  asynchronous circuits called a stochastic cycle period, which uses analytical techniques
+  combined with simulation to capture the stochastic profile of the system. The stochastic
+  cycle period is constructed by finding transition and steady-state probabilities
+  in a reachability graph of the timed circuit. The transition and steady-state probabilities
+  are used to obtain trigger probabilities in the circuit implementation. The trigger
+  probabilities are employed in a timing simulation to construct the stochastic cycle
+  period of the timed specification. Since this performance metric is a stochastic
+  profile of the circuit behavior with regards to its individual components, synthesis
+  optimization efforts can be focused on areas that significantly improve the expected
+  cost of a cycle in the system. This thesis presents some case studies where the
+  metric is used to evaluate and improve designs. The studies show the potentia...
 publication: ''
 ---

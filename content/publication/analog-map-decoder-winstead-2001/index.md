@@ -10,29 +10,28 @@ authors:
 - Woo Jin Kim
 - S. Little
 tags:
-- '(8; 4) Hamming code'
-- '0 to 20 Mbit/s'
-- 'all-MOS analog implementation'
-- 'Analog computers'
-- 'analog MAP decoder'
-- 'analogue processing circuits'
-- 'BiCMOS integrated circuits'
-- 'Bipolar transistors'
-- 'Circuit testing'
-- 'CMOS analogue integrated circuits'
-- 'decoding'
-- 'Decoding'
-- 'Fabrication'
-- 'Hamming codes'
-- 'Maximum a posteriori estimation'
-- 'subthreshold CMOS'
-- 'subthreshold CMOS devices'
-- 'tail-biting trellis decoder'
-- 'Threshold voltage'
-- 'Turbo codes'
-- 'Very large scale integration'
-- 'VLSI'
-- 'VLSI test chip'
+- '"(8;4) Hamming code"'
+- '"all-MOS analog implementation"'
+- '"analog computers"'
+- '"analog MAP decoder"'
+- '"analogue processing circuits"'
+- '"bipolar transistor"'
+- '"circuit"'
+- '"circuit testing"'
+- '"CMOS"'
+- '"decoding"'
+- '"Fabrication"'
+- '"Hamming code"'
+- '"Maximum a posteriori estimation"'
+- '"Search"'
+- '"subthreshold CMOS"'
+- '"subthreshold CMOS devices"'
+- '"tail-biting trellis decoder"'
+- '"threshold voltage"'
+- '"turbo codes"'
+- '"very large scale integration"'
+- '"VLSI"'
+- '"VLSI test chip"'
 categories: []
 date: '2001-03-01'
 lastmod: 2020-09-27T16:54:38-03:00
@@ -53,9 +52,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:38.625129Z'
+publishDate: '2021-01-15T17:11:34.151286Z'
 publication_types:
-- 1
+- '1'
 abstract: An all-MOS analog implementation of a MAP decoder is presented for the (8,
   4) extended Hamming code. This paper describes the design and analysis of a tail-biting
   trellis decoder implementation using subthreshold CMOS devices. A VLSI test chip

@@ -9,18 +9,17 @@ authors:
 - Hao Zheng
 - Chris J. Myers
 tags:
-- 'Algorithm design and analysis'
-- 'asynchronous designs'
-- 'compositional minimization'
-- 'Concrete'
-- 'Design methodology'
-- 'Explosions'
-- 'formal verification'
-- 'Learning automata'
-- 'scalable verification'
-- 'state space reductions'
-- 'State-space methods'
-- 'System recovery'
+- '"algorithm design and analysis"'
+- '"asynchronous designs"'
+- '"compositional minimization"'
+- '"design methodology"'
+- '"explosion"'
+- '"formal verification"'
+- '"learning automata"'
+- '"scalable verification"'
+- '"state space reductions"'
+- '"state-space methods"'
+- '"system recovery"'
 categories: []
 date: '2010-06-01'
 lastmod: 2020-09-27T16:55:49-03:00
@@ -41,9 +40,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:48.715690Z'
+publishDate: '2021-01-15T17:11:58.539190Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper presents several state space reductions for verifying non-trivial
   asynchronous designs with a compositional minimization approach. These reductions
   result in a reduced model that contains the exact set of observably equivalent behavior.

@@ -11,7 +11,8 @@ authors:
 - Raik Grünberg
 - Chris J. Myers
 - Xin Gao
-tags: []
+tags:
+- '"SBOL"'
 categories: []
 date: '2017-04-01'
 lastmod: 2020-09-27T16:55:41-03:00
@@ -32,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:41.379527Z'
+publishDate: '2021-01-15T17:11:55.804100Z'
 publication_types:
-- 2
+- '2'
 abstract: The Synthetic Biology Open Language (SBOL) is a community-driven open language
   to promote standardization in synthetic biology. To support the use of SBOL in metabolic
   engineering, we developed SBOLme, the first open-access repository of SBOL 2-compliant

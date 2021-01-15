@@ -12,7 +12,8 @@ authors:
 - T. Yoneda
 - C. Myers
 - T. Nanya
-tags: []
+tags:
+- '"Search"'
 categories: []
 date: '2007-12-01'
 lastmod: 2020-09-27T16:55:44-03:00
@@ -33,9 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:43.766954Z'
+publishDate: '2021-01-15T17:11:56.727347Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*IEICE Transactions on Fundamentals of Electronics, Communications and
   Computer Sciences*'

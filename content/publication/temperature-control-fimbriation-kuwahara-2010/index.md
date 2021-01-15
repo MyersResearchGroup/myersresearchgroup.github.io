@@ -10,14 +10,13 @@ authors:
 - Chris J. Myers
 - Michael S. Samoilov
 tags:
-- 'Bacterial pathogens'
-- 'Biochemical simulations'
-- 'Electrical circuits'
-- 'Logic circuits'
-- 'Pili and fimbriae'
-- 'Simulation and modeling'
-- 'Synthetic genetic networks'
-- 'Virulence factors'
+- '"electrical circuit"'
+- '"genetic circuit"'
+- '"logic circuits"'
+- '"simulation and modeling"'
+- '"stochastic logic"'
+- '"synthetic genetic networks"'
+- '"virulence factors"'
 categories: []
 date: '2010-03-01'
 lastmod: 2020-09-27T16:56:01-03:00
@@ -38,9 +37,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:56:01.002674Z'
+publishDate: '2021-01-15T17:12:03.220165Z'
 publication_types:
-- 2
+- '2'
 abstract: Uropathogenic Escherichia coli (UPEC) represent the predominant cause of
   urinary tract infections (UTIs). A key UPEC molecular virulence mechanism is type
   1 fimbriae, whose expression is controlled by the orientation of an invertible chromosomal

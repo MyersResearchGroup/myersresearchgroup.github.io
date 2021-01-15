@@ -11,34 +11,29 @@ authors:
 - Chris J. Myers
 - Tomohiro Yoneda
 tags:
-- 'Analog circuits'
-- 'analog/mixed-signal circuits'
-- 'binary decision diagram'
-- 'binary decision diagrams'
-- 'Binary decision diagrams'
-- 'Boolean based symbolic model checking algorithm'
-- 'Boolean function'
-- 'Boolean functions'
-- 'Boolean signals'
-- 'Boolean variables'
-- 'Circuit simulation'
-- 'Cities and towns'
-- 'Formal verification'
-- 'hardware description language'
-- 'hardware description languages'
-- 'integrated circuit modelling'
-- 'labeled hybrid Petri nets'
-- 'Logic'
-- 'logic design'
-- 'mixed analogue-digital integrated circuits'
-- 'Oscillators'
-- 'Petri nets'
-- 'Real time systems'
-- 'State-space methods'
-- 'temporal logic'
-- 'temporal logic formulas'
-- 'timed CTL'
-- 'VHDL-AMS description'
+- '"analog circuits"'
+- '"analog/mixed-signal circuits"'
+- '"binary decision diagram"'
+- '"Boolean function"'
+- '"Boolean variable"'
+- '"circuit"'
+- '"circuit simulation"'
+- '"formal verification"'
+- '"hardware description language"'
+- '"integrated circuit modeling"'
+- '"labeled hybrid Petri net model"'
+- '"logic"'
+- '"logic design"'
+- '"mixed analogue-digital integrated circuits"'
+- '"oscillators"'
+- '"petri nets"'
+- '"Petri nets"'
+- '"real time systems"'
+- '"state-space methods"'
+- '"State-space methods"'
+- '"temporal logic"'
+- '"timed CTL"'
+- '"VHDL-AMS description"'
 categories: []
 date: '2007-01-01'
 lastmod: 2020-09-27T16:55:51-03:00
@@ -59,9 +54,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:51.186904Z'
+publishDate: '2021-01-15T17:11:59.567453Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper presents a Boolean based symbolic model checking algorithm for
   the verification of analog/mixed-signal (AMS) circuits. The systems are modeled
   in VHDL-AMS, a hardware description language for AMS circuits. The VHDL-AMS description

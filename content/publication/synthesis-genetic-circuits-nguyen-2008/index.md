@@ -10,7 +10,8 @@ authors:
 - Hiroyuki Kuwahara
 - Curtis Madsen
 - Chris J. Myers
-tags: []
+tags:
+- '"genetic circuit"'
 categories: []
 date: '2008-06-01'
 lastmod: 2020-09-27T16:55:52-03:00
@@ -31,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:52.499393Z'
+publishDate: '2021-01-15T17:11:59.974539Z'
 publication_types:
-- 1
+- '1'
 abstract: EDA tools have facilitated the design of ever more complex integrated circuits
   each year. Synthetic biology would also benefit from the development of genetic
   design automation (GDA) tools. Existing GDA tools require biologists to design genetic

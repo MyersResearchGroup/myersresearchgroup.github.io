@@ -10,8 +10,10 @@ authors:
 - Anil Wipat
 - Chris J. Myers
 tags:
-- SynBioHub
-- SBOLDesigner
+- '"genetic circuit"'
+- '"SBOL"'
+- '"SBOLDesigner"'
+- '"SynBioHub"'
 categories: []
 date: '2017-07-01'
 lastmod: 2020-09-27T16:55:40-03:00
@@ -32,9 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:39.975310Z'
+publishDate: '2021-01-15T17:11:55.295699Z'
 publication_types:
-- 2
+- '2'
 abstract: As the Synthetic Biology Open Language (SBOL) data and visual standards
   gain acceptance for describing genetic designs in a detailed and reproducible way,
   there is an increasing need for an intuitive sequence editor tool that biologists

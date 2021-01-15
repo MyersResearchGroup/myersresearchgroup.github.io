@@ -9,27 +9,26 @@ authors:
 - C.J. Myers
 - T. Yoneda
 tags:
-- 'asynchronous circuits'
-- 'Asynchronous circuits'
-- 'Circuit synthesis'
-- 'circuit testing'
-- 'Cities and towns'
-- 'Design optimization'
-- 'Explosions'
-- 'formal verification'
-- 'hazard freedom verification'
-- 'Hazards'
-- 'Libraries'
-- 'optimization'
-- 'Permission'
-- 'Petri nets'
-- 'Process design'
-- 'time petri nets'
-- 'timed asynchronous circuits design'
-- 'Timing'
-- 'timing circuits'
-- 'timing verification tools'
-- 'verification algorithms'
+- '"asynchronous circuits"'
+- '"circuit"'
+- '"circuit synthesis"'
+- '"circuit testing"'
+- '"design optimization"'
+- '"explosion"'
+- '"formal verification"'
+- '"hazard freedom verification"'
+- '"hazards"'
+- '"libraries"'
+- '"optimization"'
+- '"permission"'
+- '"petri nets"'
+- '"process design"'
+- '"time petri nets"'
+- '"timed asynchronous circuits design"'
+- '"timing"'
+- '"timing circuits"'
+- '"timing verification tools"'
+- '"verification algorithms"'
 categories: []
 date: '2003-11-01'
 lastmod: 2020-09-27T16:55:09-03:00
@@ -50,9 +49,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:09.636644Z'
+publishDate: '2021-01-15T17:11:43.794451Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper presents an efficient method for verifying hazard freedom in
   timed asynchronous circuits. Timed circuits are a class of asynchronous circuits
   that utilize explicit timing information for optimization throughout the entire

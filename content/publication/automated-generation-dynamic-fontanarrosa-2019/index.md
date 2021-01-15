@@ -6,7 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - Pedro Fontanarrosa
-tags: []
+tags:
+- '"genetic circuit"'
+- '"iBioSim"'
 categories: []
 date: '2019-12-01'
 lastmod: 2020-09-27T16:54:49-03:00
@@ -27,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:48.639199Z'
+publishDate: '2021-01-15T17:11:36.984329Z'
 publication_types:
-- 7
+- '7'
 abstract: Synthetic biology is an engineering discipline in which biological  components
   are assembled to form devices with user-defined functions. As in any engineering
   discipline, modeling is a big part of the design process, since it helps to predict,

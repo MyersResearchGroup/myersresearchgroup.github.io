@@ -30,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:56:09.656762Z'
+publishDate: '2021-01-15T17:12:05.324374Z'
 publication_types:
-- 1
+- '1'
 abstract: The emergence of digitally-intensive analog circuits introduces new challenges
   to formal verification due to increased digital design content, and non-ideal digital
   effects such as finite resolution, round-off error and overflow. We propose a machine

@@ -7,7 +7,8 @@ summary: ''
 authors:
 - E. Brunvand
 - C. Myers
-tags: []
+tags:
+- '"Search"'
 categories: []
 date: '2001-03-01'
 lastmod: 2020-09-27T16:54:35-03:00
@@ -28,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:35.431865Z'
+publishDate: '2021-01-15T17:11:29.841282Z'
 publication_types:
-- 5
+- '5'
 abstract: ''
 publication: '*IEEE Computer Society Press*'
 ---

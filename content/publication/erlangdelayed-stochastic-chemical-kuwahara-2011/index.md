@@ -8,7 +8,8 @@ summary: ''
 authors:
 - Hiroyuki Kuwahara
 - Chris Myers
-tags: []
+tags:
+- '"stochastic logic"'
 categories: []
 date: '2011-08-01'
 lastmod: 2020-09-27T16:55:11-03:00
@@ -29,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:10.971056Z'
+publishDate: '2021-01-15T17:11:44.195044Z'
 publication_types:
-- 1
+- '1'
 abstract: Stochastic chemical kinetics (SCK) has become an important formalism for
   modeling and analysis of complex biological systems as it can capture the discreteness
   and the randomness of underlying biochemical reactions. One of the assumptions made

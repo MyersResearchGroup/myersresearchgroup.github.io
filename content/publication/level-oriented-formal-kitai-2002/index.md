@@ -12,29 +12,26 @@ authors:
 - E. Mercer
 - C. Myers
 tags:
-- 'Algorithm design and analysis'
-- 'analysis method'
-- 'asynchronous circuit verification'
-- 'asynchronous circuits'
-- 'Asynchronous circuits'
-- 'Automata'
-- 'circuit analysis computing'
-- 'correctness'
-- 'data path circuits'
-- 'Encoding'
-- 'Explosions'
-- 'formal verification'
-- 'Formal verification'
-- 'high readability'
-- 'Informatics'
-- 'level oriented formal model'
-- 'partial order reduction algorithm'
-- 'Petri nets'
-- 'Signal design'
-- 'Signal processing'
-- 'state explosion problem'
-- 'state generation'
-- 'time Petri nets'
+- '"algorithm design and analysis"'
+- '"analysis method"'
+- '"asynchronous circuit verification"'
+- '"asynchronous circuits"'
+- '"automata"'
+- '"circuit analysis"'
+- '"correctness"'
+- '"data path circuits"'
+- '"Encoding"'
+- '"explosion"'
+- '"formal verification"'
+- '"informatics"'
+- '"level oriented formal model"'
+- '"partial order reduction"'
+- '"petri nets"'
+- '"signal design"'
+- '"signal processing"'
+- '"state explosion problem"'
+- '"state generation"'
+- '"time petri nets"'
 categories: []
 date: '2002-12-01'
 lastmod: 2020-09-27T16:55:25-03:00
@@ -55,9 +52,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:25.582660Z'
+publishDate: '2021-01-15T17:11:49.398692Z'
 publication_types:
-- 1
+- '1'
 abstract: Using a level-oriented model for verification of asynchronous circuits helps
   users to easily construct formal models with high readability or to naturally model
   datapath circuits. On the other hand, in order to use such a model on large circuits,

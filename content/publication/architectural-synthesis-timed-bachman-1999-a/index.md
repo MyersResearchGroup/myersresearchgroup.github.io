@@ -9,34 +9,30 @@ authors:
 - H. Zheng
 - C.J. Myers
 tags:
-- 'architectural synthesis'
-- 'asynchronous circuits'
-- 'asynchronous resources'
-- 'bounded delay information'
-- 'Circuits'
-- 'data constraints'
-- 'data flow graph size'
-- 'data flow graphs'
-- 'Delay'
-- 'delay circuits'
-- 'Flow graphs'
-- 'high level synthesis'
-- 'High level synthesis'
-- 'high-level synthesis benchmark circuits'
-- 'implicit schedules'
-- 'Information analysis'
-- 'Job shop scheduling'
-- 'pruning techniques'
-- 'registers'
-- 'Registers'
-- 'resource constraints'
-- 'results quality'
-- 'run-time'
-- 'Runtime'
-- 'scheduling'
-- 'supplementary constraints'
-- 'timed asynchronous systems'
-- 'variable delays'
+- '"architectural synthesis"'
+- '"asynchronous circuits"'
+- '"asynchronous resources"'
+- '"circuit"'
+- '"data constraints"'
+- '"data flow graph size"'
+- '"data flow graphs"'
+- '"delay"'
+- '"delay circuits"'
+- '"Flow graphs"'
+- '"high level synthesis"'
+- '"high-level synthesis benchmark circuits"'
+- '"implicit schedules"'
+- '"information analysis"'
+- '"Job shop scheduling"'
+- '"pruning techniques"'
+- '"registers"'
+- '"resource constraints"'
+- '"results quality"'
+- '"runtime"'
+- '"scheduling"'
+- '"supplementary constraints"'
+- '"timed asynchronous systems"'
+- '"variable delays"'
 categories: []
 date: '1999-10-01'
 lastmod: 2020-09-27T16:54:44-03:00
@@ -57,9 +53,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:44.090359Z'
+publishDate: '2021-01-15T17:11:35.718634Z'
 publication_types:
-- 1
+- '1'
 abstract: Describes a new method for the architectural synthesis of timed asynchronous
   systems. Due to the variable delays associated with asynchronous resources, implicit
   schedules are created by the addition of supplementary constraints between resources.

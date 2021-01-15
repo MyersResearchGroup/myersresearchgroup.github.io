@@ -7,7 +7,10 @@ summary: ''
 authors:
 - Nicholas Roehner
 - Chris J. Myers
-tags: []
+tags:
+- '"genetic circuit"'
+- '"iBioSim"'
+- '"Search"'
 categories: []
 date: '2014-08-01'
 lastmod: 2020-09-27T16:55:04-03:00
@@ -28,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:04.222097Z'
+publishDate: '2021-01-15T17:11:41.944331Z'
 publication_types:
-- 2
+- '2'
 abstract: As engineering foundations such as standards and abstraction begin to mature
   within synthetic biology, it is vital that genetic design automation (GDA) tools
   be developed to enable synthetic biologists to automatically select standardized

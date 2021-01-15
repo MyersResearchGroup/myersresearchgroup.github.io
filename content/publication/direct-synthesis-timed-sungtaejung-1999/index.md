@@ -8,30 +8,29 @@ authors:
 - Sung Tae Jung
 - C.J. Myers
 tags:
-- 'Algorithm design and analysis'
-- 'asynchronous circuits'
-- 'Asynchronous circuits'
-- 'Circuit synthesis'
-- 'Concurrent computing'
-- 'deterministic graph specification'
-- 'Explosions'
-- 'graph theory'
-- 'hazard-free implementation'
-- 'Hazards'
-- 'Heuristic algorithms'
-- 'heuristic timing analysis algorithm'
-- 'high level synthesis'
-- 'high-level synthesis'
-- 'precedence graphs'
-- 'Signal analysis'
-- 'Signal synthesis'
-- 'state explosion problem'
-- 'timed asynchronous circuit synthesis'
-- 'timed causality'
-- 'timed concurrency'
-- 'timing'
-- 'Timing'
-- 'timing constraints'
+- '"algorithm design and analysis"'
+- '"asynchronous circuits"'
+- '"circuit"'
+- '"circuit synthesis"'
+- '"concurrency"'
+- '"deterministic graph specification"'
+- '"explosion"'
+- '"graph theory"'
+- '"hazard-free implementation"'
+- '"hazards"'
+- '"heuristic algorithms"'
+- '"heuristic timing analysis algorithm"'
+- '"high level synthesis"'
+- '"high-level synthesis"'
+- '"precedence graphs"'
+- '"signal analysis"'
+- '"signal synthesis"'
+- '"state explosion problem"'
+- '"timed asynchronous circuit synthesis"'
+- '"timed causality"'
+- '"timed concurrency"'
+- '"timing"'
+- '"timing constraints"'
 categories: []
 date: '1999-11-01'
 lastmod: 2020-09-27T16:55:05-03:00
@@ -52,9 +51,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:04.921228Z'
+publishDate: '2021-01-15T17:11:42.202413Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper presents a new method to synthesize timed asynchronous circuits
   directly from the specification without generating a state graph. The synthesis
   procedure begins with a deterministic graph specification with timing constraints.

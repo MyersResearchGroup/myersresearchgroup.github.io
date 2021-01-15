@@ -8,7 +8,10 @@ authors:
 - Michael Zhang
 - Zach Zundel
 - Chris J. Myers
-tags: []
+tags:
+- '"genetic circuit"'
+- '"SBOL"'
+- '"SBOLExplorer"'
 categories: []
 date: '2019-10-01'
 lastmod: 2020-09-27T16:55:40-03:00
@@ -29,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:40.353263Z'
+publishDate: '2021-01-15T17:11:55.426272Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*ACS Synthetic Biology*'
 doi: 10.1021/acssynbio.9b00089

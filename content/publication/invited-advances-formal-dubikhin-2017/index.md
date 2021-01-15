@@ -12,35 +12,34 @@ authors:
 - Ioannis Syranidis
 - Alex Yakovlev
 tags:
-- 'AMS systems'
-- 'analog circuitry'
-- 'analog/asynchronous co-design methods'
-- 'analog/mixed-signal circuits'
-- 'analog/mixed-signal systems'
-- 'asynchronous circuits'
-- 'asynchronous design'
-- 'asynchronous logic'
-- 'Complexity theory'
-- 'Consumer electronics'
-- 'Design methodology'
-- 'Digital control'
-- 'digital electronics'
-- 'electronic engineering computing'
-- 'embedded systems'
-- 'formal methods'
-- 'Formal methods'
-- 'formal verification'
-- 'hardware-software codesign'
-- 'high-performance digital systems'
-- 'integrated circuit design'
-- 'Integrated circuits'
-- 'logic design'
-- 'mixed analogue-digital integrated circuits'
-- 'mobile systems'
-- 'system-on-chip'
-- 'Timing'
-- 'Tools'
-- 'verification'
+- '"AMS systems"'
+- '"analog circuitry"'
+- '"analog/asynchronous co-design methods"'
+- '"analog/mixed-signal circuits"'
+- '"analog/mixed-signal systems"'
+- '"asynchronous circuits"'
+- '"asynchronous design"'
+- '"asynchronous logic"'
+- '"complexity"'
+- '"Complexity theory"'
+- '"design methodology"'
+- '"Digital control"'
+- '"digital electronics"'
+- '"electronic engineering computing"'
+- '"embedded systems"'
+- '"formal methods"'
+- '"formal verification"'
+- '"hardware-software codesign"'
+- '"high-performance digital systems"'
+- '"integrated circuit design"'
+- '"integrated circuits"'
+- '"LEMA AMS verification tool flow"'
+- '"logic design"'
+- '"mixed analogue-digital integrated circuits"'
+- '"mobile systems"'
+- '"system-on-chip"'
+- '"timing"'
+- '"verification"'
 categories: []
 date: '2017-06-01'
 lastmod: 2020-09-27T16:55:23-03:00
@@ -61,9 +60,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:23.241042Z'
+publishDate: '2021-01-15T17:11:48.452536Z'
 publication_types:
-- 1
+- '1'
 abstract: Analog/mixed-signal (AMS) systems are rapidly expanding in all domains of
   information and communication technology. They are a critical part of the support
   for large-scale high-performance digital systems, provide important functionalities

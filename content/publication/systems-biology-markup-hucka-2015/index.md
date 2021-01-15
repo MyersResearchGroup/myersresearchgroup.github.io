@@ -19,7 +19,8 @@ authors:
 - Lucian P. Smith
 - Dagmar Waltemath
 - Darren J. Wilkinson
-tags: []
+tags:
+- '"Search"'
 categories: []
 date: '2015-09-01'
 lastmod: 2020-09-27T16:55:58-03:00
@@ -40,9 +41,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:58.226084Z'
+publishDate: '2021-01-15T17:12:02.246854Z'
 publication_types:
-- 2
+- '2'
 abstract: Computational models can help researchers to interpret data, understand
   biological function, and make quantitative predictions. The Systems Biology Markup
   Language (SBML) is a file format for representing computational models in a declarative

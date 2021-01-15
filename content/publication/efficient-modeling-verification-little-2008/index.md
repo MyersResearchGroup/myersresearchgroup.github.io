@@ -28,9 +28,36 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:08.022954Z'
+publishDate: '2021-01-15T17:11:43.245075Z'
 publication_types:
-- 7
-abstract: ''
+- '7'
+abstract: Analog circuit design is traditionally done by expert designers in an ad
+  hoc manner heavily dependent on simulation. This methodology has worked successfully
+  for many years, but process variation and design complexity are prompting designers
+  to explore new techniques. Formal methods are being used successfully to aid in
+  the complex validation problem for digital circuits. This dissertation presents
+  formal methods for analog and mixed-signal (AMS) circuits. This dissertation describes
+  the development of a formal model, labeled hybrid Petri nets (LHPNs), appropriate
+  for the modeling and verification of AMS circuits. An LHPN is a Petri net variant
+  capable of modeling both continuous and discrete quantities. Creating an LHPN model
+  of an AMS circuit by hand is a complicated and error prone exercise that requires
+  expert knowledge. This is unacceptable for practical adoption of the LHPN model
+  and its associated analysis methods. For this reason, this dissertation introduces
+  an automatic LHPN model generation method. The method uses a set of simulation traces
+  and a desired system property to generate an LHPN modeling the behavior of the simulation
+  traces. The model generator can also be used to generate abstract Verilog-AMS or
+  VHDL-AMS models suitable for use in system-level simulations.  Formal verification
+  of a property over the entire state space of an LHPN model is complicated by the
+  infinite state of the model. For this reason, the infinite states of the model are
+  grouped into potentially finite groups of equivalent states for verification. Difference
+  bound matrices (DBMs), a restricted form of convex polygons, are used to represent
+  these equivalent classes of infinite states. Reachability analysis using DBMs is
+  very efficient at the cost of exactness. This dissertation presents algorithms for
+  conservative state space analysis and verification of LHPNs. Finally, these methods
+  are demonstrated on several case studies of AMS circuits from both academia and
+  industry. The formal verification methods demonstrate the ability to find bugs missed
+  by standard simulations. The abstract modeling methods show the promise of using
+  automatically generated abstract models by demonstrating up to 40x speedup for some
+  examples.
 publication: ''
 ---

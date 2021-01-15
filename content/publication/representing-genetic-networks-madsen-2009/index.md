@@ -6,8 +6,12 @@ title: Representing Genetic Networks as Labeled Hybrid Petri Nets for State Spac
 subtitle: ''
 summary: ''
 authors:
-- C Madsen
-tags: []
+- Curtis Madsen
+tags:
+- '"ATACS"'
+- '"ATACS design tool"'
+- '"iBioSim"'
+- '"Search"'
 categories: []
 date: '2009-06-01'
 lastmod: 2020-09-27T16:55:38-03:00
@@ -28,9 +32,25 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:38.251511Z'
+publishDate: '2021-01-15T17:11:54.663359Z'
 publication_types:
-- 7
-abstract: ''
+- '7'
+abstract: This paper presents the bachelor's thesis of Curtis Kendall Madsen which
+  can be broken down into the following three goals. The first goal of this project
+  is to develop a way to convert genetic networks into logical models. Once this is
+  done, finding the state graph of these nets and performing Markov chain analysis
+  on them can provide researchers with insight into the reachability of the states
+  in the original network. Therefore, the second goal of this project is to develop
+  an automated tool that can perform state space exploration of a logical model, and
+  the third goal is to implement a Markov chain analyzer for the stage graph. For
+  the logical representation of genetic networks, the conversion method uses labeled
+  hybrid Petri nets (LHPNs) because they are designed for modeling logic while still
+  allowing for important information required by Markov chain analysis such as transition
+  rates to be included in the model. This conversion method is automated and is integrated
+  into the iBioSim program allowing users to transform a Genetic Circuit Model (GCM)
+  into an LHPN with just a click of a button. Also, iBioSim now includes the LHPN
+  file type in its file tree so users can view and edit LHPNs once conversion is complete.
+  In addition, a method for performing state space exploration on an LHPN allows the
+  user to view the state graph using Graphviz's Dotty tool.
 publication: ''
 ---

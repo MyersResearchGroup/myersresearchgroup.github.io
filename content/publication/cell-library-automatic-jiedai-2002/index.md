@@ -11,25 +11,23 @@ authors:
 - R.R. Harrison
 - C. Schlegel
 tags:
-- 'analog error control decoders'
-- 'analogue integrated circuits'
-- 'analogue processing circuits'
-- 'Automatic control'
-- 'automatic synthesis'
-- 'cell library'
-- 'circuit CAD'
-- 'Circuit optimization'
-- 'Circuit synthesis'
-- 'Cities and towns'
-- 'decoding'
-- 'Decoding'
-- 'error correction'
-- 'Error correction'
-- 'integrated circuit design'
-- 'Libraries'
-- 'Network synthesis'
-- 'Size control'
-- 'Wire'
+- '"analog error control decoders"'
+- '"analogue integrated circuits"'
+- '"analogue processing circuits"'
+- '"automatic control"'
+- '"automatic synthesis"'
+- '"biological parts"'
+- '"circuit"'
+- '"circuit CAD"'
+- '"circuit optimization"'
+- '"circuit synthesis"'
+- '"decoding"'
+- '"error correction"'
+- '"Error correction"'
+- '"integrated circuit design"'
+- '"libraries"'
+- '"network synthesis"'
+- '"size control"'
 categories: []
 date: '2002-05-01'
 lastmod: 2020-09-27T16:54:55-03:00
@@ -50,9 +48,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:55.505384Z'
+publishDate: '2021-01-15T17:11:39.083505Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper presents a cell library for automatic synthesis of analog error
   control decoders. By using some basic cells, analog error control decoders can be
   automatically synthesized. Also, using automatic synthesis based on this cell library,

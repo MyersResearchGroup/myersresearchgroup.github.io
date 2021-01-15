@@ -9,13 +9,13 @@ authors:
 - Scott Little
 - Chris Myers
 tags:
-- 'Boolean Variable'
-- 'Bound Model Check'
-- 'Hybrid Automaton'
-- 'Model Checker'
-- 'Symbolic Model'
+- '"Boolean variable"'
+- '"bound model"'
+- '"hybrid automaton"'
+- '"Model Checker"'
+- '"symbolic model"'
 categories: []
-date: '2007-01-01'
+date: '2007-10-01'
 lastmod: 2020-09-27T16:54:53-03:00
 featured: false
 draft: false
@@ -34,9 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:53.529632Z'
+publishDate: '2021-01-15T17:11:38.455097Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper presents a bounded model checking algorithm for the verification
   of analog and mixed-signal (AMS) circuits using a satisfiability modulo theories
   (SMT) solver. The systems are modeled in VHDL-AMS, a hardware description language

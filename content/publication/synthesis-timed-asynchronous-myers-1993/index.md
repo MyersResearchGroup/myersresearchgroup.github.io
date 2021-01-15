@@ -8,27 +8,27 @@ authors:
 - C.J. Myers
 - T.H.-Y. Meng
 tags:
-- 'Added delay'
-- 'area'
-- 'Asynchronous circuits'
-- 'asynchronous sequential logic'
-- 'Circuit synthesis'
-- 'Complexity theory'
-- 'cyclic graph specification'
-- 'finite subgraphs'
-- 'Hazards'
-- 'infinite acyclic graph'
-- 'Integrated circuit synthesis'
-- 'logic design'
-- 'redundancy'
-- 'Robustness'
-- 'sequential circuits'
-- 'speed'
-- 'system integration'
-- 'timed asynchronous circuits'
-- 'Timing'
-- 'timing constraints'
-- 'Wire'
+- '"added delay"'
+- '"asynchronous circuits"'
+- '"asynchronous sequential logic"'
+- '"circuit"'
+- '"circuit synthesis"'
+- '"complexity"'
+- '"Complexity theory"'
+- '"cyclic graph"'
+- '"finite subgraph"'
+- '"hazards"'
+- '"infinite acyclic graph"'
+- '"Integrated circuit synthesis"'
+- '"logic design"'
+- '"redundancy"'
+- '"robustness"'
+- '"sequential circuits"'
+- '"speed"'
+- '"system integration"'
+- '"timed asynchronous circuits"'
+- '"timing"'
+- '"timing constraints"'
 categories: []
 date: '1993-06-01'
 lastmod: 2020-09-27T16:55:53-03:00
@@ -49,9 +49,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:53.442871Z'
+publishDate: '2021-01-15T17:12:00.376889Z'
 publication_types:
-- 2
+- '2'
 abstract: The authors present a systematic procedure for synthesizing timed asynchronous
   circuits using timing constraints dictated by system integration, thereby facilitating
   natural interaction between synchronous and asynchronous circuits. Their timed circuits

@@ -11,33 +11,29 @@ authors:
 - S. Little
 - T. Yoneda
 tags:
-- 'abstract error trace'
-- 'Abstraction'
-- 'Boolean functions'
-- 'circuit analysis computing'
-- 'circuit complexity'
-- 'circuit reliability'
-- 'Circuit testing'
-- 'Cities and towns'
-- 'complexity verification'
-- 'Concrete'
-- 'concrete error trace'
-- 'Data structures'
-- 'Decoding'
-- 'Explosions'
-- 'failure analysis'
-- 'Failure analysis'
-- 'failure condition'
-- 'failure model'
-- 'failure-directed abstraction'
-- 'formal verification'
-- 'Interleaved codes'
-- 'state explosion'
-- 'timed circuit verification'
-- 'timed circuits'
-- 'timed-circuit design'
-- 'Timing'
-- 'timing circuits'
+- '"abstract error trace"'
+- '"abstraction"'
+- '"Boolean function"'
+- '"circuit"'
+- '"circuit analysis"'
+- '"circuit testing"'
+- '"complexity"'
+- '"data structure"'
+- '"decoding"'
+- '"error trace"'
+- '"explosion"'
+- '"failure analysis"'
+- '"failure condition"'
+- '"failure model"'
+- '"failure-directed abstraction"'
+- '"formal verification"'
+- '"interleaved codes"'
+- '"state explosion"'
+- '"timed circuit verification"'
+- '"timed circuits"'
+- '"timed-circuit design"'
+- '"timing"'
+- '"timing circuits"'
 categories: []
 date: '2006-03-01'
 lastmod: 2020-09-27T16:56:11-03:00
@@ -58,9 +54,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:56:10.417735Z'
+publishDate: '2021-01-15T17:12:05.597958Z'
 publication_types:
-- 2
+- '2'
 abstract: This paper presents a method to address state explosion in timed-circuit
   verification by using abstraction directed by the failure model. This method allows
   us to decompose the verification problem into a set of subproblems, each of which

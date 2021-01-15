@@ -14,23 +14,22 @@ authors:
 - David Walter
 - Chris J. Myers
 tags:
-- 'AMS circuits'
-- 'circuit analysis computing'
-- 'Clocks'
-- 'Delays'
-- 'digitally-intensive analog-mixed-signal circuits'
-- 'formal verification'
-- 'Generators'
-- 'integrated circuit design'
-- 'Integrated circuit modeling'
-- 'LEMA AMS verification tool flow'
-- 'mixed analogue-digital integrated circuits'
-- 'property language'
-- 'simulation traces'
-- 'system designs'
-- 'Voltage control'
-- 'Voltage-controlled oscillators'
-- 'Wires'
+- '"AMS circuits"'
+- '"circuit analysis"'
+- '"clock"'
+- '"Delays"'
+- '"digitally-intensive analog-mixed-signal circuits"'
+- '"formal verification"'
+- '"generators"'
+- '"integrated circuit design"'
+- '"Integrated circuit modeling"'
+- '"LEMA AMS verification tool flow"'
+- '"mixed analogue-digital integrated circuits"'
+- '"property language"'
+- '"simulation trace"'
+- '"system designs"'
+- '"voltage control"'
+- '"voltage-controlled oscillators"'
 categories: []
 date: '2014-08-01'
 lastmod: 2020-09-27T16:55:25-03:00
@@ -51,9 +50,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:25.305356Z'
+publishDate: '2021-01-15T17:11:49.268667Z'
 publication_types:
-- 1
+- '1'
 abstract: The increasing integration of analog/mixed-signal (AMS) circuits into system
   designs has further complicated an already difficult verification problem. Recently,
   formal verification, which has been successful in the purely digital domain, has

@@ -7,7 +7,10 @@ summary: ''
 authors:
 - Zach Zundel
 tags:
-- SynBioHub
+- '"genetic circuit"'
+- '"SBOL"'
+- '"Search"'
+- '"SynBioHub"'
 categories: []
 date: '2019-12-01'
 lastmod: 2020-09-27T16:55:21-03:00
@@ -28,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:21.488924Z'
+publishDate: '2021-01-15T17:11:47.823491Z'
 publication_types:
-- 7
+- '7'
 abstract: Synthetic Biology is an emerging discipline which uses engineering principles
   to shape biological behavior. The Synthetic Biology Open Language (SBOL) is a standard
   for describing biological constructs which enables engineering workflows that previous

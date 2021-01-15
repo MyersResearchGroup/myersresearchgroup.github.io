@@ -10,12 +10,12 @@ authors:
 - Yingying Zhang
 - Chris Myers
 tags:
-- 'abstraction'
-- 'compositional verification'
-- 'minimization'
-- 'model checking'
+- '"abstraction"'
+- '"compositional model checking"'
+- '"minimization"'
+- '"model checking"'
 categories: []
-date: '2012-01-01'
+date: '2012-07-01'
 lastmod: 2020-09-27T16:54:57-03:00
 featured: false
 draft: false
@@ -34,9 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:57.705528Z'
+publishDate: '2021-01-15T17:11:39.879415Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper presents a compositional minimization approach with efficient
   state space reductions for verifying non-trivial asynchronous designs. These reductions
   can result in a reduced model that contains the exact same set of observably equivalent

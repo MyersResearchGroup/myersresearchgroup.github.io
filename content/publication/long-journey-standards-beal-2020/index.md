@@ -44,9 +44,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:26.216922Z'
+publishDate: '2021-01-15T17:11:49.663889Z'
 publication_types:
-- 2
+- '2'
 abstract: Synthetic biology needs to adopt sound scientific and industry-like standards
   in order to achieve its ambitious goals of efficient and accurate engineering of
   biological systems.

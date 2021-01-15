@@ -14,7 +14,9 @@ authors:
 - Zach Zundel
 - Chris J. Myers
 tags:
-- SBOLDesigner
+- '"genetic circuit"'
+- '"SBOL"'
+- '"SBOLDesigner"'
 categories: []
 date: '2019-07-01'
 lastmod: 2020-09-27T16:55:47-03:00
@@ -35,9 +37,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:47.525907Z'
+publishDate: '2021-01-15T17:11:58.010313Z'
 publication_types:
-- 2
+- '2'
 abstract: As improvements in DNA synthesis technology and assembly methods make combinatorial
   assembly of genetic constructs increasingly accessible, methods for representing
   genetic constructs likewise need to improve to handle the exponential growth of

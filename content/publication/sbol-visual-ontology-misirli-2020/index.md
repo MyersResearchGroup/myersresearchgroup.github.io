@@ -11,7 +11,8 @@ authors:
 - Guy-Bart Stan
 - Anil Wipat
 - Chris J. Myers
-tags: []
+tags:
+- '"SBOL"'
 categories: []
 date: '2020-04-01'
 lastmod: 2020-09-27T16:55:42-03:00
@@ -32,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:42.374672Z'
+publishDate: '2021-01-15T17:11:56.200267Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*ACS Synthetic Biology*'
 doi: 10.1021/acssynbio.0c00046

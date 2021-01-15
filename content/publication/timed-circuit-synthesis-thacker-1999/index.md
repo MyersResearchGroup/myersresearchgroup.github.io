@@ -9,35 +9,32 @@ authors:
 - W. Belluomini
 - C.J. Myers
 tags:
-- 'asynchronous circuits'
-- 'Asynchronous circuits'
-- 'BDDs'
-- 'binary decision diagrams'
-- 'Boolean functions'
-- 'circuit optimisation'
-- 'Circuit synthesis'
-- 'Data structures'
-- 'Design methodology'
-- 'Design optimization'
-- 'explicit timing information'
-- 'implicit methods'
-- 'implicit techniques'
-- 'logic CAD'
-- 'memory efficiency'
-- 'MTBDDs'
-- 'multiterminal BDDs'
-- 'optimization'
-- 'solution spaces'
-- 'Space exploration'
-- 'Space technology'
-- 'state-space methods'
-- 'State-space methods'
-- 'synthesis procedure'
-- 'technology mapping steps'
-- 'timed circuit synthesis'
-- 'timed state space'
-- 'timing'
-- 'Timing'
+- '"asynchronous circuits"'
+- '"binary decision diagram"'
+- '"Boolean function"'
+- '"circuit"'
+- '"circuit optimization"'
+- '"circuit synthesis"'
+- '"data structure"'
+- '"design methodology"'
+- '"design optimization"'
+- '"explicit timing information"'
+- '"implicit methods"'
+- '"implicit techniques"'
+- '"logic CAD"'
+- '"memory efficiency"'
+- '"MTBDDs"'
+- '"multiterminal BDDs"'
+- '"optimization"'
+- '"solution spaces"'
+- '"space exploration"'
+- '"space technology"'
+- '"state-space methods"'
+- '"synthesis procedure"'
+- '"technology mapping steps"'
+- '"timed circuit synthesis"'
+- '"timed state space"'
+- '"timing"'
 categories: []
 date: '1999-01-01'
 lastmod: 2020-09-27T16:56:02-03:00
@@ -58,9 +55,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:56:02.119709Z'
+publishDate: '2021-01-15T17:12:03.488067Z'
 publication_types:
-- 1
+- '1'
 abstract: The design and synthesis of asynchronous circuits is gaining importance
   in both the industrial and academic worlds. Timed circuits are a class of asynchronous
   circuits that incorporate explicit timing information in the specification. This
