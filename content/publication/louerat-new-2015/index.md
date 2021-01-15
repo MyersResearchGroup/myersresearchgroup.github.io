@@ -9,7 +9,7 @@ authors:
 - D. Kulkarni
 - C. Myers
 tags:
-- Search
+- '"Search"'
 categories: []
 date: '2015-01-01'
 lastmod: 2021-01-15T17:26:01Z
@@ -30,7 +30,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-15T17:26:01.198490Z'
+publishDate: '2021-01-15T18:31:53.478399Z'
 publication_types:
 - '6'
 abstract: This book brings together a selection of the best papers from the sixteenth

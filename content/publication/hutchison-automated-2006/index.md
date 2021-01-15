@@ -11,7 +11,7 @@ authors:
 - Nathan A. Barker
 - Adam P. Arkin
 tags:
-- genetic circuit
+- '"genetic circuit"'
 categories: []
 date: '2006-01-01'
 lastmod: 2021-01-15T17:26:00Z
@@ -32,7 +32,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-15T17:26:00.482518Z'
+publishDate: '2021-01-15T18:31:52.693128Z'
 publication_types:
 - '6'
 abstract: ''
