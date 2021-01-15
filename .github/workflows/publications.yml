@@ -26,10 +26,11 @@ jobs:
         run: |
           echo Pub-$GITHUB_RUN_NUMBER
           
-      - name: install hugo
-        run: |
-          mkdir homebrew && curl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip 1 -C homebrew
-          brew install hugo
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 0.74.2
+          extended: true
         
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
