@@ -10,7 +10,7 @@ authors:
 - Padraig Gleeson
 - Martin Golebiewski
 - Michael Hucka
-- Nicolas Le Novère
+- Nicolas Le NovÃ¨re
 - David P. Nickerson
 - Falk Schreiber
 - Dagmar Waltemath
@@ -29,7 +29,7 @@ tags:
 - 'proteins'
 - 'Proteins'
 - 'scientific results'
-- 'Search'
+- 'search'
 - 'standards'
 - 'text analysis'
 - 'visualization'
