@@ -1,6 +1,6 @@
 import os
 
-pub_path = "C:/Users/.../myersresearchgroup.github.io/content/publication"
+pub_path = "C:/Users/JVM/Downloads/myersresearchgroup.github.io/content/publication"
 
 files_list = []
 
