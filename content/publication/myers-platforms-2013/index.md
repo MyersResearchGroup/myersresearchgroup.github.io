@@ -7,12 +7,12 @@ summary: ''
 authors:
 - Chris J. Myers
 tags:
-- 'genetic circuit'
-- 'genetic design automation'
-- 'genetic part repositories'
-- 'synthetic biology'
-- 'synthetic biology open language'
-- 'systems biology markup language'
+- '"synthetic biology"'
+- '"systems biology markup language"'
+- '"genetic design automation"'
+- '"genetic circuit"'
+- '"synthetic biology open language"'
+- '"genetic part repositories"'
 categories: []
 date: '2013-11-01'
 lastmod: 2021-01-15T18:41:52Z
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-15T18:41:50.179158Z'
+publishDate: '2021-01-15T21:34:46.415743Z'
 publication_types:
 - '6'
 abstract: Crucial to the success of synthetic biology is the development of platforms

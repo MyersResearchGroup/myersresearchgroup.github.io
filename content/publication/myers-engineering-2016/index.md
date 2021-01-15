@@ -7,11 +7,12 @@ summary: ''
 authors:
 - Chris J. Myers
 tags:
-- 'Medical / Biotechnology'
-- 'science / life sciences / biology'
-- 'science / physics / general'
+- '"genetic circuit"'
+- '"science / life sciences / biology"'
+- '"science / physics / general"'
+- '"medical / biotechnology"'
 categories: []
-date: '2016-04-01'
+date: '2016-04-19'
 lastmod: 2021-01-15T18:41:53Z
 featured: false
 draft: false
@@ -30,7 +31,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-01-15T18:41:53.414380Z'
+publishDate: '2021-01-15T21:34:52.286351Z'
 publication_types:
 - '5'
 abstract: An Introduction to Systems BioengineeringTakes a Clear and Systematic Engineering
