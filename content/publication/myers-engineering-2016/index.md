@@ -7,10 +7,10 @@ summary: ''
 authors:
 - Chris J. Myers
 tags:
-- '"genetic circuit"'
-- '"science / life sciences / biology"'
-- '"science / physics / general"'
-- '"medical / biotechnology"'
+- 'genetic circuit'
+- 'science / life sciences / biology'
+- 'science / physics / general'
+- 'medical / biotechnology'
 categories: []
 date: '2016-04-19'
 lastmod: 2021-01-15T18:41:53Z

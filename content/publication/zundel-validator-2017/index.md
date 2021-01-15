@@ -10,8 +10,8 @@ authors:
 - Zhen Zhang
 - Chris J. Myers
 tags:
-- '"SBOL"'
-- '"validator"'
+- 'SBOL'
+- 'validator'
 categories: []
 date: '2017-07-21'
 lastmod: 2021-01-15T21:34:29Z

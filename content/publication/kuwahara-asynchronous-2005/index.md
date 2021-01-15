@@ -11,8 +11,8 @@ authors:
 - Michael Samoilov
 - Adam Arkin
 tags:
-- '"asynchronous circuit"'
-- '"genetic circuit"'
+- 'asynchronous circuit'
+- 'genetic circuit'
 categories: []
 date: '2005-04-01'
 lastmod: 2021-01-15T21:34:38Z

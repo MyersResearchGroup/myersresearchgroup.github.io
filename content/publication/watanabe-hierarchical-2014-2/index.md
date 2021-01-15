@@ -7,9 +7,9 @@ summary: ''
 authors:
 - L Watanabe
 tags:
-- '"genetic circuit"'
-- '"iBioSim"'
-- '"stochastic logic"'
+- 'genetic circuit'
+- 'iBioSim'
+- 'stochastic logic'
 categories: []
 date: '2014-05-01'
 lastmod: 2021-01-15T21:34:51Z

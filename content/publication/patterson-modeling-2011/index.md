@@ -7,8 +7,8 @@ summary: ''
 authors:
 - T Patterson
 tags:
-- '"genetic circuit"'
-- '"iBioSim"'
+- 'genetic circuit'
+- 'iBioSim'
 categories: []
 date: '2011-05-01'
 lastmod: 2021-01-15T21:34:51Z

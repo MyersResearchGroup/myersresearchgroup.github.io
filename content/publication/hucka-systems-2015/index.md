@@ -20,7 +20,7 @@ authors:
 - Dagmar Waltemath
 - Darren J. Wilkinson
 tags:
-- '"search"'
+- 'search'
 categories: []
 date: '2015-09-04'
 lastmod: 2021-01-15T21:34:28Z

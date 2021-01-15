@@ -10,7 +10,7 @@ authors:
 - Tomohiro Yoneda
 - Chris Myers
 tags:
-- '"asynchronous circuit"'
+- 'asynchronous circuit'
 categories: []
 date: '2005-06-01'
 lastmod: 2021-01-15T21:34:38Z

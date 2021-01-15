@@ -14,8 +14,8 @@ authors:
 - Nicholas Roehner
 - Chris Myers
 tags:
-- '"genetic circuit"'
-- '"iBioSim"'
+- 'genetic circuit'
+- 'iBioSim'
 categories: []
 date: '2019-07-19'
 lastmod: 2021-01-15T21:34:52Z

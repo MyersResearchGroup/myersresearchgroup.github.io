@@ -8,11 +8,11 @@ authors:
 - Tomas G. Rokicki
 - Chris J. Myers
 tags:
-- '"asynchronous circuit"'
-- '"Firing Sequence"'
-- '"automatic verification"'
-- '"trace theory"'
-- '"transition firing"'
+- 'asynchronous circuit'
+- 'Firing Sequence'
+- 'automatic verification'
+- 'trace theory'
+- 'transition firing'
 categories: []
 date: '1994-06-01'
 lastmod: 2021-01-15T21:34:39Z

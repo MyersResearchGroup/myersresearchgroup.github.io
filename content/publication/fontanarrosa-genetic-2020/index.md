@@ -12,7 +12,7 @@ authors:
 - Christopher A. Voigt
 - Chris Myers
 tags:
-- '"genetic circuit"'
+- 'genetic circuit'
 categories: []
 date: '2020-08-05'
 lastmod: 2021-01-15T21:34:22Z

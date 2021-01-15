@@ -7,9 +7,9 @@ summary: ''
 authors:
 - Tramy T Nguyen
 tags:
-- '"asynchronous circuit"'
-- '"SBOL"'
-- '"genetic circuit"'
+- 'asynchronous circuit'
+- 'SBOL'
+- 'genetic circuit'
 categories: []
 date: '2019-12-01'
 lastmod: 2021-01-15T21:34:33Z

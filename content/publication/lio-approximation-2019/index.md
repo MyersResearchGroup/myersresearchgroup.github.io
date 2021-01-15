@@ -11,8 +11,8 @@ authors:
 - H. Zheng
 - C. Myers
 tags:
-- '"stochastic logic"'
-- '"search"'
+- 'stochastic logic'
+- 'search'
 categories: []
 date: '2019-01-01'
 lastmod: 2021-01-15T18:41:52Z

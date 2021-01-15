@@ -9,14 +9,14 @@ authors:
 - Hiroyuki Kuwahara
 - Chris J. Myers
 tags:
-- '"simulation"'
-- '"stochastic logic"'
-- '"algorithms"'
-- '"enzyme"'
-- '"mathematics"'
-- '"biological models"'
-- '"chemical models"'
-- '"statistical models"'
+- 'simulation'
+- 'stochastic logic'
+- 'algorithms'
+- 'enzyme'
+- 'mathematics'
+- 'biological models'
+- 'chemical models'
+- 'statistical models'
 categories: []
 date: '2008-09-01'
 lastmod: 2021-01-15T21:34:26Z

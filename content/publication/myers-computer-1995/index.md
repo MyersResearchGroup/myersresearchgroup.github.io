@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Chris Myers
 tags:
-- '"asynchronous circuit"'
+- 'asynchronous circuit'
 categories: []
 date: '1995-10-01'
 lastmod: 2021-01-15T21:34:47Z

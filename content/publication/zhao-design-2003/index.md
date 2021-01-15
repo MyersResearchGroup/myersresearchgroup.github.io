@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Y Zhao
 tags:
-- '"asynchronous circuit"'
+- 'asynchronous circuit'
 categories: []
 date: '2003-06-01'
 lastmod: 2021-01-15T21:34:51Z

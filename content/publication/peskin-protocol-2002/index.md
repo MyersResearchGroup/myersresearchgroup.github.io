@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Eric Peskin
 tags:
-- '"asynchronous circuit"'
-- '"search"'
+- 'asynchronous circuit'
+- 'search'
 categories: []
 date: '2002-08-01'
 lastmod: 2021-01-15T21:34:47Z

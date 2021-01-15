@@ -10,13 +10,13 @@ authors:
 - Chris J. Myers
 - Herbert M. Sauro
 tags:
-- '"synthetic biology"'
-- '"systems biology"'
-- '"genetic circuit"'
-- '"bio-design automation"'
-- '"biological parts"'
-- '"rule-based modeling"'
-- '"chemical reaction network"'
+- 'synthetic biology'
+- 'systems biology'
+- 'genetic circuit'
+- 'bio-design automation'
+- 'biological parts'
+- 'rule-based modeling'
+- 'chemical reaction network'
 categories: []
 date: '2012-11-05'
 lastmod: 2021-01-15T21:34:44Z

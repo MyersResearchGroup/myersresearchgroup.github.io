@@ -7,10 +7,10 @@ summary: ''
 authors:
 - Chris Krieger
 tags:
-- '"asynchronous circuit"'
-- '"ATACS design tool"'
-- '"ATACS"'
-- '"search"'
+- 'asynchronous circuit'
+- 'ATACS design tool'
+- 'ATACS'
+- 'search'
 categories: []
 date: '2002-12-01'
 lastmod: 2021-01-15T21:34:50Z

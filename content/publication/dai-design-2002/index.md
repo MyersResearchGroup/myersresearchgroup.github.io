@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Jie Dai
 tags:
-- '"search"'
+- 'search'
 categories: []
 date: '2002-12-01'
 lastmod: 2021-01-15T21:34:47Z

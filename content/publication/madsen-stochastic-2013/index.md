@@ -7,9 +7,9 @@ summary: ''
 authors:
 - Curtis Madsen
 tags:
-- '"genetic circuit"'
-- '"stochastic logic"'
-- '"search"'
+- 'genetic circuit'
+- 'stochastic logic'
+- 'search'
 categories: []
 date: '2013-08-01'
 lastmod: 2021-01-15T21:34:53Z

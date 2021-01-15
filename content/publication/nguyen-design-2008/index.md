@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Nam-Phuong D. Nguyen
 tags:
-- '"asynchronous circuit"'
-- '"genetic circuit"'
+- 'asynchronous circuit'
+- 'genetic circuit'
 categories: []
 date: '2008-08-01'
 lastmod: 2021-01-15T21:34:49Z

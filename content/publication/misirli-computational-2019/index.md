@@ -15,11 +15,11 @@ authors:
 - Chris Myers
 - Anil Wipat
 tags:
-- '"SBOL"'
-- '"genetic circuit"'
-- '"iBioSim"'
-- '"SBOLDesigner"'
-- '"SynBioHub"'
+- 'SBOL'
+- 'genetic circuit'
+- 'iBioSim'
+- 'SBOLDesigner'
+- 'SynBioHub'
 categories: []
 date: '2019-07-19'
 lastmod: 2021-01-15T21:34:53Z

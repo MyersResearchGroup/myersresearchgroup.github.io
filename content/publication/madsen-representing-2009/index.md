@@ -8,11 +8,11 @@ summary: ''
 authors:
 - Curtis Madsen
 tags:
-- '"ATACS design tool"'
-- '"genetic circuit"'
-- '"iBioSim"'
-- '"ATACS"'
-- '"search"'
+- 'ATACS design tool'
+- 'genetic circuit'
+- 'iBioSim'
+- 'ATACS'
+- 'search'
 categories: []
 date: '2009-06-01'
 lastmod: 2021-01-15T21:34:51Z

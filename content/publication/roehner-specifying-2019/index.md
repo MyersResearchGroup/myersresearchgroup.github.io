@@ -14,9 +14,9 @@ authors:
 - Zach Zundel
 - Chris J. Myers
 tags:
-- '"SBOL"'
-- '"genetic circuit"'
-- '"SBOLDesigner"'
+- 'SBOL'
+- 'genetic circuit'
+- 'SBOLDesigner'
 categories: []
 date: '2019-07-19'
 lastmod: 2021-01-15T21:34:24Z
@@ -46,7 +46,7 @@ abstract: As improvements in DNA synthesis technology and assembly methods make 
   combinatorial design space. To this end, we present a community accepted extension
   of the SBOL data standard that allows for the efficient and flexible encoding of
   combinatorial designs. This extension includes data structures for representing
-  genetic designs with “variable” components that can be implemented by choosing one
+  genetic designs with "variable" components that can be implemented by choosing one
   of many linked designs for existing genetic parts or constructs. We demonstrate
   the representational power of the SBOL combinatorial design extension through case
   studies on metabolic pathway design and genetic circuit design, and we report the

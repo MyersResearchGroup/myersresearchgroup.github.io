@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Nathan A. Barker
 tags:
-- '"genetic circuit"'
-- '"search"'
+- 'genetic circuit'
+- 'search'
 categories: []
 date: '2007-12-01'
 lastmod: 2021-01-15T21:34:48Z

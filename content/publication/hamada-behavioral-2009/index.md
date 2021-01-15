@@ -13,7 +13,7 @@ authors:
 - Chris Myers
 - Takashi Nanya
 tags:
-- '"asynchronous circuit"'
+- 'asynchronous circuit'
 categories: []
 date: '2009-01-01'
 lastmod: 2021-01-15T21:34:26Z

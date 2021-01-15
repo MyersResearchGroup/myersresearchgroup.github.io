@@ -10,7 +10,7 @@ authors:
 - Z. Zhang
 - Chris J. Myers
 tags:
-- '"search"'
+- 'search'
 categories: []
 date: '2011-11-01'
 lastmod: 2021-01-15T21:34:43Z

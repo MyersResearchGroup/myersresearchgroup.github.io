@@ -9,12 +9,12 @@ authors:
 - Eric Mercer
 - Chris Myers
 tags:
-- '"asynchronous circuit"'
-- '"sequencing transition"'
-- '"constraint matrix"'
-- '"time circuit"'
-- '"trace theory"'
-- '"marked graph"'
+- 'asynchronous circuit'
+- 'sequencing transition'
+- 'constraint matrix'
+- 'time circuit'
+- 'trace theory'
+- 'marked graph'
 categories: []
 date: '2001-07-01'
 lastmod: 2021-01-15T21:34:36Z

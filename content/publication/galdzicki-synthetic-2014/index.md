@@ -39,8 +39,8 @@ authors:
 - Chris J. Myers
 - Herbert M. Sauro
 tags:
-- '"SBOL"'
-- '"search"'
+- 'SBOL'
+- 'search'
 categories: []
 date: '2014-06-01'
 lastmod: 2021-01-15T21:34:30Z

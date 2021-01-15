@@ -9,11 +9,11 @@ authors:
 - Tomoya Kitai
 - Chris Myers
 tags:
-- '"asynchronous circuit"'
-- '"timed circuits"'
-- '"timing constraints"'
-- '"failure analysis"'
-- '"trace theoretic verification"'
+- 'asynchronous circuit'
+- 'timed circuits'
+- 'timing constraints'
+- 'failure analysis'
+- 'trace theoretic verification'
 categories: []
 date: '2002-07-01'
 lastmod: 2021-01-15T21:34:35Z

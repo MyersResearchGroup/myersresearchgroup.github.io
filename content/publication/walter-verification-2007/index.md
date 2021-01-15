@@ -7,7 +7,7 @@ summary: ''
 authors:
 - David C. Walter
 tags:
-- '"search"'
+- 'search'
 categories: []
 date: '2007-08-01'
 lastmod: 2021-01-15T21:34:48Z

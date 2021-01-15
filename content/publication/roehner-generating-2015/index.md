@@ -11,9 +11,9 @@ authors:
 - Tramy Nguyen
 - Chris J. Myers
 tags:
-- '"SBOL"'
-- '"genetic circuit"'
-- '"iBioSim"'
+- 'SBOL'
+- 'genetic circuit'
+- 'iBioSim'
 categories: []
 date: '2015-08-21'
 lastmod: 2021-01-15T21:34:28Z

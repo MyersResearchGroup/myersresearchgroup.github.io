@@ -11,7 +11,7 @@ authors:
 - Eric Peskin
 - Hao Zheng
 tags:
-- '"asynchronous circuit"'
+- 'asynchronous circuit'
 categories: []
 date: '2001-01-30'
 lastmod: 2021-01-15T21:34:33Z

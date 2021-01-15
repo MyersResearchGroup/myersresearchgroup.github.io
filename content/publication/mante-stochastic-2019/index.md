@@ -9,8 +9,8 @@ authors:
 - Pedro Fontanarrosa
 - Chris J. Myers
 tags:
-- '"genetic circuit"'
-- '"stochastic logic"'
+- 'genetic circuit'
+- 'stochastic logic'
 categories: []
 date: '2019-07-08'
 lastmod: 2021-01-15T21:34:37Z

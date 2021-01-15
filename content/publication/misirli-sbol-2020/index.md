@@ -12,7 +12,7 @@ authors:
 - Anil Wipat
 - Chris J. Myers
 tags:
-- '"SBOL"'
+- 'SBOL'
 categories: []
 date: '2020-04-17'
 lastmod: 2021-01-15T21:34:23Z

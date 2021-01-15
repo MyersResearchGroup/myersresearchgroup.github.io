@@ -29,8 +29,8 @@ authors:
 - Jacob Beal
 - Anil Wipat
 tags:
-- '"SBOL"'
-- '"genetic circuit"'
+- 'SBOL'
+- 'genetic circuit'
 categories: []
 date: '2018-03-19'
 lastmod: 2021-01-15T21:34:53Z
