@@ -58,11 +58,28 @@ jobs:
          git config --local user.name "github-actions[bot]"
          git add .
          git commit -m "Add changes" -a
+         
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: Pub-${{ GITHUB.RUN_NUMBER}}
+          
+      - name: GitHub Pull Request Action
+        # You may pin to the exact commit or the version.
+        # uses: repo-sync/pull-request@d80b305e358ef8131f270608735c72e2c913f2af
+        uses: repo-sync/pull-request@v2.5
+        with:
+          # Branch name to pull from, default is triggered branch
+          source_branch: Pub-${{ GITHUB.RUN_NUMBER}}
+          # Branch name to sync to in this repo, default is master
+          destination_branch: master
+          # Pull request title
+          pr_title: Merge in updated publications
+          # Pull request body
+          pr_body: publications have just been updated based on the new publications.bib file
+          # GitHub token secret
+          github_token: ${{ secrets.GITHUB_TOKEN }}
 
 #       # Runs a single command using the runners shell
 #       - name: Run a one-line script
