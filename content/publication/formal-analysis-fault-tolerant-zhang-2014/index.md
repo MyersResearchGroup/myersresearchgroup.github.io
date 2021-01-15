@@ -12,13 +12,13 @@ authors:
 - Hao Zheng
 - Chris Myers
 tags:
-- 'fault-tolerant routing'
-- 'formal verification'
-- 'LNT'
-- 'Network-on-Chip'
-- 'process algebra'
+- '"fault-tolerant routing"'
+- '"formal verification"'
+- '"LNT"'
+- '"network-on-Chip"'
+- '"process algebra"'
 categories: []
-date: '2014-01-01'
+date: '2014-09-01'
 lastmod: 2020-09-27T16:55:13-03:00
 featured: false
 draft: false
@@ -37,9 +37,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:12.870962Z'
+publishDate: '2021-01-15T17:11:44.996733Z'
 publication_types:
-- 1
+- '1'
 abstract: A fault-tolerant routing algorithm in Network-on-Chip architectures provides
   adaptivity for on-chip communications. Adding fault-tolerance adaptivity to a routing
   algorithm increases its design complexity and makes it prone to deadlock and other

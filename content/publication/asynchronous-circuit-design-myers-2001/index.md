@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Chris J. Myers
 tags:
-- 'Technology & Engineering / Electrical'
-- 'Technology & Engineering / Electronics / Circuits / VLSI & ULSI'
+- '"technology & engineering / electrical"'
+- '"VLSI & ULSI"'
 categories: []
 date: '2001-07-01'
 lastmod: 2020-09-27T16:54:45-03:00
@@ -29,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:44.848334Z'
+publishDate: '2021-01-15T17:11:35.978007Z'
 publication_types:
-- 5
+- '5'
 abstract: 'With asynchronous circuit design becoming a powerful tool in the development
   of new digital systems, circuit designers are expected to have asynchronous design
   skills and be able to leverage them to reduce power consumption and increase system

@@ -33,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:53.998446Z'
+publishDate: '2021-01-15T17:11:38.582192Z'
 publication_types:
-- 8
+- '8'
 abstract: An instruction execution pipeline in a computer system having variable-length
   instructions uses branch prediction to perform self-timed marking of instructions
   prior to decoding. Branch handling logic is provided in an instruction marking circuit

@@ -10,7 +10,7 @@ authors:
 - Chris Myers
 tags: []
 categories: []
-date: '2008-01-01'
+date: '2008-07-01'
 lastmod: 2020-09-27T16:54:36-03:00
 featured: false
 draft: false
@@ -29,9 +29,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:36.248643Z'
+publishDate: '2021-01-15T17:11:33.611882Z'
 publication_types:
-- 1
+- '1'
 abstract: Abstract. Analog/Mixed-signal (AMS) circuit verification is a growing problem
   as process variation increases and AMS circuits become more functionally complex.
   To improve analog verification flows, AMS circuit models are needed at different

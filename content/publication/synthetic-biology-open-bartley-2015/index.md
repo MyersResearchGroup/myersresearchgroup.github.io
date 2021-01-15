@@ -21,20 +21,20 @@ authors:
 - Anil Wipat
 - Herbert Sauro
 tags:
-- 'Animals'
-- 'Biological Ontologies'
-- 'Computer Graphics'
-- 'Datasets as Topic'
-- 'Documentation'
-- 'Guidelines as Topic'
-- 'Humans'
-- 'Information Storage and Retrieval'
-- 'Internationality'
-- 'Models; Biological'
-- 'Programming Languages'
-- 'Proteome'
-- 'Signal Transduction'
-- 'Synthetic Biology'
+- '"animals"'
+- '"biological ontology"'
+- '"computer graphics"'
+- '"dataset"'
+- '"documentation"'
+- '"genetic circuit"'
+- '"humans"'
+- '"information storage and retrieval"'
+- '"Models; Biological"'
+- '"programming languages"'
+- '"proteome"'
+- '"SBOL"'
+- '"signal transduction"'
+- '"synthetic biology"'
 categories: []
 date: '2015-09-01'
 lastmod: 2020-09-27T16:55:55-03:00
@@ -55,9 +55,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:55.220117Z'
+publishDate: '2021-01-15T17:12:01.017657Z'
 publication_types:
-- 2
+- '2'
 abstract: Synthetic biology builds upon the techniques and successes of genetics,
   molecular biology, and metabolic engineering by applying engineering principles
   to the design of biological systems. The field still faces substantial challenges,

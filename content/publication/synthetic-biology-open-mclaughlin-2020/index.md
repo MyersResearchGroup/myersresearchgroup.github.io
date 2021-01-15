@@ -19,11 +19,12 @@ authors:
 - Thomas E. Gorochowski
 - Chris J. Myers
 tags:
-- 'Data exchange'
-- 'data standards'
-- 'Knowledge representation'
-- 'SBOL'
-- 'Synthetic Biology'
+- '"data exchange"'
+- '"data standard"'
+- '"genetic circuit"'
+- '"Knowledge representation"'
+- '"SBOL"'
+- '"synthetic biology"'
 categories: []
 date: '2020-01-01'
 lastmod: 2020-09-27T16:55:57-03:00
@@ -44,9 +45,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:57.578812Z'
+publishDate: '2021-01-15T17:12:01.990821Z'
 publication_types:
-- 2
+- '2'
 abstract: The Synthetic Biology Open Language (SBOL) is a community-developed data
   standard that allows knowledge about biological designs to be captured using a machine-tractable,
   ontology-backed representation that is built using Semantic Web technologies. While

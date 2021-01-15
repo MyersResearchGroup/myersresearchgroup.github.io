@@ -8,7 +8,9 @@ authors:
 - Jeanet Mante
 - Pedro Fontanarrosa
 - Chris J. Myers
-tags: []
+tags:
+- '"genetic circuit"'
+- '"stochastic logic"'
 categories: []
 date: '2019-07-01'
 lastmod: 2020-09-27T16:55:49-03:00
@@ -29,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:49.067748Z'
+publishDate: '2021-01-15T17:11:58.680107Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*11th International Workshop on Bio-Design Automation*'
 ---

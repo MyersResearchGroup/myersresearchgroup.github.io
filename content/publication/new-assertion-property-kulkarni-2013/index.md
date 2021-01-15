@@ -9,13 +9,13 @@ authors:
 - Andrew N. Fisher
 - Chris J. Myers
 tags:
-- 'Cities and towns'
-- 'Clocks'
-- 'Delays'
-- 'Educational institutions'
-- 'Generators'
-- 'Grammar'
-- 'Integrated circuit modeling'
+- '"clock"'
+- '"Delays"'
+- '"Educational institutions"'
+- '"generators"'
+- '"grammar"'
+- '"Integrated circuit modeling"'
+- '"LEMA AMS verification tool flow"'
 categories: []
 date: '2013-09-01'
 lastmod: 2020-09-27T16:55:31-03:00
@@ -36,9 +36,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:31.531658Z'
+publishDate: '2021-01-15T17:11:51.512486Z'
 publication_types:
-- 1
+- '1'
 abstract: In automating the verification of analog/mixed-signal (AMS) circuits, it
   essential to have a specification language that can describe the behavior that needs
   to be checked. Although powerful and very expressive, many such languages have a

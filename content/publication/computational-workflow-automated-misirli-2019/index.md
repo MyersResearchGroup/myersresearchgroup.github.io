@@ -15,8 +15,11 @@ authors:
 - Chris Myers
 - Anil Wipat
 tags:
-- SynBioHub
-- SBOLDesigner
+- '"genetic circuit"'
+- '"iBioSim"'
+- '"SBOL"'
+- '"SBOLDesigner"'
+- '"SynBioHub"'
 categories: []
 date: '2019-07-01'
 lastmod: 2020-09-27T16:54:59-03:00
@@ -37,9 +40,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:58.790736Z'
+publishDate: '2021-01-15T17:11:40.265419Z'
 publication_types:
-- 2
+- '2'
 abstract: Computational models are essential to engineer predictable biological systems
   and to scale up this process for complex systems. Computational modeling often requires
   expert knowledge and data to build models. Clearly, manual creation of models is

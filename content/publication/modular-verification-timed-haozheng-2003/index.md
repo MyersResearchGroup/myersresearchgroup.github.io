@@ -9,24 +9,22 @@ authors:
 - E. Mercer
 - C. Myers
 tags:
-- 'Asynchronous circuits'
-- 'automatic abstraction'
-- 'circuit CAD'
-- 'circuit complexity'
-- 'Clocks'
-- 'Decoding'
-- 'Delay'
-- 'Energy consumption'
-- 'Explosions'
-- 'exponential complexity'
-- 'formal verification'
-- 'Formal verification'
-- 'Microprocessors'
-- 'modular verification'
-- 'State-space methods'
-- 'timed circuit design'
-- 'Timing'
-- 'timing circuits'
+- '"asynchronous circuits"'
+- '"automatic abstraction"'
+- '"circuit CAD"'
+- '"clock"'
+- '"decoding"'
+- '"delay"'
+- '"energy consumption"'
+- '"explosion"'
+- '"exponential complexity"'
+- '"formal verification"'
+- '"Microprocessors"'
+- '"modular verification"'
+- '"state-space methods"'
+- '"timed circuit design"'
+- '"timing"'
+- '"timing circuits"'
 categories: []
 date: '2003-09-01'
 lastmod: 2020-09-27T16:55:30-03:00
@@ -47,9 +45,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:30.397705Z'
+publishDate: '2021-01-15T17:11:51.236096Z'
 publication_types:
-- 2
+- '2'
 abstract: The major barrier that prevents the application of formal verification to
   large designs is state explosion. This paper presents a new approach for verification
   of timed circuits using automatic abstraction. This approach partitions the design

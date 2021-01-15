@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:06.981755Z'
+publishDate: '2021-01-15T17:11:42.853071Z'
 publication_types:
-- 6
+- '6'
 abstract: This volume provides complete coverage of the computational approaches currently
   used in Synthetic Biology. Chapters focus on computational methods and algorithms
   for the design of bio-components, insight on CAD programs, analysis techniques,

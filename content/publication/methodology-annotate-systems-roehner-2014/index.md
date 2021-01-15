@@ -8,7 +8,10 @@ summary: ''
 authors:
 - Nicholas Roehner
 - Chris J. Myers
-tags: []
+tags:
+- '"genetic circuit"'
+- '"iBioSim"'
+- '"SBOL"'
 categories: []
 date: '2014-02-01'
 lastmod: 2020-09-27T16:55:27-03:00
@@ -29,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:27.237196Z'
+publishDate: '2021-01-15T17:11:50.083888Z'
 publication_types:
-- 2
+- '2'
 abstract: Recently, we have begun to witness the potential of synthetic biology, noted
   here in the form of bacteria and yeast that have been genetically engineered to
   produce biofuels, manufacture drug precursors, and even invade tumor cells. The

@@ -15,24 +15,24 @@ authors:
 - Falk Schreiber
 - Dagmar Waltemath
 tags:
-- 'Biological information theory'
-- 'biological system modeling'
-- 'Biological system modeling'
-- 'biological system representation'
-- 'biology computing'
-- 'COMBINE'
-- 'computational modeling biology network'
-- 'data exchange'
-- 'DNA'
-- 'information exchange'
-- 'information reuse'
-- 'interoperability'
-- 'open systems'
-- 'Proteins'
-- 'scientific results'
-- 'Standards'
-- 'text analysis'
-- 'Visualization'
+- '"bioinformatics"'
+- '"biological system modeling"'
+- '"biology computing"'
+- '"COMBINE"'
+- '"computational modeling"'
+- '"data exchange"'
+- '"DNA"'
+- '"information exchange"'
+- '"information reuse"'
+- '"interoperability"'
+- '"open systems"'
+- '"proteins"'
+- '"Proteins"'
+- '"scientific results"'
+- '"Search"'
+- '"standards"'
+- '"text analysis"'
+- '"visualization"'
 categories: []
 date: '2017-12-01'
 lastmod: 2020-09-27T16:54:54-03:00
@@ -53,9 +53,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:54.291611Z'
+publishDate: '2021-01-15T17:11:38.704612Z'
 publication_types:
-- 1
+- '1'
 abstract: Standards for data exchange are critical to the development of any field.
   They enable researchers and practitioners to transport information reliably, to
   apply a variety of tools to their problems, and to reproduce scientific results.

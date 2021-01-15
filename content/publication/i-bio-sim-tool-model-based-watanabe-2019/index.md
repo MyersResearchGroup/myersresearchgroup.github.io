@@ -13,7 +13,9 @@ authors:
 - Curtis Madsen
 - Nicholas Roehner
 - Chris Myers
-tags: []
+tags:
+- '"genetic circuit"'
+- '"iBioSim"'
 categories: []
 date: '2019-07-01'
 lastmod: 2020-09-27T16:55:18-03:00
@@ -34,9 +36,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:18.360288Z'
+publishDate: '2021-01-15T17:11:46.811508Z'
 publication_types:
-- 2
+- '2'
 abstract: The iBioSim tool has been developed to facilitate the design of genetic
   circuits via a model-based design strategy. This paper illustrates the new features
   incorporated into the tool for DNA circuit design, design analysis, and design synthesis,

@@ -8,7 +8,8 @@ authors:
 - Tomohiro Yoneda
 - Eric Mercer
 - Chris Myers
-tags: []
+tags:
+- '"Search"'
 categories: []
 date: '2002-12-01'
 lastmod: 2020-09-27T16:55:29-03:00
@@ -29,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:29.719532Z'
+publishDate: '2021-01-15T17:11:50.975343Z'
 publication_types:
-- 2
+- '2'
 abstract: This paper develops a modular synthesis algorithm for timed circuits that
   is dramatically accelerated by partial order reduction. This algorithm synthesizes
   each module in a hierarchical design individually. It utilizes partial order reduction

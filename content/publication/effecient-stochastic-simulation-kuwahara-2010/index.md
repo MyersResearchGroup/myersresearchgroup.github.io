@@ -12,7 +12,8 @@ authors:
 - Chris Myers
 - Abiezer Tejeda
 - Chris Winstead
-tags: []
+tags:
+- '"stochastic logic"'
 categories: []
 date: '2010-08-01'
 lastmod: 2020-09-27T16:55:06-03:00
@@ -33,9 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:06.314513Z'
+publishDate: '2021-01-15T17:11:42.598814Z'
 publication_types:
-- 6
+- '6'
 abstract: Open access peer-reviewed chapter
 publication: '*Stochastic Control*'
 ---

@@ -11,13 +11,13 @@ authors:
 - Chris Myers
 - Tomohiro Yoneda
 tags:
-- 'Analog Circuit'
-- 'Discrete Transition'
-- 'Hybrid Automaton'
-- 'Reachability Analysis'
-- 'Reachable State'
+- '"analog circuit"'
+- '"Discrete Transition"'
+- '"hybrid automaton"'
+- '"reachability analysis"'
+- '"reachable state"'
 categories: []
-date: '2004-01-01'
+date: '2004-11-01'
 lastmod: 2020-09-27T16:56:05-03:00
 featured: false
 draft: false
@@ -36,9 +36,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:56:04.784551Z'
+publishDate: '2021-01-15T17:12:04.513256Z'
 publication_types:
-- 1
+- '1'
 abstract: Embedded systems are composed of a heterogeneous collection of digital,
   analog, and mixed-signal hardware components. This paper presents a method for the
   verification of systems composed of such a variety of components. This method utilizes

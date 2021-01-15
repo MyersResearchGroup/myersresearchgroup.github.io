@@ -10,7 +10,9 @@ authors:
 - Nicholas Roehner
 - Zach Zundel
 - Chris J. Myers
-tags: []
+tags:
+- '"genetic circuit"'
+- '"SBOL"'
 categories: []
 date: '2016-06-01'
 lastmod: 2020-09-27T16:54:59-03:00
@@ -31,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:59.416074Z'
+publishDate: '2021-01-15T17:11:40.519337Z'
 publication_types:
-- 2
+- '2'
 abstract: 'Standards are important to synthetic biology because they enable exchange
   and reproducibility of genetic designs. This paper describes a procedure for converting
   between two standards: the Systems Biology Markup Language (SBML) and the Synthetic

@@ -12,35 +12,27 @@ authors:
 - C. Myers
 - C. Schlegel
 tags:
-- 'analog circuits'
-- 'Analog circuits'
-- 'analog signals'
-- 'analog soft-decision decoding'
-- 'block codes'
-- 'Block codes'
-- 'block product codes'
-- 'block turbo codes'
-- 'Circuit simulation'
-- 'CMOS analogue integrated circuits'
-- 'component column decoders'
-- 'component MAP decoders'
-- 'component row decoders'
-- 'decoder design'
-- 'Hamming code'
-- 'Hamming codes'
-- 'Information theory'
-- 'Iterative algorithms'
-- 'Iterative decoding'
-- 'low-power analog computation'
-- 'maximum likelihood decoding'
-- 'Parity check codes'
-- 'product codes'
-- 'Product codes'
-- 'subthreshold CMOS circuits'
-- 'Sum product algorithm'
-- 'sum-product algorithm'
-- 'turbo codes'
-- 'Turbo codes'
+- '"analog circuits"'
+- '"analog signals"'
+- '"analog soft-decision decoding"'
+- '"block codes"'
+- '"circuit"'
+- '"circuit simulation"'
+- '"CMOS"'
+- '"component decoder"'
+- '"decoder design"'
+- '"Hamming code"'
+- '"information theory"'
+- '"Iterative algorithms"'
+- '"Iterative decoding"'
+- '"low-power analog computation"'
+- '"maximum likelihood decoding"'
+- '"parity check codes"'
+- '"product codes"'
+- '"subthreshold CMOS circuits"'
+- '"sum product algorithm"'
+- '"sum-product algorithm"'
+- '"turbo codes"'
 categories: []
 date: '2002-06-01'
 lastmod: 2020-09-27T16:54:38-03:00
@@ -61,9 +53,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:38.216224Z'
+publishDate: '2021-01-15T17:11:34.002638Z'
 publication_types:
-- 1
+- '1'
 abstract: A method is presented for analog soft-decision decoding of block product
   codes (block turbo codes). Extrinsic information is exchanged as analog signals
   between component row and column decoders. The component MAP decoders use low-power

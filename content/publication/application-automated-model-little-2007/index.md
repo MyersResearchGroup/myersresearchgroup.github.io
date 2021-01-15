@@ -10,33 +10,32 @@ authors:
 - Alper Sen
 - Chris Myers
 tags:
-- 'analog/mixed-signal circuit'
-- 'analogue circuits'
-- 'automated model generation technique'
-- 'Capacitors'
-- 'circuit simulation'
-- 'Detectors'
-- 'digital simulation'
-- 'formal verification'
-- 'hardware description languages'
-- 'Hardware design languages'
-- 'Integrated circuit modeling'
-- 'labeled hybrid Petri net formal model'
-- 'mixed analogue-digital integrated circuits'
-- 'mixed-signal circuit'
-- 'modeling'
-- 'Petri nets'
-- 'phase detectors'
-- 'phase locked loops'
-- 'Phase locked loops'
-- 'piecewise linear techniques'
-- 'piecewise-linear representation'
-- 'PLL phase detector circuit'
-- 'Reactive power'
-- 'Switches'
-- 'system-level simulation'
-- 'verification'
-- 'Verilog-AMS model'
+- '"analog/mixed-signal circuit"'
+- '"analogue circuits"'
+- '"automated model generation technique"'
+- '"capacitor"'
+- '"circuit"'
+- '"circuit simulation"'
+- '"Detectors"'
+- '"digital simulation"'
+- '"formal verification"'
+- '"hardware description language"'
+- '"hardware design language"'
+- '"Integrated circuit modeling"'
+- '"labeled hybrid Petri net formal model"'
+- '"mixed analogue-digital integrated circuits"'
+- '"mixed-signal circuit"'
+- '"modeling"'
+- '"petri nets"'
+- '"phase detection"'
+- '"phase locked loops"'
+- '"piecewise linear techniques"'
+- '"PLL phase detector circuit"'
+- '"reactive power"'
+- '"switches"'
+- '"system-level simulation"'
+- '"verification"'
+- '"Verilog-AMS model"'
 categories: []
 date: '2007-12-01'
 lastmod: 2020-09-27T16:54:42-03:00
@@ -57,9 +56,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:41.903217Z'
+publishDate: '2021-01-15T17:11:35.187165Z'
 publication_types:
-- 1
+- '1'
 abstract: Abstract models of analog/mixed-signal (AMS) circuits can be used for formal
   verification and system-level simulation. The difficulty of creating these models
   precludes their widespread use. This paper presents an automated method to generate

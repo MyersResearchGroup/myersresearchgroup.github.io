@@ -9,13 +9,13 @@ authors:
 - Tomohiro Yoneda
 - Chris Myers
 tags:
-- 'Input Transition'
-- 'Output Transition'
-- 'Partial Order Reduction'
-- 'Timing Failure'
-- 'Trace Theory'
+- '"input transition"'
+- '"output transition"'
+- '"partial order reduction"'
+- '"timing failure"'
+- '"trace theory"'
 categories: []
-date: '2004-01-01'
+date: '2004-11-01'
 lastmod: 2020-09-27T16:55:33-03:00
 featured: false
 draft: false
@@ -34,9 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:33.129416Z'
+publishDate: '2021-01-15T17:11:52.497608Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper proposes a partial order reduction algorithm for timed trace
   theoretic verification in order to detect both safety failures and timing failures
   of timed circuits efficiently. This algorithm is based on the framework of timed

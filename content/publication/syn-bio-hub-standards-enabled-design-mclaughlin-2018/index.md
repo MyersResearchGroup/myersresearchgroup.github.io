@@ -14,7 +14,9 @@ authors:
 - Angel Goñi-Moreno
 - Anil Wipat
 tags:
-- SynBioHub
+- '"SBOL"'
+- '"Search"'
+- '"SynBioHub"'
 categories: []
 date: '2018-02-01'
 lastmod: 2020-09-27T16:55:52-03:00
@@ -35,9 +37,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:51.855115Z'
+publishDate: '2021-01-15T17:11:59.706022Z'
 publication_types:
-- 2
+- '2'
 abstract: The SynBioHub repository (https://synbiohub.org) is an open-source software
   project that facilitates the sharing of information about engineered biological
   systems. SynBioHub provides computational access for software and data integration,

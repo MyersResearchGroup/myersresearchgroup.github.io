@@ -9,31 +9,30 @@ authors:
 - H. Onda
 - C. Myers
 tags:
-- 'additional signals'
-- 'asynchronous circuits'
-- 'Asynchronous circuits'
-- 'circuit implementation'
-- 'Circuit synthesis'
-- 'Costs'
-- 'CSC'
-- 'decomposition method'
-- 'graph theory'
-- 'Hardware design languages'
-- 'high level synthesis'
-- 'Informatics'
-- 'Logic'
-- 'nutas'
-- 'Optimization methods'
-- 'output synthesis'
-- 'reachable state space'
-- 'Signal analysis'
-- 'Signal synthesis'
-- 'speed independent circuits'
-- 'State-space methods'
-- 'STG'
-- 'synthesis cost reduction'
-- 'timed asynchronous circuit synthesis system'
-- 'trigger signals'
+- '"additional signals"'
+- '"asynchronous circuits"'
+- '"circuit"'
+- '"circuit synthesis"'
+- '"cost"'
+- '"CSC"'
+- '"decomposition method"'
+- '"graph theory"'
+- '"hardware design language"'
+- '"high level synthesis"'
+- '"informatics"'
+- '"logic"'
+- '"nutas"'
+- '"optimization"'
+- '"output synthesis"'
+- '"reachable state space"'
+- '"signal analysis"'
+- '"signal synthesis"'
+- '"speed independent circuits"'
+- '"state-space methods"'
+- '"STG"'
+- '"synthesis cost reduction"'
+- '"timed asynchronous circuit synthesis system"'
+- '"trigger signals"'
 categories: []
 date: '2004-04-01'
 lastmod: 2020-09-27T16:55:53-03:00
@@ -54,9 +53,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:52.772660Z'
+publishDate: '2021-01-15T17:12:00.113605Z'
 publication_types:
-- 1
+- '1'
 abstract: This work presents a decomposition method for speed-independent circuit
   design that is capable of significantly reducing the cost of synthesis. In particular,
   this method synthesizes each output individually. It begins by contracting the STG

@@ -10,34 +10,30 @@ authors:
 - T.G. Rokicki
 - T.H.-Y. Meng
 tags:
-- 'Algorithm design and analysis'
-- 'asynchronous circuits'
-- 'Asynchronous circuits'
-- 'asynchronous design methodology'
-- 'automatic synthesis'
-- 'causality information'
-- 'circuit CAD'
-- 'Circuit synthesis'
-- 'concurrency information'
-- 'Concurrent computing'
-- 'Delay'
-- 'Design methodology'
-- 'Design optimization'
-- 'formal verification'
-- 'gate-level timed circuits'
-- 'graph theory'
-- 'hazard-free circuits'
-- 'high level synthesis'
-- 'Laboratories'
-- 'Petri nets'
-- 'POSET timing algorithm'
-- 'reachability analysis'
-- 'state-space methods'
-- 'State-space methods'
-- 'timed state-space exploration'
-- 'timing'
-- 'Timing'
-- 'verification'
+- '"algorithm design and analysis"'
+- '"asynchronous circuits"'
+- '"asynchronous design methodology"'
+- '"automatic synthesis"'
+- '"circuit"'
+- '"circuit CAD"'
+- '"circuit synthesis"'
+- '"concurrency"'
+- '"delay"'
+- '"design methodology"'
+- '"design optimization"'
+- '"formal verification"'
+- '"gate-level timed circuits"'
+- '"graph theory"'
+- '"hazard-free circuits"'
+- '"high level synthesis"'
+- '"laboratories"'
+- '"petri nets"'
+- '"POSET timing algorithm"'
+- '"reachability analysis"'
+- '"state-space methods"'
+- '"timed state-space exploration"'
+- '"timing"'
+- '"verification"'
 categories: []
 date: '1999-06-01'
 lastmod: 2020-09-27T16:55:34-03:00
@@ -58,9 +54,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:34.066913Z'
+publishDate: '2021-01-15T17:11:53.392948Z'
 publication_types:
-- 2
+- '2'
 abstract: This paper presents a new algorithm for timed state-space exploration, POSET
   timing, POSET timing improves upon geometric methods by utilizing concurrency and
   causality information to dramatically reduce the number of geometric regions needed

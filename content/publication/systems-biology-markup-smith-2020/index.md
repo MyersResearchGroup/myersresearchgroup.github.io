@@ -16,7 +16,8 @@ authors:
 - Maciek J. Swat
 - Darren J. Wilkinson
 - Michael Hucka
-tags: []
+tags:
+- '"stochastic logic"'
 categories: []
 date: '2020-07-01'
 lastmod: 2020-09-27T16:55:59-03:00
@@ -37,18 +38,17 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:59.392963Z'
+publishDate: '2021-01-15T17:12:02.671265Z'
 publication_types:
-- 2
-abstract: Abstract              Biological models often contain elements that have
-  inexact numerical values, since they are based on values that are stochastic in
-  nature or data that contains uncertainty. The Systems Biology Markup Language (SBML)
-  Level 3 Core specification does not include an explicit mechanism to include inexact
-  or stochastic values in a model, but it does provide a mechanism for SBML packages
-  to extend the Core specification and add additional syntactic constructs. The SBML
-  Distributions package for SBML Level 3 adds the necessary features to allow models
-  to encode information about the distribution and uncertainty of values underlying
-  a quantity.
+- '2'
+abstract: Biological models often contain elements that have inexact numerical values,
+  since they are based on values that are stochastic in nature or data that contains
+  uncertainty. The Systems Biology Markup Language (SBML) Level 3 Core specification
+  does not include an explicit mechanism to include inexact or stochastic values in
+  a model, but it does provide a mechanism for SBML packages to extend the Core specification
+  and add additional syntactic constructs. The SBML Distributions package for SBML
+  Level 3 adds the necessary features to allow models to encode information about
+  the distribution and uncertainty of values underlying a quantity.
 publication: '*Journal of Integrative Bioinformatics*'
 doi: 10.1515/jib-2020-0018
 ---

@@ -10,23 +10,22 @@ authors:
 - Andrew Price
 - Chris Myers
 tags:
-- 'asynchronous systems'
-- 'Boolean functions'
-- 'Data structures'
-- 'decision diagrams'
-- 'Decision trees'
-- 'explicit model checking'
-- 'formal verification'
-- 'Grammar'
-- 'model checker SPIN'
-- 'model checking'
-- 'Model checking'
-- 'multivalue decision diagrams'
-- 'Nickel'
-- 'Reachability analysis'
-- 'runtime overhead reduction'
-- 'state compression'
-- 'state space representation'
+- '"asynchronous systems"'
+- '"Boolean function"'
+- '"data structure"'
+- '"decision diagrams"'
+- '"Decision trees"'
+- '"explicit model checking"'
+- '"formal verification"'
+- '"grammar"'
+- '"model checker SPIN"'
+- '"model checking"'
+- '"Model checking"'
+- '"multivalue decision diagrams"'
+- '"reachability analysis"'
+- '"runtime overhead reduction"'
+- '"state compression"'
+- '"state space representation"'
 categories: []
 date: '2012-11-01'
 lastmod: 2020-09-27T16:56:04-03:00
@@ -47,9 +46,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:56:03.621661Z'
+publishDate: '2021-01-15T17:12:04.068879Z'
 publication_types:
-- 1
+- '1'
 abstract: The enormous number of states reachable during explicit model checking is
   the main bottleneck for scalability. This paper presents approaches of using decision
   diagrams to represent very large state space compactly and efficiently. This is

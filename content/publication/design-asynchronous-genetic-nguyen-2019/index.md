@@ -13,38 +13,33 @@ authors:
 - Douglas Densmore
 - Chris J. Myers
 tags:
-- 'asynchronous circuits'
-- 'Asynchronous design'
-- 'asynchronous designs'
-- 'asynchronous genetic circuits'
-- 'asynchronous logic design methods'
-- 'biological substrates'
-- 'Biological system modeling'
-- 'Clocks'
-- 'digital circuits'
-- 'digital electronic circuits'
-- 'Formal verification'
-- 'genetic circuits'
-- 'Genetic communication'
-- 'genetic design automation (GDA)'
-- 'genetic design tools'
-- 'genetic sensor'
-- 'Genetics'
-- 'high-frequency clock signal'
-- 'logic design'
-- 'Molecular communication (telecommunication)'
-- 'Production'
-- 'Proteins'
-- 'Protocols'
-- 'sequential memory elements'
-- 'standards'
-- 'Standards'
-- 'synthetic biology'
-- 'Synthetic biology'
-- 'Timing'
-- 'timing reference'
-- 'verification'
-- 'verification'
+- '"asynchronous circuits"'
+- '"asynchronous design"'
+- '"asynchronous designs"'
+- '"asynchronous genetic circuits"'
+- '"asynchronous logic design methods"'
+- '"biological system modeling"'
+- '"clock"'
+- '"digital circuit"'
+- '"digital electronic circuit"'
+- '"formal verification"'
+- '"genetic circuit"'
+- '"genetic communication"'
+- '"genetic design automation"'
+- '"genetic design tools"'
+- '"genetic sensor"'
+- '"genetics"'
+- '"high-frequency clock signal"'
+- '"logic design"'
+- '"Molecular communication (telecommunication)"'
+- '"proteins"'
+- '"protocols"'
+- '"sequential memory elements"'
+- '"standards"'
+- '"synthetic biology"'
+- '"timing"'
+- '"timing reference"'
+- '"verification"'
 categories: []
 date: '2019-07-01'
 lastmod: 2020-09-27T16:55:01-03:00
@@ -65,9 +60,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:01.612194Z'
+publishDate: '2021-01-15T17:11:41.288170Z'
 publication_types:
-- 2
+- '2'
 abstract: Most digital electronic circuits utilize a timing reference to synchronize
   the progression of signals and enable sequential memory elements. These designs
   may not be realizable in biological substrates due to the lack of a reliable high-frequency

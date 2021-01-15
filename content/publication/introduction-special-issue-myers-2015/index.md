@@ -9,12 +9,13 @@ authors:
 - Herbert Sauro
 - Anil Wipat
 tags:
-- 'abstraction'
-- 'decoupling'
-- 'genetic circuits'
-- 'genetic design automation'
-- 'standards'
-- 'Synthetic biology'
+- '"abstraction"'
+- '"decoupling"'
+- '"genetic circuit"'
+- '"genetic design automation"'
+- '"Search"'
+- '"standards"'
+- '"synthetic biology"'
 categories: []
 date: '2015-12-01'
 lastmod: 2020-09-27T16:55:23-03:00
@@ -35,9 +36,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:22.929884Z'
+publishDate: '2021-01-15T17:11:48.327120Z'
 publication_types:
-- 2
+- '2'
 abstract: The goal of this special issue is to introduce the field of computational
   synthetic biology to engineers and computer scientists. The first article gives
   an introduction to the key biological principles and experimental techniques that

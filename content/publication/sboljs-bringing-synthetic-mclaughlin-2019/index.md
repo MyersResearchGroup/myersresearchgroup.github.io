@@ -11,7 +11,8 @@ authors:
 - Nathan Wilkinson
 - Christian Atallah
 - Anil Wipat
-tags: []
+tags:
+- '"SBOL"'
 categories: []
 date: '2019-01-01'
 lastmod: 2020-09-27T16:55:41-03:00
@@ -32,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:41.062371Z'
+publishDate: '2021-01-15T17:11:55.677783Z'
 publication_types:
-- 2
+- '2'
 abstract: The Synthetic Biology Open Language (SBOL) is a data standard for the representation
   of engineered biological systems. SBOL is implemented in the form of software libraries
   which can be used to add SBOL support to both new and existing software tools. While

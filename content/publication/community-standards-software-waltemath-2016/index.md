@@ -63,36 +63,29 @@ authors:
 - Anna Zhukova
 - Falk Schreiber
 tags:
-- 'Biological system modeling'
-- 'biology computing'
-- 'cellular biophysics'
-- 'comprehensive models'
-- 'Computational biology'
-- 'Computational Biology'
-- 'Computational modeling'
-- 'Computer Simulation'
-- 'computer software'
-- 'current standards'
-- 'Cytological Techniques'
-- 'education'
-- 'Female'
-- 'Humans'
-- 'Male'
-- 'Mathematical model'
-- 'Models; Biological'
-- 'Optical wavelength conversion'
-- 'simulation'
-- 'software'
-- 'Software'
-- 'standards'
-- 'Standards'
-- 'systems biology'
-- 'Systems biology'
-- 'Systems Biology'
-- 'systems biology markup language'
-- 'WC modeling standards'
-- 'whole-cell (WC) modeling'
-- 'whole-cell modeling'
+- '"biological system modeling"'
+- '"biology computing"'
+- '"cellular biophysics"'
+- '"comprehensive model"'
+- '"computational biology"'
+- '"computational modeling"'
+- '"current standard"'
+- '"cytological"'
+- '"education"'
+- '"female"'
+- '"humans"'
+- '"Male"'
+- '"Mathematical model"'
+- '"Models; Biological"'
+- '"optical wavelength conversion"'
+- '"Search"'
+- '"simulation"'
+- '"software"'
+- '"standards"'
+- '"systems biology"'
+- '"systems biology markup language"'
+- '"WC modeling standards"'
+- '"whole-cell modeling"'
 categories: []
 date: '2016-10-01'
 lastmod: 2020-09-27T16:54:56-03:00
@@ -113,9 +106,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:56.555547Z'
+publishDate: '2021-01-15T17:11:39.481335Z'
 publication_types:
-- 2
+- '2'
 abstract: 'Objective: Whole-cell (WC) modeling is a promising tool for biological
   research, bioengineering, and medicine. However, substantial work remains to create
   accurate comprehensive models of complex cells. Methods: We organized the 2015 Whole-Cell

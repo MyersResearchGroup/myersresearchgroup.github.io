@@ -7,7 +7,10 @@ summary: ''
 authors:
 - Michael Zhang
 tags:
-- SBOLDesigner
+- '"genetic circuit"'
+- '"SBOL"'
+- '"SBOLDesigner"'
+- '"Search"'
 categories: []
 date: '2018-04-01'
 lastmod: 2020-09-27T16:55:39-03:00
@@ -28,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:39.676076Z'
+publishDate: '2021-01-15T17:11:55.171575Z'
 publication_types:
-- 7
+- '7'
 abstract: Synthetic biology, as a field of research, applies electrical engineering,
   systems biology, and bioinformatics to genetic circuit design. Software tools are
   leveraged to provide rapid iteration through the design space, and data standards

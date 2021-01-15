@@ -6,7 +6,9 @@ subtitle: ''
 summary: ''
 authors:
 - L Watanabe
-tags: []
+tags:
+- '"iBioSim"'
+- '"stochastic logic"'
 categories: []
 date: '2014-05-01'
 lastmod: 2020-09-27T16:55:16-03:00
@@ -27,9 +29,19 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:16.620973Z'
+publishDate: '2021-01-15T17:11:46.301322Z'
 publication_types:
-- 7
-abstract: ''
+- '7'
+abstract: This thesis describes a hierarchical stochastic simulation algorithm which
+  has been implemented within iBioSim, a tool used to model, analyze, and visualize
+  genetic circuits. Many biological analysis tools flatten out hierarchy before simulation,
+  but there are many disadvantages associated with this approach. First, the memory
+  required to represent the model can quickly expand in the process. Second, the flattening
+  process is computationally expensive. Finally, when modeling a dynamic cellular
+  population within iBioSim, inlining the hierarchy of the model is inefficient since
+  models must grow dynamically over time. This paper discusses a new approach to handle
+  hierarchy on the fly to make the tool faster and more memory-efficient. This approach
+  yields significant performance improvements as compared to the former flat analysis
+  method.
 publication: ''
 ---

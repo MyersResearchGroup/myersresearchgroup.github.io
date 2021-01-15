@@ -8,7 +8,8 @@ authors:
 - A. Fisher
 - D. Kulkarni
 - C. Myers
-tags: []
+tags:
+- '"Search"'
 categories: []
 date: '2015-01-01'
 lastmod: 2020-09-27T16:55:31-03:00
@@ -29,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:31.158651Z'
+publishDate: '2021-01-15T17:11:51.383665Z'
 publication_types:
-- 6
+- '6'
 abstract: This book brings together a selection of the best papers from the sixteenth
   edition of the Forum on specification and Design Languages Conference (FDL), which
   was held in September 2013 in Paris, France. FDL is a well-established international

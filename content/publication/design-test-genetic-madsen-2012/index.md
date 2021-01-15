@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Design and Test of Genetic Circuits Using iBioSim
+title: Design and Test of Genetic Circuits Using  tt p̌hantomiBioSimȟantom
 subtitle: ''
 summary: ''
 authors:
@@ -12,21 +12,22 @@ authors:
 - Jason T. Stevens
 - Chris Winstead
 tags:
-- 'Analytical models'
-- 'bioinformatics'
-- 'biological system'
-- 'data visualisation'
-- 'DNA'
-- 'formal model'
-- 'genetic circuit'
-- 'genetics'
-- 'iBioSim'
-- 'Integrated circuit modeling'
-- 'Molecular biophysics'
-- 'simulation environment'
-- 'Stochastic processes'
-- 'test'
-- 'visual design process'
+- '"analytical models"'
+- '"bioinformatics"'
+- '"biological system modeling"'
+- '"data visualisation"'
+- '"DNA"'
+- '"formal model"'
+- '"genetic circuit"'
+- '"genetics"'
+- '"iBioSim"'
+- '"Integrated circuit modeling"'
+- '"Molecular biophysics"'
+- '"simulation environment"'
+- '"stochastic logic"'
+- '"stochastic processes"'
+- '"test"'
+- '"visual design process"'
 categories: []
 date: '2012-06-01'
 lastmod: 2020-09-27T16:55:04-03:00
@@ -47,9 +48,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:03.856201Z'
+publishDate: '2021-01-15T17:11:41.813698Z'
 publication_types:
-- 2
+- '2'
 abstract: The simulation of biological systems prior to their physical implementation
   can save time, money, and potentially provide insights into alternate designs. This
   paper presents a simulation environment which allows for a visual design process

@@ -16,33 +16,33 @@ authors:
 - M. Roncken
 - B. Agapiev
 tags:
-- 'asynchronous circuits'
-- 'asynchronous design methodology'
-- 'asynchronous instruction length decoder'
-- 'circuit CAD'
-- 'Circuit testing'
-- 'CMOS process'
-- 'CMOS technology'
-- 'Decoding'
-- 'Delay'
-- 'Design methodology'
-- 'high-speed integrated circuits'
-- 'IA32 instruction length'
-- 'integrated circuit design'
-- 'latency'
-- 'logic CAD'
-- 'low-power electronics'
-- 'microprocessor chips'
-- 'Prototypes'
-- 'RAPPID'
-- 'revolving asynchronous Pentium processor instruction decoder'
-- 'Risk management'
-- 'self-timed techniques'
-- 'steering unit'
-- 'Technology management'
-- 'throughput'
-- 'Throughput'
-- 'timing'
+- '"asynchronous circuits"'
+- '"asynchronous design methodology"'
+- '"asynchronous instruction length decoder"'
+- '"circuit"'
+- '"circuit CAD"'
+- '"circuit testing"'
+- '"CMOS"'
+- '"decoding"'
+- '"delay"'
+- '"design methodology"'
+- '"high-speed integrated circuits"'
+- '"IA32 instruction length"'
+- '"integrated circuit design"'
+- '"latency"'
+- '"logic CAD"'
+- '"low-power electronics"'
+- '"microprocessor chips"'
+- '"prototypes"'
+- '"RAPPID"'
+- '"revolving asynchronous pentium processor instruction decoder"'
+- '"risk management"'
+- '"Search"'
+- '"self-timed techniques"'
+- '"steering unit"'
+- '"technology management"'
+- '"throughput"'
+- '"timing"'
 categories: []
 date: '1999-04-01'
 lastmod: 2020-09-27T16:55:37-03:00
@@ -63,9 +63,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:37.366876Z'
+publishDate: '2021-01-15T17:11:54.405320Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper describes an investigation of potential advantages and risks
   of applying an aggressive asynchronous design methodology to Intel Architecture.
   RAPPID (\"Revolving Asynchronous Pentium(R) Processor Instruction Decoder\"), a

@@ -7,7 +7,9 @@ summary: ''
 authors:
 - Jason T. Stevens
 - Chris J. Myers
-tags: []
+tags:
+- '"genetic circuit"'
+- '"iBioSim"'
 categories: []
 date: '2013-05-01'
 lastmod: 2020-09-27T16:55:06-03:00
@@ -28,9 +30,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:05.890635Z'
+publishDate: '2021-01-15T17:11:42.474888Z'
 publication_types:
-- 2
+- '2'
 abstract: As the complexity of synthetic genetic circuits increases, modeling is becoming
   a necessary first step to inform subsequent experimental efforts. In recent years,
   the design automation community has developed a wealth of computational tools for

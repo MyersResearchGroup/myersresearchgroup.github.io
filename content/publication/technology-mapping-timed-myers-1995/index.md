@@ -9,28 +9,28 @@ authors:
 - P.A. Beerel
 - T.H.-Y. Meng
 tags:
-- 'AND gates'
-- 'asynchronous circuits'
-- 'Asynchronous circuits'
-- 'ATACS'
-- 'C-elements'
-- 'Circuit synthesis'
-- 'Clocks'
-- 'CMOS technology'
-- 'Delay'
-- 'Design methodology'
-- 'Design optimization'
-- 'gate library'
-- 'Laboratories'
-- 'Libraries'
-- 'logic CAD'
-- 'logic design'
-- 'OR gates'
-- 'synthesis tool'
-- 'timed circuits'
-- 'timing'
-- 'Timing'
-- 'timing information'
+- '"AND gates"'
+- '"asynchronous circuits"'
+- '"ATACS"'
+- '"ATACS design tool"'
+- '"C-elements"'
+- '"circuit"'
+- '"circuit synthesis"'
+- '"clock"'
+- '"CMOS"'
+- '"delay"'
+- '"design methodology"'
+- '"design optimization"'
+- '"gate library"'
+- '"laboratories"'
+- '"libraries"'
+- '"logic CAD"'
+- '"logic design"'
+- '"or gates"'
+- '"synthesis tool"'
+- '"timed circuits"'
+- '"timing"'
+- '"timing information"'
 categories: []
 date: '1995-05-01'
 lastmod: 2020-09-27T16:56:00-03:00
@@ -51,9 +51,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:56:00.115039Z'
+publishDate: '2021-01-15T17:12:02.935044Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper presents an automated procedure for the technology mapping of
   timed circuits to practical gate libraries. Timed circuits are a class of asynchronous
   circuits that incorporate explicit timing information in the specification which

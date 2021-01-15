@@ -10,13 +10,13 @@ authors:
 - Chris J. Myers
 - Herbert M. Sauro
 tags:
-- 'bio-design automation'
-- 'biological parts'
-- 'chemical reaction networks'
-- 'genetic circuits'
-- 'rule-based modeling'
-- 'synthetic biology'
-- 'systems biology'
+- '"bio-design automation"'
+- '"biological parts"'
+- '"chemical reaction network"'
+- '"genetic circuit"'
+- '"rule-based modeling"'
+- '"synthetic biology"'
+- '"systems biology"'
 categories: []
 date: '2012-11-01'
 lastmod: 2020-09-27T16:55:28-03:00
@@ -37,9 +37,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:28.151753Z'
+publishDate: '2021-01-15T17:11:50.477168Z'
 publication_types:
-- 1
+- '1'
 abstract: Circuit designers are increasingly more drawn to challenges in modeling
   and designing biological circuits and systems. While the principles of biological
   organization and architecture resemble those in systems that engineers are designing,

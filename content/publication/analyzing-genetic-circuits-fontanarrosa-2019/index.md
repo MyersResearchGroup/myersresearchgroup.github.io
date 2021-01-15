@@ -11,7 +11,8 @@ authors:
 - Yuval Dorfan
 - Chris Voigt
 - Chris Myers
-tags: []
+tags:
+- '"genetic circuit"'
 categories: []
 date: '2019-07-01'
 lastmod: 2020-09-27T16:54:41-03:00
@@ -32,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:40.706405Z'
+publishDate: '2021-01-15T17:11:34.794984Z'
 publication_types:
-- 1
+- '1'
 abstract: ''
 publication: '*11th International Workshop on Bio-Design Automation*'
 ---

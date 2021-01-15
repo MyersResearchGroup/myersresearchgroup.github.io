@@ -11,7 +11,9 @@ authors:
 - H. Kuwahara
 - C. Madsen
 - N.-P. D. Nguyen
-tags: []
+tags:
+- '"genetic circuit"'
+- '"iBioSim"'
 categories: []
 date: '2009-11-01'
 lastmod: 2020-09-27T16:55:18-03:00
@@ -32,9 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:18.057134Z'
+publishDate: '2021-01-15T17:11:46.694344Z'
 publication_types:
-- 2
+- '2'
 abstract: ''
 publication: '*Bioinformatics*'
 doi: 10.1093/bioinformatics/btp457

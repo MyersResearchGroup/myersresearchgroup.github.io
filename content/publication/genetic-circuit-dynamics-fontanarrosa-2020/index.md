@@ -11,11 +11,12 @@ authors:
 - Yuval Dorfan
 - Christopher A. Voigt
 - Chris Myers
-tags: []
+tags:
+- '"genetic circuit"'
 categories: []
 date: '2020-08-01'
 lastmod: 2020-09-27T16:55:14-03:00
-featured: true
+featured: false
 draft: false
 
 # Featured image
@@ -32,9 +33,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:14.486643Z'
+publishDate: '2021-01-15T17:11:45.498118Z'
 publication_types:
-- 2
+- '2'
 abstract: Multiple input changes can cause unwanted switching variations, or glitches,
   in the output of genetic combinational circuits. These glitches can have drastic
   effects if the output of the circuit causes irreversible changes within or with

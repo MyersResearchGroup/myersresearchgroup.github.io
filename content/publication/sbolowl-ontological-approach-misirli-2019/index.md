@@ -14,7 +14,9 @@ authors:
 - John H. Gennari
 - Phillip Lord
 - Anil Wipat
-tags: []
+tags:
+- '"genetic circuit"'
+- '"SBOL"'
 categories: []
 date: '2019-07-01'
 lastmod: 2020-09-27T16:55:41-03:00
@@ -35,9 +37,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:41.702471Z'
+publishDate: '2021-01-15T17:11:55.933018Z'
 publication_types:
-- 2
+- '2'
 abstract: Standard representation of data is key for the reproducibility of designs
   in synthetic biology. The Synthetic Biology Open Language (SBOL) has already emerged
   as a data standard to represent information about genetic circuits, and it is based

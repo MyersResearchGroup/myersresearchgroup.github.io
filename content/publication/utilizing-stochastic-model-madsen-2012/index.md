@@ -11,31 +11,29 @@ authors:
 - Chris Winstead
 - Zhen Zhang
 tags:
-- 'Analytical models'
-- 'complex networks'
-- 'Computational modeling'
-- 'continuous stochastic logic'
-- 'continuous time Markov chain'
-- 'CSL properties'
-- 'CTMC'
-- 'equivalent circuits'
-- 'genetic circuit analysis'
-- 'genetic circuit complexity'
-- 'genetic circuit design'
-- 'genetic circuits'
-- 'genetic toggle switch'
-- 'genetics'
-- 'Genetics'
-- 'Integrated circuit modeling'
-- 'markov chain analysis'
-- 'Markov processes'
-- 'molecular biophysics'
-- 'Production'
-- 'stochastic model checking'
-- 'Stochastic processes'
-- 'Switches'
-- 'synthetic biology'
-- 'transient Markov chain analysis'
+- '"analytical models"'
+- '"complex network"'
+- '"computational modeling"'
+- '"continuous time Markov chain"'
+- '"CSL properties"'
+- '"equivalent circuits"'
+- '"genetic circuit"'
+- '"genetic circuit analysis"'
+- '"genetic circuit complexity"'
+- '"genetic circuit design"'
+- '"genetic toggle switch"'
+- '"genetics"'
+- '"Integrated circuit modeling"'
+- '"markov chain analysis"'
+- '"Markov processes"'
+- '"molecular biophysics"'
+- '"Search"'
+- '"stochastic logic"'
+- '"stochastic model checking"'
+- '"stochastic processes"'
+- '"switches"'
+- '"synthetic biology"'
+- '"transient Markov chain analysis"'
 categories: []
 date: '2012-05-01'
 lastmod: 2020-09-27T16:56:04-03:00
@@ -56,9 +54,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:56:04.124315Z'
+publishDate: '2021-01-15T17:12:04.206331Z'
 publication_types:
-- 1
+- '1'
 abstract: When designing and analyzing genetic circuits, researchers are often interested
   in the probability of the system reaching a given state within a certain amount
   of time. Usually, this involves simulating the system to produce some time series

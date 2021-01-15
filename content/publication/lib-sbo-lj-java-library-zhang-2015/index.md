@@ -18,16 +18,15 @@ authors:
 - Anil Wipat
 - Chris J. Myers
 tags:
-- 'Application programming interfaces'
-- 'computational biology'
-- 'Computational biology'
-- 'Java'
-- 'software libraries'
-- 'Software libraries'
-- 'software tools'
-- 'Software tools'
-- 'synthetic biology'
-- 'Synthetic biology'
+- '"application programming interfaces"'
+- '"computational biology"'
+- '"genetic circuit"'
+- '"Java"'
+- '"SBOL"'
+- '"Search"'
+- '"software libraries"'
+- '"software tools"'
+- '"synthetic biology"'
 categories: []
 date: '2015-12-01'
 lastmod: 2020-09-27T16:55:26-03:00
@@ -48,9 +47,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:25.936669Z'
+publishDate: '2021-01-15T17:11:49.531576Z'
 publication_types:
-- 2
+- '2'
 abstract: The Synthetic Biology Open Language (SBOL) is an emerging data standard
   for representing synthetic biology designs. The goal of SBOL is to improve the reproducibility
   of these designs and their electronic exchange between researchers and/or genetic

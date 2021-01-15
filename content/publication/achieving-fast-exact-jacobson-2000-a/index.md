@@ -10,22 +10,22 @@ authors:
 - C. Myers
 - G. Gopalakrishman
 tags:
-- 'asynchronous circuits'
-- 'Automata'
-- 'Circuit synthesis'
-- 'Computer science'
-- 'finite state machines'
-- 'hazard-free logic minimization'
-- 'Hazards'
-- 'Iterative methods'
-- 'Jacobian matrices'
-- 'Logic circuits'
-- 'logic minimization'
-- 'Microprocessors'
-- 'minimisation of switching nets'
-- 'Minimization methods'
-- 'Space exploration'
-- 'state graph exploration'
+- '"asynchronous circuits"'
+- '"automata"'
+- '"circuit"'
+- '"circuit synthesis"'
+- '"finite state machine"'
+- '"hazard-free logic minimization"'
+- '"hazards"'
+- '"Iterative methods"'
+- '"Jacobian matrices"'
+- '"logic circuits"'
+- '"logic minimization"'
+- '"Microprocessors"'
+- '"minimisation of switching nets"'
+- '"Minimization methods"'
+- '"space exploration"'
+- '"state graph exploration"'
 categories: []
 date: '2000-11-01'
 lastmod: 2020-09-27T16:54:37-03:00
@@ -46,9 +46,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:36.997682Z'
+publishDate: '2021-01-15T17:11:33.736017Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper presents a new approach to two-level hazard-free logic minimization
   in the context of extended burst-mode finite state machine synthesis targeting generalized
   C-elements (gC). No currently available minimizers for literal-exact two-level hazard-free

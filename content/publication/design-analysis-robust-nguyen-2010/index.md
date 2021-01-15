@@ -11,8 +11,9 @@ authors:
 - Chris Winstead
 - James Keener
 tags:
-- 'Genetic circuit'
-- 'Synthetic logic gate'
+- '"genetic circuit"'
+- '"stochastic logic"'
+- '"synthetic logic gate"'
 categories: []
 date: '2010-05-01'
 lastmod: 2020-09-27T16:55:01-03:00
@@ -33,9 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:00.990855Z'
+publishDate: '2021-01-15T17:11:41.026607Z'
 publication_types:
-- 2
+- '2'
 abstract: 'This paper presents results on the design and analysis of a robust genetic
   Muller C-element. The Muller C-element is a standard logic gate commonly used to
   synchronize independent processes in most asynchronous electronic circuits. Synthetic

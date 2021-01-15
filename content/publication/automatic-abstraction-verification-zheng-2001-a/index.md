@@ -9,13 +9,13 @@ authors:
 - Eric Mercer
 - Chris Myers
 tags:
-- 'Constraint Place'
-- 'Marked Graph'
-- 'Sequencing Transition'
-- 'Time Circuit'
-- 'Trace Theory'
+- '"constraint matrix"'
+- '"Marked Graph"'
+- '"sequencing transition"'
+- '"time circuit"'
+- '"trace theory"'
 categories: []
-date: '2001-01-01'
+date: '2001-07-01'
 lastmod: 2020-09-27T16:54:50-03:00
 featured: false
 draft: false
@@ -34,9 +34,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:50.305741Z'
+publishDate: '2021-01-15T17:11:37.399873Z'
 publication_types:
-- 1
+- '1'
 abstract: This paper presents a new approach for verification of asynchronous circuits
   by using automatic abstraction. It attacks the state explosion problem by avoiding
   the generation of a flat state space for the whole design. Instead, it breaks the

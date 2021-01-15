@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:27.876527Z'
+publishDate: '2021-01-15T17:11:50.353086Z'
 publication_types:
-- 1
+- '1'
 abstract: Advantages of formal verification are offset by the difficulties in the
   generating of good system models. This paper presents an improvement to the existing
   method, which generates models from a set of simulation traces. The proposed methodology

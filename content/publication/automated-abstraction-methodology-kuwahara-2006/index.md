@@ -10,7 +10,8 @@ authors:
 - Michael S. Samoilov
 - Nathan A. Barker
 - Adam P. Arkin
-tags: []
+tags:
+- '"genetic circuit"'
 categories: []
 date: '2006-01-01'
 lastmod: 2020-09-27T16:54:48-03:00
@@ -31,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:48.357951Z'
+publishDate: '2021-01-15T17:11:36.854835Z'
 publication_types:
-- 6
+- '6'
 abstract: ''
 publication: '*Transactions on Computational Systems Biology VI*'
 doi: 10.1007/11880646_7

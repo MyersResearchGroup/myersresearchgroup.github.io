@@ -12,40 +12,31 @@ authors:
 - R.R. Harrison
 - C. Schlegel
 tags:
-- '(8;4) Hamming code'
-- '0.5 micron'
-- '1 mW'
-- '10 Mbit/s'
-- '2 Mbit/s'
-- 'Ambient intelligence'
-- 'AMI 0.5/spl mu/m process'
-- 'analog circuits'
-- 'Analog circuits'
-- 'analog computation'
-- 'Analog computers'
-- 'Bit rate'
-- 'Circuit simulation'
-- 'Circuit testing'
-- 'CMOS analog MAP decoder'
-- 'CMOS analog MAP decoders'
-- 'CMOS analogue integrated circuits'
-- 'CMOS process'
-- 'decoder circuit'
-- 'decoder designs'
-- 'Energy consumption'
-- 'Hamming codes'
-- 'high speed iterative applications'
-- 'high-speed integrated circuits'
-- 'iterative decoding'
-- 'Iterative decoding'
-- 'iterative decoding systems'
-- 'maximum a posteriori decoding'
-- 'strong inversion'
-- 'translinear tail-biting MAP error-control decoder'
-- 'turbo codes'
-- 'Turbo codes'
-- 'Viterbi decoding'
-- 'Viterbi-style decoders'
+- '"(8;4) Hamming code"'
+- '"ambient intelligence"'
+- '"AMI 0.5/spl mu/m process"'
+- '"analog circuits"'
+- '"analog computation"'
+- '"analog computers"'
+- '"circuit"'
+- '"circuit simulation"'
+- '"circuit testing"'
+- '"CMOS"'
+- '"decoder circuit"'
+- '"decoder design"'
+- '"energy consumption"'
+- '"Hamming code"'
+- '"high speed iterative applications"'
+- '"high-speed integrated circuits"'
+- '"iterative decoding"'
+- '"Iterative decoding"'
+- '"iterative decoding systems"'
+- '"maximum a posteriori decoding"'
+- '"strong inversion"'
+- '"translinear tail-biting MAP error-control decoder"'
+- '"turbo codes"'
+- '"Viterbi decoding"'
+- '"Viterbi-style decoders"'
 categories: []
 date: '2004-01-01'
 lastmod: 2020-09-27T16:54:56-03:00
@@ -66,9 +57,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:55.843448Z'
+publishDate: '2021-01-15T17:11:39.206310Z'
 publication_types:
-- 2
+- '2'
 abstract: Design and test results for a fully integrated translinear tail-biting MAP
   error-control decoder are presented. Decoder designs have been reported for various
   applications which make use of analog computation, mostly for Viterbi-style decoders.

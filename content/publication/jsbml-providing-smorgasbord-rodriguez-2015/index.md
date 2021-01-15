@@ -48,12 +48,11 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:23.999019Z'
+publishDate: '2021-01-15T17:11:48.716879Z'
 publication_types:
-- 2
-abstract: 'Abstract.  Summary: JSBML, the official pure Java programming library for
-  the Systems Biology Markup Language (SBML) format, has evolved with the advent of
-  diff'
+- '2'
+abstract: JSBML, the official pure Java programming library for the Systems Biology
+  Markup Language (SBML) format, has evolved with the advent of diff
 publication: '*Bioinformatics*'
 doi: 10.1093/bioinformatics/btv341
 ---

@@ -11,27 +11,25 @@ authors:
 - Emmanuel Rodriguez
 - Yingying Zhang
 tags:
-- 'Approximation methods'
-- 'Complexity theory'
-- 'component state transition models'
-- 'compositional model checking'
-- 'compositional verification framework'
-- 'Concrete'
-- 'concurrency (computers)'
-- 'concurrent systems'
-- 'formal verification'
-- 'Formal verification; model checking; compositional reasoning; minimization; concurrency'
-- 'global safety properties'
-- 'high-level description language'
-- 'Integrated circuit modeling'
-- 'local state transition models'
-- 'Model checking'
-- 'partial-order reduction'
-- 'reduced global model'
-- 'Safety'
-- 'Silicon'
-- 'state explosion problem'
-- 'state space reductions'
+- '"approximation methods"'
+- '"complexity"'
+- '"Complexity theory"'
+- '"component model"'
+- '"compositional model checking"'
+- '"concurrency"'
+- '"formal verification"'
+- '"global safety properties"'
+- '"high-level description language"'
+- '"Integrated circuit modeling"'
+- '"local state transition models"'
+- '"minimization"'
+- '"Model checking"'
+- '"partial-order reduction"'
+- '"reduced global model"'
+- '"safety"'
+- '"silicon"'
+- '"state explosion problem"'
+- '"state space reductions"'
 categories: []
 date: '2015-06-01'
 lastmod: 2020-09-27T16:54:58-03:00
@@ -52,9 +50,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:54:58.026677Z'
+publishDate: '2021-01-15T17:11:40.008286Z'
 publication_types:
-- 2
+- '2'
 abstract: This paper presents a compositional framework to address the state explosion
   problem in model checking of concurrent systems. This framework takes as input a
   system model described as a network of communicating components in a high-level

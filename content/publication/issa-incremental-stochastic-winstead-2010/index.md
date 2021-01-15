@@ -9,29 +9,28 @@ authors:
 - Curtis Madsen
 - Chris Myers
 tags:
-- 'Analytical models'
-- 'biochemical process'
-- 'biochemistry'
-- 'biomolecular electronics'
-- 'cellular biophysics'
-- 'Chemicals'
-- 'Circadian rhythm'
-- 'circadian rhythm model'
-- 'Circuit analysis'
-- 'circuit simulation'
-- 'Circuit simulation'
-- 'Gene expression'
-- 'genetics'
-- 'Genetics'
-- 'incremental stochastic simulation algorithm'
-- 'iSSA'
-- 'living cells'
-- 'Predictive models'
-- 'Statistics'
-- 'stochastic processes'
-- 'Stochastic processes'
-- 'synthetic dual feedback genetic oscillator'
-- 'synthetic genetic circuits'
+- '"analytical models"'
+- '"biology computing"'
+- '"cellular biophysics"'
+- '"Circadian rhythm"'
+- '"circuit"'
+- '"circuit analysis"'
+- '"circuit simulation"'
+- '"gene expression"'
+- '"genetic circuit"'
+- '"genetics"'
+- '"incremental stochastic simulation algorithm"'
+- '"iSSA"'
+- '"living cells"'
+- '"modeling"'
+- '"predictive models"'
+- '"Predictive models"'
+- '"Search"'
+- '"statistics"'
+- '"stochastic logic"'
+- '"stochastic processes"'
+- '"synthetic dual feedback genetic oscillator"'
+- '"synthetic genetic circuits"'
 categories: []
 date: '2010-05-01'
 lastmod: 2020-09-27T16:55:23-03:00
@@ -52,9 +51,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:23.623034Z'
+publishDate: '2021-01-15T17:11:48.581854Z'
 publication_types:
-- 1
+- '1'
 abstract: Researchers are now developing synthetic genetic circuits to manipulate
   the biochemical processes within living cells. In order to model and predict the
   behavior of these circuits, the designer must account for numerous reactions among

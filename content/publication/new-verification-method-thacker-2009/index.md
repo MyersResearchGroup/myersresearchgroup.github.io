@@ -27,9 +27,15 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:31.921612Z'
+publishDate: '2021-01-15T17:11:51.635318Z'
 publication_types:
-- 7
-abstract: ''
+- '7'
+abstract: Cyber-physical systems, in which computers control real-world mechanisms,
+  are ever more pervasive in our society. These complex systems, containing a mixture
+  of software, digital hardware, and analog circuitry, are often employed in circumstances
+  where their correct behavior is crucial to the safety of their operators. Therefore,
+  verifi cation of such systems would be of great value. This dissertation introduces
+  a modeling and   veri fication methodology sufficiently powerful to manage the complications
+  inherent in this mixeddiscipline design space.
 publication: ''
 ---

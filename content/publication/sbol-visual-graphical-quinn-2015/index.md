@@ -28,14 +28,15 @@ authors:
 - Anil Wipat
 - Herbert M. Sauro
 tags:
-- 'DNA'
-- 'Genetic engineering'
-- 'Genetics'
-- 'Language'
-- 'Ontologies'
-- 'Pigeons'
-- 'Software tools'
-- 'Synthetic biology'
+- '"DNA"'
+- '"genetic circuit"'
+- '"genetic engineering"'
+- '"genetics"'
+- '"Language"'
+- '"ontologies"'
+- '"SBOL"'
+- '"software tools"'
+- '"synthetic biology"'
 categories: []
 date: '2015-12-01'
 lastmod: 2020-09-27T16:55:42-03:00
@@ -56,9 +57,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:41.980693Z'
+publishDate: '2021-01-15T17:11:56.062603Z'
 publication_types:
-- 2
+- '2'
 abstract: 'Synthetic Biology Open Language (SBOL) Visual is a graphical standard for
   genetic engineering. It consists of symbols representing DNA subsequences, including
   regulatory elements and DNA assembly features. These symbols can be used to draw

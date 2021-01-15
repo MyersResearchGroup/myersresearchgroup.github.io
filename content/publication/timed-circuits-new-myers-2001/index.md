@@ -31,9 +31,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:56:01.297878Z'
+publishDate: '2021-01-15T17:12:03.358463Z'
 publication_types:
-- 1
+- '1'
 abstract: In order to continue to produce circuits of increasing speeds, designers
   must consider aggressive circuit design styles such as self-resetting or delayed-reset
   domino circuits used in IBM's gigahertz processor (GUTS) and asynchronous circuits

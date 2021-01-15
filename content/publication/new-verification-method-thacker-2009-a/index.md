@@ -10,34 +10,32 @@ authors:
 - Kevin Jones
 - Scott R. Little
 tags:
-- 'actuators'
-- 'Actuators'
-- 'analog sensors'
-- 'analogue circuits'
-- 'Assembly'
-- 'Boolean variables'
-- 'continuous variables'
-- 'digital hardware'
-- 'discrete variables'
-- 'Embedded software'
-- 'Embedded system'
-- 'embedded systems'
-- 'embedded systems verification'
-- 'Fault tolerance'
-- 'fault tolerant computing'
-- 'fault-tolerant temperature sensor'
-- 'formal verification'
-- 'Hardware'
-- 'heterogeneous components'
-- 'High level languages'
-- 'labeled hybrid Petri net model'
-- 'low level software'
-- 'Petri nets'
-- 'Sensor systems'
-- 'single modeling formalism'
-- 'State-space methods'
-- 'temperature sensors'
-- 'Temperature sensors'
+- '"actuators"'
+- '"analog sensors"'
+- '"analogue circuits"'
+- '"assembly"'
+- '"Boolean variable"'
+- '"continuous"'
+- '"digital hardware"'
+- '"discrete variables"'
+- '"Embedded software"'
+- '"Embedded system"'
+- '"embedded systems"'
+- '"embedded systems verification"'
+- '"Fault tolerance"'
+- '"fault tolerant computing"'
+- '"fault-tolerant temperature sensor"'
+- '"formal verification"'
+- '"hardware"'
+- '"heterogeneous components"'
+- '"high level languages"'
+- '"labeled hybrid Petri net model"'
+- '"low level software"'
+- '"petri nets"'
+- '"sensor systems"'
+- '"single modeling formalism"'
+- '"state-space methods"'
+- '"temperature sensors"'
 categories: []
 date: '2009-10-01'
 lastmod: 2020-09-27T16:55:32-03:00
@@ -58,9 +56,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:32.217852Z'
+publishDate: '2021-01-15T17:11:51.753156Z'
 publication_types:
-- 1
+- '1'
 abstract: Verification of embedded systems is complicated by the fact that they are
   composed of digital hardware, analog sensors and actuators, and low level software.
   In order to verify the interaction of these heterogeneous components, it would be

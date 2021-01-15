@@ -19,12 +19,14 @@ authors:
 - Dagmar Waltemath
 - Nicolas Le Novère
 tags:
-- 'Biology'
-- 'computational modeling'
-- 'data sharing'
-- 'File formats'
-- 'reproducible science'
-- 'standardization'
+- '"biological ontology"'
+- '"biology computing"'
+- '"computational modeling"'
+- '"data sharing"'
+- '"file format"'
+- '"reproducible science"'
+- '"Search"'
+- '"standardization"'
 categories: []
 date: '2015-01-01'
 lastmod: 2020-09-27T16:55:35-03:00
@@ -45,9 +47,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:35.242738Z'
+publishDate: '2021-01-15T17:11:53.782342Z'
 publication_types:
-- 2
+- '2'
 abstract: COMBINE (Computational Modeling in Biology Network) is a consortium of groups
   involved in the development of open community standards and formats used in computational
   modeling in biology. COMBINE's aim is to act as a coordinator, facilitator, and

@@ -7,7 +7,11 @@ summary: ''
 authors:
 - Michael Zhang
 tags:
-- SynBioHub
+- '"genetic circuit"'
+- '"SBOL"'
+- '"SBOLExplorer"'
+- '"Search"'
+- '"SynBioHub"'
 categories: []
 date: '2019-05-01'
 lastmod: 2020-09-27T16:55:41-03:00
@@ -28,9 +32,9 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2020-09-27T19:55:40.624539Z'
+publishDate: '2021-01-15T17:11:55.544912Z'
 publication_types:
-- 7
+- '7'
 abstract: Biology is a very noisy field. Experiments are difficult to reproduce, the
   mechanisms behind life are not well understood, and data that we do obtain is difficult
   to make sense of. Much like traditional engineering fields where engineers draw
