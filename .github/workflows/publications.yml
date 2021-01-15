@@ -20,14 +20,13 @@ jobs:
     steps:
       - name: Set variables
         env:
-          branch2: $(echo $RANDOM)
+          branch2: echo Pub-$GITHUB_RUN_NUMBER
         run: |
           echo "::set-output name=random-id::$(echo $RANDOM)"
           branch_name="pub-$RANDOM"
           echo $branch_name
           echo $branch2
           echo Pub-$GITHUB_RUN_NUMBER
-          echo ${{ steps.random-number-generator.outputs.random-id }}
         
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
