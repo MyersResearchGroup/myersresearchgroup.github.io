@@ -21,6 +21,11 @@ jobs:
       - name: branch name output
         run: |
           echo Pub-$GITHUB_RUN_NUMBER
+          
+      - name: install hugo
+        run: |
+          /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+          brew install hugo
         
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
