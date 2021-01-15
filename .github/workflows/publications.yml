@@ -62,7 +62,7 @@ jobs:
         uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: Pub-${{ GITHUB_RUN_NUMBER}}
+          branch: Pub-${{ GITHUB.RUN_NUMBER}}
 
 #       # Runs a single command using the runners shell
 #       - name: Run a one-line script
