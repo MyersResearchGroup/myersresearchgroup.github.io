@@ -51,7 +51,7 @@ jobs:
 #         git+https://github.com/wowchemy/hugo-academic-cli.git
         with:
           # The packages to install from Pip (if the new academic version is pushed can replace git-etc with academic)
-          packages: git+https://github.com/wowchemy/hugo-academic-cli.git
+          packages: academic
           upgrade: true 
           
       # Runs a single command using the runners shell
