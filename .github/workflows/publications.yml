@@ -8,7 +8,7 @@ on:
     branches: [ master ]
     
 env:
-  branch1: {{ $RANDOM }}
+  branch1: ${RANDOM}
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -21,7 +21,7 @@ jobs:
     steps:
       - name: Set variables
         env:
-          branch2: {{ $RANDOM }} 
+          branch2: $RANDOM
         run: |
           branch_name="pub-$RANDOM"
           echo $branch_name
