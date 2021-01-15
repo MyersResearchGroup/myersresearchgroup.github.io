@@ -7,8 +7,7 @@ on:
   pull_request:
     branches: [ master ]
     
-env:
-  branch1: $(echo $RANDOM)
+
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
@@ -23,10 +22,12 @@ jobs:
         env:
           branch2: $(echo $RANDOM)
         run: |
+          echo "::set-output name=random-id::$(echo $RANDOM)"
           branch_name="pub-$RANDOM"
           echo $branch_name
-          echo $branch1
           echo $branch2
+          echo Pub-${{ GITHUB_RUN_NUMBER}}
+          echo ${{ steps.random-number-generator.outputs.random-id }}
         
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
