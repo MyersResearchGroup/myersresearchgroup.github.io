@@ -2,7 +2,7 @@
 # Display name
 title: Nick Seegmiller
 
-#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
 weight: 830
 
 # Username (this should match the folder name)
@@ -87,6 +87,11 @@ user_groups:
 - Undergraduate Alumni
 - ATACS
 - Asynchronous Verification
+
+#any user groups to display on the page
+display_groups:
+- ATACS Tool
+- Asynchronous Verification Area
 ---
 
 Nick is a software engineering leader who has worked in ecommerce/retail, console video games, public safety software, smart home products, health care software, and voice assistants. Nick was a computer science undergrad in Chris's group at the University of Utah and created a VHDL-AMS parser to facilitate benchmarking ATACS with competing tools. He currently works for Amazon in Seattle.

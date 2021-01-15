@@ -2,7 +2,7 @@
 # Display name
 title: Kevin Jones
 
-#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
 weight: 830
 
 # Username (this should match the folder name)
@@ -90,6 +90,12 @@ user_groups:
 - LEMA
 - iBioSim
 - Genetic Design Automation
+
+#any user groups to display on the page
+display_groups:
+- LEMA Tool
+- Genetic Design Automation Area
+- iBioSim Tool
 ---
 
 Kevin began his research career working on abstracting formal verification models with Dr. Myers at the University of Utah. He then leveraged his background in formal verification to work in industry as a test engineer. After studying hardware and network security during his graduate work, he has been working as a cyber security researcher, focusing on embedded system reverse engineering and local network vulnerabilities.

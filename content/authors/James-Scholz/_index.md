@@ -80,6 +80,11 @@ user_groups:
 - Researchers
 - SynBioHub
 - Genetic Design Automation
+
+#any user groups to display on the page
+display_groups:
+- SynBioHub Tool
+- Genetic Design Automation Area
 ---
 
 

@@ -2,7 +2,7 @@
 # Display name
 title: David Walter
 
-#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
 weight: 810
 
 # Username (this should match the folder name)
@@ -95,6 +95,12 @@ user_groups:
 - Asynchronous Verification
 - LEMA
 - ATACS
+
+#any user groups to display on the page
+display_groups:
+- LEMA Tool
+- Asynchronous Verification Area
+- ATACS Tool
 ---
 
 David has pursued a diverse set of experiences in higher education and the technology sector.  After completing graduate school in 2007 at the University of Utah  where he worked on formal verification of analog and mixed-signal circuits with Chris Myers, David spent two years as United States Peace Corps Volunteer in the Philippines. As a volunteer, David taught Computer Science and Educational Technology at the University of Northern Philippines.  Upon completion of his volunteer service, he continued to pursue his interest in teaching by becoming a faculty member in the Computer Science program at  Virginia State University where he pursued work to broaden participation in the field. In 2017, David decided to deepen his experience in industry.  He spent two years at Capital One where he ultimately did software development and managed a small team.  He is now a Senior Software Developer at Amazon AWS where he works in the S3 organization.  

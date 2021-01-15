@@ -2,7 +2,7 @@
 # Display name
 title: Oliver Flatt
 
-#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
 weight: 830
 
 # Username (this should match the folder name)
@@ -87,6 +87,11 @@ user_groups:
 - Undergraduate Alumni
 - SynBioHub
 - Genetic Design Automation
+
+#any user groups to display on the page
+display_groups:
+- SynBioHub Tool
+- Genetic Design Automation Area
 ---
 
 Undergraduate researcher, currently working on the floating-point improvement tool Herbie.

@@ -2,7 +2,7 @@
 # Display name
 title: Zach Zundel
 
-#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
 weight: 830
 
 # Username (this should match the folder name)
@@ -117,6 +117,14 @@ user_groups:
 - SynBioHub Plugins
 - SBOL Libraries
 - SBOL Validator
+
+#any user groups to display on the page
+display_groups:
+- SynBioHub Tool
+- Genetic Design Automation Area
+- SynBioHub Plugins Tool
+- SBOL Libraries Tool
+- SBOL Validator Tool
 ---
 
 Zach worked on SynBioHub as well as assorted tooling related to the SBOL Standard. He created continuous integration and deployment processes for many libraries and tools in the SBOL ecosystem. He now works on reliability and incident management for Facebook. 

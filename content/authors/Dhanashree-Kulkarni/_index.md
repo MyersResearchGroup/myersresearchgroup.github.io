@@ -2,7 +2,7 @@
 # Display name
 title: Dhanashree Kulkarni
 
-#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
 weight: 820
 
 # Username (this should match the folder name)
@@ -88,6 +88,11 @@ user_groups:
 - Masters Alumni
 - LEMA
 - Asynchronous Verification
+
+#any user groups to display on the page
+display_groups:
+- LEMA Tool
+- Asynchronous Verification Area
 ---
 
 Dhanashree worked on  creating Labeled Petri Net(LPN) models of mixed signal circuits using LEMA, an in-house formal verification tool developed for analog and mixed-signal circuits. Dhanashree worked on developing a new property specification language and creating a property language translator that translates temporal properties to LPN format. Dhanashree at present works  as an Analog Engineer with a non-volatile memory design group at Intel technologies.

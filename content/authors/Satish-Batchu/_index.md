@@ -2,7 +2,7 @@
 # Display name
 title: Satish Batchu
 
-#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
 weight: 820
 
 # Username (this should match the folder name)
@@ -85,6 +85,11 @@ user_groups:
 - Alumni
 - Masters Alumni
 - LEMA
+
+#any user groups to display on the page
+display_groups:
+- LEMATool
+
 ---
 
 Satish is currently working as a design verification engineer at Apple. He worked on the LEMA tool for AMS model generation as part of his Masters thesis with Professor Chris Myers.

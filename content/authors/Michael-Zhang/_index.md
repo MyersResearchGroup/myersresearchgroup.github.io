@@ -2,7 +2,7 @@
 # Display name
 title: Michael Zhang
 
-#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
 weight: 820
 
 # Username (this should match the folder name)
@@ -93,4 +93,12 @@ user_groups:
 - Genetic Design Automation
 - SBOL Libraries
 - SBOL Designer
+
+#any user groups to display on the page
+display_groups:
+- SynBioHub Tool
+- Genetic Design Automation Area
+- SBOL Explorer Tool
+- SBOL Designer Tool
+- SBOL Libraries Tool
 ---

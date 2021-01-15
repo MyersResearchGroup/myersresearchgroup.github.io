@@ -2,7 +2,7 @@
 # Display name
 title: Robert Thacker
 
-#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
 weight: 810
 
 # Username (this should match the folder name)
@@ -96,6 +96,11 @@ user_groups:
 - PhD Alumni
 - ATACS
 - Asynchronous Verification
+
+#any user groups to display on the page
+display_groups:
+- ATACS Tool
+- Asynchronous Verification Area
 ---
 
 Robert studied Computer Science at the University of Utah, where his research activities focused on cad tool development for asynchronous circuit design and formal verification.  He received an SRC fellowship in 1998. He spent 3 years at IBM working on formal verification tools. Robert is currently employed as a flow development engineer at AMD.  Robert retired from the U.S. Army in 2018.

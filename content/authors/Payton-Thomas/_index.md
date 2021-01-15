@@ -83,6 +83,11 @@ user_groups:
 - Undergraduate Students
 - SBOL Canvas
 - Genetic Design Automation
+
+#any user groups to display on the page
+display_groups:
+- SBOL Canvas Tool
+- Genetic Design Automation Area
 ---
 
 

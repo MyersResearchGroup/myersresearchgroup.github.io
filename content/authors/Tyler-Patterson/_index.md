@@ -2,7 +2,7 @@
 # Display name
 title: Tyler Patterson
 
-#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
 weight: 830
 
 # Username (this should match the folder name)
@@ -87,6 +87,11 @@ user_groups:
 - Undergraduate Alumni
 - iBioSim
 - Genetic Design Automation
+
+#any user groups to display on the page
+display_groups:
+- iBioSim Tool
+- Genetic Design Automation Area
 ---
 
 Tyler has loved creating software since he was 13 years old. He helped Chris with visualization code in iBioSim. After graduation he founded Ever Accountable, a company that creates software to help people avoid and overcome pornography. He now leads a team of people at Ever Accountable who push the boundaries of technology and psychology to make pornography avoidance and recovery as easy as possible.

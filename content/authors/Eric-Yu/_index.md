@@ -13,7 +13,7 @@ names:
 # Is this the primary user of the site?
 superuser: false
 
-#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
 weight: 400
 
 university: Utah
@@ -82,6 +82,13 @@ user_groups:
 - Genetic Design Automation
 - SynBioHub
 - SBOL Explorer
+
+#any user groups to display on the page
+display_groups:
+- SynBioHub Tool
+- Genetic Design Automation Area
+- SBOL Explorer Tool
+- SBKS Project
 ---
 
 

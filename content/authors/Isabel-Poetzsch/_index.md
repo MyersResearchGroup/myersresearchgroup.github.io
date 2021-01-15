@@ -89,6 +89,11 @@ user_groups:
 - Intern Alumni
 - SynBioHub Plugins
 - Genetic Design Automation
+
+#any user groups to display on the page
+display_groups:
+- Genetic Design Automation Area
+- SynBioHub Plugins Tool
 ---
 
 Isabel is currently completing her Bachelor thesis on Neanderthal genome introgression for a degree in Biological Natural Sciences at the University of Cambridge. She interned with Chris in 2020 as part of Google Summer of Code and worked on an excel submission plugin for SynBioHub and the resulting Python package ('excel2sbol'). She presented this work at the COMBINE 2020 conference. Her general interests lie at the intersection of evolution, genetics and zoology as well as how computational methods can help answer those questions.

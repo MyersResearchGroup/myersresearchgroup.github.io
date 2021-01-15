@@ -1,7 +1,7 @@
 ---
 # Display name
 title: Chris Krieger
-#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
 weight: 820
 
 # Username (this should match the folder name)
@@ -100,6 +100,11 @@ user_groups:
 - Masters Alumni
 - ATACS
 - Asynchronous Verification
+
+#any user groups to display on the page
+display_groups:
+- Asynchronous Verification Area
+- ATACS Tool
 ---
 
 Christopher Krieger began his research career in Dr. Myer's Asynchronous Circuits lab at the University of Utah as an MS student. He focused on asynchronous hardware systems, working particularly on extending the ATACS system to synthesize a wider range of systems. Krieger's work enabled ATACS to efficiently add context variables to complete the state coding of a system, thereby removing ambiguity. This work allowed for the insertion of the minimum number of context variables by carefully choosing where to insert the variables and their transitions.

@@ -2,7 +2,7 @@
 # Display name
 title: Meher Samineni
 
-#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
 weight: 820
 
 # Username (this should match the folder name)
@@ -92,6 +92,12 @@ user_groups:
 - Genetic Design Automation
 - SynBioHub
 - SBOL Libraries
+
+#any user groups to display on the page
+display_groups:
+- SynBioHub Tool
+- Genetic Design Automation Area
+- SBOL Libraries Tool
 ---
 
 Meher Samineni graduated from University of Utah with a B.S/M.S in Computer Science. She was an undergraduate and graduate researcher within Myers Research Group. Her work involved helping maintain the SBOL libraries as well as creating methodology for synthetic biology tooling compatibility and data compliance. After graduation, she decided to become a developer in industry and is currently a software developer at REI. 

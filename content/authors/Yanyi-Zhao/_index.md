@@ -2,7 +2,7 @@
 # Display name
 title: Yanyi Zhao
 
-#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
 weight: 820
 
 # Username (this should match the folder name)
@@ -91,6 +91,11 @@ user_groups:
 - Masters Alumni
 - ATACS
 - Asynchronous Verification
+
+#any user groups to display on the page
+display_groups:
+- ATACS Tool
+- Asynchronous Verification Area
 ---
 
 Yanyi Zhao is a Program Manager at Juniper Networks, a leading company in the networking industry.  She has over five years of experience in networking, and over eight years in the medical device industry.  Yanyi graduated from the University of Utah with a Bachelor and Master of Science in Electrical Engineering.  She worked in Professor Chris Myers’ research group from 2001 to 2004.  In her Bachelor’s thesis, Yanyi designed and synthesized an asynchronous MPEG decoder implemented on a FPGA.  For her Master’s thesis, she developed a completely automated tool flow for FPGA design of asynchronous circuits from high-level specifications.  This research leveraged both asynchronous and synchronous design automation tools in an innovative fashion.  In her free time, Yanyi enjoys watching movies, eating seafood tacos, and travelling to different beach destinations. 

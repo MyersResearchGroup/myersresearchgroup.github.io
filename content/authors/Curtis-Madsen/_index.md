@@ -2,7 +2,7 @@
 # Display name
 title: Curtis Madsen
 
-#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
 weight: 810
 
 # Username (this should match the folder name)
@@ -94,6 +94,12 @@ user_groups:
 - Genetic Design Automation
 - SynBioHub
 - iBioSim
+
+#any user groups to display on the page
+display_groups:
+- SynBioHub Tool
+- Genetic Design Automation Area
+- iBioSim Tool
 ---
 
 While he was an undergraduate and graduate researcher in Professor Chris Myers's lab at the University of Utah, Curtis worked on utilizing stochastic model checking and simulation to perform design space exploration of synthetic genetic circuits.  In particular, he worked on adding functionality to iBioSim to automatically partition the state space of said genetic circuits and apply Markovian analysis to determine the probabilities of certain events occurring.  Since then, he has been involved in the development of several tools in computational synthetic biology as a postdoc at both Newcastle University and Boston University including the SynBioHub, BioPSy, and Phoenix.  Curtis is currently a research and development computer scientist at Sandia National Laboratories in Albuquerque, New Mexico.

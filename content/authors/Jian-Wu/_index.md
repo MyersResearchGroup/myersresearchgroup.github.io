@@ -2,7 +2,7 @@
 # Display name
 title: Jian Wu
 
-#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
 weight: 800
 
 # Username (this should match the folder name)
@@ -87,6 +87,12 @@ email: ""
 user_groups:
 - Alumni
 - Postdoctoral Alumni
+
+# #any user groups to display on the page
+# display_groups:
+# - SynBioHub Tool
+# - Genetic Design Automation Area
+# - SynBioHub Plugins Tool
 ---
 
 Jian Wu worked as a Postdoctoral Researcher in Professor Chris Myers' lab at University of Utah. During that time, his main research work was on building a fault-tolerant routing algorithm for a Network-on-Chip using a Link Fault Model in collaboration with Professor Chris Myers and Dr. Zhen Zhang. Jian Wu is currently working in Innogrit technology as a senior design manager.

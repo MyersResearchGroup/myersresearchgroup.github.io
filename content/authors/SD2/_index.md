@@ -2,8 +2,8 @@
 # Display name
 title: Synergistic Discovery and Design
 
-#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
-weight: 900
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
+weight: 1000
 
 # Username (this should match the folder name)
 authors:
@@ -55,6 +55,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Projects
+- SD2 Project
 ---
 
 SD2E began as the DARPA SD2 program Environment for enabling advanced scientific modeling and computation. The Synergistic Discovery and Design (SD2) program is focused upon developing data-based approaches for accelerating scientific discovery and the design of robust models in new domains of research. More information on SD2 can be found <a href="https://www.darpa.mil/program/synergistic-discovery-and-design" target="_blank">here</a>.
