@@ -50,8 +50,8 @@ jobs:
         uses: BSFishy/pip-action@v1
 #         git+https://github.com/wowchemy/hugo-academic-cli.git
         with:
-          # The packages to install from Pip
-          packages: academic
+          # The packages to install from Pip (if the new academic version is pushed can replace git-etc with academic)
+          packages: git+https://github.com/wowchemy/hugo-academic-cli.git
           upgrade: true 
           
       # Runs a single command using the runners shell
