@@ -26,7 +26,7 @@ jobs:
           branch_name="pub-$RANDOM"
           echo $branch_name
           echo $branch2
-          echo Pub-${{ GITHUB_RUN_NUMBER}}
+          echo Pub-$GITHUB_RUN_NUMBER
           echo ${{ steps.random-number-generator.outputs.random-id }}
         
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
