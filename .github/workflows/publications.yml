@@ -43,13 +43,17 @@ jobs:
           packages: academic
           upgrade: true 
           
-      - name: Create A File
-        # You may pin to the exact commit or the version.
-        # uses: 1arp/create-a-file-action@ee80edaa4741d9997dbe053e052329d4070c020c
-        uses: 1arp/create-a-file-action@0.2
-        with:
-          file: Test.txt
-          content: "Hello World" 
+      # Runs a single command using the runners shell
+      - name: Run academic import
+        run: academic import --bibtex --overwrite publications.bib #path to use
+          
+#       - name: Create A File
+#         # You may pin to the exact commit or the version.
+#         # uses: 1arp/create-a-file-action@ee80edaa4741d9997dbe053e052329d4070c020c
+#         uses: 1arp/create-a-file-action@0.2
+#         with:
+#           file: Test.txt
+#           content: "Hello World" 
           
           
       - name: Commit files
@@ -80,9 +84,5 @@ jobs:
           pr_body: publications have just been updated based on the new publications.bib file
           # GitHub token secret
           github_token: ${{ secrets.GITHUB_TOKEN }}
-
-#       # Runs a single command using the runners shell
-#       - name: Run a one-line script
-#         run: academic import --bibtex --overwrite publications.bib #path to use
 
 
