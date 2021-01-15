@@ -9,7 +9,7 @@ authors:
 - Chris Myers
 - Hiroyuki Kuwahara
 tags:
-- '"genetic circuit"'
+- 'genetic circuit'
 categories: []
 date: '2006-03-01'
 lastmod: 2021-01-15T21:34:39Z

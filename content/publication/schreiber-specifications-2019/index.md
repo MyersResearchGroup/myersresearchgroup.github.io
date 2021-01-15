@@ -18,7 +18,7 @@ authors:
 - David Nickerson
 - Dagmar Waltemath
 tags:
-- '"SBOL"'
+- 'SBOL'
 categories: []
 date: '2019-07-13'
 lastmod: 2021-01-15T21:34:33Z

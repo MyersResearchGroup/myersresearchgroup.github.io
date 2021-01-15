@@ -10,11 +10,11 @@ authors:
 - Yingying Zhang
 - Chris Myers
 tags:
-- '"asynchronous circuit"'
-- '"abstraction"'
-- '"compositional model checking"'
-- '"minimization"'
-- '"model checking"'
+- 'asynchronous circuit'
+- 'abstraction'
+- 'compositional model checking'
+- 'minimization'
+- 'model checking'
 categories: []
 date: '2012-07-01'
 lastmod: 2021-01-15T21:34:43Z

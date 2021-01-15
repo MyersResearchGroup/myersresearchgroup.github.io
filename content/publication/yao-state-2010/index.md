@@ -9,18 +9,18 @@ authors:
 - Hao Zheng
 - Chris J. Myers
 tags:
-- '"asynchronous circuit"'
-- '"state-space methods"'
-- '"asynchronous designs"'
-- '"formal verification"'
-- '"state space reductions"'
-- '"compositional minimization"'
-- '"scalable verification"'
-- '"learning automata"'
-- '"system recovery"'
-- '"algorithm design and analysis"'
-- '"explosion"'
-- '"design methodology"'
+- 'asynchronous circuit'
+- 'state-space methods'
+- 'asynchronous designs'
+- 'formal verification'
+- 'state space reductions'
+- 'compositional minimization'
+- 'scalable verification'
+- 'learning automata'
+- 'system recovery'
+- 'algorithm design and analysis'
+- 'explosion'
+- 'design methodology'
 categories: []
 date: '2010-06-01'
 lastmod: 2021-01-15T21:34:42Z

@@ -13,7 +13,7 @@ authors:
 - Riley Roberts
 - Chris J. Myers
 tags:
-- '"genetic circuit"'
+- 'genetic circuit'
 categories: []
 date: '2020-08-03'
 lastmod: 2021-01-15T21:34:37Z

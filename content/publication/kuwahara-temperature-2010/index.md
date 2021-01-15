@@ -10,13 +10,13 @@ authors:
 - Chris J. Myers
 - Michael S. Samoilov
 tags:
-- '"logic circuits"'
-- '"genetic circuit"'
-- '"simulation and modeling"'
-- '"synthetic genetic networks"'
-- '"stochastic logic"'
-- '"electrical circuit"'
-- '"virulence factors"'
+- 'logic circuits'
+- 'genetic circuit'
+- 'simulation and modeling'
+- 'synthetic genetic networks'
+- 'stochastic logic'
+- 'electrical circuit'
+- 'virulence factors'
 categories: []
 date: '2010-03-26'
 lastmod: 2021-01-15T21:34:31Z

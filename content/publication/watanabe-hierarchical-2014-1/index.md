@@ -8,13 +8,13 @@ authors:
 - Leandro H. Watanabe
 - Chris J. Myers
 tags:
-- '"stochastic simulation"'
-- '"SBML"'
-- '"genetic circuit"'
-- '"iBioSim"'
-- '"hierarchical composition"'
-- '"synthetic and systems biology"'
-- '"stochastic logic"'
+- 'stochastic simulation'
+- 'SBML'
+- 'genetic circuit'
+- 'iBioSim'
+- 'hierarchical composition'
+- 'synthetic and systems biology'
+- 'stochastic logic'
 categories: []
 date: '2014-04-13'
 lastmod: 2021-01-15T21:34:44Z

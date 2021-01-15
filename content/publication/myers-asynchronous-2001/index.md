@@ -7,9 +7,9 @@ summary: ''
 authors:
 - Chris J. Myers
 tags:
-- '"asynchronous circuit"'
-- '"technology & engineering / electrical"'
-- '"VLSI & ULSI"'
+- 'asynchronous circuit'
+- 'technology & engineering / electrical'
+- 'VLSI & ULSI'
 categories: []
 date: '2001-07-23'
 lastmod: 2021-01-15T18:41:54Z

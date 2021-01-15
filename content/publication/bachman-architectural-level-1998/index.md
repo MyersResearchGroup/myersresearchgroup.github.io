@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Brandon M. Bachman
 tags:
-- '"asynchronous circuit"'
-- '"search"'
+- 'asynchronous circuit'
+- 'search'
 categories: []
 date: '1998-12-01'
 lastmod: 2021-01-15T21:34:50Z

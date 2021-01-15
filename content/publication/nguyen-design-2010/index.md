@@ -11,10 +11,10 @@ authors:
 - Chris Winstead
 - James Keener
 tags:
-- '"asynchronous circuit"'
-- '"genetic circuit"'
-- '"synthetic logic gate"'
-- '"stochastic logic"'
+- 'asynchronous circuit'
+- 'genetic circuit'
+- 'synthetic logic gate'
+- 'stochastic logic'
 categories: []
 date: '2010-05-21'
 lastmod: 2021-01-15T21:34:31Z

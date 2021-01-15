@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Robert A. Thacker
 tags:
-- '"asynchronous circuit"'
-- '"search"'
+- 'asynchronous circuit'
+- 'search'
 categories: []
 date: '1998-06-01'
 lastmod: 2021-01-15T21:34:50Z

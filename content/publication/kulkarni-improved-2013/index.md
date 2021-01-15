@@ -8,7 +8,7 @@ summary: ''
 authors:
 - Dhanashree Kulkarni
 tags:
-- '"LEMA AMS verification tool flow"'
+- 'LEMA AMS verification tool flow'
 categories: []
 date: '2013-08-01'
 lastmod: 2021-01-15T21:34:53Z

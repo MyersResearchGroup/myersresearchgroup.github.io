@@ -18,15 +18,15 @@ authors:
 - Anil Wipat
 - Chris J. Myers
 tags:
-- '"computational biology"'
-- '"Java"'
-- '"software libraries"'
-- '"software tools"'
-- '"synthetic biology"'
-- '"SBOL"'
-- '"genetic circuit"'
-- '"application programming interfaces"'
-- '"search"'
+- 'computational biology'
+- 'Java'
+- 'software libraries'
+- 'software tools'
+- 'synthetic biology'
+- 'SBOL'
+- 'genetic circuit'
+- 'application programming interfaces'
+- 'search'
 categories: []
 date: '2015-12-01'
 lastmod: 2021-01-15T21:34:30Z

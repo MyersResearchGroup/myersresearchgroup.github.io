@@ -12,7 +12,7 @@ authors:
 - Christian Atallah
 - Anil Wipat
 tags:
-- '"SBOL"'
+- 'SBOL'
 categories: []
 date: '2019-01-18'
 lastmod: 2021-01-15T21:34:25Z

@@ -7,10 +7,10 @@ summary: ''
 authors:
 - Michael Zhang
 tags:
-- '"SBOL"'
-- '"genetic circuit"'
-- '"SBOLDesigner"'
-- '"search"'
+- 'SBOL'
+- 'genetic circuit'
+- 'SBOLDesigner'
+- 'search'
 categories: []
 date: '2018-04-01'
 lastmod: 2021-01-15T21:34:49Z

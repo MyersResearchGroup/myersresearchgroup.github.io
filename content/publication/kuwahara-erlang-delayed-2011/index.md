@@ -9,7 +9,7 @@ authors:
 - Hiroyuki Kuwahara
 - Chris Myers
 tags:
-- '"stochastic logic"'
+- 'stochastic logic'
 categories: []
 date: '2011-08-01'
 lastmod: 2021-01-15T21:34:43Z

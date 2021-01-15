@@ -12,35 +12,35 @@ authors:
 - Ioannis Syranidis
 - Alex Yakovlev
 tags:
-- '"system-on-chip"'
-- '"asynchronous circuits"'
-- '"logic design"'
-- '"asynchronous circuit"'
-- '"timing"'
-- '"analog/mixed-signal circuits"'
-- '"mixed analogue-digital integrated circuits"'
-- '"verification"'
-- '"Complexity theory"'
-- '"formal verification"'
-- '"integrated circuit design"'
-- '"asynchronous logic"'
-- '"electronic engineering computing"'
-- '"formal methods"'
-- '"complexity"'
-- '"embedded systems"'
-- '"LEMA AMS verification tool flow"'
-- '"AMS systems"'
-- '"analog circuitry"'
-- '"analog/asynchronous co-design methods"'
-- '"analog/mixed-signal systems"'
-- '"asynchronous design"'
-- '"Digital control"'
-- '"digital electronics"'
-- '"hardware-software codesign"'
-- '"high-performance digital systems"'
-- '"mobile systems"'
-- '"design methodology"'
-- '"integrated circuits"'
+- 'system-on-chip'
+- 'asynchronous circuits'
+- 'logic design'
+- 'asynchronous circuit'
+- 'timing'
+- 'analog/mixed-signal circuits'
+- 'mixed analogue-digital integrated circuits'
+- 'verification'
+- 'Complexity theory'
+- 'formal verification'
+- 'integrated circuit design'
+- 'asynchronous logic'
+- 'electronic engineering computing'
+- 'formal methods'
+- 'complexity'
+- 'embedded systems'
+- 'LEMA AMS verification tool flow'
+- 'AMS systems'
+- 'analog circuitry'
+- 'analog/asynchronous co-design methods'
+- 'analog/mixed-signal systems'
+- 'asynchronous design'
+- 'Digital control'
+- 'digital electronics'
+- 'hardware-software codesign'
+- 'high-performance digital systems'
+- 'mobile systems'
+- 'design methodology'
+- 'integrated circuits'
 categories: []
 date: '2017-06-01'
 lastmod: 2021-01-15T21:34:45Z
@@ -70,7 +70,7 @@ abstract: Analog/mixed-signal (AMS) systems are rapidly expanding in all domains
   in medium-scale embedded and mobile systems, and act as a core organ of autonomous
   electronics such as sensor nodes. Analog and digital parts are closely inter-mixed,
   hence demanding AMS design methods and tools to be more holistic. In particular,
-  the emergence of “little digital” electronics inside or near analog circuitry calls
+  the emergence of "little digital" electronics inside or near analog circuitry calls
   for the increasing use of asynchronous logic. To cope with the growing complexity
   of AMS designs, formal methods are required to complement traditional simulation
   approaches. This paper presents an overview of the state-of-the-art in AMS formal

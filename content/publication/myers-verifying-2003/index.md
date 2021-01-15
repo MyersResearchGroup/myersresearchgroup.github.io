@@ -9,7 +9,7 @@ authors:
 - Eric Mercer
 - Hans Jacobson
 tags:
-- '"asynchronous circuit"'
+- 'asynchronous circuit'
 categories: []
 date: '2003-09-01'
 lastmod: 2021-01-15T21:34:34Z

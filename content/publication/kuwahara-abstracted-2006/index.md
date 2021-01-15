@@ -9,8 +9,8 @@ authors:
 - Chris Myers
 - Michael Samoilov
 tags:
-- '"stochastic logic"'
-- '"search"'
+- 'stochastic logic'
+- 'search'
 categories: []
 date: '2006-06-01'
 lastmod: 2021-01-15T21:34:39Z

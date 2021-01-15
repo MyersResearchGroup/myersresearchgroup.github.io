@@ -7,9 +7,9 @@ summary: ''
 authors:
 - Hao Zheng
 tags:
-- '"asynchronous circuit"'
-- '"ATACS design tool"'
-- '"ATACS"'
+- 'asynchronous circuit'
+- 'ATACS design tool'
+- 'ATACS'
 categories: []
 date: '1998-06-01'
 lastmod: 2021-01-15T21:34:50Z

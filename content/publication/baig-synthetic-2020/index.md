@@ -40,8 +40,8 @@ authors:
 - Jacob Beal
 - Chris Myers
 tags:
-- '"SBOL"'
-- '"genetic circuit"'
+- 'SBOL'
+- 'genetic circuit'
 categories: []
 date: '2020-06-10'
 lastmod: 2021-01-15T21:34:23Z

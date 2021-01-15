@@ -13,8 +13,8 @@ authors:
 - C. Myers
 - T. Nanya
 tags:
-- '"asynchronous circuit"'
-- '"search"'
+- 'asynchronous circuit'
+- 'search'
 categories: []
 date: '2007-12-01'
 lastmod: 2021-01-15T21:34:32Z

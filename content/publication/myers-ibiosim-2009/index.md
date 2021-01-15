@@ -12,8 +12,8 @@ authors:
 - C. Madsen
 - N.-P. D. Nguyen
 tags:
-- '"genetic circuit"'
-- '"iBioSim"'
+- 'genetic circuit'
+- 'iBioSim'
 categories: []
 date: '2009-11-01'
 lastmod: 2021-01-15T21:34:25Z

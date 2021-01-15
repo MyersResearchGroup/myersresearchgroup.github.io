@@ -11,7 +11,7 @@ authors:
 - M. Moreira
 - N. Calazans
 tags:
-- '"asynchronous circuit"'
+- 'asynchronous circuit'
 categories: []
 date: '2014-05-01'
 lastmod: 2021-01-15T21:34:44Z

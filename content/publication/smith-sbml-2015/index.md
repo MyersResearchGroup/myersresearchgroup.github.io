@@ -47,12 +47,12 @@ abstract: Constructing a model in a hierarchical fashion is a natural approach t
   package enables a modeler to include submodels within an enclosing SBML model, delete
   unneeded or redundant elements of that submodel, replace elements of that submodel
   with element of the containing model, and replace elements of the containing model
-  with elements of the submodel. In addition, the package defines an optional “port”
+  with elements of the submodel. In addition, the package defines an optional "port"
   construct, allowing a model to be defined with suggested interfaces between hierarchical
   components; modelers can chose to use these interfaces, but they are not required
   to do so and can still interact directly with model elements if they so chose. Finally,
   the SBML Hierarchical Model Composition package is defined in such a way that a
-  hierarchical model can be “flattened” to an equivalent, non-hierarchical version
+  hierarchical model can be "flattened" to an equivalent, non-hierarchical version
   that uses only plain SBML constructs, thus enabling software tools that do not yet
   support hierarchy to nevertheless work with SBML hierarchical models.
 publication: ''

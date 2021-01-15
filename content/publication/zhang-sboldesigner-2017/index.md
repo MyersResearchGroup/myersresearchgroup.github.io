@@ -10,10 +10,10 @@ authors:
 - Anil Wipat
 - Chris J. Myers
 tags:
-- '"SBOL"'
-- '"genetic circuit"'
-- '"SBOLDesigner"'
-- '"SynBioHub"'
+- 'SBOL'
+- 'genetic circuit'
+- 'SBOLDesigner'
+- 'SynBioHub'
 categories: []
 date: '2017-07-21'
 lastmod: 2021-01-15T21:34:29Z

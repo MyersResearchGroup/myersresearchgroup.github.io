@@ -7,8 +7,8 @@ summary: ''
 authors:
 - Eric G. Mercer
 tags:
-- '"asynchronous circuit"'
-- '"stochastic logic"'
+- 'asynchronous circuit'
+- 'stochastic logic'
 categories: []
 date: '1999-05-01'
 lastmod: 2021-01-15T21:34:50Z

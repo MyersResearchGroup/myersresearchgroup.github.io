@@ -8,8 +8,8 @@ authors:
 - Jason T. Stevens
 - Chris J. Myers
 tags:
-- '"genetic circuit"'
-- '"iBioSim"'
+- 'genetic circuit'
+- 'iBioSim'
 categories: []
 date: '2013-05-17'
 lastmod: 2021-01-15T21:34:30Z

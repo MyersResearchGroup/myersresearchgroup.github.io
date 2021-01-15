@@ -60,12 +60,12 @@ authors:
 - Michael Hucka
 - SBML Level 3 Community members
 tags:
-- '"systems biology"'
-- '"computational modeling"'
-- '"file format"'
-- '"interoperability"'
-- '"reproducibility"'
-- '"search"'
+- 'systems biology'
+- 'computational modeling'
+- 'file format'
+- 'interoperability'
+- 'reproducibility'
+- 'search'
 categories: []
 date: '2020-08-01'
 lastmod: 2021-01-15T21:34:33Z

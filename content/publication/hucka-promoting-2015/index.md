@@ -19,14 +19,14 @@ authors:
 - Dagmar Waltemath
 - Nicolas Le Novère
 tags:
-- '"biology computing"'
-- '"computational modeling"'
-- '"data sharing"'
-- '"reproducible science"'
-- '"standardization"'
-- '"file format"'
-- '"biological ontology"'
-- '"search"'
+- 'biology computing'
+- 'computational modeling'
+- 'data sharing'
+- 'reproducible science'
+- 'standardization'
+- 'file format'
+- 'biological ontology'
+- 'search'
 categories: []
 date: '2015-01-01'
 lastmod: 2021-01-15T21:34:27Z

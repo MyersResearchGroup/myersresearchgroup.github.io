@@ -7,9 +7,9 @@ summary: ''
 authors:
 - Nicholas Roehner
 tags:
-- '"SBOL"'
-- '"genetic circuit"'
-- '"iBioSim"'
+- 'SBOL'
+- 'genetic circuit'
+- 'iBioSim'
 categories: []
 date: '2014-12-01'
 lastmod: 2021-01-15T21:34:54Z
