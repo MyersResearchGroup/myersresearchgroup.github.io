@@ -31,6 +31,7 @@ organizations:
 
 projects:
 - <a href="/author/synbiohub/">SynBioHub</a>
+- <a href="/author/sbol-explorer/">SBOLExplorer</a>
 
 
 department:
