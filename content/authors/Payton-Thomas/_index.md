@@ -62,7 +62,7 @@ social:
   link: https://github.com/paytonco
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/0000-0002-1450-5638
+  link: https://orcid.org/0000-0002-5075-3911
 - icon: university-logo
   icon_pack: Custom_University
   link: https://www.bme.utah.edu/
