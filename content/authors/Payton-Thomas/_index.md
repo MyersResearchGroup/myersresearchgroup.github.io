@@ -62,7 +62,7 @@ social:
   link: https://github.com/paytonco
 - icon: orcid
   icon_pack: fab
-  link: https://orcid.org/0000-0002-1450-5638
+  link: https://orcid.org/0000-0002-5075-3911
 - icon: university-logo
   icon_pack: Custom_University
   link: https://www.bme.utah.edu/
@@ -81,14 +81,15 @@ email: "paytonco@gmail.com"
 user_groups:
 - Researchers
 - Undergraduate Students
-- SBOL Canvas
+- iBioSim
 - Genetic Design Automation
 
 #any user groups to display on the page
 display_groups:
-- SBOL Canvas Tool
+- iBioSim Tool
 - Genetic Design Automation Area
+- FLUENT Project
 ---
 
 
-Payton Thomas is a second-year undergraduate studying Biomedical Engineering and Applied Mathematics at the University of Utah. He is interested in the behavior of biological networks and the nonlinear dynamics of cellular systems.  Outside of academics, he enjoys rock climbing and camping.  
+Payton Thomas is a second-year undergraduate studying Biomedical Engineering and Applied Mathematics at the University of Utah. He is interested in the behavior of biological networks and the nonlinear dynamics of cellular systems.  Outside of academics, he enjoys bouldering and hiking.  
