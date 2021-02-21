@@ -55,9 +55,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/benjhatch
-- icon: orcid
-  icon_pack: fab
-  link: https://orcid.org/0000-0002-8762-8444
+# - icon: orcid
+#   icon_pack: fab
+#   link: https://orcid.org/0000-0002-8762-8444
 - icon: envelope
   icon_pack: fas
   link: mailto:benjamin.hat4@gmail.com 
