@@ -45,7 +45,6 @@ user_groups:
 #any user groups to display on the page
 display_groups:
 - SBOL Libraries
-- Genetic Design Automation
 
 research_area: true
 

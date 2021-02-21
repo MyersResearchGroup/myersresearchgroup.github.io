@@ -12,6 +12,7 @@ names:
 - Chris J. Myers
 - Chris J Myers
 - C Myers
+- C. J. Myers
 
 # Is this the primary user of the site?
 superuser: false
