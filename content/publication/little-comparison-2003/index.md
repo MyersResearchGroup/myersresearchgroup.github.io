@@ -30,6 +30,7 @@ projects: []
 publishDate: '2021-01-15T21:34:51.391437Z'
 publication_types:
 - '7'
-abstract: ''
+abstract: 'Circuit designers continue to push the limits of high speed circuit design. This desire for speed motivates the creation of new and innovative design styles. One of these design styles is timed circuits. Timed circuits take advantage of timing information to increase performance. This style has been applied in industrial research to designs like IBM’s guTS microprocessor, the Intel RAPPID project, and Sun’s GasP circuits. These experimental designs were successful at increasing performance, but they are only experimental designs. Timed circuits have not yet been used in a commercial design.
+One problem that plagues timed circuit design is the difficulty of understanding the complex timing interactions between circuit components. In response to this problem, researchers have created several methods and tools to help verify timed circuit designs. One of the most critical aspects of these methods is state space exploration of both the timed and untimed state space. This work concentrates on two leading methods to do timed state space exploration using Petri nets. These methods were previously implemented in two different CAD tools, ATACS and VINAS-P. However, a clear comparison of the methods has not been done due to the fact that the methods were implemented in different tools. We extended the ATACS framework by adding the methods previously only used by VINAS-P. Having both methods implemented in the same tool allows us to do an accurate comparison of the methods to better understand the strengths and weaknesses of each method.'
 publication: ''
 ---
