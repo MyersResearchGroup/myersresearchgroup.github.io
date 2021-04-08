@@ -19,7 +19,7 @@ names:
 superuser: false
 
 # Role/position
-role: High Performance Computing at the Yale Center for Research Computing, Director
+role: Yale University, Director of High-Performance Computing
 
 # Organizations/Affiliations
 organizations:
@@ -33,9 +33,10 @@ university: Utah
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Asynchronous Circuit Design
-- Search
-- High Performance Computing
+- Reconfigurable Computing
+- Asynchronous Circuits
+- Computer Architecture
+- High-Performance Computing
 
 projects:
 - <a href="/author/atacs/">ATACS</a>
@@ -48,6 +49,9 @@ education:
   - course: PhD in Computer Science
     institution: University of Utah
     year: 2002
+  - course: BSE in Electrical Engineering
+    institution: Princeton
+    year: 1994
 
 
 # Social/Academic Networking
@@ -94,4 +98,4 @@ display_groups:
 - Asynchronous Verification Area
 ---
 
-Eric Peskin is a High-Performance Computing professional and a researcher in Reconfigurable Computing.
+Eric Peskin is the Director of High-Performance Computing (HPC) at the Yale Center for Research Computing (YCRC). He received his Ph.D. in Computer Science from the University of Utah in 2002 under Chris Myers working on concurrency exploration for timed circuits.  Since joining Yale in 2018, he has overseen the replacement and expansion of HPC clusters, playing an active role in design of the architecture of the new systems.  He directs the Engineering group at the center.  He has been in high-performance computing since 2010, when he joined NYU Langone Medical Center as Associate Technical Director and later Interim Director of the High-Performance Computing Facility.  In 2016, he joined HPC at the main NYU campus as HPC Manager.  Prior to his work in HPC, he was an Assistant Professor of Electrical Engineering at the Rochester Institute of Technology.  His research there was in reconfigurable computing, with projects on using field-programmable gate arrays (FPGAs) to accelerate applications in computational fluid dynamics, Bayesian network learning, and image processing.
