@@ -19,7 +19,7 @@ names:
 superuser: false
 
 # Role/position
-role: Maxim Integrated, Principal Member of Technical Staff
+role: Maxim Integrated, EDA
 
 # Organizations/Affiliations
 organizations:
@@ -39,6 +39,7 @@ interests:
 
 projects:
 - <a href="/author/lema/">LEMA</a>
+- <a href="/author/atacs/">ATACS</a>
 
 
 department:
@@ -91,10 +92,12 @@ user_groups:
 - PhD Alumni
 - Asynchronous Verification
 - LEMA
+- ATACS
 
 #any user groups to display on the page
 display_groups:
 - LEMA Tool
+- ATACS Tool
 - Asynchronous Verification Area
 ---
 
