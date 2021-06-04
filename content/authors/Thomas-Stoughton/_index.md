@@ -1,15 +1,15 @@
 ---
 # Display name
-title: Julian Abam
+title: Thomas Stoughton
 
 # Username (this should match the folder name)
 authors:
-- Julian Abam
+- Thomas Stoughton
 
 #Author Names (alternative spellings etc)
 names:
-- Julian Abam
-- AJ Abam
+- Thomas Stoughton
+- T Stoughton
 
 # Is this the primary user of the site?
 superuser: false
@@ -34,17 +34,16 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Synthetic Biology
-- Computational Theory
-- Artificial Intelligence
-- Human to Computer Interaction
+- Molecular Biology
+- Computational Biology
+- Software Development
 
 projects:
-- <a href="/author/excel2sbol/">Excel2SBOL</a>
+- <a href="/author/sbol-canvas/">SBOLCanvas</a>
 
 education:
   courses:
-  - course: Bachelor's Degree, Computer Science
+  - course: BSci in Computer Science
     institution: University of Colorado Boulder
     year: 2022
 
@@ -53,15 +52,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: user
-  icon_pack: fas
-  link: https://www.linkedin.com/in/julian-abam-617387156/
+# - icon: user
+#   icon_pack: fas
+#   link: https://www.linkedin.com/in/julian-abam-617387156/
 - icon: github
   icon_pack: fab
-  link: https://github.com/abamaj
-# - icon: orcid
-#   icon_pack: fab
-#   link: https://orcid.org/0000-0002-8762-8444
+  link: https://github.com/tomstoten
+- icon: orcid
+  icon_pack: fab
+  link: https://orcid.org/0000-0002-6102-4079
 - icon: university-logo
   icon_pack: Custom_University
   link: https://www.colorado.edu/cs/academics/undergraduate-programs/bachelor-science/bachelor-science-degree-requirements
@@ -80,13 +79,15 @@ social:
 user_groups:
 - Researchers
 - Undergraduate Students
+- SBOL Canvas
+- iBioSim
 - Genetic Design Automation
-- Excel2SBOL
 
 #any user groups to display on the page
 display_groups:
-- SynBioHub Tool
+- SBOL Canvas Tool
+- iBioSim Tool
 - Genetic Design Automation Area
-- Excel2SBOL Tool
+
 ---
-Julian Abam is an undergraduate student at the University of Colorado, Boulder studying Computer Science with a minor in Creative Technology and Design. Julian’s current research has been focused on the implementation of converting objects of synthetic biology tools across different formats. Recently, Julian has been developing with pySBOL, which is a library that provides Python interfaces and their implementation for Synthetic Biology Open Language (SBOL).
+Thomas is a student at CU Boulder studying computer science, computational biology, and applied math. He is working with Chris on the integration of the SBOLCanvas and iBioSim tools into a single web-based genetic circuit designer and modeling program.

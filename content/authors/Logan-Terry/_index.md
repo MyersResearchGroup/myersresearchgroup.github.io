@@ -25,7 +25,7 @@ projects:
 - <a href="/author/sbol-canvas/">SBOLCanvas</a>
 
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 810 for alum undergrads
-weight: 300
+weight: 820
 
 # Organizations/Affiliations
 organizations:
@@ -72,8 +72,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Graduate Students
+- Alumni
+- Masters Alumni
 - SBOL Canvas
 - Genetic Design Automation
 
