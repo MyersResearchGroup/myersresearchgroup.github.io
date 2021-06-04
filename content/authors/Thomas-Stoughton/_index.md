@@ -40,6 +40,7 @@ interests:
 
 projects:
 - <a href="/author/sbol-canvas/">SBOLCanvas</a>
+- <a href="/author/ibiosim/">iBioSim</a>
 
 education:
   courses:
