@@ -20,7 +20,7 @@ names:
 superuser: false
 
 # Role/position
-role: 
+role: Raytheon Technologies, Senior Electrical Engineer 
 
 # Organizations/Affiliations
 organizations:
@@ -37,18 +37,17 @@ interests:
 # - PLACEHOLDER
 
 projects:
-# - <a href="/author/ibiosim/">iBioSim</a>
+- <a href="/author/atacs/">ATACS</a>
 
 
 department:
-# - Electrical and Computer Engineering
+- Electrical and Computer Engineering
 
 education:
   courses:
-  # - course: BSci in Electrical and Computer Engineering
-  #   institution: University of Utah
-  #   year: 2011
-
+  - course: BS in Electrical Engineering
+    institution: University of Utah
+    year: 1998
 
 
 # Social/Academic Networking
@@ -66,9 +65,9 @@ social:
 #- icon: orcid
 #  icon_pack: fab
 #  link: https://orcid.org/0000-0002-8627-0591
-# - icon: university-logo
-#   icon_pack: Custom_University
-#   link: https://www.ece.utah.edu/prospective-students/
+ - icon: university-logo
+   icon_pack: Custom_University
+   link: https://www.ece.utah.edu/graduate-programs-in-ece/ms-degree/
 # - icon: university
 #   icon_pack: fas
 #   link: https://www.colorado.edu/ecee
