@@ -1,0 +1,63 @@
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
+
+title: Quantitative Characterization of Recombinase-Based Digitizer Circuits Enables
+  Predictable Amplification of Biological Signals
+subtitle: ''
+summary: ''
+authors:
+- Katherine A. Kiwimagi
+- Justin H. Letendre
+- Benjamin H. Weinberg
+- Junmin Wang
+- Mingzhe Chen
+- Leandro Watanabe
+- Chris J. Myers
+- Jacob Beal
+- Wilson W. Wong
+- Ron Weiss
+tags:
+- 'metrics'
+categories: []
+date: '2021-07-01'
+lastmod: 2021-07-16T12:42:20-03:00
+featured: true
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2021-07-16T15:42:16.831405Z'
+publication_types:
+- 2
+abstract: Many synthetic gene circuits are restricted to single-use applications or
+  require iterative refinement for incorporation into complex systems. One example
+  is the recombinase-based digitizer circuit, which has been used to improve weak
+  or leaky biological signals. Here we present a workflow to quantitatively define
+  digitizer performance and predict responses to different input signals. Using a
+  combination of signal-to-noise ratio (SNR), area under a receiver operating characteristic
+  curve (AUC), and fold change (FC), we evaluate three small-molecule inducible digitizer
+  designs demonstrating FC up to 508x and SNR up to 3.77 dB. To study their behavior
+  further and improve modularity, we develop a mixed phenotypic/mechanistic model
+  capable of predicting digitizer configurations that amplify a synNotch cell-to-cell
+  communication signal ($Δ$ SNR up to 2.8 dB). We hope the metrics and modeling approaches
+  here will facilitate incorporation of these digitizers into other systems while
+  providing an improved workflow for gene circuit characterization. Kiwimagi & Letendre
+  et al. present a workflow to quantitatively define recombinase-based digitizer and
+  predict responses to different input signals. With a mechanistic/phenotypic model
+  that can predict circuit performance, they generate a synthetic cell-cell communication
+  device that amplifies a synNotch output signal.
+publication: '*Communications Biology*'
+doi: 10.1038/s42003-021-02325-5
+---
