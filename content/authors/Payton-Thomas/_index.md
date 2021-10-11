@@ -92,4 +92,4 @@ display_groups:
 ---
 
 
-Payton Thomas is a second-year undergraduate studying Biomedical Engineering and Applied Mathematics at the University of Utah. He is interested in the behavior of biological networks and the nonlinear dynamics of cellular systems.  Outside of academics, he enjoys bouldering and hiking.  
+Payton Thomas is a third-year undergraduate studying Biomedical Engineering and Applied Mathematics at the University of Utah. He is interested in the behavior of biological networks and the nonlinear dynamics of cellular systems.  Outside of academics, he enjoys bouldering and hiking.  
