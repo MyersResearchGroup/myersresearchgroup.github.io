@@ -1,15 +1,17 @@
+__zmeta_tags: 
+__zmeta_project: 
 # Best-practices documentation for modifying the website
 
 ## Website editting
 
-* follow instructions on [this page](https://wowchemy.com/docs/install-locally/) to install hugo and dependencies
+* Follow instructions on [this page](https://wowchemy.com/docs/install-locally/) to install hugo and dependencies
 * cd into a directory you want to have the file in
 * git clone https://github.com/MyersResearchGroup/myersresearchgroup.github.io.git
 * cd into the myersresearchgroup folder
 * hugo server
-* check it is up and running at localhost:1313
-* install vs studio code
-* create branch for the repository and open the branch in vs code
+* Check if it is up and running at localhost:1313
+* Install a text editor of your choice.
+* Create branch for the repository and open the branch in vs code
 * Page about website structure: https://wowchemy.com/docs/get-started/
 
 ## Website Structure Overview
