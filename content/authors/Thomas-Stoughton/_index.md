@@ -9,7 +9,7 @@ authors:
 #Author Names (alternative spellings etc)
 names:
 - Thomas Stoughton
-- T Stoughton
+- Tom Stoughton
 
 # Is this the primary user of the site?
 superuser: false
@@ -46,7 +46,7 @@ education:
   courses:
   - course: BSci in Computer Science
     institution: University of Colorado Boulder
-    year: 2022
+    year: 2024
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
