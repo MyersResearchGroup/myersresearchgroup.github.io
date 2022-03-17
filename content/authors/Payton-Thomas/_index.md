@@ -14,7 +14,7 @@ names:
 - P Thomas
 - PJ Thomas
 - P. J. Thomas
-
+- Thomas Payton
 # Is this the primary user of the site?
 superuser: false
 
