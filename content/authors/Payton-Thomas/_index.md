@@ -9,7 +9,12 @@ authors:
 #Author Names (alternative spellings etc)
 names:
 - Payton Thomas
-
+- Payton J Thomas
+- Payton J. Thomas
+- P Thomas
+- PJ Thomas
+- P. J. Thomas
+- Thomas Payton
 # Is this the primary user of the site?
 superuser: false
 
