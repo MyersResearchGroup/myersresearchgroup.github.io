@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Thomas Stoughton
 - Lukas Bücherl
-- Thomas Payton
+- Payton Thomas
 - Pedro Fontanarrosa
 - Chris J. Myers
 tags:
