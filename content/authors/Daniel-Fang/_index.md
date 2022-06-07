@@ -37,17 +37,17 @@ organizations:
 
 interests:
 - Synthetic Biology
-- Genetic Circuit Design
-- Genetic Circuit Modeling
+- Computational Biology
+- Machine Learning
 
 education:
   courses:
   - course: PhD in Biomedical Engineering
     institution: University of Colorado Boulder
     year: 2026
-  # - course: BA in Natural Sciences
-  #   institution: University of Cambridge
-  #   year: 2018
+  - course: Bachelors in Biomedical Engineering
+    institution: University of Utah
+    year: 2019
 
 
 # Social/Academic Networking
@@ -61,9 +61,9 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-# - icon: user-graduate
-#   icon_pack: fas
-#   link: https://www.linkedin.com/in/jeanet-mante-590a24169
+- icon: user-graduate
+  icon_pack: fas
+  link: http://dfcs.me/
 - icon: github
   icon_pack: fab
   link: https://github.com/learner97
@@ -98,6 +98,4 @@ display_groups:
 
 ---
 
-Jet Mante joined the Genetic Logic Lab as a Ph.D. student under the Supervision of Professor Chris Myers. She is a plant scientist whose research focuses on the reuse of data and genetic components in Synthetic Biology. She is expanding her computational skills working on search and curation methods in SynBioHub.
-
-She joined the lab in Utah after her undergraduate in England, and moved to CU Boulder with Professor Myers when he accepted a positon as ECE Departmental Chair. Jet is making the most of the move to Boulder by enjoying the bike friendly city and the many hiking trails.
+Daniel Fang is a first-year doctoral student in the computer science department at CU Boulder, studying under Dr. Chris Myers. Before arriving in Colorado, Daniel completed a bachelor’s degree in Biomedical Engineering from the University of Utah. He is particularly interested in the intersectionality of synthetic biology and machine learning techniques. In his free time, Daniel enjoys spending time in the outdoors, whether in the mountains or on the golf course, as well as with his friends and family.
