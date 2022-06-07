@@ -33,12 +33,9 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Synthetic Biology
-- Automation
-- System Architectures
-- Standardization
-- Visualization
-- Front end website design
+- Data Science
+- Machine Learning
+- Health
 
 projects:
 - <a href="/author/excel2sbol/">Excel2SBOL</a>
@@ -90,4 +87,4 @@ display_groups:
 - Genetic Design Automation Area
 - Excel2SBOL Tool
 ---
-Ben Hatch is a third-year undergraduate student at the University of Utah studying computer science. His current research focus is visualization tools for synthetic biology. Most recently, Ben has been devloping SynBioHub 3, an open-source web-based design repository for synthetic biology designs.
+William Dravenstott is a budding triathlete following a long swimming career, and love to ski in the winter. He is heavily interested in data science and machine learning, and loves to learn about how one can constantly improve their health and focus.
