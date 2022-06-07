@@ -1,24 +1,23 @@
 ---
 # Display name
-title: Jet Mante
+title: Daniel Fang
 
 # Username (this should match the folder name)
 authors:
-- Jet Mante
+- Daniel Fang
 
 #Author Names (alternative spellings etc)
 names:
-- Jet Mante
-- Jeanet Mante
+- Daniel Fang
 
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
-weight: 100
+weight: 200
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher
+role: Graduate Researcher, Ph.D.
 
 university: CU
 
@@ -26,9 +25,7 @@ department:
 - Biomedical Engineering
 
 projects:
-- <a href="https://synbioks.github.io/">SBKS</a>
 - <a href="/author/synbiohub/">SynBioHub</a>
-- <a href="/author/synbiohub-plugins/">SynBioHub Plugins</a>
 
 # Organizations/Affiliations
 organizations:
@@ -40,18 +37,17 @@ organizations:
 
 interests:
 - Synthetic Biology
-- Plants and Microbial Sciences
-- Genetic Circuit Design
-- Genetic Circuit Modeling
+- Computational Biology
+- Machine Learning
 
 education:
   courses:
   - course: PhD in Biomedical Engineering
     institution: University of Colorado Boulder
-    year: 2022
-  - course: BA in Natural Sciences
-    institution: University of Cambridge
-    year: 2018
+    year: 2026
+  - course: Bachelors in Biomedical Engineering
+    institution: University of Utah
+    year: 2019
 
 
 # Social/Academic Networking
@@ -67,13 +63,13 @@ social:
 #   link: https://twitter.com/GeorgeCushen
 - icon: user-graduate
   icon_pack: fas
-  link: https://www.linkedin.com/in/jeanet-mante-590a24169
+  link: http://dfcs.me/
 - icon: github
   icon_pack: fab
-  link: https://github.com/JMante1
-- icon: orcid
-  icon_pack: fab
-  link: https://orcid.org/0000-0002-1450-5638
+  link: https://github.com/learner97
+# - icon: orcid
+#   icon_pack: fab
+#   link: https://orcid.org/0000-0002-1450-5638
 - icon: university-logo
   icon_pack: Custom_University
   link: https://www.colorado.edu/bme/academics/phd-program
@@ -91,22 +87,15 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Postdocs
+- Graduate Students
 - SynBioHub
-- SynBioHub Plugins
 - Genetic Design Automation
-- Excel2SBOL
 
 #any user groups to display on the page
 display_groups:
 - SynBioHub Tool
 - Genetic Design Automation Area
-- SynBioHub Plugins Tool
-- FLUENT Project
-- SBKS Project
-- Excel2SBOL Tool
+
 ---
 
-Jet Mante joined the Genetic Logic Lab as a Ph.D. student under the Supervision of Professor Chris Myers. She is a plant scientist whose research focuses on the reuse of data and genetic components in Synthetic Biology. She is expanding her computational skills working on search and curation methods in SynBioHub.
-
-She joined the lab in Utah after her undergraduate in England, and moved to CU Boulder with Professor Myers when he accepted a positon as ECE Departmental Chair. Jet is making the most of the move to Boulder by enjoying the bike friendly city and the many hiking trails.
+Daniel Fang is a first-year doctoral student in the computer science department at CU Boulder, studying under Dr. Chris Myers. Before arriving in Colorado, Daniel completed a bachelor’s degree in Biomedical Engineering from the University of Utah. He is particularly interested in the intersectionality of synthetic biology and machine learning techniques. In his free time, Daniel enjoys spending time in the outdoors, whether in the mountains or on the golf course, as well as with his friends and family.
