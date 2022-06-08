@@ -33,11 +33,8 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Synthetic Biology
-- Automation
-- System Architectures
-- Standardization
-- Visualization
+- Software Development
+- Operating Systems
 - Front end website design
 
 projects:
@@ -62,7 +59,7 @@ social:
 #   link: https://orcid.org/0000-0002-8762-8444
 # - icon: envelope
 #   icon_pack: fas
-#   link: mailto:benjamin.hat4@gmail.com 
+#   link: mailto:alex_elbel@icloud.com
 - icon: university-logo
   icon_pack: Custom_University
   link: https://www.cs.utah.edu/
@@ -90,4 +87,4 @@ display_groups:
 - Genetic Design Automation Area
 
 ---
-Ben Hatch is a third-year undergraduate student at the University of Utah studying computer science. His current research focus is visualization tools for synthetic biology. Most recently, Ben has been devloping SynBioHub 3, an open-source web-based design repository for synthetic biology designs.
+Alex Elbel is an undergraduate currently studying computer science at the University of Utah. He is interested in front end website design and software development. In his free time Alex enjoys skiing and backpacking.
