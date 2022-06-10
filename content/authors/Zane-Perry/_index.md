@@ -22,10 +22,9 @@ university: CU
 role: Undergraduate Researcher
 
 department:
-- School of Computing
+- Computer Science
 
 # Organizations/Affiliations
-organizations:
 organizations:
 - name: University of Colorado Boulder
   url: ""
@@ -34,12 +33,9 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Synthetic Biology
-- Automation
-- System Architectures
-- Standardization
-- Visualization
-- Front end website design
+- Computational Biology
+- Genetic Engineering
+- Software Development
 
 projects:
 - <a href="/author/synbiohub/">SynBioHub</a>
@@ -49,6 +45,9 @@ projects:
 education:
   courses:
   - course: Bachelor's Degree, Computer Science
+    institution: University of Colorado Boulder
+    year: 2025
+  - course: Bachelor's Degree, Molecular Biology
     institution: University of Colorado Boulder
     year: 2025
 
@@ -63,9 +62,9 @@ social:
 # - icon: orcid
 #   icon_pack: fab
 #   link: https://orcid.org/0000-0002-8762-8444
-# - icon: envelope
-#   icon_pack: fas
-#   link: mailto:benjamin.hat4@gmail.com 
+ - icon: envelope
+   icon_pack: fas
+   link: mailto:zane.perry@colorado.edu 
 - icon: university-logo
   icon_pack: Custom_University
   link: https://www.colorado.edu/academics/bs-computer-science
@@ -94,4 +93,4 @@ display_groups:
 - Genetic Design Automation Area
 - SynBioHub Plugins Tool
 ---
-Ben Hatch is a third-year undergraduate student at the University of Utah studying computer science. His current research focus is visualization tools for synthetic biology. Most recently, Ben has been devloping SynBioHub 3, an open-source web-based design repository for synthetic biology designs.
+Zane Perry is a second-year undergraduate in Computer Science at the University of Colorado Boulder and a double degree in Molecular, Cellular, and Developmental Biology. He is currently working to develop plugin support for Synbiohub3.
