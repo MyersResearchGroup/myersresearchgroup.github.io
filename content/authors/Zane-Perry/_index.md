@@ -62,9 +62,9 @@ social:
 # - icon: orcid
 #   icon_pack: fab
 #   link: https://orcid.org/0000-0002-8762-8444
- - icon: envelope
-   icon_pack: fas
-   link: mailto:zane.perry@colorado.edu 
+- icon: envelope
+  icon_pack: fas
+  link: mailto:zane.perry@colorado.edu 
 - icon: university-logo
   icon_pack: Custom_University
   link: https://www.colorado.edu/academics/bs-computer-science
