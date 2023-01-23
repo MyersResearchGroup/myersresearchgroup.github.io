@@ -105,4 +105,4 @@ display_groups:
 - SD2 Project
 ---
 
-Pedro Fontanarrosa is a Ph.D. student at the University of Utah studying Biomedical Engineering. His current research is on the design, modeling, and analysis of *genetic regulatory networks* (i.e., genetic circuits), focusing on predicting and analyzing circuit failures and developing methods for the re-design of genetic circuits to avoid these circuit failures.
+Pedro Fontanarrosa is a Postdoctoral Fellow at the University of Boulder, Colorado. His current research is on the design, modeling, and analysis of *genetic regulatory networks* (i.e., genetic circuits), focusing on predicting and analyzing circuit failures and developing methods for the re-design of genetic circuits to avoid these circuit failures.
