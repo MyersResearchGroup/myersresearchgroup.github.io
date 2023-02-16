@@ -93,7 +93,6 @@ email: ""
 user_groups:
 - Alumni
 - Postdoctoral Alumni
-- Researchers
 - SynBioHub
 - SynBioHub Plugins
 - Genetic Design Automation
