@@ -1,14 +1,14 @@
 ---
 # Display name
-title: Zane Perry
+title: Parker Ackerknecht
 
 # Username (this should match the folder name)
 authors:
-- Zane Perry
+- Parker Ackerknecht
 
 #Author Names (alternative spellings etc)
 names:
-- Zane Perry
+- Parker Ackerknecht
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,7 +22,7 @@ university: CU Boulder
 role: Undergraduate Researcher
 
 department:
-- Computer Science
+- ECE
 
 # Organizations/Affiliations
 organizations:
@@ -33,23 +33,18 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Computational Biology
-- Genetic Engineering
-- Software Development
+- Wetlab Automation
+- Electronics
 
 projects:
-- <a href="/author/synbiohub/">SynBioHub</a>
-- <a href="/author/synbiohub-plugins/">SynBioHub Plugins</a>
 
 
 education:
   courses:
-  - course: Bachelor's Degree, Computer Science
+  - course: Bachelor's Degree, EEEN
     institution: University of Colorado Boulder
     year: 2025
-  - course: Bachelor's Degree, Molecular Biology
-    institution: University of Colorado Boulder
-    year: 2025
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -58,16 +53,17 @@ education:
 social:
 - icon: github
   icon_pack: fab
-  link: https://github.com/zane-perry
+  link: https://github.com/parkerack
 # - icon: orcid
 #   icon_pack: fab
 #   link: https://orcid.org/0000-0002-8762-8444
 - icon: envelope
   icon_pack: fas
-  link: mailto:zane.perry@colorado.edu 
+  link: mailto:parker.ackerknecht@colorado.edu
+
 - icon: university-logo
   icon_pack: Custom_University
-  link: https://www.colorado.edu/academics/bs-computer-science
+  link: https://www.colorado.edu/ecee/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -81,16 +77,11 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
 - Undergraduate Students
-- Genetic Design Automation
-- SynBioHub
-- SynBioHub Plugins
+- Researchers
 
 #any user groups to display on the page
 display_groups:
-- SynBioHub Tool
-- Genetic Design Automation Area
-- SynBioHub Plugins Tool
+
 ---
-Zane Perry is a second-year undergraduate in Computer Science at the University of Colorado Boulder and a double degree in Molecular, Cellular, and Developmental Biology. He is currently working to develop plugin support for Synbiohub3.
+Parker Ackerknecht is a person who has a strong interest in electronics and automation, particularly in a laboratory setting. They enjoy learning about and working with various electronic components, such as sensors, microcontrollers, and circuit boards. Parker is fascinated by the way that these components can be combined and programmed to create automated systems that can perform a variety of tasks. They are particularly interested in applying these skills in a laboratory setting, where they can be used to collect and analyze data, monitor experiments, and automate repetitive tasks. Overall, Parker is passionate about electronics and automation and is always looking for new ways to apply their skills and knowledge in the field.
