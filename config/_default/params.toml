@@ -90,7 +90,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 # Enter contact details (optional). To hide a field, clear it to "".
 #If you are using the contact form for the email and you are using formspree replace email
 #witht he last bit of the formspree id. E.g. for https://formspree.io/x/alkdjf just the bit after .io/ so "x/alkdjf"
-email = "f/xpzojplq" #this is linked to the formspree account with the lab email address
+email = "geneticlogiclab@gmail.com" #"f/xpzojplq" #this is linked to the formspree account with the lab email address
 phone = ""
 
 # Address

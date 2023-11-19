@@ -93,4 +93,4 @@ display_groups:
 ---
 
 
-Eric Yu is a second-year undergraduate currently studing Computer Science the University of Utah. He is interested in synthetic biology and distributed search, with his current focuses being genetic sequence search tools. In his free time, he enjoys hiking, skiing, and playng tennis.
+Eric Yu joined the Genetic Logic Lavb as a second-year undergraduate student in Computer Science at the University of Utah. His interests included synthetic biology and distributed search, with his current focuses being genetic sequence search tools. In his free time, he enjoys hiking, skiing, and playng tennis. Currently, Eric works as a backend software engineer at Creative Juice. 

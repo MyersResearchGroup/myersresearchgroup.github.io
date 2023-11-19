@@ -11,7 +11,7 @@ names:
 - Daniel Fang
 
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
-weight: 200
+weight: 201
 
 # Is this the primary user of the site?
 superuser: false
@@ -22,7 +22,7 @@ role: Graduate Researcher, Ph.D.
 university: CU
 
 department:
-- Biomedical Engineering
+- Computer Science
 
 projects:
 - <a href="/author/synbiohub/">SynBioHub</a>
@@ -39,10 +39,11 @@ interests:
 - Synthetic Biology
 - Computational Biology
 - Machine Learning
+- Automation
 
 education:
   courses:
-  - course: PhD in Biomedical Engineering
+  - course: PhD in Computer Science
     institution: University of Colorado Boulder
     year: 2026
   - course: Bachelors in Biomedical Engineering
@@ -55,9 +56,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: envelope
-#   icon_pack: fas
-#   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+- icon: envelope
+  icon_pack: fas
+  link: mailto:daniel.fang@colorado.edu   # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
@@ -66,13 +67,13 @@ social:
   link: http://dfcs.me/
 - icon: github
   icon_pack: fab
-  link: https://github.com/learner97
+  link: https://github.com/danielfang97
 # - icon: orcid
 #   icon_pack: fab
 #   link: https://orcid.org/0000-0002-1450-5638
 - icon: university-logo
   icon_pack: Custom_University
-  link: https://www.colorado.edu/bme/academics/phd-program
+  link: https://www.colorado.edu/cs/academics/graduate-programs/doctor-philosophy
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -98,4 +99,4 @@ display_groups:
 
 ---
 
-Daniel Fang is a first-year doctoral student in the computer science department at CU Boulder, studying under Dr. Chris Myers. Before arriving in Colorado, Daniel completed a bachelor’s degree in Biomedical Engineering from the University of Utah. He is particularly interested in the intersectionality of synthetic biology and machine learning techniques. In his free time, Daniel enjoys spending time in the outdoors, whether in the mountains or on the golf course, as well as with his friends and family.
+Daniel Fang is a second-year doctoral student in the computer science department at CU Boulder, studying under Dr. Chris Myers. Before arriving in Colorado, Daniel completed a bachelor’s degree in Biomedical Engineering from the University of Utah. He is particularly interested in the intersectionality of synthetic biology and machine learning techniques. His current project is designing the genetic data repository, [SynBioHub](/author/synbiohub/). In his free time, Daniel enjoys spending time in the outdoors, whether in the mountains or on the golf course, as well as with his friends and family.

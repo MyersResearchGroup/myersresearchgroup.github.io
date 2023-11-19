@@ -18,8 +18,8 @@ names:
 # Is this the primary user of the site?
 superuser: false
 
-#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 810 for alum undergrads
-weight: 400
+#Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads
+weight: 830
 
 projects:
 - <a href="https://fluentverification.github.io/">Fluent</a>
@@ -84,8 +84,7 @@ email: "paytonco@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Undergraduate Students
+- Undergraduate Alumni
 - iBioSim
 - Genetic Design Automation
 
@@ -97,4 +96,4 @@ display_groups:
 ---
 
 
-Payton Thomas is a recent graduated undergraduate studying Biomedical Engineering and Applied Mathematics with a Chemistry minor at the University of Utah. He is interested in the behavior of biological networks and the nonlinear dynamics of cellular systems.  Outside of academics, he enjoys climbing and mountaineering.  
+Payton Thomas is a recently graduated undergraduate studying Biomedical Engineering and Applied Mathematics with a Chemistry minor at the University of Utah. He is interested in the behavior of biological networks and the nonlinear dynamics of cellular systems.  Outside of academics, he enjoys climbing and mountaineering. Payton is now pursuing his PhD in Biomedical Engineering at the University of California San Diego. 
