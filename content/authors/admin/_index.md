@@ -70,3 +70,6 @@ user_groups:
 ---
 
 The Genetic Logic Lab is run by <a href="/author/chris-myers/">Chris Myers</a>. The research in the lab focuses on the interdisciplinary synthetic biology work in the overlap between electrical engineering, mathematical modelling, and genetic biology. Examples of work include: the creation of genetic design automation programs similar to electronic design automation programs for circuit designs, stochastic verification of genetic models, and a repository for storing and sharing genetic constructs.
+
+<!-- Can uncomment below for advertising -->
+<!-- The Genetic Logic Lab is always looking for talented undergraduate and graduate students. If you're interested in working in the new, exciting interdisciplinary field of synthetic biology, feel free to <a href="/#contact">reach out</a>! --> 
