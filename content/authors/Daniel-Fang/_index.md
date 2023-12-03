@@ -62,9 +62,12 @@ social:
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-- icon: user-graduate
+- icon: user
   icon_pack: fas
   link: http://dfcs.me/
+- icon: user-graduate
+  icon_pack: fas
+  link: https://www.linkedin.com/in/danielfang97/
 - icon: github
   icon_pack: fab
   link: https://github.com/danielfang97
