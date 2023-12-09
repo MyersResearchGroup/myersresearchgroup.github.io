@@ -88,6 +88,6 @@ display_groups:
 
 ---
 
-Suhyun Bae is a third-year undergraduate in Computer Science at the University of Colorado Boulder and has a Bachelor's degree in History. 
+Suhyun Bae is a third-year undergraduate in Computer Science at the University of Colorado Boulder and has a degree in History. 
 She is currently working to develop SBOLCanvas, a visual editor of genetic design, to add new features such as support for composite DNA sequences. 
 
