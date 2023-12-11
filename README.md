@@ -79,7 +79,11 @@ headless = false  # Homepage is headless, other widget pages are not.
  
  If that isn't working tags can be cleaned up using the cleanup_hugo_tagging.py script (make sure the path is to the publications folder) to clean up the extra "" in tags.
 
-  Talking about tags, [Academic Import](https://github.com/wowchemy/hugo-academic-cli/#usage) will automatically generate tags for all references imported, created from a mixture of keywords and titles extracted from the bib information. However, sometimes this can go a-wire and add weird tags. If any tag has a *"."* or a *"?"* or any other non-alphanumerical value, the site won't build. Please make sure you remove all characters that are not alpha-numerical from tags to run correctly.
+  Talking about tags, [Academic Import](https://github.com/wowchemy/hugo-academic-cli/#usage) will automatically generate tags for all references imported, created from a mixture of keywords and titles extracted from the bib information. However, sometimes this can go haywire and add weird tags. If any tag has a *"."* or a *"?"* or any other non-alphanumerical value, the site won't build. Please make sure you remove all characters that are not alpha-numerical from tags to run correctly.
+
+* How the contact form works:
+
+Current contact form is sent through formspree.io. The emails can be found in the geneticlogiclab@gmail.com email. The email inbox is heavily filtered, so the emails should appear in the All Mail folder or the Updates folder.
 
 ## Common error and mistakes
 
