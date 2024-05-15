@@ -50,6 +50,11 @@
   weight = 70  
 
 [[main]]
+  name = "Outreach"
+  url = "/outreach"
+  weight = 72
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 80  
