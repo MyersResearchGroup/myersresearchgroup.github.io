@@ -51,8 +51,9 @@ subtitle = ""
 </ul>
 </div>
 
-<div style="text-align: center; margin-top: 20px; margin-bottom: 20px;">
-    <img src="IMG_9397.jpg" alt="Amazing Scientists at Work!" style="max-width: 50%; height: 35%; margin: auto; display: block;">
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px; display: flex;
+  flex-direction: column;">
+    <img src="IMG_9397.jpg" alt="Amazing Scientists at Work!" style="max-width: 50%; height: auto; margin: auto; align-items: flex-start;">
 </div>
 
 
