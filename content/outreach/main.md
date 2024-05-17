@@ -22,7 +22,7 @@ subtitle = ""
 <p style="font-size: 20px;"><strong>Room:</strong> TBA</p>
 <p style="font-size: 20px;"><strong>Registration Deadline:</strong> June 10th</p>
 
-<p style="font-size: 16px;">This workshop is free to all attendees. Meals will be provided for the event.</p>
+<p style="font-size: 16px;">This workshop is free to all attendees. Breakfast, lunch, and dinner will be provided both days for the event.</p>
 
 **Register for the Workshop:** <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJymK6jK3u3jopTuSWuPojhUD9RnT1k_hsTVJVtsjka_QKSA/viewform?usp=sf_link" style="font-size: 24px;">Register via Google Form</a>
 
