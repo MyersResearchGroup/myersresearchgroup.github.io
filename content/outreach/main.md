@@ -19,7 +19,8 @@ subtitle = ""
 
 <p style="font-size: 20px;"><strong>Dates:</strong> June 17-18, 2024</p>
 <p style="font-size: 20px;"><strong >Location:</strong> University of Colorado Boulder</p>
-<p style="font-size: 20px;"><strong>Room:</strong> TBA</p>
+<p style="font-size: 20px;"><strong>Room:</strong> <a href="https://maps.app.goo.gl/ka7DZ5GvqMiCRNNj7">ECEE 1B32</a></p>
+
 <p style="font-size: 20px;"><strong>Registration Deadline:</strong> June 10th</p>
 
 <p style="font-size: 16px;">This workshop is free to all attendees. Breakfast, lunch, and dinner will be provided both days for the event.</p>
