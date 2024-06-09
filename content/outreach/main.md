@@ -40,16 +40,12 @@ subtitle = ""
     </div>
 </div>
 
-## <span style="font-weight: bold;">Topics Covered</span>
+## <span style="font-weight: bold;">Schedule</span>
 
-<div style="padding-left: 0px; margin-left: auto; margin-right: auto; max-width: 60%;">
-<ul style="list-style-type: none; display: inline; font-size:20px">
-    <li>- Biological parts and repositories where to find them</li>
-    <li>- Genetic devices and software to construct them</li>
-    <li>- Experimental techniques to build and test designs</li>
-    <li>- Modeling and analysis of biological circuits</li>
-    <li>- Laboratory automation</li>
-</ul>
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px; display: flex;
+  flex-direction: row;">
+    <img src="schedule_mon.png" alt="Monday Schedule" style="height: 400px; max-width: 50%; margin: auto;">
+    <img src="schedule_tue.png" alt="Tuesday Schedule" style="height: 400px; max-width: 50%; margin: auto;">
 </div>
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px; display: flex;
