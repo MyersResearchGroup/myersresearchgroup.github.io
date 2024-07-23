@@ -52,7 +52,7 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-- icon: user-graduate
+- icon: user
   icon_pack: fas
   link: https://www.linkedin.com/in/ryan-greer-b1123424a/
 - icon: github
