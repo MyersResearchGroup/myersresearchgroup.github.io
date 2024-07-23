@@ -42,6 +42,12 @@ social:
 - icon: file-alt
   icon_pack: fas
   link: https://synbiohub.github.io/
+- icon: code
+  icon_pack: fas
+  link: https://dev2.synbiohub.org/
+- icon: link
+  icon_pack: fas
+  link: https://linktr.ee/synbiohub/
 
 
 # Organizational groups that you belong to (for People widget)

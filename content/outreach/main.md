@@ -17,16 +17,18 @@ subtitle = ""
 
 # Synthetic Biology Workshop
 
+<p style="font-size: 32px;">Event concluded.  Thanks to everyone that participated.</p>
+
 <p style="font-size: 20px;"><strong>Dates:</strong> June 17-18, 2024</p>
 <p style="font-size: 20px;"><strong >Location:</strong> University of Colorado Boulder</p>
 <p style="font-size: 20px;"><strong>Room:</strong> <a href="https://maps.app.goo.gl/ka7DZ5GvqMiCRNNj7">ECEE 1B32</a></p>
 
-<p style="font-size: 20px;"><strong>Registration Deadline:</strong> June 10th</p>
-
-<p style="font-size: 16px;">This workshop is free to all attendees. Breakfast, lunch, and dinner will be provided both days for the event.</p>
-
-**Register for the Workshop:** <a href="https://docs.google.com/forms/d/e/1FAIpQLSfJymK6jK3u3jopTuSWuPojhUD9RnT1k_hsTVJVtsjka_QKSA/viewform?usp=sf_link" style="font-size: 24px;">Register via Google Form</a>
-
+<div style="text-align: center; margin-top: 20px; margin-bottom: 20px; display: flex; flex-wrap: wrap;">
+    <img src="outreach1.jpeg" alt="Outreach" style="height: 400px; max-width: 50%; margin: auto;">
+    <img src="outreach2.jpeg" alt="Outreach" style="height: 400px; max-width: 50%; margin: auto;">
+    <img src="outreach3.jpeg" alt="Outreach" style="height: 400px; max-width: 50%; margin: auto;">
+    <img src="outreach4.jpeg" alt="Outreach" style="height: 400px; max-width: 50%; margin: auto;">
+</div>
 
 ## <span style="font-weight: bold;">What is Synthetic Biology?</span>
 

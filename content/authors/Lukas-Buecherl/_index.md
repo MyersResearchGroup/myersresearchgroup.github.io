@@ -82,8 +82,8 @@ email: "lukas.buecherl@colorado.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Graduate Students
+- Alumni
+- PhD Alumni
 - Genetic Design Automation
 
 #any user groups to display on the page
