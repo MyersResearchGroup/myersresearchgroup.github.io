@@ -81,9 +81,9 @@ social:
 - icon: orcid
   icon_pack: fab
   link: https://orcid.org/0000-0003-3543-520X
-#- icon: university-logo
-#  icon_pack: Custom_University
-#  link: https://www.colorado.edu/cs/academics/graduate-programs/doctor-philosophy
+- icon: university-logo
+  icon_pack: Custom_University
+  link: https://www.colorado.edu/ecee
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
