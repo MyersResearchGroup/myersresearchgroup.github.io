@@ -24,10 +24,10 @@ subtitle = ""
 <p style="font-size: 20px;"><strong>Room:</strong> <a href="https://maps.app.goo.gl/ka7DZ5GvqMiCRNNj7">ECEE 1B32</a></p>
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px; display: flex; flex-wrap: wrap;">
-    <img src="outreach1.jpeg" alt="Outreach" style="height: 400px; max-width: 50%; margin: auto;">
-    <img src="outreach2.jpeg" alt="Outreach" style="height: 400px; max-width: 50%; margin: auto;">
-    <img src="outreach3.jpeg" alt="Outreach" style="height: 400px; max-width: 50%; margin: auto;">
-    <img src="outreach4.jpeg" alt="Outreach" style="height: 400px; max-width: 50%; margin: auto;">
+    <img src="outreach1.jpeg" alt="Outreach" style="max-width: 50%; margin: auto;">
+    <img src="outreach2.jpeg" alt="Outreach" style="max-width: 50%; margin: auto;">
+    <img src="outreach3.jpeg" alt="Outreach" style="max-width: 50%; margin: auto;">
+    <img src="outreach4.jpeg" alt="Outreach" style="max-width: 50%; margin: auto;">
 </div>
 
 ## <span style="font-weight: bold;">What is Synthetic Biology?</span>
@@ -38,7 +38,7 @@ subtitle = ""
         <p>Researchers are now able to engineer synthetic genetic circuits for a range of applications in the environmental, medical, and energy domains. Crucial to the success of these efforts is the development of methods and tools for genetic design automation (GDA). While inspiration can be drawn from experiences with electronic design automation (EDA), design with a genetic material poses several challenges. In particular, genetic circuits are composed of very noisy components making their behavior more asynchronous, analog, and stochastic in nature. This workshop presents a design-build-test-learn workflow for synthetic biology. We will introduce data repositories that provide information about genetic parts, sequence-level design tools to compose these parts into circuits, and modeling and simulation tools to evaluate alternative design choices. We will also introduce basics about the experimental methods used to build and test these genetic designs. Finally, we will demonstrate how laboratory automation can accelerate this entire workflow.</p>
     </div>
     <div style="flex: 1; min-width: 250px; padding: 10px;">
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/zggU1KCgc7A?si=q9Z2_HH18-ZcNIFT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+        <iframe min-width="80%" src="https://www.youtube.com/embed/zggU1KCgc7A?si=q9Z2_HH18-ZcNIFT" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 </div>
 
@@ -46,8 +46,8 @@ subtitle = ""
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px; display: flex;
   flex-direction: row;">
-    <img src="schedule_mon.png" alt="Monday Schedule" style="height: 400px; max-width: 50%; margin: auto;">
-    <img src="schedule_tue.png" alt="Tuesday Schedule" style="height: 400px; max-width: 50%; margin: auto;">
+    <img src="schedule_mon.png" alt="Monday Schedule" style="max-width: 50%; margin: auto;">
+    <img src="schedule_tue.png" alt="Tuesday Schedule" style="max-width: 50%; margin: auto;">
 </div>
 
 <div style="text-align: center; margin-top: 20px; margin-bottom: 20px; display: flex;
