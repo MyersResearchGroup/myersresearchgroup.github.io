@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Lukas Bücherl
+title: Lukas Buecherl
 
 # Username (this should match the folder name)
 authors:
@@ -92,10 +92,8 @@ display_groups:
 - FLUENT Project
 
 ---
+In 2019, Lukas Buecherl received his Bachelor's degree in Electrical Engineering and Computer Science from the University of Ulm, Germany. He continued his studies at the University of Colorado Boulder, where he completed both his Master's and Ph.D. in Biomedical Engineering as part of the Interdisciplinary Quantitative Biology Program. This program emphasized interdisciplinary studies, which laid the foundation for his current research interests at the intersection of engineering and biology.
 
-Lukas Bücherl joined the Genetic Logic Lab as Ph.D. student under the supervision of Dr. Chris Myers. He is a member of the IQ Biology program and his research focuses on synthetic biology and its possible applications in improving human lives. He is currently working in computational synthetic biology and plans to extend his knowledge with wet lab experience.
+As an assistant professor in the Biological Engineering Department at Utah State University, Dr. Buecherl specializes in the analysis and improvement of genetic circuit design. His work leverages computational modeling and analysis techniques alongside experimental validation. Additionally, he explores the integration of electrical engineering and biology, focusing on laboratory automation and the development of microfluidic devices.
 
-He was born and raised in Munich, Germany, and obtained a Bachelor of Science in electrical engineering from the University of Ulm, Germany, in 2019.
-As a member of the International Student Advisory Board, Lukas focuses on improving new international students' transition to the American academic system. Based on personal experience, he also wants to work on the acceptance of foreign letters in the system, since the german umlaut in his last name often causes problems with his visa and identification.
-
-Lukas enjoys what Boulder has to offer by hiking, running at the Creek, and playing the guitar in his free time.
+Dr. Buecherl is also an active member of the academic community, serving on the program committee for the International Workshop of Biodesign Automation. His contributions to the field have been recognized through several awards, including the Excellent Mentorship Award and the Outstanding Graduate Researcher Award from the Electrical and Computer Engineering Department at the University of Colorado Boulder.
