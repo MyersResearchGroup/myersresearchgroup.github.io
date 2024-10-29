@@ -64,7 +64,7 @@ subtitle = ""
 
 ### Acknowledgements
 
-This project is funded by grants 1856733, 1856740, and 1900542 from the National Science Foundation. The views expressed are those of the authors and do not necessarily reflect those of the NSF.
+This event was funded by the Chuck Palmer Leadership Chair. The work presented was based on activities supported by grants 1856733, 1856740, and 1900542 from the National Science Foundation.  The views expressed are those of the presenters and do not necessarily reflect those of the funders.
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px; margin-top: 20px; margin-bottom: 30px;">
     <img src="nsf.jpeg" alt="NSF Logo" style="max-height: 40px;">
