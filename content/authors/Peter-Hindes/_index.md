@@ -59,7 +59,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:onleads@peterhindes.com   # For a direct email link, use "mailto:test@example.org".
-- icon: user-graduate
+- icon: user
   icon_pack: fas
   link: https://www.linkedin.com/in/peter-hindes-b5bb22249/
 - icon: user
