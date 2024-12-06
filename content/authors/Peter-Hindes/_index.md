@@ -17,7 +17,7 @@ weight: 400
 superuser: false
 
 # Role/position
-role: Undergraduate Research Assistant
+role: Undergraduate Researcher
 
 university: CU
 
