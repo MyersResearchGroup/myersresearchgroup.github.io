@@ -17,7 +17,7 @@ weight: 400
 superuser: false
 
 # Role/position
-role: Undergraduate Research Assistant
+role: Undergraduate Researcher
 
 university: CU
 
@@ -59,7 +59,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:onleads@peterhindes.com   # For a direct email link, use "mailto:test@example.org".
-- icon: user-graduate
+- icon: user
   icon_pack: fas
   link: https://www.linkedin.com/in/peter-hindes-b5bb22249/
 - icon: user
@@ -82,7 +82,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Graduate Students
+- Undergraduate Students
 - SynBioHub
 - Genetic Design Automation
 
