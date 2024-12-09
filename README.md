@@ -1,6 +1,6 @@
 # Best-practices documentation for modifying the website
 
-## Website editting
+## Website editing
 
 * Follow instructions on [this page](https://wowchemy.com/docs/install-locally/) to install hugo and dependencies
 * cd into a directory you want to have the file in
