@@ -31,7 +31,7 @@ image:
 projects: []
 publishDate: '2021-01-15T21:34:50.388741Z'
 publication_types:
-- '7'
+- '5'
 abstract: Asynchronous circuit design has the potential to produce circuits superior
   to those of synchronous circuit design. Current synchronous methods of architectural-level
   synthesis do not exploit properties inherent to asynchronous circuits. This research
