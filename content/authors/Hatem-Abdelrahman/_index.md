@@ -42,11 +42,11 @@ interests:
 - Quantitative single-cell biology
 - Cell fate decision making
 - Synthetic morphogenesis
-- Biological pattern formation
-- Rewiring signaling pathways to program cell behavior
-- Tissue regeneration and the immune response
-- Artificial tissue homeostasis
-- Gene and Cell-based therapies
+#- Biological pattern formation
+#- Rewiring signaling pathways to program cell behavior
+#- Tissue regeneration and the immune response
+#- Artificial tissue homeostasis
+#- Gene and Cell-based therapies
 
 education:
   courses:
@@ -59,14 +59,14 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-#social:
+social:
 # - icon: envelope
 #   icon_pack: fas
 #   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 # - icon: twitter
 #   icon_pack: fab
 #   link: https://twitter.com/GeorgeCushen
-#- icon: user-graduate
+- icon: user-graduate
 #  icon_pack: fas
 #  link: 
 - icon: github
@@ -95,7 +95,7 @@ user_groups:
 - Graduate Students
 
 #any user groups to display on the page
-#display_groups:
+display_groups:
 #- SynBioHub Tool
 #- SBOLExplorer 
 ---
