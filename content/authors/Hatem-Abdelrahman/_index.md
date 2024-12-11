@@ -42,11 +42,11 @@ interests:
 - Quantitative single-cell biology
 - Cell fate decision making
 - Synthetic morphogenesis
-#- Biological pattern formation
-#- Rewiring signaling pathways to program cell behavior
-#- Tissue regeneration and the immune response
-#- Artificial tissue homeostasis
-#- Gene and Cell-based therapies
+- Biological pattern formation
+- Rewiring signaling pathways to program cell behavior
+- Tissue regeneration and the immune response
+- Artificial tissue homeostasis
+- Gene and Cell-based therapies
 
 education:
   courses:
