@@ -19,5 +19,5 @@ abstract: The progress and utility of synthetic biology is currently hindered by
 
 links:
 - name: URL
-  url: '   https://doi.org/10.1021/acssynbio.4c00392   '
+  url: 'https://doi.org/10.1021/acssynbio.4c00392'
 ---
