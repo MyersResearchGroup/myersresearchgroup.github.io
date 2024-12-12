@@ -32,5 +32,5 @@ publication: '*ACS Synthetic Biology*'
 doi: 10.1021/acssynbio.1c00305
 links:
 - name: URL
-  url: '   https://doi.org/10.1021/acssynbio.1c00305   '
+  url: 'https://doi.org/10.1021/acssynbio.1c00305'
 ---
