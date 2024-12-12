@@ -6,8 +6,29 @@ authors:
 - Chris J Myers
 date: '2022-01-01'
 publishDate: '2024-12-12T17:27:07.561325Z'
+
+tags:
+categories: []
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
 publication_types:
-- article-journal
+- '1'
+
 publication: '*Current Opinion in Microbiology*'
 doi: https://doi.org/10.1016/j.mib.2022.102155
 abstract: Synthetic biology (SynBio) is a field at the intersection of biology and
