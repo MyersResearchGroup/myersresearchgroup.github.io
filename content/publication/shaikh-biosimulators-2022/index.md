@@ -100,7 +100,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publication_types:
-- '1'
+- '2'
 
 publication: '*Nucleic Acids Research*'
 doi: 10.1093/nar/gkac331

@@ -28,7 +28,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publication_types:
-- '1'
+- '2'
 
 abstract: The ability to search for a part by its sequence is crucial for a large repository of parts. Prior to this work, however, this was not possible on SynBioHub. Sequence-based search is now integrated into SynBioHub, allowing users to find a part by a sequence provided in plain text or a supported file format. This sequence-based search feature is accessible to users via SynBioHub’s web interface, or programmatically through its API. The core implementation of the tool uses VSEARCH, an open source, global alignment search tool, and it is integrated into SBOLExplorer, an open source distributed search engine used by SynBioHub. We present a new approach to scoring part similarity using SBOLExplorer, which takes into account both the popularity and percentage match of parts.
 publication: '*ACS Synthetic Biology*'

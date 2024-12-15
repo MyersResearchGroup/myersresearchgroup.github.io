@@ -27,7 +27,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publication_types:
-- '1'
+- '2'
 
 publication: '*Current Opinion in Microbiology*'
 doi: https://doi.org/10.1016/j.mib.2022.102155

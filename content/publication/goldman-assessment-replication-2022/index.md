@@ -61,7 +61,7 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 publication_types:
-- '1'
+- '2'
 
 publication: '*Synthetic Biology*'
 doi: 10.1093/synbio/ysac018
