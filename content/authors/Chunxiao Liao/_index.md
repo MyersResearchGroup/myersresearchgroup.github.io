@@ -36,8 +36,8 @@ organizations:
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Synthetic Biology
-- Computational Biology
+- Synthetic Biology, Computational Biology
+- Software Engineering
 - Machine Learning
 
 education:
@@ -95,6 +95,7 @@ user_groups:
 display_groups:
 - SynBioHub Tool
 - SBOLExplorer 
+- SeqImprove
 ---
 
-Chunxiao Liao is a first-year doctoral student in the computer science department at CU Boulder, studying under Dr. Chris Myers. Before arriving in Colorado, Chunxiao completed a Master’s degree in Computer Science from the Rice University. Her research is centered around enhancing the usability and discoverability of synthetic biological data to adhere to the FAIR principles for data sharing, which stands for Findable, Accessible, Interoperable, and Reusable. More specifically, her research endeavors to apply techniques from Software Engineering, Bioinformatics, and Data Science to create an integrated curation workflow and a corresponding search methodology.
+Chunxiao Liao is a second-year doctoral student in the computer science department at CU Boulder, studying under Dr. Chris Myers. Before arriving in Colorado, Chunxiao completed a Master’s degree in Computer Science from the Rice University. Her research is centered around enhancing the usability and discoverability of synthetic biological data to adhere to the FAIR principles for data sharing, which stands for Findable, Accessible, Interoperable, and Reusable. More specifically, her research endeavors to apply techniques from Software Engineering, Bioinformatics, and Data Science to create an integrated curation workflow and a corresponding search methodology.
