@@ -37,16 +37,6 @@ organizations:
 
 interests:
 - Genetic circuit engineering
-- RNA synthetic biology
-- Mammalian synthetic biology
-- Quantitative single-cell biology
-- Cell fate decision making
-- Synthetic morphogenesis
-- Biological pattern formation
-- Rewiring signaling pathways to program cell behavior
-- Tissue regeneration and the immune response
-- Artificial tissue homeostasis
-- Gene and Cell-based therapies
 
 education:
   courses:
@@ -100,4 +90,4 @@ display_groups:
 #- SBOLExplorer 
 ---
 
-Hatem Abdelrahman is a first-year PhD student in the Biomedical Engineering Program at CU Boulder, under the supervision of Dr. Chris Myers. Before arriving at CU boulder, Hatem studied Biotechnology and Biomolecular Chemistry at the Faculty of Science, Cairo University. Hatem gained experience in biomedical research specifically in stem cell biology from the Center of Excellence for Stem Cell Research and Regenerative Medicine, Zewail City of Science and Technology. Hatem is an active member of the iGEM community serving as an iGEM Ambassador to Africa, an iGEM mentor, an iGEM judge, and a member of the iGEM Engineering Committee since 2021. Hatem is also a Global Community Bio Fellow and served as a member of the Global Community Bio Summit organizing committee. Hatem aims to engineer gene expression control systems (aka synthetic genetic circuits) and rewire signaling pathways to control cellular behavior (e.g. cell fate decision making) for interesting biomedical applications (e.g. tissue regeneration). For that, I am interested in developing a quantitative understanding of how cells integrate different signals from the environment, process information and make critical decisions, and to apply such quantitative understanding for the predictive control of cellular behavior. 
+Hatem Abdelrahman is a first-year PhD student in the Biomedical Engineering Program at CU Boulder, under the supervision of Dr. Chris Myers. Before arriving at CU boulder, Hatem studied Biotechnology and Biomolecular Chemistry at the Faculty of Science, Cairo University. Hatem gained experience in biomedical research specifically in stem cell biology from the Center of Excellence for Stem Cell Research and Regenerative Medicine, Zewail City of Science and Technology. Hatem is an active member of the iGEM community serving as an iGEM Ambassador to Africa, an iGEM mentor, an iGEM judge, and a member of the iGEM Engineering Committee since 2021. Hatem is also a Global Community Bio Fellow and served as a member of the Global Community Bio Summit organizing committee. Hatem aims to engineer gene expression control systems (aka synthetic genetic circuits) and rewire signaling pathways to control cellular behavior (e.g. cell fate decision making) for interesting biomedical applications (e.g. tissue regeneration). For that, I am interested in developing a quantitative understanding of how cells integrate different signals from the environment, process information and make critical decisions, and to apply such quantitative understanding for the predictive control of cellular behavior. During free time, I enjoy swimming, lifting weights, exploring new places and making new friends.
