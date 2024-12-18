@@ -58,3 +58,5 @@ user_groups:
 ---
 
 In response to DARPA’s BAA Tellus, the Draper Team, including partners from Boston University, MIT, NC State, Raytheon BBN, and CU Boulder, proposes EBUGS to revolutionize environmental monitoring. EBUGS aims to develop a software-guided methodology for rapidly designing, building, and validating microbial sensors capable of multiplex detection in complex environments. Unlike current hardware-based and manual sample collection methods, EBUGS leverages engineered microorganisms to sense and process multiple stimuli, producing diverse outputs beyond traditional fluorescent signals. The project introduces innovative approaches such as an end-to-end software tool for predicting genetic circuit performance, next-generation remote sensing for signal transduction, and DNA barcoding for recording sensing events, significantly advancing the state-of-the-art in microbial sensor technology.
+
+This project is supported by DARPA HR0011-24-C-0423. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the funding agencies.
