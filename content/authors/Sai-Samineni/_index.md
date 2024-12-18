@@ -81,11 +81,8 @@ email: "sasa6749@colorado.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Graduate Students
-- SynBioHub
-- SynBioHub Plugins
-- Genetic Design Automation
+- Alumni
+- PhD Alumni
 
 #any user groups to display on the page
 display_groups:
