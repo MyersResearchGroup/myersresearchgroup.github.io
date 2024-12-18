@@ -40,13 +40,8 @@ interests:
 - RNA synthetic biology
 - Mammalian synthetic biology
 - Quantitative single-cell biology
-- Cell fate decision making
-- Synthetic morphogenesis
-- Biological pattern formation
+- Cell fate decision making and Synthetic morphogenesis
 - Rewiring signaling pathways to program cell behavior
-- Tissue regeneration and the immune response
-- Artificial tissue homeostasis
-- Gene and Cell-based therapies
 
 education:
   courses:
