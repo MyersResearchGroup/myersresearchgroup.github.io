@@ -52,8 +52,9 @@ display_groups:
 
 research_area: true
 
- research_area_tags:
- - SynBio Suite Tool
+research_area_tags:
+- SynBio Suite Tool
+
 ---
 
 SynBio Suite is an integrated software platform designed to streamline the design, simulation, and optimization of synthetic biological systems. It provides researchers with a comprehensive set of tools for creating, testing, and analyzing engineered biological circuits and pathways. SynBio Suite supports the entire design-build-test cycle, enabling users to model genetic systems and predict their behavior before actual implementation in the laboratory. SynBio Suite supports the use of standardized formats, such as SBOL (Synthetic Biology Open Language), to ensure compatibility and data exchange across different tools and platforms.
