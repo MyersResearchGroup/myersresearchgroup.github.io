@@ -106,6 +106,7 @@ user_groups:
 #any user groups to display on the page
 display_groups:
 - SynBioHub Tool
+- SynBio Suite Tool
 - Genetic Design Automation Area
 
 ---
