@@ -101,10 +101,12 @@ user_groups:
 - Postdocs
 - SynBioHub
 - Genetic Design Automation
+- SynBio Suite
 
 #any user groups to display on the page
 display_groups:
 - SynBioHub Tool
+- SynBio Suite Tool
 - Genetic Design Automation Area
 
 ---
