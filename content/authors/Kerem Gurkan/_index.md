@@ -86,5 +86,6 @@ user_groups:
 display_groups:
 - SynBio Suite Tool
 - Genetic Design Automation Area
+- XDC
 ---
 Kerem Gurkan is a second-year undergraduate at the University of Colorado Boulder, studying both Computer Science and Creative Technology & Design, with a minor in Leadership Studies. He is currently contributing to SynBio Suite, where he is working on developing a new tool to standardize experimental data intake and manipulation (XDC). He is also a Boettcher Scholar and a member of the President’s Leadership Class. In his free time, he enjoys spending time with family and friends.
