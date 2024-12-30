@@ -12,6 +12,7 @@ authors:
 #Author Names (alternative spellings etc)
 names:
 - XDC
+- Xperimental Data Connector
 
 #Link to this when clicking on tool icons
 toolurl: https://pypi.org/project/xperimental-data-conv/
@@ -54,7 +55,6 @@ display_groups:
 research_area: true
 
 research_area_tags:
-- XDC
 - SynBio Suite Tool
 
 ---
