@@ -44,12 +44,11 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Tools
-- Data Capture
 - SynBio Suite Tool
 
 #any user groups to display on the page
 display_groups:
-- SynBio Suite Tool
+- XDC
 
 research_area: true
 
