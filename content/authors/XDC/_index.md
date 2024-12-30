@@ -53,6 +53,7 @@ display_groups:
 research_area: true
 
 research_area_tags:
+- XDC
 - SynBio Suite Tool
 
 ---
