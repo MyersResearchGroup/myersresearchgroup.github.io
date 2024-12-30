@@ -48,7 +48,7 @@ user_groups:
 
 #any user groups to display on the page
 display_groups:
-- SynBio Suite
+- XDC
 
 research_area: true
 
