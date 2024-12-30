@@ -50,7 +50,7 @@ user_groups:
 
 #any user groups to display on the page
 display_groups:
-- XDC
+- SynBio Suite Tool
 
 research_area: true
 
