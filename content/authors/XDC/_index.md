@@ -46,7 +46,6 @@ user_groups:
 - Tools
 - Data Capture
 - SynBio Suite Tool
-- XDC
 
 #any user groups to display on the page
 display_groups:
