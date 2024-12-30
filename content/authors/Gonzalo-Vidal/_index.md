@@ -108,6 +108,7 @@ display_groups:
 - SynBioHub Tool
 - SynBio Suite Tool
 - Genetic Design Automation Area
+- XDC
 
 ---
 
