@@ -94,7 +94,9 @@ user_groups:
 
 #any user groups to display on the page
 display_groups:
-# - iBioSim Tool
+- SynBioSuite Tool
+- SBOLCanvas Tool
+- SeqImprove Tool
 - Genetic Design Automation Area
 ---
 
