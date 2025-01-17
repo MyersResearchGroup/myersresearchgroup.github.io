@@ -40,7 +40,6 @@ interests:
 - RNA synthetic biology
 - Rewiring signaling pathways
 
-
 education:
   courses:
   - course: PhD in Biomedical Engineering

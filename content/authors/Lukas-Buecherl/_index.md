@@ -85,11 +85,13 @@ user_groups:
 - Alumni
 - PhD Alumni
 - Genetic Design Automation
+- SynBio Suite
 
 #any user groups to display on the page
 display_groups:
 - Genetic Design Automation Area
 - FLUENT Project
+- SynBio Suite Tool
 
 ---
 In 2019, Lukas Buecherl received his Bachelor's degree in Electrical Engineering and Computer Science from the University of Ulm, Germany. He continued his studies at the University of Colorado Boulder, where he completed both his Master's and Ph.D. in Biomedical Engineering as part of the Interdisciplinary Quantitative Biology Program. This program emphasized interdisciplinary studies, which laid the foundation for his current research interests at the intersection of engineering and biology.
