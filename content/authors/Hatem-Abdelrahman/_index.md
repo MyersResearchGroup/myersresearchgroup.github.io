@@ -37,6 +37,8 @@ organizations:
 
 interests:
 - Genetic circuit engineering
+- RNA synthetic biology
+- Rewiring signaling pathways
 
 education:
   courses:
