@@ -80,11 +80,11 @@ user_groups:
 - Researchers
 - Undergraduate Students
 - Genetic Design Automation
-- SynBio Suite
+- SynBioSuite
 
 #any user groups to display on the page
 display_groups:
-- SynBio Suite Tool
+- SynBioSuite Tool
 - Genetic Design Automation Area
 - XDC
 ---

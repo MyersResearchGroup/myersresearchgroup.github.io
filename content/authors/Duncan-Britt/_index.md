@@ -77,10 +77,11 @@ user_groups:
 - Researchers
 - Undergraduate Students
 - Genetic Design Automation
-# SeqImprove
+- SeqImprove
 
 #any user groups to display on the page
 display_groups:
 - Genetic Design Automation Area
+- SeqImprove
 ---
 Duncan Britt is in his penultimate year of his undergraduate computer science degree at the University of Colorado, Boulder. He is currently working on a tool for annotating and curating genetic circuits known as SeqImprove. In his free time he enjoys playing the piano and guitar.

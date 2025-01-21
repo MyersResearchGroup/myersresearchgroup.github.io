@@ -37,7 +37,7 @@ interests:
 - Synthetic Biology 
 
 projects:
-- SynBio Suite
+- SynBioSuite
 - SBOLCanvas
 
 
@@ -80,11 +80,11 @@ user_groups:
 - Researchers
 - Undergraduate Students
 - Genetic Design Automation
-- SynBio Suite
+- SynBioSuite
 
 #any user groups to display on the page
 display_groups:
-- SynBio Suite Tool
+- SynBioSuite Tool
 - Genetic Design Automation Area
 ---
 Derick Sayavong is a fourth-year undergraduate in Computer Science at the University of Colorado Boulder, with a minor in Business. He is actively working on SynBio Suite, a web app for the design and analysis of genetic circuits. Additionally, he is helping to develop SBOLCanvas, a web application for creation and editing of genetic constructs using the SBOL data and visual standard. In his free time, he enjoys spending time with family and friends and playing the guitar.
