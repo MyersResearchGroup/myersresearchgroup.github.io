@@ -19,7 +19,7 @@ names:
 superuser: false
 
 # Role/position
-role: 
+role: Sandia National Laboratories
 
 # Organizations/Affiliations
 organizations:
