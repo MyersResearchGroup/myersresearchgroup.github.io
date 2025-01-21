@@ -89,6 +89,7 @@ display_groups:
 - SynBioHub Tool
 - Genetic Design Automation Area
 - SynBioHub Plugins Tool
+- XDC
 
 ---
 
