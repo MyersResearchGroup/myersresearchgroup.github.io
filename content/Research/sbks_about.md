@@ -3,7 +3,7 @@
 widget = "about_research"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 100  # Order that this section will appear in.
+weight = 503  # Order that this section will appear in.
 
 title = "Synthetic Biology Knowledge System"
 
