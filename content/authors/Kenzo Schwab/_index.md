@@ -4,7 +4,7 @@ title: Kenzo Schwab
 
 # Username (this should match the folder name)
 authors:
-- Kenzo
+- Kenzo Schwab
 
 #Author Names (alternative spellings etc)
 names:
@@ -22,7 +22,7 @@ university: CU Boulder
 role: Undergraduate Researcher
 
 department:
-- ECE
+- Electircal and Computer Engineering
 
 # Organizations/Affiliations
 organizations:
@@ -37,11 +37,12 @@ interests:
 - Radio Frequency
 
 projects:
-
+- SynBio Suite
+- iBioSim
 
 education:
   courses:
-  - course: Bachelor's Degree, EE
+  - course: Bachelor's Degree, Electrical Engineer
     institution: University of Colorado Boulder
     year: 2027
 
@@ -61,9 +62,9 @@ social:
   icon_pack: fas
   link: mailto:kenzo.schwab@colorado.edu
 
-- icon: university-logo
-  icon_pack: Custom_University
-  link: https://www.colorado.edu/ecee/
+- icon: user
+  icon_pack: fas
+  link: https://www.linkedin.com/in/kenzo-schwab-304314302/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -79,9 +80,15 @@ email: ""
 user_groups:
 - Undergraduate Students
 - Researchers
+- Genetic Design Automation
+- SynBio Suite
+- iBioSim
 
 #any user groups to display on the page
 display_groups:
+- SynBio Suite Tool
+- Genetic Design Automation Area
+- iBioSim Tool
 
 ---
 Kenzo Schwab is passionate about circuits, radio frequency technology, and enhancing their software skills. They are deeply interested in the interplay between hardware and software, particularly in designing and optimizing electronic systems. Kenzo enjoys exploring how circuits and advanced technologies can be used to solve practical problems, whether through improving communication systems or automating processes. They are particularly fascinated by the applications of radio frequency technology in modern systems and are eager to integrate their growing software expertise with hardware design. Kenzo is dedicated to learning and applying their skills to innovate and contribute to the field of electronics.
