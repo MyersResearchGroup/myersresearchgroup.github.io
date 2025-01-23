@@ -33,8 +33,8 @@ organizations:
 # bio: My research interests include radio frequency and circuitry.
 
 interests:
-- Circuitry
-- Radio Frequency
+- Synthetic Biology
+- Genetic Circuitry
 
 projects:
 - SynBio Suite
