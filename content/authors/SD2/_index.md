@@ -64,4 +64,4 @@ SD2E now serves SD2 and other related data-driven scientific programs.  SD2E con
 
 SD2E is managed by the Texas Advanced Computing Center (TACC), where many of the world’s most powerful research computing resources are designed and operated.  More information on TACC resources can be found <a href=" https://www.tacc.utexas.edu" target="_blank">here</a>.
 
-Funding: 
+This project was supported by DARPA FA8750-17-C-0229. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the funding agencies.
