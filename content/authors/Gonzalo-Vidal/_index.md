@@ -102,13 +102,14 @@ user_groups:
 - SynBioHub
 - Genetic Design Automation
 - SynBioSuite
+- XDC
 
 #any user groups to display on the page
 display_groups:
 - SynBioHub Tool
 - SynBioSuite Tool
 - Genetic Design Automation Area
-- XDC
+- XDC Tool
 
 ---
 

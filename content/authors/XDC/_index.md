@@ -44,6 +44,7 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Tools
+- Genetic Design Automation
 - SynBio Suite Tool
 
 #any user groups to display on the page
@@ -54,6 +55,23 @@ research_area: true
 
 research_area_tags:
 - SynBio Suite Tool
+# Organizational groups that you belong to (for People widget)
+#   Set this to `[]` or comment out if you are not using People widget.
+user_groups:
+- Tools
+- Genetic Design Automation
+- SynBioSuite Tool
+- XDC Tool
+
+#any user groups to display on the page
+display_groups:
+- XDC
+- SynBioSuite
+
+research_area: true
+
+research_area_tags:
+- SynBioSuite Tool
 
 ---
 
