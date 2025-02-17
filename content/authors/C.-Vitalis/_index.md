@@ -32,8 +32,7 @@ organizations:
 - name: University of Colorado Boulder
   url: ""
 
-# Short bio (displayed in user profile at end of posts)
-#bio: Works on biosecurity and evaluation of engineered DNA.
+
 
 interests:
 - Artificial Intelligence
