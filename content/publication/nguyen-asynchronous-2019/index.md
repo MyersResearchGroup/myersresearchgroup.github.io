@@ -55,5 +55,5 @@ abstract: Synthetic biology is applying engineering concepts to biological proce
   insights on how asynchronous sequential circuit designs can be built through an
   automated procedure to perform technology mapping from libraries composed of logic
   gates and memory circuits.
-publication: ''
+publication: 'Ph.D. Thesis, University of Utah'
 ---
