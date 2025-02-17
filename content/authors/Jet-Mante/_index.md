@@ -97,6 +97,7 @@ user_groups:
 - SynBioHub Plugins
 - Genetic Design Automation
 - Excel2SBOL
+- SeqImprove
 
 #any user groups to display on the page
 display_groups:
