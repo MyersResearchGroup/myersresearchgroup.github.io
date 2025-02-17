@@ -39,5 +39,5 @@ abstract: Due to the increasing use and complexity of embedded and cyber-physica
   for verification. These details must be conservative, in that they may not remove
   any state from the model’s behavior. These transforms have shown this method promising
   in reducing the complexity of embedded system verification. I.
-publication: ''
+publication: 'B.S. Thesis, University of Utah'
 ---
