@@ -16,6 +16,8 @@ weight: 400
 # Is this the primary user of the site?
 superuser: false
 
+# TODO fill in your stuff!
+
 # Role/position
 role: Undergraduate Researcher
 
@@ -52,7 +54,7 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social: ###### HEY UPDATE THESE!
+social:
 - icon: envelope
   icon_pack: fas
   link: mailto:onleads@peterhindes.com
