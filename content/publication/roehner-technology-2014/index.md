@@ -52,6 +52,6 @@ abstract: Synthetic biology is a new field in which engineers, biologists, and c
   and concepts from electrical and computer engineering can be adapted to overcome
   the challenges of genetic design and is an example of what is possible when working
   with publicly available standards for genetic design.
-publication: ''
+publication: 'Ph.D. Thesis, University of Utah'
 url_pdf: https://collections.lib.utah.edu/details?id=196863
 ---
