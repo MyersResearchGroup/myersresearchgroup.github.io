@@ -23,7 +23,7 @@ projects:
 - <a href="/author/synbiohub-plugins/">SynBioHub Plugins</a>
 
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 810 for alum undergrads
-weight: 200
+weight: 810
 
 # Role/position
 role: Graduate Researcher, Ph.D.
@@ -81,17 +81,15 @@ email: "sasa6749@colorado.edu"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Graduate Students
-- SynBioHub
-- SynBioHub Plugins
-- Genetic Design Automation
+- Alumni
+- PhD Alumni
 
 #any user groups to display on the page
 display_groups:
 - SynBioHub Tool
 - Genetic Design Automation Area
 - SynBioHub Plugins Tool
+- XDC
 
 ---
 
