@@ -54,5 +54,5 @@ abstract: "To increase performance, circuit designers are experimenting with tim
   \ by the existing algorithms; thus, the new analysis algorithm can be applied to\
   \ systems that are beyond their capacity. This is demonstrated in verifying industrial\
   \ designs from IBM and Sun Microsystems."
-publication: ''
+publication: 'Ph.D. Thesis, University of Utah'
 ---
