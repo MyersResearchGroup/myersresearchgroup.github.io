@@ -58,6 +58,8 @@ user_groups:
 - NIST Project
 ---
 
-TEST
+This research successfully advanced SynBioHub, an interactive genetic design repository, by enhancing usability, extensibility, and support for biological data standards. Key achievements include a more intuitive front-end, a modernized back-end with improved authentication and SBOL 3 support, refined plugin capabilities, and a robust testing framework. The project delivered a functional search system, streamlined user management, and improved data submission and visualization. The back-end now provides secure, granular access control and faceted search, while plugin support for visualization and downloads has been implemented. A comprehensive testing infrastructure ensures consistency between SynBioHub1 and SynBioHub3.
 
-Funding: 
+While SynBioHub2 and SynBioHub3 are still being finalized, this work has laid a strong foundation for their completion. The developed methodologies and improvements will support the synthetic biology community in managing and sharing genetic designs more effectively.
+
+This project was supported by NIST award 70NANB21H103. Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the funding agencies.
