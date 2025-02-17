@@ -71,7 +71,6 @@ display_groups:
 research_area: true
 
 research_area_tags:
-- SynBioSuite Tool
 - XDC
 
 ---
