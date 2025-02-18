@@ -3,6 +3,8 @@
 ## Content editing
 
 Editing authors, includes editing researchers, tools and projects.
+
+
 To add a new researcher:
   * Navigate to [content/authors](https://github.com/MyersResearchGroup/myersresearchgroup.github.io/tree/master/content/authors).
   * Add a new folder.
