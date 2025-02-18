@@ -65,9 +65,9 @@ social:
 - icon: user-graduate
 #  icon_pack: fas
 #  link: 
-- icon: github
-  icon_pack: fab
-  link: https://github.com/Hatem-synbio
+# - icon: github
+#  icon_pack: fab
+#  link: https://github.com/Hatem-synbio
 # - icon: orcid
 #   icon_pack: fab
 #   link: https://orcid.org/0000-0002-1450-5638
@@ -82,7 +82,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "hatem.abdelrahman@colorado.edu"
+email: ""
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
