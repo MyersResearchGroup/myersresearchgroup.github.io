@@ -44,7 +44,7 @@ education:
   courses:
   - course: Bachelors in Electrical & Computer Engineering
     institution: University of Colorado Boulder
-    year: Freshman
+    year: 2028
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -87,5 +87,4 @@ display_groups:
 - Genetic Design Automation Area
 
 ---
-
-Luke Dysart describe yourself!
+Luke Dysart is a student-athlete committed to developing technical and creative skills in all fields of engineering to do what has never been done. He is an Electrical Engineering major pursuing a minor in Spanish and plans to obtain his master's degree. When he is not working or in the classroom, you can find him practicing at the CU Rec ice rink or running in the Flatirons. He is currently contributing to PUDU with his skills in Python programming and hopes to move into wet labs in the future. Known to make a good playlist, Luke brings creativity and precision to everything he does.
