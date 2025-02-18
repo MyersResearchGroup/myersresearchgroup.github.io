@@ -27,28 +27,24 @@ department:
 - Electrical & Computer Engineering
 
 projects:
-- <a href="/author/synbiohub/">SynBioHub</a>
+- <a href="/author/PUDU/">PUDU</a>
 
 # Organizations/Affiliations
 organizations:
 - name: University of Colorado Boulder
-  url: ""
+  url: "https://www.colorado.edu/"
 
 interests:
 - Synthetic Biology
-- Robotics
-- Machine Learning
-- Automation
+- Genetic Engineering
+- CRISPR
+- Animatronics 
 
 education:
   courses:
-  - course: Bachelors in Computer Science
-    institution: University of Colorado Boulder
-    year: Pursuing
   - course: Bachelors in Electrical & Computer Engineering
     institution: University of Colorado Boulder
-    year: Pursuing
-
+    year: Freshman
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -57,16 +53,16 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:onleads@peterhindes.com
+  link: mailto:luke.dysart@colorado.edu
 - icon: user
   icon_pack: fas
-  link: https://www.linkedin.com/in/peter-hindes-b5bb22249/
+  link: https:www.linkedin.com/in/luke-dysart-DYS89
 - icon: user
   icon_pack: fas
-  link: http://peterhindes.com/
+  link: http://lukedysart.com/
 - icon: github
   icon_pack: fab
-  link: https://github.com/PeterHindes
+  link: https://github.com/LukeDysart17
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -75,19 +71,19 @@ social:
 #   link: "files/Fang_CV.pdf"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "luke.dysart@colorado.edu"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
 - Undergraduate Students
-- SynBioHub
+- PUDU
 - Genetic Design Automation
 
 #any user groups to display on the page
 display_groups:
-- SynBioHub Tool
+- PUDU
 - Genetic Design Automation Area
 
 ---
