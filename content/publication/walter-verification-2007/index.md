@@ -52,5 +52,5 @@ abstract: 'With the rapidly increasing complexity of hardware, traditional valid
   advanced Satisfiability Modulo Theories solver for analysis. After describing the
   verification system in detail, experiences applying the techniques to several case
   studies are described and performance results are provided.'
-publication: ''
+publication: 'Ph.D. Thesis, University of Utah'
 ---

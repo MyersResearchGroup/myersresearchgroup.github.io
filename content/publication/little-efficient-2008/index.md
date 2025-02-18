@@ -59,5 +59,5 @@ abstract: Analog circuit design is traditionally done by expert designers in an 
   by standard simulations. The abstract modeling methods show the promise of using
   automatically generated abstract models by demonstrating up to 40x speedup for some
   examples.
-publication: ''
+publication: 'Ph.D. Thesis, University of Utah'
 ---

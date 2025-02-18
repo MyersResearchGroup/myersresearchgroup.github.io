@@ -43,5 +43,5 @@ abstract: The design and synthesis of asynchronous circuits is gaining importanc
   representation of timed state spaces and the synthesis of timed circuits. These
   implicit techniques significantly improve the memory eficiency of timed state space
   exploration and allow more complex designs to be synthesized.
-publication: ''
+publication: 'M.S. Thesis, University of Utah'
 ---

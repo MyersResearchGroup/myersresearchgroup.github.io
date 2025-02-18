@@ -45,5 +45,5 @@ abstract: Data Standards provide a way of expressing data in a uniform manner. I
   tools. To determine how well the methodology works, Synthetic Biology tools are
   evaluated to see valid connections can be made with other tools while maintaining
   compliance within the data standard supported by the tool.
-publication: ''
+publication: 'B.S. Thesis, University of Utah'
 ---
