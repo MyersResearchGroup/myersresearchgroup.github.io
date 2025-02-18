@@ -39,6 +39,7 @@ interests:
 - Genetic circuit engineering
 - RNA synthetic biology
 - Rewiring signaling pathways
+- Single-cell analysis
 
 education:
   courses:
@@ -52,6 +53,9 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: envelope
+  icon_pack: fas
+  link: mailto:hatem.abdelrahman@colorado.edu 
 # - icon: envelope
 #   icon_pack: fas
 #   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
