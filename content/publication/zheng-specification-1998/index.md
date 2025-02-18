@@ -44,5 +44,5 @@ abstract: This thesis presents a framework for the specification and compilation
   structures. This compiler is integrated into ATACS, a synthesis tool for timed circuits.
   Finally we demonstrate our methodology on a practical example, an asynchronous implementation
   of the Maxlist algorithm.
-publication: ''
+publication: 'M.S. Thesis, University of Utah'
 ---
