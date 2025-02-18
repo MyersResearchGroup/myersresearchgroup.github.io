@@ -42,6 +42,6 @@ abstract: Verification of analog circuits is becoming a bottle-neck for the veri
   of AMS circuits. This method generates labeled Petri net (LPN) models that can be
   used in the formal verification of circuits, and SystemVerilog models that can be
   used in the system-level simulations.
-publication: ''
+publication: 'M.S. Thesis, University of Utah'
 url_pdf: https://collections.lib.utah.edu/details?id=194593
 ---

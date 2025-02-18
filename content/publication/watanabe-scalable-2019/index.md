@@ -63,5 +63,5 @@ abstract: Advancements in the systems and synthetic biology fields have proved t
   extension, simulators need to scale in order to handle the increase complexity that
   the arrays extension introduces. Hence, this dissertation also proposes an efficient
   simulation method that takes advantages of arrays.
-publication: ''
+publication: 'Ph.D. Thesis, University of Utah'
 ---

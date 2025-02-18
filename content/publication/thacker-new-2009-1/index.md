@@ -37,5 +37,5 @@ abstract: Cyber-physical systems, in which computers control real-world mechanis
   verifi cation of such systems would be of great value. This dissertation introduces
   a modeling and   veri fication methodology sufficiently powerful to manage the complications
   inherent in this mixeddiscipline design space.
-publication: ''
+publication: 'Ph.D. Thesis, University of Utah'
 ---

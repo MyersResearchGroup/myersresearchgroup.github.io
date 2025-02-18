@@ -58,5 +58,5 @@ abstract: In order to reach the Shannon limit, researchers have found more effic
   effects of the analog circuit are also discussed in the dissertation. How to organize
   the circuit to minimize these effects and make the circuit optimized in a combined
   consideration of speed, performance, and power is also provided.
-publication: ''
+publication: 'Ph.D. Thesis, University of Utah'
 ---

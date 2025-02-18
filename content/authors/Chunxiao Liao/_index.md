@@ -90,6 +90,7 @@ user_groups:
 - Graduate Students
 - SynBioHub
 - Genetic Design Automation
+- SeqImprove
 
 #any user groups to display on the page
 display_groups:
