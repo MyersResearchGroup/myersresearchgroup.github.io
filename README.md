@@ -4,14 +4,14 @@
 
 Editing authors, includes editing researchers, tools and projects.
 To add a new researcher:
-  * Navigate to content/authors.
+  * Navigate to [content/authors](https://github.com/MyersResearchGroup/myersresearchgroup.github.io/tree/master/content/authors).
   * Add a new folder.
   * Create _index.md and an avatar.jpg (avatar.png also works).
   * Fill in the details (follow the pattern (copy/paste) from a folder of a researcher with the same role).
   * Here is a list of weights for researchers: 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads. 
 
 To add a new tool or project:
-  * Navigate to content/authors.
+  * Navigate to [content/authors](https://github.com/MyersResearchGroup/myersresearchgroup.github.io/tree/master/content/authors).
   * Add a new folder.
   * Create _index.md and an avatar.jpg (avatar.png also works).
   * Fill in the details (follow the pattern (copy/paste) from a folder of a similar tool or project).
