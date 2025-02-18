@@ -1,5 +1,33 @@
 # Best-practices documentation for modifying the website
 
+## Content editing
+
+Editing authors, includes editing researchers, tools and projects.
+To add a new researcher:
+  * Navigate to content/authors.
+  * Add a new folder.
+  * Create _index.md and an avatar.jpg (avatar.png also works).
+  * Fill in the details (follow the pattern (copy/paste) from a folder of a researcher with the same role).
+  * Here is a list of weights for researchers: 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads. 
+
+To add a new tool or project:
+  * Navigate to content/authors.
+  * Add a new folder.
+  * Create _index.md and an avatar.jpg (avatar.png also works).
+  * Fill in the details (follow the pattern (copy/paste) from a folder of a similar tool or project).
+  * Here is a list of weights for tools and projects: 900 for tools and 1000 for projects.
+  * Navigate to [content/Research](https://github.com/MyersResearchGroup/myersresearchgroup.github.io/tree/master/content/Research).
+  * Add a new .md file with a name related to the tool or project.
+  * Fill in the details (follow the pattern(copy/paste) from a similar file). 
+
+To add a new publication:
+  * Navigate to [content/publication](https://github.com/MyersResearchGroup/myersresearchgroup.github.io/tree/master/content/publication).
+  * Add a new folder.
+  * Create index.md and cite.bib files.
+  * Fill in the details (follow the pattern (copy/paste) from a folder of a similar publication).
+  * Here is a list of types for the publications: 1 for conference paper, 2 for journal paper, 5 for book, 7 for thesis and 8 for patent.
+
+
 ## Website editing
 
 * Follow instructions on [this page](https://wowchemy.com/docs/install-locally/) to install hugo and dependencies
