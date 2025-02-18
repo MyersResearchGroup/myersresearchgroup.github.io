@@ -52,5 +52,5 @@ abstract: Synthetic biology, as a field of research, applies electrical engineer
   the full state of their design robustly. This results in higher productivity when
   designing genetic circuits, more comprehensive circuit descriptions, and most importantly,
   enhanced reproducibility in the field of synthetic biology.
-publication: ''
+publication: 'B.S. Thesis, University of Utah'
 ---
