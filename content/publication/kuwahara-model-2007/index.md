@@ -55,5 +55,5 @@ abstract: With advances in technologies such as high throughput data collection 
   that analysis time of biologically relevant properties of such genetic regulatory
   networks can be improved from days of work to minutes of work using our methodology
   while maintaining reasonable accuracy.
-publication: ''
+publication: 'Ph.D. Thesis, University of Utah'
 ---

@@ -63,5 +63,5 @@ abstract: Electronic Design Automation (EDA) tools have facilitated the design o
   these signals, the bacteria colony can correctly reach consensus on when to begin
   the invasion. One interesting result is that noise is necessary in correctly switching
   into the invasion state.
-publication: ''
+publication: 'M.S. Thesis, University of Utah'
 ---

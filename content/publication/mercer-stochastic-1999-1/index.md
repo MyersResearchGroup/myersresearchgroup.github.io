@@ -44,5 +44,5 @@ abstract: This thesis presents a method of deriving a performance metric for tim
   optimization efforts can be focused on areas that significantly improve the expected
   cost of a cycle in the system. This thesis presents some case studies where the
   metric is used to evaluate and improve designs. The studies show the potentia...
-publication: ''
+publication: 'M.S. Thesis, University of Utah'
 ---

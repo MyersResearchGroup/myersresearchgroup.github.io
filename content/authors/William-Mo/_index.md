@@ -93,6 +93,7 @@ email: ""
 user_groups:
 - Researchers
 - Graduate Students
+- SeqImprove
 
 #any user groups to display on the page
 display_groups:

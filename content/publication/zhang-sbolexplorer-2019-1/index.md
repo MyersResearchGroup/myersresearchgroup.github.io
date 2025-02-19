@@ -59,5 +59,5 @@ abstract: Biology is a very noisy field. Experiments are difficult to reproduce,
   The end goal of SBOLExplorer is to integrate these findings into SynBioHub and other
   genetic design repositories’ data representation, search functionality, and data
   infrastructure.
-publication: ''
+publication: 'M.S. Thesis, University of Utah'
 ---

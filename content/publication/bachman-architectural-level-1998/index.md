@@ -47,5 +47,5 @@ abstract: Asynchronous circuit design has the potential to produce circuits supe
   view of an asynchronous datapath for the design, as well as the necessary behavioral
   control to operate that datapath. Several case studies are presented utilizing the
   tool and methods to illustrate the practical aspects of this work.
-publication: ''
+publication: 'M.S. Thesis, University of Utah'
 ---
