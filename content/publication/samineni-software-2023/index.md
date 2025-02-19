@@ -27,7 +27,7 @@ image:
 projects: []
 publishDate: '2025-02-17T20:51:25.933580Z'
 publication_types:
-- '7'
+- 2
 publication: '*ACS Synthetic Biology*'
 doi: 10.1021/acssynbio.2c00669
 abstract: ' Accelerating the development of synthetic biology applications requires
