@@ -32,8 +32,7 @@ organizations:
 - name: University of Colorado Boulder
   url: ""
 
-# Short bio (displayed in user profile at end of posts)
-#bio: I am interested in the foundations and biomedical applications of synthetic biology. 
+
 
 interests:
 - Genetic circuit engineering
