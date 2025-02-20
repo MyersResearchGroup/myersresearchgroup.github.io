@@ -56,5 +56,5 @@ abstract: This dissertation presents an efficient method for technology-mapping 
   hazard-verification approach is substantially more efficient than existing timing
   verification tools and that in most cases hazard-free netlists are produced with
   modest sized libraries.
-publication: ''
+publication: 'Ph.D. Thesis, University of Utah'
 ---

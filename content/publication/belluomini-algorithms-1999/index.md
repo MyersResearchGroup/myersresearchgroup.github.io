@@ -51,5 +51,5 @@ abstract: In order to increase performance, circuit designers are beginning to m
   processor developed at IBM. The speed and memory performance improvements of the
   algorithm allow automatic synthesis and verification of complex timed circuits,
   making them an attractive design alternative.
-publication: ''
+publication: 'Ph.D. Thesis, University of Utah'
 ---

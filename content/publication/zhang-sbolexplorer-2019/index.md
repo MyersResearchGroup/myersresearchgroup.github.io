@@ -36,7 +36,7 @@ publishDate: '2021-01-15T21:34:24.259085Z'
 publication_types:
 - '2'
 abstract: ''
-publication: ''
+publication: 'M.S. Thesis, University of Utah'
 url_pdf: https://pubs.acs.org/doi/10.1021/acssynbio.9b00089
 doi: 10.1021/acssynbio.9b00089
 ---
