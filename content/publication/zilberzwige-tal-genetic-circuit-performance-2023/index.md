@@ -13,7 +13,7 @@ publication_types:
 - '2'
 publication: '*ACS Synthetic Biology*'
 doi: 10.1021/acssynbio.3c00151
-abstract: ' Over the past 2 decades, synthetic biology has yielded ever more complex
+abstract: 'Over the past 2 decades, synthetic biology has yielded ever more complex
   genetic circuits that are able to perform sophisticated functions in response to
   specific signals. Yet, genetic circuits are not immediately transferable to an outside-the-lab
   setting where their performance is highly compromised. We propose introducing a
@@ -32,8 +32,8 @@ abstract: ' Over the past 2 decades, synthetic biology has yielded ever more com
   genetic programs to appropriate and safe application implementations, more emphasis
   on test and learn steps (i.e., characterizing parts and circuits for a broad range
   of conditions) will provide missing insights on genetic circuit behavior outside
-  the lab. '
+  the lab.'
 links:
 - name: URL
-  url: '   https://doi.org/10.1021/acssynbio.3c00151   '
+  url: 'https://doi.org/10.1021/acssynbio.3c00151'
 ---

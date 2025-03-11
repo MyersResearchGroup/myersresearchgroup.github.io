@@ -24,5 +24,5 @@ abstract: ' Standards support synthetic biology research by enabling the exchang
   can be used either directly or via a SynBioHub plugin. '
 links:
 - name: URL
-  url: '   https://doi.org/10.1021/acssynbio.2c00521   '
+  url: 'https://doi.org/10.1021/acssynbio.2c00521'
 ---

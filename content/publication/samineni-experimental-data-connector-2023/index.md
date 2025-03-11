@@ -15,7 +15,7 @@ publication_types:
 - '2'
 publication: '*ACS Synthetic Biology*'
 doi: 10.1021/acssynbio.2c00669
-abstract: ' Accelerating the development of synthetic biology applications requires
+abstract: 'Accelerating the development of synthetic biology applications requires
   reproducible experimental findings. Different standards and repositories exist to
   exchange experimental data and metadata. However, the associated software tools
   often do not support a uniform data capture, encoding, and exchange of information.
@@ -27,8 +27,8 @@ abstract: ' Accelerating the development of synthetic biology applications requi
   these repositories. This produces complete connected experimental data sets that
   are exchangeable. The information is captured using a single template Excel Workbook,
   which can be integrated into existing experimental workflow automation processes
-  and semiautomated capture of results. '
+  and semiautomated capture of results.'
 links:
 - name: URL
-  url: '   https://doi.org/10.1021/acssynbio.2c00669   '
+  url: 'https://doi.org/10.1021/acssynbio.2c00669'
 ---

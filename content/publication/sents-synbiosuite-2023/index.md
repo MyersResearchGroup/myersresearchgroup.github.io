@@ -13,7 +13,7 @@ publication_types:
 - '2'
 publication: '*ACS Synthetic Biology*'
 doi: 10.1021/acssynbio.2c00597
-abstract: ' Synthetic biology research has led to the development of many software
+abstract: 'Synthetic biology research has led to the development of many software
   tools for designing, constructing, editing, simulating, and sharing genetic parts
   and circuits. Among these tools are SBOLCanvas, iBioSim, and SynBioHub, which can
   be used in conjunction to create a genetic circuit design following the design–build–test–learn
@@ -23,8 +23,8 @@ abstract: ' Synthetic biology research has led to the development of many softwa
   some of these processes and presents SynBioSuite, a cloud-based tool that eliminates
   many of the drawbacks of the current approach by automating the setup and reception
   of results for simulating a designed genetic circuit via an application programming
-  interface. '
+  interface.'
 links:
 - name: URL
-  url: '   https://doi.org/10.1021/acssynbio.2c00597   '
+  url: 'https://doi.org/10.1021/acssynbio.2c00597'
 ---
