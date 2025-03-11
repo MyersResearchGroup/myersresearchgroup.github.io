@@ -1,12 +1,27 @@
 ---
 title: Ten simple rules for managing laboratory information
 authors:
-- Casey-Tyler AND Aguilera, Luis U. AND Billerbeck, Sonja AND Bourne, Philip E. AND
-  Densmore, Douglas AND Freemont, Paul AND Gorochowski, Thomas E. AND Hernandez, Sarah
-  I. AND Hillson, Nathan J. AND King, Connor R. AND Köpke, Michael AND Ma, Shuyi AND
-  Miller, Katie M. AND Moon, Tae Seok AND Moore, Jason H. AND Munsky, Brian AND Myers,
-  Chris J. AND Nicholas, Dequina A. AND Peccoud, Samuel J. AND Zhou, Wen AND Peccoud,
-  Jean Berezin
+- Casey-Tyler Berezin
+- Luis U. Aguilera
+- Sonja Billerbeck
+- Philip E. Bourne
+- Douglas Densmore
+- Paul Freemont
+- Thomas E. Gorochowski
+- Sarah I. Hernandez
+- Nathan J. Hillson
+- Connor R. King
+- Michael Köpke
+- Shuyi Ma
+- Katie M. Miller
+- Tae Seok Moon
+- Jason H. Moore
+- Brian Munsky
+- Chris J. Myers
+- Dequina A. Nicholas
+- Samuel J. Peccoud
+- Wen Zhou
+- Jean Peccoud
 date: '2023-12-01'
 publishDate: '2025-03-11T19:27:20.478872Z'
 publication_types:
