@@ -56,5 +56,5 @@ abstract: Synthetic biology is an engineering discipline in which biological  co
   organism where parametrization exists as proposed in this thesis work. It also explores
   different analysis that could be implemented into the automated model generator
   of this work, in order to expand the assessment done on genetic circuits.
-publication: ''
+publication: 'M.S. Thesis, University of Utah'
 ---

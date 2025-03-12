@@ -44,6 +44,6 @@ abstract: This document describes an improved method of formal verification of c
   of the circuit. So, models generated for other control input values are not accurate.
   In this case, accuracy of the generated models is improved by using a linear abstraction
   method like interpolation.
-publication: ''
+publication: 'M.S. Thesis, University of Utah'
 url_pdf: https://collections.lib.utah.edu/details?id=196124
 ---

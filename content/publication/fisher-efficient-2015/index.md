@@ -72,5 +72,5 @@ abstract: The increasing demand for smaller, more efficient circuits has created
   inputs to the C-element are ordered. LAMP is used to codify this behavior and it
   is verified that the input signals change in the correct order for the provided
   SPICE simulation traces.
-publication: ''
+publication: 'Ph.D. Thesis, University of Utah'
 ---

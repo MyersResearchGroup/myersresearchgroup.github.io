@@ -32,5 +32,5 @@ publishDate: '2021-01-15T21:34:49.880044Z'
 publication_types:
 - '7'
 abstract: ''
-publication: ''
+publication: 'M.S. Thesis, University of Utah'
 ---

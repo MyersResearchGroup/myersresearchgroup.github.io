@@ -47,5 +47,5 @@ abstract: Data standards are integral for interoperability between software appl
   compliance of applications against the Synthetic Biology Open Language (SBOL) standard.
   This research aims to provide a robust test suite, a TestRunner tool implementing
   the compliance strategy, and a demonstration of the created methodology.
-publication: ''
+publication: 'M.S. Thesis, University of Utah'
 ---

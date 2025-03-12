@@ -54,5 +54,5 @@ abstract: Synthetic Biology is an emerging discipline which uses engineering pri
   is itself split into separate authentication and authorization steps. New feature
   development and refinement will be made easier by the strong separations between
   the different components of SynBioHub.
-publication: ''
+publication: 'B.S. Thesis, University of Utah'
 ---

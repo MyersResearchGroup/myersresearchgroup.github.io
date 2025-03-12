@@ -58,6 +58,6 @@ abstract: Over the last decade, cyber-physical systems (CPSs) have seen signific
   from heuristics that trace back on LPNs to find causally related enabled predecessor
   transitions. Key observations are made from the comparison between these two verification
   methodologies.
-publication: ''
+publication: 'Ph.D. Thesis, University of Utah'
 url_pdf: https://collections.lib.utah.edu/details?id=197657
 ---

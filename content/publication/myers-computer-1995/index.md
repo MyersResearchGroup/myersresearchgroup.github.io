@@ -44,5 +44,5 @@ abstract: In recent years, there has been a resurgence of interest in the design
   circuits in which explicit timing information is incorporated into the specification
   and utilized throughout the design procedure to optimize the implementation. Our
   timed circu...
-publication: ''
+publication: 'Ph.D. Thesis, Stanford University'
 ---

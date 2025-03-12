@@ -53,5 +53,5 @@ abstract: This paper presents the bachelor’s thesis of Curtis Kendall Madsen w
   file type in its file tree so users can view and edit LHPNs once conversion is complete.
   In addition, a method for performing state space exploration on an LHPN allows the
   user to view the state graph using Graphviz’s Dotty tool.
-publication: ''
+publication: 'B.S. Thesis, University of Utah'
 ---

@@ -40,5 +40,5 @@ abstract: The iBioSim tool is being developed to facilitate the construction and
   of a new simulation visualization tool which allows the user to associate chemical
   species with color schemes, opacity, and cell size. This tool allows the user to
   see the cells behavior as if through a microscope.
-publication: ''
+publication: 'B.S. Thesis, University of Utah'
 ---

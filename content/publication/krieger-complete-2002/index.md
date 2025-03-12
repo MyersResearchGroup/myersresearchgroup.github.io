@@ -48,5 +48,5 @@ abstract: This thesis describes a method or solving the complete state coding pr
   points can be chosen which minimally increase circuit latency. The method has been
   implemented in the automated design tool ATACS, and correctly and efficiently completes
   the state code for a variety of established state coding benchmark systems.
-publication: ''
+publication: 'M.S. Thesis, University of Utah'
 ---

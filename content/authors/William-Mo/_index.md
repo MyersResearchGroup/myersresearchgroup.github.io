@@ -34,8 +34,7 @@ organizations:
 - name: Charles Stark Draper Laboratory
   url: ""
 
-# Short bio (displayed in user profile at end of posts)
-#bio: Works on biosecurity and evaluation of engineered DNA.
+
 
 interests:
 - Biosecurity
