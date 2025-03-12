@@ -32,8 +32,7 @@ organizations:
 - name: University of Colorado Boulder
   url: ""
 
-# Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+
 
 interests:
 - Synthetic Biology, Computational Biology
@@ -90,6 +89,7 @@ user_groups:
 - Graduate Students
 - SynBioHub
 - Genetic Design Automation
+- SeqImprove
 
 #any user groups to display on the page
 display_groups:

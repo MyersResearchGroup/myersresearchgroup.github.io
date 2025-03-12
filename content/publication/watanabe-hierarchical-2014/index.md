@@ -50,7 +50,7 @@ abstract: This paper describes a hierarchical stochastic simulation algorithm wh
   hierarchy on the fly to make the tool faster and more memory-efficient. This approach
   yields significant performance improvements as compared to the former flat analysis
   method.
-publication: ''
+publication: 'B.S. Thesis, University of Utah'
 url_pdf: https://www.frontiersin.org/articles/10.3389/fbioe.2014.00055/full
 doi: 10.3389/fbioe.2014.00055
 ---

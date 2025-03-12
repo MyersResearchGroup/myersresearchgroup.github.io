@@ -57,5 +57,5 @@ abstract: Recent experimental advances facilitate the collection of time series 
   and activation connections. Results are reported for several synthetic networks
   showing significant improvements in both recall and runtime while performing nearly
   as well or better in precision over a dynamic Bayesian approach.
-publication: ''
+publication: 'Ph.D. Thesis, University of Utah'
 ---

@@ -55,5 +55,5 @@ abstract: This dissertation presents new methods for handshaking expansion of as
   capable of reducing the search space by several orders of magnitude compared to
   the theoretical upper bound – and by one order of magnitude beyond existing techniques
   – without significantly impacting the quality of the solutions.
-publication: ''
+publication: 'Ph.D. Thesis, University of Utah'
 ---

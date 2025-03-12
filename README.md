@@ -2,7 +2,7 @@
 
 ## Website editing
 
-* Follow instructions on [this page](https://wowchemy.com/docs/install-locally/) to install hugo and dependencies
+* Follow instructions on [this page](https://wowchemy.com/docs/install-locally/) to install hugo and dependencies. Here is a [link to the release we use](https://github.com/gohugoio/hugo/releases/tag/v0.79.1), you may be able to use a diffrent version, but try this version first if you have errors.
 * cd into a directory you want to have the file in
 * git clone https://github.com/MyersResearchGroup/myersresearchgroup.github.io.git
 * cd into the myersresearchgroup folder

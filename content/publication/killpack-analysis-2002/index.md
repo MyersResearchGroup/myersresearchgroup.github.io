@@ -56,5 +56,5 @@ abstract: This thesis describes an evaluation of a locally-clocked module. Local
   and power measurements for the multiplier and stoppable clock in addition to a detailed
   analysis of stoppable clocks. Process variation is analyzed in that five chips are
   tested and shown to have little variation in measured values.
-publication: ''
+publication: 'M.S. Thesis, University of Utah'
 ---

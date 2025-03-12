@@ -77,6 +77,6 @@ abstract: Over the past few decades, synthetic biology has generated great inter
   can also be computed. This methodology is applied to several genetic circuits leading
   to new understanding of the effects of various parameters on the behavior of these
   circuits.
-publication: ''
+publication: 'Ph.D. Thesis, University of Utah'
 url_pdf: https://collections.lib.utah.edu/details?id=196113
 ---

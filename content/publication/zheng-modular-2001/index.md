@@ -39,5 +39,5 @@ abstract: In order to increase performance, circuit designers are beginning to u
   reachable state space of the circuit under the timing constraints needs to be explored.
   However, complete state space exploration is an exponential problem. State space
   explosion limits timed circuit designs to small sizes.
-publication: ''
+publication: 'Ph.D. Thesis, University of Utah'
 ---
