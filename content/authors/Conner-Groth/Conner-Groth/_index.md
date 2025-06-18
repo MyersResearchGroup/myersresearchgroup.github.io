@@ -4,7 +4,7 @@ title: Conner Groth
 
 # Username (this should match the folder name)
 authors:
-- Conner Groth
+- Conner-Groth
 
 #Author Names (alternative spellings etc)
 names:
