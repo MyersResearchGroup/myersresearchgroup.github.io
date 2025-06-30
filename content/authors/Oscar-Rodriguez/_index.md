@@ -41,7 +41,7 @@ projects:
 
 education:
   courses:
-  - course: Bachelor's Degree, Computer Science, minor: Biochemistry, Computational Biology
+  - course: "Bachelor's Degree, Computer Science, minor: Biochemistry, Computational Biology"
     institution: University of Colorado Boulder
     year: 2026
 
