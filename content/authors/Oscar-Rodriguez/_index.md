@@ -4,7 +4,7 @@ title: Oscar Rodriguez
 
 # Username (this should match the folder name)
 authors:
-- Oscar Rodriguez
+- Oscar-Rodriguez
 
 #Author Names (alternative spellings etc)
 names:
