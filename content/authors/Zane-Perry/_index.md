@@ -34,7 +34,7 @@ organizations:
 
 interests:
 - Software Development
-- System Dynamics
+- System Dynamics & Modelling
 - Machine Learning
 - Molecular Biology
 - Synthetic/Computational Biology
@@ -68,6 +68,9 @@ social:
 # - icon: orcid
 #   icon_pack: fab
 #   link: https://orcid.org/0000-0002-8762-8444
+- icon: user-graduate
+- icon_pack: fas
+- link: https://www.linkedin.com/in/zane-perry/
 - icon: envelope
   icon_pack: fas
   link: mailto:zane.perry@colorado.edu 
