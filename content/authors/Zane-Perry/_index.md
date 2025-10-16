@@ -14,15 +14,15 @@ names:
 superuser: false
 
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects
-weight: 400
+weight: 300
 
 university: CU Boulder
 
 # Role/position
-role: Undergraduate Researcher
+role: Graduate Research Assistant
 
 department:
-- Computer Science
+- Applied Mathematics
 
 # Organizations/Affiliations
 organizations:
@@ -33,9 +33,12 @@ organizations:
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Computational Biology
-- Genetic Engineering
 - Software Development
+- System Dynamics & Modelling
+- Machine Learning
+- Molecular Biology
+- Synthetic/Computational Biology
+- Data Science & Statistics
 
 projects:
 - <a href="/author/synbiohub/">SynBioHub</a>
@@ -44,10 +47,13 @@ projects:
 
 education:
   courses:
-  - course: Bachelor's Degree, Computer Science
+  - course: Master's of Science, Applied Mathematics
+    institution: University of Colorado Boulder
+    year: 2026
+  - course: Bachelor's of Science, Computer Science
     institution: University of Colorado Boulder
     year: 2025
-  - course: Bachelor's Degree, Molecular Biology
+  - course: Bachelor's of Science, Applied Mathematics
     institution: University of Colorado Boulder
     year: 2025
 
@@ -62,6 +68,9 @@ social:
 # - icon: orcid
 #   icon_pack: fab
 #   link: https://orcid.org/0000-0002-8762-8444
+- icon: user-graduate
+- icon_pack: fas
+- link: https://www.linkedin.com/in/zane-perry/
 - icon: envelope
   icon_pack: fas
   link: mailto:zane.perry@colorado.edu 
@@ -71,9 +80,9 @@ social:
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/Zane_Perry_Resume_2025.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -82,7 +91,7 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Researchers
-- Undergraduate Students
+- Graduate Students
 - Genetic Design Automation
 - SynBioHub
 - SynBioHub Plugins
@@ -93,4 +102,4 @@ display_groups:
 - Genetic Design Automation Area
 - SynBioHub Plugins Tool
 ---
-Zane Perry is a second-year undergraduate in Computer Science at the University of Colorado Boulder and a double degree in Molecular, Cellular, and Developmental Biology. He is currently working to develop plugin support for Synbiohub3.
+Zane Perry is a graduate in Applied Mathematics at the University of Colorado Boulder with undergraduate degrees in computer science and applied mathematics. He specializes in system dynamics, machine learning, and applied statistics. He is working to support the development of Synbiohub 2 and Synbiohub 3, as well as researching hybrid machine learning models for predicting geentic circuit outputs.
