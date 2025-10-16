@@ -19,7 +19,7 @@ weight: 300
 university: CU Boulder
 
 # Role/position
-role: Research Assistant
+role: Graduate Research Assistant
 
 department:
 - Applied Mathematics
@@ -37,6 +37,8 @@ interests:
 - System Dynamics
 - Machine Learning
 - Molecular Biology
+- Synthetic/Computational Biology
+- Data Science & Statistics
 
 projects:
 - <a href="/author/synbiohub/">SynBioHub</a>
