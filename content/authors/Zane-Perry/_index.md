@@ -71,9 +71,9 @@ social:
 - icon: user-graduate
   icon_pack: fas
   link: https://www.linkedin.com/in/zane-perry/
-- icon: university-logo
-  icon_pack: Custom_University
-  link: https://www.colorado.edu/academics/grad-applied-mathematics
+# - icon: university-logo
+#  icon_pack: Custom_University
+#  link: https://www.colorado.edu/academics/grad-applied-mathematics
 - icon: envelope
   icon_pack: fas
   link: mailto:zane.perry@colorado.edu 
