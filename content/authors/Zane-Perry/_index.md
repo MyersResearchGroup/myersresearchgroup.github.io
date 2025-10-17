@@ -71,12 +71,13 @@ social:
 - icon: user-graduate
   icon_pack: fas
   link: https://www.linkedin.com/in/zane-perry/
+- icon: university-logo
+  icon_pack: Custom_University
+  link: https://www.colorado.edu/academics/grad-applied-mathematics
 - icon: envelope
   icon_pack: fas
   link: mailto:zane.perry@colorado.edu 
-- icon: university-logo
-  icon_pack: Custom_University
-  link: https://www.colorado.edu/cs/academics/graduate-programs/doctor-philosophy
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
