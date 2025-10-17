@@ -1,14 +1,14 @@
 ---
 # Display name
-title: C. Vitallis
+title: Carolus Vitalis
 
 # Username (this should match the folder name)
 authors:
-- C. Vitallis
+- Carolus Vitalis
 
 #Author Names (alternative spellings etc)
 names:
-- C. Vitallis
+- Carolus Vitalis
 
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
 weight: 200
@@ -91,4 +91,4 @@ display_groups:
 
 ---
 
-Carolus Vitalis is a Chilean Ph.D. student in Biomedical Engineering at the University of Colorado Boulder, specializing in synthetic biology. A National Science Foundation (NSF) Fellow, he is advancing the field with innovative projects like AI-driven de novo DNA sequence design. He has co-authored three book chapters on genetic network design and metadata representation, published by Springer Protocols. Carolus is also an accomplished community leader, serving as Vice President of the Biomedical Engineering Graduate Students and a Synthetic Biology Open Language Editor.
+Carolus Vitalis is a Chilean Ph.D. student in Biomedical Engineering at the University of Colorado Boulder, specializing in synthetic biology. A National Science Foundation (NSF) Fellow, he is advancing the field with innovative projects like AI-driven de novo DNA sequence design. He has co-authored three book chapters on genetic network design and metadata representation, published by Springer Protocols. Carolus is also an accomplished community leader, serving as President of the Biomedical Engineering Graduate Students, a Synthetic Biology Open Language Editor, and TEDxCU speaker.
