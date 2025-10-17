@@ -76,7 +76,7 @@ social:
   link: mailto:zane.perry@colorado.edu 
 - icon: university-logo
   icon_pack: Custom_University
-  link: https://www.colorado.edu/academics/bs-computer-science
+  link: https://www.colorado.edu/academics/grad-applied-mathematics
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
