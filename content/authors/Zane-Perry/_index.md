@@ -69,8 +69,8 @@ social:
 #   icon_pack: fab
 #   link: https://orcid.org/0000-0002-8762-8444
 - icon: user-graduate
-- icon_pack: fas
-- link: https://www.linkedin.com/in/zane-perry/
+  icon_pack: fas
+  link: https://www.linkedin.com/in/zane-perry/
 - icon: envelope
   icon_pack: fas
   link: mailto:zane.perry@colorado.edu 
@@ -82,7 +82,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/Zane_Perry_Resume_2025.pdf
+  link: files/Zane_Perry_Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
