@@ -69,20 +69,21 @@ social:
 #   icon_pack: fab
 #   link: https://orcid.org/0000-0002-8762-8444
 - icon: user-graduate
-- icon_pack: fas
-- link: https://www.linkedin.com/in/zane-perry/
+  icon_pack: fas
+  link: https://www.linkedin.com/in/zane-perry/
+# - icon: university-logo
+#  icon_pack: Custom_University
+#  link: https://www.colorado.edu/academics/grad-applied-mathematics
 - icon: envelope
   icon_pack: fas
   link: mailto:zane.perry@colorado.edu 
-- icon: university-logo
-  icon_pack: Custom_University
-  link: https://www.colorado.edu/academics/bs-computer-science
+
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/Zane_Perry_Resume_2025.pdf
+  link: files/Zane_Perry_Resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
