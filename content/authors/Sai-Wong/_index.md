@@ -38,7 +38,7 @@ projects:
 
 
 department:
-- School of Information Systems and Technology
+- Information Systems and Technology
 
 education:
   courses:
