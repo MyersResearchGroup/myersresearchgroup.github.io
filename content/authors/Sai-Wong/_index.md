@@ -34,7 +34,7 @@ interests:
 - Machine Learning
 
 projects:
-- <a href="/author/synbiohub-plugins/">SynBioHub Plugins</a>
+- SeqTrainer
 
 
 department:
