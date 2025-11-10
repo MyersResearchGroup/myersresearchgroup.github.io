@@ -17,7 +17,7 @@ names:
 superuser: false
 
 # Role/position
-role: Intern
+role: Sinhgad Institues
 
 # Organizations/Affiliations
 organizations:
