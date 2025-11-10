@@ -42,12 +42,9 @@ department:
 
 education:
   courses:
-  - course: BSc in Geographic Information Science
-    institution: Zhejiang University
-    year: 2018
-  - course: MSc in Software Engineering
-    institution: Zhejiang University
-    year: 2020
+  - course: BSc in Computer Science
+    institution: San José State University
+    year: 2027
 
 
 # Social/Academic Networking
@@ -57,10 +54,10 @@ education:
 social:
  - icon: user-graduate
    icon_pack: fas
-   link: https://research.tue.nl/en/persons/linhao-meng
+   link: https://www.linkedin.com/in/saiwong100
  - icon: github
    icon_pack: fab
-   link: https://github.com/alicelh
+   link: https://github.com/cywlol
 #    icon_pack: fab
 #    link: https://orcid.org/0000-0001-8781-7176
 #  - icon: university-logo
@@ -90,4 +87,4 @@ display_groups:
 
 ---
 
-Linhao Meng took part in GSOC 2020 as a student developer under National Resource for Network Biology (NRNB). This project is completed under the supervision of Christopher Myers and Geoff Baldwin. The main work is about integrating a sequence visualization plugin coordinated with SBOL visual standard into SynBioHub. Currently Linhao Meng is a PhD candidate at Eindhoven University of Technology. Her main research interest is visualization and visual analytics.
+Sai Wong took part in GSOC 2025 as a student developer under National Resource for Network Biology (NRNB). This project is completed under the supervision of Gonzalo Vidal and Christopher Myers. The main work is about developing a Python package for training ML models in Synthetic Biology data using SynBioHub's database. Currently Sai Wong continue his studies gaining more experience in software engineering as AI/ML fellow at Sealesforce and Break Through Tech.
