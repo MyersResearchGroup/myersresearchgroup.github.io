@@ -80,11 +80,13 @@ user_groups:
 - Undergraduate Alumni
 - Genetic Design Automation
 - Excel2SBOL
+- XDC
 
 #any user groups to display on the page
 display_groups:
 - SynBioHub Tool
 - Genetic Design Automation Area
 - Excel2SBOL Tool
+- XDC Tool
 ---
 William Dravenstott is a budding triathlete following a long swimming career, and love to ski in the winter. He is heavily interested in data science and machine learning, and loves to learn about how one can constantly improve their health and focus.
