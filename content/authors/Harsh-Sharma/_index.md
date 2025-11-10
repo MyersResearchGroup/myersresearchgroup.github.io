@@ -35,7 +35,7 @@ interests:
 - Automation
 
 projects:
-- <a href="/author/synbiohub-plugins/">SynBioHub Plugins</a>
+- Python SBOL converter
 
 
 department:
