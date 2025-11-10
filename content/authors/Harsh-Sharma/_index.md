@@ -39,7 +39,7 @@ projects:
 
 
 department:
-- College of Engineering
+- Biological Engineering
 
 education:
   courses:
