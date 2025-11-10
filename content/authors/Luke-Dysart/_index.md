@@ -36,9 +36,8 @@ organizations:
 
 interests:
 - Synthetic Biology
-- Genetic Engineering
-- CRISPR
-- Animatronics 
+- Software Engineering
+
 
 education:
   courses:
