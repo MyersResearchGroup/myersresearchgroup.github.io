@@ -12,6 +12,77 @@
 * Create branch for the repository and open the branch in vs code
 * Page about website structure: https://wowchemy.com/docs/get-started/
 
+## Editing lab members, tools, and projects
+
+The `content/authors/` directory stores lab members, tools, and research projects. Each item has its own folder containing an `index.md` file. Use existing entries as templates.
+
+### Adding a new student
+
+1. Create a bew branch and navigate to `content/authors/` [link](https://github.com/MyersResearchGroup/myersresearchgroup.github.io/tree/master/content/authors) and create a new folder with a hyphenated name (e.g., `jane-doe`).
+2. Add `_index.md` in that folder with front matter similar to an existing student entry (you can copy/paste the contente of  student witha similar role, here is an example [example](https://github.com/MyersResearchGroup/myersresearchgroup.github.io/blob/master/content/authors/Gonzalo-Vidal/_index.md?plain=1)). Include:
+   * `title`, `first_name`, `last_name`.
+   * `role` set to one of:
+     * `Researchers`
+     * `Undergraduate Student`, `Graduate Student`, or `Postdoctoral Researcher` as appropriate.
+   *  `organizations` , `interests` , `education` , `social` , `user_groups` , `display_groups as needed` as appropriate.
+   * `research_area` values such as `Genetic Design Automation` , `SynBioHub Tool` , `SBOLExplorer ` , and `SeqImprove`. 
+   * `projects` and `tools` references (e.g., `SeqImprove`) to link related work.
+   * Add a brief paragraph about yourself at the end.
+3. Add an `avatar` image in the same folder if available.
+4. Verify the student appears under the correct grouping on the People page when running `hugo server`. Create a Pull Request to merge your branch into master this will trigger the deployment of a preview of the website that you can use to check that your editions are correct.
+
+### Adding a new research project
+
+1. Under `content/authors/`, create a folder named after the project (e.g., `programmable-cell-logic`).
+2. Use `index.md` to describe the project. Include fields for `title`, `summary`, `tags`, and any related lab members or tools in `projects`/`tools` arrays so widgets can link them.
+3. Add relevant images to `static/media/` (or the project folder if used by a widget) and reference them in the front matter.
+
+### Adding a new tool
+
+1. Create a folder under `content/authors/` for the tool (e.g., `seqimprove`).
+2. Populate `index.md` with the tool name, a short description, and links to repositories or docs. Include `tool` or `projects` tags so it surfaces in tool widgets.
+3. Associate related students or projects through shared tags or the `projects`/`tools` arrays.
+
+## Editing alumni
+
+Alumni entries also live in `content/authors/`. Set the `role` to `Alumni` and select an appropriate subgroup:
+
+* `Undergraduate Alumni`
+* `Masters Alumni`
+* `PhD Alumni`
+* `Postdoctoral Alumni`
+
+## Adding publications
+
+Publications are stored in `content/publication/`. Each publication has its own folder with an `index.md` file. Publication types map to Wowchemy types as follows:
+
+* Conference paper: `publication_types = ["1"]`
+* Journal paper: `publication_types = ["2"]`
+* Thesis: `publication_types = ["7"]`
+* Book: `publication_types = ["5"]`
+* Patent: `publication_types = ["8"]`
+
+### Importing new references
+
+Use the [Academic Import](https://github.com/wowchemy/hugo-academic-cli/#usage) CLI to import BibTeX entries directly into `content/publication/`:
+
+```bash
+pip3 install -U git+https://github.com/wowchemy/hugo-academic-cli.git
+academic import --bibtex yourfile.bib --overwrite
+```
+
+Tips:
+
+* Always include `--overwrite` to avoid duplicates.
+* Clean up tags after import—remove punctuation (e.g., `.`, `?`) from tag names or use `cleanup_hugo_tagging.py` to strip invalid characters.
+
+## Contact form
+
+The contact form uses Formspree and delivers messages to `geneticlogiclab@gmail.com`. Check the **All Mail** or **Updates** folders because the inbox is heavily filtered.
+
+
+
+
 ## Website Structure Overview
 
 * The general file structure looks like this: https://wowchemy.com/docs/get-started/#remove-any-unused-example-pages
