@@ -35,8 +35,8 @@ interests:
 - Genetic Circuit Design
 
 projects:
-- <a href="/author/sbol-canvas/">SBOL Canvas</a>
-- <a href="/author/sbol-designer/">SBOL Designer</a>
+- <a href="/author/sbolcanvas/">SBOLCanvas</a>
+- <a href="/author/sboldesigner/">SBOLDesigner</a>
 
 
 
@@ -89,14 +89,14 @@ user_groups:
 - Alumni
 - Undergraduate Alumni
 - Genetic Design Automation
-- SBOL Canvas
-- SBOL Designer
+- SBOLCanvas
+- SBOLDesigner
 
 #any user groups to display on the page
 display_groups:
-- SBOL Designer Tool
+- SBOLDesigner Tool
 - Genetic Design Automation Area
-- SBOL Canvas Tool
+- SBOLCanvas Tool
 ---
 
 Samuel Bridge was an undergraduate researcher for Chris Myers at the University of Utah. He joined the lab in 2018 whilst studying  Computer Science. 

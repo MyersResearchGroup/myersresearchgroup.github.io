@@ -46,7 +46,7 @@ social:
 user_groups:
 - Tools
 - Genetic Design Automation
-- SBOL Designer Tool
+- SBOLDesigner Tool
 
 #any user groups to display on the page
 display_groups:

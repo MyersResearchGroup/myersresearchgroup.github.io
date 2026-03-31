@@ -31,7 +31,7 @@ organizations:
 
 projects:
 - <a href="/author/synbiohub/">SynBioHub</a>
-- <a href="/author/sbol-explorer/">SBOLExplorer</a>
+- <a href="/author/sbolexplorer/">SBOLExplorer</a>
 
 
 department:
@@ -82,13 +82,13 @@ user_groups:
 - Undergraduate Alumni
 - Genetic Design Automation
 - SynBioHub
-- SBOL Explorer
+- SBOLExplorer
 
 #any user groups to display on the page
 display_groups:
 - SynBioHub Tool
 - Genetic Design Automation Area
-- SBOL Explorer Tool
+- SBOLExplorer Tool
 - SBKS Project
 ---
 

@@ -41,7 +41,7 @@ interests:
 
 projects:
 - <a href="https://synbioks.github.io/">SBKS</a>
-- <a href="/author/sbol-canvas/">SBOLCanvas</a>
+- <a href="/author/sbolcanvas/">SBOLCanvas</a>
 
 
 department:

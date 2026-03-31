@@ -88,7 +88,7 @@ user_groups:
 
 #any user groups to display on the page
 display_groups:
-- LEMATool
+- LEMA Tool
 
 ---
 

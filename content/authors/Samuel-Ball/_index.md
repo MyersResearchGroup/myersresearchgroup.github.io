@@ -38,6 +38,7 @@ interests:
 - A.I./Machine Learning
   
 projects:
+- <a href="/author/xdc/">XDC</a>
 
 education:
   courses:
@@ -76,10 +77,13 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Undergraduate Alumni
-
+- XDC
+- Genetic Design Automation
 
 #any user groups to display on the page
 display_groups:
+- XDC Tool
+- Genetic Design Automation Area
 
 ---
 Samuel "Sam" Ball is a Computer Science undergraduate at University of Colorado Boulder. He is currently working on XDC.

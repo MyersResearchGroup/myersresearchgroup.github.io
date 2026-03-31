@@ -40,7 +40,7 @@ interests:
 projects:
 - <a href="/author/ibiosim/">iBioSim</a>
 - <a href="/author/LEMA/">LEMA</a>
-- <a href="/author/SBOL-libraries/">SBOL Libraries</a>
+- <a href="/author/sbol-libraries/">SBOL Libraries</a>
 
 
 department:

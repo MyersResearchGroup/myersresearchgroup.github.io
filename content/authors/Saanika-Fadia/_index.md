@@ -37,7 +37,7 @@ interests:
 - Computational Biology
 
 projects:
-- SynBio Suite
+- <a href="/author/synbiosuite/">SynBioSuite</a>
 
 education:
   courses:
@@ -76,11 +76,13 @@ email: ""
 user_groups:
 - Undergraduate Students
 - Researchers
-- SynBio Suite
+- SynBioSuite
+- XDC
 
 #any user groups to display on the page
 display_groups:
-- SynBio Suite Tool
+- SynBioSuite Tool
+- XDC Tool
 
 ---
-Saanika Fadia is an undergraduate at the University of Colorado Boulder. She is studying Computer Science, with minors in Computational Biology and Linguistics. She is passionate about using computer science to further scientific research and discovery. Saanika currently works on the SynBio Suite project. 
+Saanika Fadia is an undergraduate at the University of Colorado Boulder. She is studying Computer Science, with minors in Computational Biology and Linguistics. She is passionate about using computer science to further scientific research and discovery. Saanika currently works on the SynBioSuite project. 

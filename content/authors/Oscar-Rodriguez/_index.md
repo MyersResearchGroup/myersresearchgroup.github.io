@@ -37,7 +37,7 @@ interests:
 - Synthetic Biology
 
 projects:
-- PUDU
+- <a href="/author/pudu/">PUDU</a>
 
 education:
   courses:
@@ -83,7 +83,7 @@ user_groups:
 
 #any user groups to display on the page
 display_groups:
-- PUDU
+- PUDU Tool
 
 ---
 Oscar Rodriguez is a senior Computer Science student at the University of Colorado Boulder, with minors in Biochemistry and Computational Biology. He is currently working on the PUDU project in the Genetic Logic Lab, developing software tools to support synthetic biology research through lab automation and experimental validation. Oscar is passionate about the intersection of artificial intelligence and biology, with a particular focus on applying deep learning and probabilistic modeling to real-world scientific problems. Outside of his academic work, he enjoys lifting weights, shooting, and kayaking.

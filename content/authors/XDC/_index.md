@@ -44,7 +44,6 @@ social:
 user_groups:
 - Tools
 - Genetic Design Automation
-- SynBioSuite Tool
 - XDC Tool
 
 #any user groups to display on the page
@@ -55,7 +54,7 @@ research_area: true
 
 research_area_tags:
 - XDC
-- SynBio Suite Tool
+- SynBioSuite Tool
 
 ---
 

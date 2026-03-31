@@ -37,8 +37,8 @@ interests:
 - Software engineering
 
 projects:
-- SynBio Suite
-- Excel2SBOL
+- <a href="/author/synbiosuite/">SynBioSuite</a>
+- <a href="/author/excel2sbol/">Excel2SBOL</a>
 
 education:
   courses:
@@ -80,14 +80,12 @@ email: ""
 user_groups:
 - Undergraduate Students
 - Researchers
-- Automated Data Collection
-- SynBio Suite
-- Excel2SBOL Tool
+- SynBioSuite
+- Excel2SBOL
 
 #any user groups to display on the page
 display_groups:
-- SynBio Suite Tool
-- Automated Data Collection
+- SynBioSuite Tool
 - Excel2SBOL Tool
 
 ---

@@ -43,5 +43,4 @@ abstract: ' Accelerating the development of synthetic biology applications requi
   are exchangeable. The information is captured using a single template Excel Workbook,
   which can be integrated into existing experimental workflow automation processes
   and semiautomated capture of results. '
-publication: ''
 ---

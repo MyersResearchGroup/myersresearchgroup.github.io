@@ -87,12 +87,10 @@ email: ""
 user_groups:
 - Alumni
 - Undergraduate Alumni
-# - iBioSim
-# - Genetic Design Automation
+- ATACS
 
 #any user groups to display on the page
 display_groups:
-# - iBioSim Tool
-# - Genetic Design Automation Area
+- ATACS Tool
 ---
 

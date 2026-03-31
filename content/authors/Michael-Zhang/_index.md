@@ -36,8 +36,8 @@ interests:
 projects:
 - <a href="/author/synbiohub/">SynBioHub</a>
 - <a href="/author/sbol-libraries/">SBOL Libraries</a>
-- <a href="/author/sbol-designer/">SBOL Designer</a>
-- <a href="/author/sbol-explorer/">SBOLExplorer</a>
+- <a href="/author/sboldesigner/">SBOLDesigner</a>
+- <a href="/author/sbolexplorer/">SBOLExplorer</a>
 
 
 
@@ -89,16 +89,16 @@ email: ""
 user_groups:
 - Alumni
 - Masters Alumni
-- SBOL Explorer
+- SBOLExplorer
 - Genetic Design Automation
 - SBOL Libraries
-- SBOL Designer
+- SBOLDesigner
 
 #any user groups to display on the page
 display_groups:
 - SynBioHub Tool
 - Genetic Design Automation Area
-- SBOL Explorer Tool
-- SBOL Designer Tool
+- SBOLExplorer Tool
+- SBOLDesigner Tool
 - SBOL Libraries Tool
 ---

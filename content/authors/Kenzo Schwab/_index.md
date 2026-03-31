@@ -37,8 +37,8 @@ interests:
 - Genetic Circuitry
 
 projects:
-- SynBio Suite
-- iBioSim
+- <a href="/author/synbiosuite/">SynBioSuite</a>
+- <a href="/author/ibiosim/">iBioSim</a>
 
 education:
   courses:
@@ -81,12 +81,12 @@ user_groups:
 - Undergraduate Students
 - Researchers
 - Genetic Design Automation
-- SynBio Suite
+- SynBioSuite
 - iBioSim
 
 #any user groups to display on the page
 display_groups:
-- SynBio Suite Tool
+- SynBioSuite Tool
 - Genetic Design Automation Area
 - iBioSim Tool
 

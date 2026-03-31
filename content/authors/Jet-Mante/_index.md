@@ -106,6 +106,7 @@ display_groups:
 - FLUENT Project
 - SBKS Project
 - Excel2SBOL Tool
+- SeqImprove Tool
 ---
 
 Jet Mante joined the Genetic Logic Lab as a Ph.D. student under the Supervision of Professor Chris Myers. She is a plant scientist whose research focuses on the reuse of data and genetic components in Synthetic Biology. She is expanding her computational skills working on search and curation methods in SynBioHub.

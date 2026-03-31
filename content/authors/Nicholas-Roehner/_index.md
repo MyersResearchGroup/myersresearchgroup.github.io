@@ -37,7 +37,7 @@ interests:
 - Domain-Specific Languages
 
 projects:
-- <a href="/author/sbol-designer/">SBOL Designer</a>
+- <a href="/author/sboldesigner/">SBOLDesigner</a>
 
 
 department:
@@ -88,11 +88,11 @@ user_groups:
 - Alumni
 - PhD Alumni
 - Genetic Design Automation
-- SBOL Designer
+- SBOLDesigner
 
 #any user groups to display on the page
 display_groups:
-- SBOL Designer Tool
+- SBOLDesigner Tool
 - Genetic Design Automation Area
 ---
 
