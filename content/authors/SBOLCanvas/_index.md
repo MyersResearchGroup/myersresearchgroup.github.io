@@ -1,17 +1,17 @@
 ---
 # Display name
-title: SBOL Canvas
+title: SBOLCanvas
 
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 830 for alum undergrads, 900 for tools, 1000 for projects, 900 for tools, 1000 for projects
 weight: 900
 
 # Username (this should match the folder name)
 authors:
-- SBOL Canvas
+- SBOLCanvas
 
 #Author Names (alternative spellings etc)
 names:
-- SBOL Canvas
+- SBOLCanvas
 
 #Link to this when clicking on tool icons
 toolurl: https://sbolcanvas.org/canvas/
@@ -49,12 +49,12 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Tools
-- SBOL Canvas Tool
+- SBOLCanvas Tool
 - Genetic Design Automation
 
 #any user groups to display on the page
 display_groups:
-- SBOL Canvas
+- SBOLCanvas
 
 research_area: true
 

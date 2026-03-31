@@ -26,6 +26,7 @@ department:
 
 projects:
 - <a href="/author/synbiohub/">SynBioHub</a>
+- <a href="/author/pudu/">PUDU</a>
 
 # Organizations/Affiliations
 organizations:
@@ -102,6 +103,7 @@ user_groups:
 - Genetic Design Automation
 - SynBioSuite
 - XDC
+- PUDU
 
 #any user groups to display on the page
 display_groups:
@@ -109,6 +111,7 @@ display_groups:
 - SynBioSuite Tool
 - Genetic Design Automation Area
 - XDC Tool
+- PUDU Tool
 
 ---
 

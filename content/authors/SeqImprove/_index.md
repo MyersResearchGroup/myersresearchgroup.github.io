@@ -45,7 +45,7 @@ social:
 user_groups:
 - Tools
 - Genetic Design Automation
-- SeqImprove
+- SeqImprove Tool
 
 #any user groups to display on the page
 display_groups:

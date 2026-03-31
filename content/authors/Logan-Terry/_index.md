@@ -22,7 +22,7 @@ department:
 - School of Computing
 
 projects:
-- <a href="/author/sbol-canvas/">SBOLCanvas</a>
+- <a href="/author/sbolcanvas/">SBOLCanvas</a>
 
 #Use 1 for PI, 100 for Current Postdocs, 200 for current phds, 300 for current masters, 400 for current undergrads, 800 for alum postdocs, 810 for alum phds, 820 for alum masters, and 810 for alum undergrads
 weight: 820
@@ -74,12 +74,12 @@ email: ""
 user_groups:
 - Alumni
 - Masters Alumni
-- SBOL Canvas
+- SBOLCanvas
 - Genetic Design Automation
 
 #any user groups to display on the page
 display_groups:
-- SBOL Canvas Tool
+- SBOLCanvas Tool
 - Genetic Design Automation Area
 - SBKS Project
 ---
@@ -88,4 +88,4 @@ Likes solving puzzles and plays a lot of puzzle games. Got into programming beca
 
 Made a dungeon crawler using only the built in java libraries in highschool. Also created a networked version of bomberman in highschool. Currently pursuing a Masters in computer science at the University of Utah. Fluent in Java, C++, C#. Experienced in JavaScript, TypeScript, Python, REST api’s, and SQL.
 
-Developed Canvas Project Manager (CPM), an Eclipse plugin that integrates with Canvas LMS to facilitate easy assignment download and submission. Developed Code Evolution Monitor, an extension of CPM that takes minutely snapshots of code, via git, and submits them to a GitLab server for analysis of developer habits. Primarily worked on the backend of sbolcanvas.org during senior capstone, but did some frontend work such as the SynBioHub download/upload dialogs. Currently maintains and updates SBOL Canvas as part of his graduate studies.
+Developed Canvas Project Manager (CPM), an Eclipse plugin that integrates with Canvas LMS to facilitate easy assignment download and submission. Developed Code Evolution Monitor, an extension of CPM that takes minutely snapshots of code, via git, and submits them to a GitLab server for analysis of developer habits. Primarily worked on the backend of sbolcanvas.org during senior capstone, but did some frontend work such as the SynBioHub download/upload dialogs. Currently maintains and updates SBOLCanvas as part of his graduate studies.

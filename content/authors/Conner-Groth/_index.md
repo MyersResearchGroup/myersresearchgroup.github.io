@@ -38,7 +38,7 @@ interests:
 - Synthetic Biology
 
 projects:
-- SeqImprove
+- <a href="/author/seqimprove/">SeqImprove</a>
 
 education:
   courses:
@@ -84,7 +84,7 @@ user_groups:
 
 #any user groups to display on the page
 display_groups:
-- SeqImprove
+- SeqImprove Tool
 
 ---
 Conner Groth is a third-year Computer Science student at the University of Colorado Boulder. He is currently working on SeqImprove, a tool for the curation and annotation of genetic circuits. He is passionate about the intersection of machine learning and software engineering, and enjoys building tools to streamline workflows and create real-world impact. In his free time, Conner enjoys photography, lifting weights, and skiing.

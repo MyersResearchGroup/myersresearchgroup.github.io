@@ -27,7 +27,7 @@ department:
 - Electrical & Computer Engineering
 
 projects:
-- <a href="/author/PUDU/">PUDU</a>
+- <a href="/author/pudu/">PUDU</a>
 
 # Organizations/Affiliations
 organizations:
@@ -82,7 +82,7 @@ user_groups:
 
 #any user groups to display on the page
 display_groups:
-- PUDU
+- PUDU Tool
 - Genetic Design Automation Area
 
 ---

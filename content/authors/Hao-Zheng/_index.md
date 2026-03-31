@@ -86,6 +86,11 @@ email: ""
 user_groups:
 - Alumni
 - PhD Alumni
+- FLUENT
+
+#any user groups to display on the page
+display_groups:
+- FLUENT Project
 ---
 
 Hao Zheng is a former PhD student under Chris Myers supervision. He graduated in 2001, and now he is an Associate Professor at the University of South Florida. His research interests are main in formal method in system designs, verification, and validation. 

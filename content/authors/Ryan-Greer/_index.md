@@ -38,7 +38,7 @@ interests:
 - Full Stack Development
 
 projects:
-- SeqImprove
+- <a href="/author/seqimprove/">SeqImprove</a>
 
 
 education:
@@ -84,7 +84,7 @@ user_groups:
 
 #any user groups to display on the page
 display_groups:
-- SeqImprove
+- SeqImprove Tool
 - Genetic Design Automation Area
 ---
 Ryan Greer is a third-year undergraduate in Computer Science at the University of Colorado Boulder, with a minor in Philosophy. He is currently working on SeqImprove, a tool for the curation and annotation of genetic circuits. Additionally, he is a CU BOLD Scholar and a member of oSTEM. In his free time, he enjoys spending time with friends and lifting weights.

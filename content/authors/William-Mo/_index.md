@@ -25,7 +25,7 @@ department:
 - Biomedical Engineering
 
 projects:
-- SeqImprove
+- <a href="/author/seqimprove/">SeqImprove</a>
 
 # Organizations/Affiliations
 organizations:
@@ -97,6 +97,7 @@ user_groups:
 
 #any user groups to display on the page
 display_groups:
+- SeqImprove Tool
 
 ---
 

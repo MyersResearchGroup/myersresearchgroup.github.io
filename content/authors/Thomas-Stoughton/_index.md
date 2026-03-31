@@ -39,7 +39,7 @@ interests:
 - Software Development
 
 projects:
-- <a href="/author/sbol-canvas/">SBOLCanvas</a>
+- <a href="/author/sbolcanvas/">SBOLCanvas</a>
 - <a href="/author/ibiosim/">iBioSim</a>
 
 education:
@@ -81,14 +81,15 @@ social:
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
+- Alumni
 - Undergraduate Alumni
-- SBOL Canvas
+- SBOLCanvas
 - iBioSim
 - Genetic Design Automation
 
 #any user groups to display on the page
 display_groups:
-- SBOL Canvas Tool
+- SBOLCanvas Tool
 - iBioSim Tool
 - Genetic Design Automation Area
 

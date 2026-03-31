@@ -36,7 +36,7 @@ interests:
 
 projects:
 - <a href="/author/SeqImprove/">SeqImprove</a>
-- <a href="/author/SBOL-Canvas/">SBOLCanvas</a>
+- <a href="/author/sbolcanvas/">SBOLCanvas</a>
 - <a href="/author/SynBioSuite/">SynBioSuite</a>
 
 

@@ -37,7 +37,7 @@ interests:
 - iGEM Bronze Winner 2023
 
 projects:
-- <a href="https://sbolcanvas.org/">SBOLCanvas</a>
+- <a href="/author/sbolcanvas/">SBOLCanvas</a>
 
 education:
   courses:
@@ -83,6 +83,7 @@ user_groups:
 
 #any user groups to display on the page
 display_groups:
+- SBOLCanvas Tool
 - Genetic Design Automation Area
 
 ---
