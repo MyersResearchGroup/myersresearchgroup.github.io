@@ -1,0 +1,18 @@
+// Dark mode heading contrast fix
+// Default #98a6ad is ~4.3:1 on #23252f (borderline AA fail)
+// #b0bec5 is ~5.8:1 (passes AA)
+.dark h1,
+.dark h2,
+.dark h3,
+.dark h4,
+.dark h5,
+.dark h6 {
+  color: #b0bec5;
+}
+
+// Inline university SVGs: match icon size and alignment
+.network-icon svg {
+  width: 1em;
+  height: 1em;
+  vertical-align: baseline;
+}
