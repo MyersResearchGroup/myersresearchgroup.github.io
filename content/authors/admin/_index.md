@@ -76,4 +76,4 @@ The Genetic Logic Lab is run by <a href="/author/chris-myers/">Chris Myers</a>. 
 <!-- Can uncomment below for outreach -->
 <!-- We are hosting an outreach event for undergraduate students interested in synthetic biology! <a href="/outreach/">Click here for more info and to register</a>! -->
 
-<img src="files/GLL_groupphoto_summer24.png" alt="Group Photo" style="max-width: 80%; margin: auto; display: block;">
+<img src="files/lab_group26.jpg" alt="Group Photo" style="max-width: 80%; margin: auto; display: block;">
