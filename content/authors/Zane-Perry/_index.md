@@ -91,8 +91,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
-- Graduate Students
+- Alumni
+- Masters Alumni
 - Genetic Design Automation
 - SynBioHub
 - SynBioHub Plugins
