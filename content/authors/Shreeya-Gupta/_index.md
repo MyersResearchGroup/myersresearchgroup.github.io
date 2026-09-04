@@ -32,8 +32,8 @@ university: Jaypee Institute of Information Technology
 
 interests:
 - Synthetic Biology
-- ML for Promoter Annotation
-- AI Policy
+- Image Processing
+- AI Governance & Biosafety
 
 projects:
 - SeqTrainer 
