@@ -15,7 +15,7 @@ superuser: false
 # Organizations/Affiliations
 organizations:
 - name: Canvas Course
-  url: "https://canvas.colorado.edu/courses/87764"
+  url: "https://canvas.colorado.edu/courses/127351"
 - name: Coursera Specialization 
   url: "https://www.coursera.org/specializations/engineering-genetic-circuits"
 #- name: Formal Verification of Cyber-Physical Systems
