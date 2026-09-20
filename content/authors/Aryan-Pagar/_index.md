@@ -56,13 +56,13 @@ education:
 social:
 - icon: user
   icon_pack: fas
-  link: http://linkedin.com/in/aryan-pagar-67a6b2329/
+  link: "http://linkedin.com/in/aryan-pagar-67a6b2329/"
 - icon: github
   icon_pack: fab
-  link: https://github.com/pagarap57
+  link: "https://github.com/pagarap57"
 - icon: envelope
   icon_pack: fas
-  link: mailto: aryan.pagar@colorado.edu 
+  link: "mailto:aryan.pagar@colorado.edu" 
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
