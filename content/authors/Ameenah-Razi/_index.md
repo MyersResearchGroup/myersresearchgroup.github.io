@@ -81,4 +81,4 @@ user_groups:
 display_groups:
 - SynBioSuite Tool
 ---
-Ameenah Razi is a third year Computer Science undergraduate student at the University of Colorado Boulder with minors in Leadership Studies and Computational Biology. She is currently working as a frontend developer with SynBioSuite. In her free time, she enjoys writing, spending time with friends, and wandering around Boulder.![alt text](ARaziHeadshot_17NOV2025.jpg)
+Ameenah Razi is a third year Computer Science undergraduate student at the University of Colorado Boulder with minors in Leadership Studies and Computational Biology. She is currently working as a frontend developer with SynBioSuite. In her free time, she enjoys writing, spending time with friends, and wandering around Boulder.
