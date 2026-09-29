@@ -2,12 +2,18 @@
 
 ## Website editing
 
-* Follow instructions on [this page](https://wowchemy.com/docs/install-locally/) to install hugo and dependencies. Here is a [link to the release we use](https://github.com/gohugoio/hugo/releases/tag/v0.79.1), you may be able to use a diffrent version, but try this version first if you have errors.
-* cd into a directory you want to have the file in
-* git clone https://github.com/MyersResearchGroup/myersresearchgroup.github.io.git
-* cd into the myersresearchgroup folder
-* hugo server
-* Check it is up and running at localhost:1313
+Install Go, then run this from the repository root:
+
+```sh
+make dev
+```
+
+Open <http://localhost:1313>. The server watches for edits and reloads the site. Stop it with `Ctrl+C`.
+
+The startup script downloads and verifies [Hugo 0.79.1 Extended](https://github.com/gohugoio/hugo/releases/tag/v0.79.1), matching the pull-request build check, and caches it in `.cache/`. This site's theme fails with current Hugo releases, so use `make dev` instead of a system-installed `hugo server`. The script supports macOS and Linux x86_64; Apple Silicon Macs need Rosetta to run this release's Intel binary. Go must be on `PATH` so Hugo can load the theme modules. The first run requires internet access.
+
+To pass server options, use `bash scripts/dev.sh --port 1314`.
+
 * Install the text editor of your choice
 * Create branch for the repository and open the branch in vs code
 * Page about website structure: https://wowchemy.com/docs/get-started/
@@ -29,7 +35,13 @@ The `content/authors/` directory stores lab members, tools, and research project
    * `projects` and `tools` references (e.g., `SeqImprove`) to link related work.
    * Add a brief paragraph about yourself at the end.
 3. Add an `avatar` image in the same folder if available.
-4. Verify the student appears under the correct grouping on the People page when running `hugo server`. Create a Pull Request to merge your branch into master this will trigger the deployment of a preview of the website that you can use to check that your editions are correct.
+4. Verify the student appears under the correct grouping on the People page when running `make dev`. Create a Pull Request to merge your branch into master this will trigger the deployment of a preview of the website that you can use to check that your editions are correct.
+
+### Adding research staff
+
+Follow the same profile setup as above, using the person's job title (for example, `Research Assistant`) for `role`. Include both `Researchers` and `Research Staff` in `user_groups` so the person appears on the homepage and the People page. Set `weight: 150` to place research staff after postdocs and before graduate students, matching the People page's group order.
+
+To hide sections on an individual profile, add `show_publications: false` or `show_education: false` to its `_index.md` front matter. Omit a setting or set it to `true` to show that section.
 
 ### Adding a new research project
 
