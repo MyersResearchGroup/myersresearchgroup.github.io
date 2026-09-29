@@ -4,6 +4,7 @@
 # Hugo
 resources/
 public/
+.cache/
 
 # Macos
 .DS_Store
